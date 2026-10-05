@@ -1,6 +1,6 @@
 # Ivy League Athletics Roster Map
 
-A static, data-driven map of where Ivy League athletes come from (2021–2025 rosters, all sports, all eight schools). Built as plain HTML/CSS/JS + a single JSON data file — no R, no server, no build step.
+A static, data-driven map of where Ivy League athletes come from (2021–2026 rosters, all sports, all eight schools). Built as plain HTML/CSS/JS + a single JSON data file — no R, no server, no build step.
 
 ## Files
 
