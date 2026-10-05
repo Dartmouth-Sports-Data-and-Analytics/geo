@@ -1,0 +1,315 @@
+:root {
+  --bg: #f4f5f7;
+  --panel: #ffffff;
+  --panel-border: #dfe1e6;
+  --text: #1a1d24;
+  --text-dim: #6b7280;
+  --accent: #1a1d24;
+
+  --brown: #4E3629;
+  --columbia: #9BCBEB;
+  --cornell: #B31B1B;
+  --dartmouth: #00693E;
+  --harvard: #A41034;
+  --penn: #011F5B;
+  --princeton: #FF671F;
+  --yale: #00356B;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#map {
+  position: absolute;
+  inset: 0;
+  background: var(--bg);
+}
+
+/* Header strip */
+#header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 800;
+  padding: 20px 24px 10px 20px;
+  pointer-events: none;
+  max-width: min(60vw, 480px);
+}
+
+#header h1 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+#header p {
+  margin: 4px 0 0 0;
+  font-size: 12.5px;
+  color: var(--text-dim);
+}
+
+#count {
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* Bottom school toggle bar */
+#schoolBar {
+  position: absolute;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 900;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  max-width: 92vw;
+  padding: 8px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+.school-btn {
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: none;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  transition: opacity 0.15s ease, transform 0.1s ease;
+  white-space: nowrap;
+}
+.school-btn:active { transform: scale(0.96); }
+.school-btn.off { opacity: 0.3; }
+
+@media (max-width: 640px) {
+  #schoolBar {
+    bottom: 12px;
+    gap: 6px;
+    padding: 6px;
+  }
+  .school-btn { padding: 5px 10px; font-size: 11.5px; }
+}
+
+/* Name search */
+#search {
+  position: absolute;
+  top: 78px;
+  left: 20px;
+  z-index: 900;
+  width: min(300px, 60vw);
+}
+#searchInput {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  font-size: 13px;
+  background: var(--panel);
+  color: var(--text);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+}
+#searchResults {
+  margin-top: 4px;
+  background: var(--panel);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.25);
+  overflow: hidden;
+}
+#searchResults:empty { display: none; }
+.search-hit {
+  padding: 8px 12px;
+  font-size: 12.5px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.search-hit:hover { background: #f0f1f4; }
+.search-hit span {
+  display: block;
+  font-weight: 400;
+  font-size: 11.5px;
+  color: var(--text-dim);
+}
+.search-hit.none { font-weight: 400; color: var(--text-dim); cursor: default; }
+.search-hit.none:hover { background: none; }
+
+/* Filter toggle button */
+#filterToggle {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 900;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+}
+#filterToggle:hover { border-color: #3a4256; }
+
+/* Filter panel */
+#filterPanel {
+  position: absolute;
+  top: 60px;
+  right: 16px;
+  z-index: 900;
+  width: 280px;
+  max-height: calc(100vh - 90px);
+  overflow-y: auto;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 10px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+  padding: 14px;
+  display: none;
+}
+#filterPanel.open { display: block; }
+
+.filter-section { margin-bottom: 16px; }
+.filter-section:last-child { margin-bottom: 0; }
+
+.filter-section h3 {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-dim);
+  margin: 0 0 8px 0;
+  font-weight: 600;
+}
+
+/* School pills */
+.school-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+.school-pill {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid var(--panel-border);
+  background: #f0f1f4;
+  cursor: pointer;
+  font-size: 12.5px;
+  color: var(--text);
+  transition: opacity 0.15s ease;
+  user-select: none;
+}
+.school-pill .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.school-pill.off { opacity: 0.35; }
+
+/* Year row */
+.year-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.year-chip {
+  padding: 5px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--panel-border);
+  background: #f0f1f4;
+  font-size: 12.5px;
+  cursor: pointer;
+  color: var(--text);
+  user-select: none;
+}
+.year-chip.off { opacity: 0.35; }
+
+/* Sport list */
+.sport-list {
+  max-height: 220px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding-right: 4px;
+}
+.sport-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12.5px;
+  padding: 3px 0;
+  cursor: pointer;
+  user-select: none;
+}
+.sport-row input { margin: 0; accent-color: #1a1d24; }
+
+.filter-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 4px;
+}
+.link-btn {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+}
+.link-btn:hover { color: var(--text); }
+
+/* Popup styling */
+.leaflet-popup-content-wrapper {
+  background: var(--panel);
+  color: var(--text);
+  border-radius: 8px;
+}
+.leaflet-popup-tip { background: var(--panel); }
+.popup-name { font-weight: 700; font-size: 13.5px; margin-bottom: 2px; }
+.popup-line { font-size: 12px; color: var(--text-dim); }
+
+/* Loading overlay */
+#loading {
+  position: absolute;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
+@media (max-width: 640px) {
+  #header { padding: 12px 14px 8px 14px; }
+  #header h1 { font-size: 15px; }
+  #search { top: 62px; left: 14px; }
+  #filterPanel { width: calc(100vw - 32px); }
+}

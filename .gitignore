@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+ 
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+ 
+# Pipeline logs and audit output (regenerated; the scrape log is append-only and noisy)
+data/_scrape_log.csv
+data/_class_audit.csv
+data/_long_careers.csv
+ 

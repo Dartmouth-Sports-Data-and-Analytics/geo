@@ -574,6 +574,13 @@ def drop_stale_years(df, current_year):
         drop.add(current_year)
     elif cur is not None:
         drop |= {y for y, s in sigs.items() if y != current_year and s == cur}
+    # Last year's seniors back and still labeled "Sr." means classes never advanced, so the current page is last season's team.
+    if cur is not None and current_year not in drop and "class" in df.columns:
+        senior = df["class"].astype(str).str.lower().str.replace(r"[^a-z]", "", regex=True).eq("sr")
+        prior_seniors = set(df.loc[(df["year"] == current_year - 1) & senior, "name"])
+        still_seniors = set(df.loc[(df["year"] == current_year) & senior, "name"]) & prior_seniors
+        if len(prior_seniors) >= 3 and len(still_seniors) / len(prior_seniors) >= 0.5:
+            drop.add(current_year)
     past = [y for y in sigs if y != current_year and y not in drop]
     for y in past:
         if any(o != y and sigs[o] == sigs[y] for o in past):

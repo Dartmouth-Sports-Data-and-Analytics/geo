@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Ivy League Athletics Roster Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="app">
+  <div id="map"></div>
+
+  <div id="header">
+    <h1>Ivy League Roster Construction</h1>
+    <p><span id="count">0</span> players shown</p>
+  </div>
+
+  <div id="search">
+    <input id="searchInput" type="search" placeholder="Find an athlete&hellip;" autocomplete="off" />
+    <div id="searchResults"></div>
+  </div>
+
+  <button id="filterToggle">Filters</button>
+
+  <div id="schoolBar"></div>
+
+  <div id="filterPanel">
+    <div class="filter-section">
+      <h3>Schools</h3>
+      <div class="school-grid" id="schoolGrid"></div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Years</h3>
+      <div class="year-row" id="yearRow"></div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Sports</h3>
+      <div class="filter-actions">
+        <button class="link-btn" id="selectAllSports">Select all</button>
+        <button class="link-btn" id="clearAllSports">Clear all</button>
+      </div>
+      <div class="sport-list" id="sportList" style="margin-top:8px;"></div>
+    </div>
+  </div>
+
+  <div id="loading">Loading roster data&hellip;</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="app.js?v=16"></script>
+</body>
+</html>
