@@ -56,7 +56,7 @@ Because everything here is static (no server-side code), Pages is a natural fit 
 
 ## Updating the data
 
-Re-run your R scraping + geocoding pipeline, export the result as the same four columns (`lat`, `lng`, `name`, `school`, `sport`, `year`, `hometown`), and write it out in this columnar JSON shape:
+Re-run your python scraping + geocoding pipeline, export the result as the same four columns (`lat`, `lng`, `name`, `school`, `sport`, `year`, `hometown`), and write it out in this columnar JSON shape:
 
 ```json
 {
