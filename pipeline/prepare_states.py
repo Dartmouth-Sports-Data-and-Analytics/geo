@@ -6,6 +6,7 @@ import os
 import urllib.request
 
 import config
+import stamp_versions
 
 SOURCE_URL = "https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json"
 OUT_PATH = os.path.join(config.DOCS_DIR, "us-states.json")
@@ -127,6 +128,7 @@ def prepare(source=SOURCE_URL, out_path=OUT_PATH):
                 g = f["geometry"]
                 polygons = [g["coordinates"]] if g["type"] == "Polygon" else g["coordinates"]
                 print(f"  {f['properties']['name']}: {[[len(r) for r in p] for p in polygons]} points per ring")
+    stamp_versions.stamp()
 
 
 if __name__ == "__main__":
