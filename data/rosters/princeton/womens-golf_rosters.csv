@@ -1,5 +1,52 @@
 name,position,class,height,weight,hometown,sport,year
+Maya Walton,,Fr.,,,"Austin, Texas",womens-golf,2016
+"Jiayu ""Annie"" Kong",,Fr.,,,"Guangzhou, China",womens-golf,2016
+Alison Chang,,Fr.,,,"Walnut, Calif.",womens-golf,2016
+Amanda Brown,,So.,,,"Trabuco Canyon, Calif.",womens-golf,2016
+Jordan Lippetz,,Sr.,,,"Bradenton, Fla.",womens-golf,2016
+Tenley Shield,,Jr.,,,"Grosse Pointe Park, Mich.",womens-golf,2016
+Amber Wang,,So.,,,"Sugar Land, Texas",womens-golf,2016
+Erika DeSanty,,,,,,womens-golf,2016
+Hana Ku,,Sr.,,,"Basking Ridge, N.J.",womens-golf,2016
+Tiana Lau,,So.,,,Hong Kong,womens-golf,2016
+Alison Chang,,So.,,,"Walnut, Calif.",womens-golf,2017
+Erika DeSanty,,,,,,womens-golf,2017
+Anabelle Chang,,Fr.,,,"Walnut, Calif.",womens-golf,2017
+"Jiayu ""Annie"" Kong",,So.,,,"Guangzhou, China",womens-golf,2017
+Amanda Brown,,Jr.,,,"Trabuco Canyon, Calif.",womens-golf,2017
+Tenley Shield,,Sr.,,,"Grosse Pointe Park, Mich.",womens-golf,2017
+Maya Walton,,So.,,,"Austin, Texas",womens-golf,2017
+Tiana Lau,,Jr.,,,Hong Kong,womens-golf,2017
+Amber Wang,,Jr.,,,"Sugar Land, Texas",womens-golf,2017
+Anabelle Chang,,So.,,,"Walnut, Calif.",womens-golf,2018
+Amanda Brown,,Sr.,,,"Trabuco Canyon, Calif.",womens-golf,2018
+Alison Chang,,Jr.,,,"Walnut, Calif.",womens-golf,2018
+Emma Zhao,,Fr.,,,"Windermere, Fla.",womens-golf,2018
+"Jiayu ""Annie"" Kong",,Jr.,,,"Guangzhou, China",womens-golf,2018
+Erika DeSanty,,,,,,womens-golf,2018
+Sophie Siminoff,,Fr.,,,"Los Altos Hills, Calif.",womens-golf,2018
+Tiana Lau,,Sr.,,,Hong Kong,womens-golf,2018
+Maya Walton,,Jr.,,,"Austin, Texas",womens-golf,2018
+Sophie Siminoff,,So.,,,"Los Altos Hills, Calif.",womens-golf,2019
+Emma Zhao,,So.,,,"Windermere, Fla.",womens-golf,2019
+Maya Walton,,Sr.,,,"Austin, Texas",womens-golf,2019
+Grace Ni,,Fr.,,,"Cypress, Texas",womens-golf,2019
+Erika DeSanty,,,,,,womens-golf,2019
+"Jiayu ""Annie"" Kong",,Sr.,,,"Guangzhou, China",womens-golf,2019
+Anabelle Chang,,Jr.,,,"Walnut, Calif.",womens-golf,2019
+Alison Chang,,Sr.,,,"Walnut, Calif.",womens-golf,2019
+Tiffany Kong,,Fr.,,,"Vancouver, B.C.",womens-golf,2019
+Grace Ni,,So.,,,"Cypress, Texas",womens-golf,2020
+Caris Kim,,Fr.,,,"Los Altos, Calif.",womens-golf,2020
+Yu Kyung Kim,,Fr.,,,"Seoul, South Korea",womens-golf,2020
+Tiffany Kong,,So.,,,"Vancouver, B.C.",womens-golf,2020
+Julia Kashimura,,Fr.,,,"Orlando, Fla.",womens-golf,2020
+Sophie Siminoff,,Jr.,,,"Los Altos Hills, Calif.",womens-golf,2020
+Emma Zhao,,Jr.,,,"Windermere, Fla.",womens-golf,2020
+Erika DeSanty,,,,,,womens-golf,2020
+Anabelle Chang,,Sr.,,,"Walnut, Calif.",womens-golf,2020
 Julia Kashimura,,So.,,,"Orlando, Fla.",womens-golf,2021
+Erika DeSanty,,,,,,womens-golf,2021
 Caris Kim,,So.,,,"Los Altos, Calif.",womens-golf,2021
 Yu Kyung Kim,,So.,,,"Seoul, South Korea",womens-golf,2021
 Tiffany Kong,,Jr.,,,"Vancouver, B.C.",womens-golf,2021
@@ -8,23 +55,21 @@ Victoria Liu,,Fr.,,,"Vancouver, B.C.",womens-golf,2021
 Grace Ni,,Jr.,,,"Cypress, Texas",womens-golf,2021
 Sophie Siminoff,,Sr.,,,"Los Altos Hills, Calif.",womens-golf,2021
 Emma Zhao,,Sr.,,,"Windermere, Fla.",womens-golf,2021
-Erika DeSanty,,,,,,womens-golf,2021
-Yu Kyung Kim,,Jr.,,,"Seoul, South Korea",womens-golf,2022
 Tiffany Kong,,Sr.,,,"Vancouver, B.C.",womens-golf,2022
 Victoria Liu,,So.,,,"Vancouver, B.C.",womens-golf,2022
 Caris Kim,,Jr.,,,"Los Altos, Calif.",womens-golf,2022
 Erika DeSanty,,,,,,womens-golf,2022
 Grace Ni,,Sr.,,,"Cypress, Texas",womens-golf,2022
-Catherine Rao,,Fr.,,,"Camarillo, Calif.",womens-golf,2022
 Sophie Zhang-Murphy,,Fr.,,,"Saratoga, Calif.",womens-golf,2022
-Julia Kashimura,,Jr.,,,"Orlando, Fla.",womens-golf,2023
-Caris Kim,,Sr.,,,"Los Altos, Calif.",womens-golf,2023
-Yu Kyung Kim,,Sr.,,,"Seoul, South Korea",womens-golf,2023
+Catherine Rao,,Fr.,,,"Camarillo, Calif.",womens-golf,2022
+Yu Kyung Kim,,Jr.,,,"Seoul, South Korea",womens-golf,2022
 Victoria Liu,,Jr.,,,"Vancouver, B.C.",womens-golf,2023
-Catherine Rao,,So.,,,"Camarillo, Calif.",womens-golf,2023
 Caiyi Flora Zhang,,Fr.,,,"Beijing, China",womens-golf,2023
+Catherine Rao,,So.,,,"Camarillo, Calif.",womens-golf,2023
+Julia Kashimura,,Jr.,,,"Orlando, Fla.",womens-golf,2023
+Yu Kyung Kim,,Sr.,,,"Seoul, South Korea",womens-golf,2023
+Caris Kim,,Sr.,,,"Los Altos, Calif.",womens-golf,2023
 Erika DeSanty,,,,,,womens-golf,2023
-Victoria Liu,,Sr.,,,"Vancouver, B.C.",womens-golf,2024
 Julia Kashimura,,Sr.,,,"Orlando, Fla.",womens-golf,2024
 Nancy Dai,,Fr.,,,"Sanford, Fla.",womens-golf,2024
 Olivia Duan,,Fr.,,,"Cupertino, Calif.",womens-golf,2024
@@ -32,13 +77,14 @@ Erika DeSanty,,,,,,womens-golf,2024
 Catherine Rao,,Jr.,,,"Camarillo, Calif.",womens-golf,2024
 Abra Richmond,,Fr.,,,"Glendale, Calif.",womens-golf,2024
 Caiyi Flora Zhang,,So.,,,"Beijing, China",womens-golf,2024
+Victoria Liu,,Sr.,,,"Vancouver, B.C.",womens-golf,2024
+Caiyi Flora Zhang,,Jr.,,,"Beijing, China",womens-golf,2025
 Nancy Dai,,So.,,,"Sanford, Fla.",womens-golf,2025
 Olivia Duan,,So.,,,"Cupertino, Calif.",womens-golf,2025
 Thanana Kotchasanmanee,,Fr.,,,"Chiang Mai, Thailand",womens-golf,2025
 Sarah Lim,,Fr.,,,"Saratoga, Calif.",womens-golf,2025
 Luna Lu,,Fr.,,,"Burnaby, B.C.",womens-golf,2025
 Abra Richmond,,So.,,,"Glendale, Calif.",womens-golf,2025
-Caiyi Flora Zhang,,Jr.,,,"Beijing, China",womens-golf,2025
 Erika DeSanty,,,,,,womens-golf,2025
 Caiyi Flora Zhang,,Sr.,,,"Beijing, China",womens-golf,2026
 Nancy Dai,,Jr.,,,"Sanford, Fla.",womens-golf,2026

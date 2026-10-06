@@ -1,118 +1,236 @@
 name,position,class,height,weight,hometown,sport,year
+Andrew Hally,,Fr.,,,"Wilmington, Del.",mens-cross-country,2016
+Ross Wilson,,Jr.,,,"Wycombe, Pa.",mens-cross-country,2016
+James Buser,,Jr.,,,"Mahwah, N.J.",mens-cross-country,2016
+Nick Tuck,,Sr.,,,"Burke, Va.",mens-cross-country,2016
+Chris Luciano,,Jr.,,,"Mountain Lakes, N.J.",mens-cross-country,2016
+Jeff Wiseman,,Jr.,,,"Holland, Pa.",mens-cross-country,2016
+Clark Mangini,,Sr.,,,"Lincroft, N.J.",mens-cross-country,2016
+Mitchell Poynter,,Fr.,,,"Tipp City, Ohio",mens-cross-country,2016
+Will Daly,,Fr.,,,"Oradell, N.J.",mens-cross-country,2016
+Tommy Mulroy,,Jr.,,,"Midlothian, Va.",mens-cross-country,2016
+Paul Ehmann,,So.,,,"Mendham, N.J.",mens-cross-country,2016
+Lyle Wistar,,Sr.,,,"Philadelphia, Pa.",mens-cross-country,2016
+Robert Klopf,,So.,,,"Oradell, N.J.",mens-cross-country,2016
+Kevin Monogue,,So.,,,"Burke, Va.",mens-cross-country,2016
+Patrick Hally,,Jr.,,,"Wilmington, Del.",mens-cross-country,2016
+Sam Webb,,So.,,,"Yardley, Pa.",mens-cross-country,2016
+Isaiah Gaines,,Fr.,,,"Findley, Ohio",mens-cross-country,2016
+Brendan Shearn,,Sr.,,,"Asland, Pa.",mens-cross-country,2016
+Colin Daly,,Fr.,,,"Oradell, N.J.",mens-cross-country,2016
+Elias Graca,,So.,,,"Cheswick, Pa.",mens-cross-country,2016
+Aaron Groff,,Fr.,,,"Cherry Hill, N.J.",mens-cross-country,2016
+Kurt Convey,,So.,,,"Miami, Fla.",mens-cross-country,2016
+Chris Hatler,,Sr.,,,"Sparta, N.J.",mens-cross-country,2016
+Josh Chazin,,Fr.,,,"Cherry Hill, N.J.",mens-cross-country,2016
+Joe Novak,,So.,,,"Donsman, Wis.",mens-cross-country,2016
+Thomas Connelly,,Jr.,,,"Wilmington, Del.",mens-cross-country,2016
+Eric Kennedy,,Fr.,,,"Vandergrift, Pa.",mens-cross-country,2017
+Jeff Wiseman,,Sr.,,,"Holland, Pa.",mens-cross-country,2017
+Ross Wilson,,Sr.,,,"Wycombe, Pa.",mens-cross-country,2017
+Sam Webb,,Jr.,,,"Yardley, Pa.",mens-cross-country,2017
+Ajay Sarathy,,Fr.,,,"Skillman, N.J.",mens-cross-country,2017
+Anthony Russo,,Fr.,,,"Colts Neck, N.J.",mens-cross-country,2017
+Patrick Hally,,Sr.,,,"Wilmington, Del.",mens-cross-country,2017
+Mitchell Poynter,,So.,,,"Tipp City, Ohio",mens-cross-country,2017
+Joe Novak,,Jr.,,,"Donsman, Wis.",mens-cross-country,2017
+Tommy Mulroy,,Sr.,,,"Midlothian, Va.",mens-cross-country,2017
+Kevin Monogue,,Jr.,,,"Burke, Va.",mens-cross-country,2017
+Alex Roth,,Fr.,,,"Princeton, N.J.",mens-cross-country,2017
+Chris Luciano,,Sr.,,,"Mountain Lakes, N.J.",mens-cross-country,2017
+Ryan Renken,,Fr.,,,"Claremont, Calif.",mens-cross-country,2017
+Zakeer Ahmad,,Fr.,,,"Westport, Conn.",mens-cross-country,2017
+Colin Daly,,So.,,,"Oradell, N.J.",mens-cross-country,2017
+Thomas Connelly,,Sr.,,,"Wilmington, Del.",mens-cross-country,2017
+James Buser,,Sr.,,,"Mahwah, N.J.",mens-cross-country,2017
+Noah Carey,,Fr.,,,"Guilderland, N.Y.",mens-cross-country,2017
+Daniel Cohen,,Fr.,,,"Solon, Ohio",mens-cross-country,2017
+Andrew Hally,,So.,,,"Wilmington, Del.",mens-cross-country,2017
+Kurt Convey,,Jr.,,,"Miami, Fla.",mens-cross-country,2017
+Aaron Groff,,So.,,,"Cherry Hill, N.J.",mens-cross-country,2017
+Will Daly,,So.,,,"Oradell, N.J.",mens-cross-country,2017
+Paul Ehmann,,Jr.,,,"Mendham, N.J.",mens-cross-country,2017
+Isaiah Gaines,,So.,,,"Findley, Ohio",mens-cross-country,2017
+Elias Graca,,Jr.,,,"Cheswick, Pa.",mens-cross-country,2017
+Robert Klopf,,Jr.,,,"Oradell, N.J.",mens-cross-country,2017
+Justin Cornetta,,Fr.,,,"Flemington, N.J.",mens-cross-country,2018
+Kurt Convey,,Sr.,,,"Miami, Fla.",mens-cross-country,2018
+Zakeer Ahmad,,So.,,,"Westport, Conn.",mens-cross-country,2018
+Noah Carey,,So.,,,"Guilderland, N.Y.",mens-cross-country,2018
+Daniel Cohen,,So.,,,"Solon, Ohio",mens-cross-country,2018
+Will Daly,,Jr.,,,"Oradell, N.J.",mens-cross-country,2018
+Ryan Renken,,So.,,,"Claremont, Calif.",mens-cross-country,2018
+Sam Webb,,Sr.,,,"Yardley, Pa.",mens-cross-country,2018
+Ray Sellaro,,Fr.,,,"Annandale, N.J.",mens-cross-country,2018
+Anthony Russo,,So.,,,"Colts Neck, N.J.",mens-cross-country,2018
+Alex Roth,,So.,,,"Princeton, N.J.",mens-cross-country,2018
+Christopher Romero,,Fr.,,,"Glen Gardner, N.J.",mens-cross-country,2018
+Mitchell Poynter,,Jr.,,,"Tipp City, Ohio",mens-cross-country,2018
+Joe Novak,,Sr.,,,"Donsman, Wis.",mens-cross-country,2018
+Mason Gatewood,,Fr.,,,"South Huntington, N.Y.",mens-cross-country,2018
+Kevin Monogue,,Sr.,,,"Burke, Va.",mens-cross-country,2018
+Colin Daly,,Jr.,,,"Oradell, N.J.",mens-cross-country,2018
+Robert Klopf,,Sr.,,,"Oradell, N.J.",mens-cross-country,2018
+James Lee,,Fr.,,,"Longmont, Colo.",mens-cross-country,2018
+Elias Graca,,Sr.,,,"Cheswick, Pa.",mens-cross-country,2018
+Aaron Groff,,Jr.,,,"Cherry Hill, N.J.",mens-cross-country,2018
+Tim Dolan,,Fr.,,,"Ewing, N.J.",mens-cross-country,2018
+William Hare,,Fr.,,,"Princeton, N.J.",mens-cross-country,2018
+Andrew Hally,,Jr.,,,"Wilmington, Del.",mens-cross-country,2018
+Anton Idhammar,,Fr.,,,"Cary, N.C.",mens-cross-country,2019
+William Hare,,So.,,,"Princeton, N.J.",mens-cross-country,2019
+Andrew Hally,,Sr.,,,"Wilmington, Del.",mens-cross-country,2019
+Mitchell Poynter,,Sr.,,,"Tipp City, Ohio",mens-cross-country,2019
+Aaron Groff,,Sr.,,,"Cherry Hill, N.J.",mens-cross-country,2019
+Ray Sellaro,,So.,,,"Annandale, N.J.",mens-cross-country,2019
+Anthony Russo,,Jr.,,,"Colts Neck, N.J.",mens-cross-country,2019
+Alex Roth,,Jr.,,,"Princeton, N.J.",mens-cross-country,2019
+Ryan Renken,,Jr.,,,"Claremont, Calif.",mens-cross-country,2019
+Daniel Cohen,,Jr.,,,"Solon, Ohio",mens-cross-country,2019
+Mason Gatewood,,So.,,,"South Huntington, N.Y.",mens-cross-country,2019
+Michael Keehan,,Fr.,,,"Wilmington, Del.",mens-cross-country,2019
+Jared Cooper,,Fr.,,,"Mountain Lakes, N.J.",mens-cross-country,2019
+Justin Cornetta,,So.,,,"Flemington, N.J.",mens-cross-country,2019
+Colin Daly,,Sr.,,,"Oradell, N.J.",mens-cross-country,2019
+Will Daly,,Sr.,,,"Oradell, N.J.",mens-cross-country,2019
+Matthew Eissler,,Fr.,,,"Chalfont, Pa.",mens-cross-country,2019
+James Lee,,So.,,,"Longmont, Colo.",mens-cross-country,2019
+Sean Banko,,Fr.,,,"Wilmington, Del.",mens-cross-country,2019
+Noah Carey,,Jr.,,,"Guilderland, N.Y.",mens-cross-country,2019
+Tim Dolan,,So.,,,"Ewing, N.J.",mens-cross-country,2019
+Oliver Stewart,,Fr.,,,"Cape Town, South Africa",mens-cross-country,2020
+Will Shaughnessy,,Fr.,,,"Brunswick, Maine",mens-cross-country,2020
+Ray Sellaro,,Jr.,,,"Annandale, N.J.",mens-cross-country,2020
+Tim Dolan,,Jr.,,,"Ewing, N.J.",mens-cross-country,2020
+Alex Roth,,Sr.,,,"Princeton, N.J.",mens-cross-country,2020
+Ryan Renken,,Sr.,,,"Claremont, Calif.",mens-cross-country,2020
+James Lee,,Jr.,,,"Longmont, Colo.",mens-cross-country,2020
+Daniel Cohen,,Sr.,,,"Solon, Ohio",mens-cross-country,2020
+Anton Idhammar,,So.,,,"Cary, N.C.",mens-cross-country,2020
+William Hare,,Jr.,,,"Princeton, N.J.",mens-cross-country,2020
+Michael Keehan,,So.,,,"Wilmington, Del.",mens-cross-country,2020
+Mason Gatewood,,Jr.,,,"South Huntington, N.Y.",mens-cross-country,2020
+Justin Cornetta,,Jr.,,,"Flemington, N.J.",mens-cross-country,2020
+Jared Cooper,,So.,,,"Mountain Lakes, N.J.",mens-cross-country,2020
+Anthony Russo,,Sr.,,,"Colts Neck, N.J.",mens-cross-country,2020
+Sean Banko,,So.,,,"Wilmington, Del.",mens-cross-country,2020
+George Adams,,Fr.,,,"Atlanta, Ga.",mens-cross-country,2020
+Justin Iler,,Fr.,,,"Hunting Valley, Ohio",mens-cross-country,2020
+Troy Hill,,Fr.,,,"Middletown, N.J.",mens-cross-country,2020
 Sean Banko,,Jr.,,,"Wilmington, Del.",mens-cross-country,2021
-Nick Faries,,Jr.,,,"Santa Monica, Calif.",mens-cross-country,2021
-James Lee,,Sr.,,,"Longmont, Colo.",mens-cross-country,2021
-Tim Dolan,,Sr.,,,"Ewing, N.J.",mens-cross-country,2021
-Jonah Gorevic,,Fr.,,,"Tarrytown, N.Y.",mens-cross-country,2021
-Mason Gatewood,,Sr.,,,"South Huntington, N.Y.",mens-cross-country,2021
-Noah Carey,,Sr.,,,"Guilderland, N.Y.",mens-cross-country,2021
-Titus Bretzke,,Fr.,,,"Greenville, Mich.",mens-cross-country,2021
-Troy Hill,,So.,,,"Middletown, N.J.",mens-cross-country,2021
-Justin Cornetta,,Sr.,,,"Flemington, N.J.",mens-cross-country,2021
-Vidhur Polam,,Fr.,,,"Monmouth Junction, N.J.",mens-cross-country,2021
-William Hare,,Sr.,,,"Princeton, N.J.",mens-cross-country,2021
-Edwin Klanke,,Fr.,,,"Jersey City, N.J.",mens-cross-country,2021
-Jared Cooper,,Jr.,,,"Mountain Lakes, N.J.",mens-cross-country,2021
+Dylan Throop,,Fr.,,,"Edinboro, Pa.",mens-cross-country,2021
+Anton Idhammar,,Jr.,,,"Cary, N.C.",mens-cross-country,2021
 Justin Iler,,So.,,,"Hunting Valley, Ohio",mens-cross-country,2021
+Will Shaughnessy,,So.,,,"Brunswick, Maine",mens-cross-country,2021
+Charlie King,,Fr.,,,"Ridgefield, Conn.",mens-cross-country,2021
+Jared Cooper,,Jr.,,,"Mountain Lakes, N.J.",mens-cross-country,2021
+Kyle Miller,,Fr.,,,"Scottsdale, Ariz.",mens-cross-country,2021
+Luke Johnson,,Fr.,,,"Plainsboro, N.J.",mens-cross-country,2021
+Michael Keehan,,Jr.,,,"Wilmington, Del.",mens-cross-country,2021
+Zubeir Dagane,,Jr.,,,"Bloomington, Minn.",mens-cross-country,2021
 Holden Emery,,Fr.,,,"Buckingham, Pa.",mens-cross-country,2021
 Ray Sellaro,,Sr.,,,"Annandale, N.J.",mens-cross-country,2021
-Anton Idhammar,,Jr.,,,"Cary, N.C.",mens-cross-country,2021
-Dylan Throop,,Fr.,,,"Edinboro, Pa.",mens-cross-country,2021
-Will Shaughnessy,,So.,,,"Brunswick, Maine",mens-cross-country,2021
+Noah Carey,,Sr.,,,"Guilderland, N.Y.",mens-cross-country,2021
+Vidhur Polam,,Fr.,,,"Monmouth Junction, N.J.",mens-cross-country,2021
+Nick Faries,,Jr.,,,"Santa Monica, Calif.",mens-cross-country,2021
+Edwin Klanke,,Fr.,,,"Jersey City, N.J.",mens-cross-country,2021
+Tim Dolan,,Sr.,,,"Ewing, N.J.",mens-cross-country,2021
+James Lee,,Sr.,,,"Longmont, Colo.",mens-cross-country,2021
+Jonah Gorevic,,Fr.,,,"Tarrytown, N.Y.",mens-cross-country,2021
+William Hare,,Sr.,,,"Princeton, N.J.",mens-cross-country,2021
 Oliver Stewart,,So.,,,"Cape Town, South Africa",mens-cross-country,2021
-Michael Keehan,,Jr.,,,"Wilmington, Del.",mens-cross-country,2021
-Luke Johnson,,Fr.,,,"Plainsboro, N.J.",mens-cross-country,2021
-Kyle Miller,,Fr.,,,"Scottsdale, Ariz.",mens-cross-country,2021
-Zubeir Dagane,,Jr.,,,"Bloomington, Minn.",mens-cross-country,2021
-Charlie King,,Fr.,,,"Ridgefield, Conn.",mens-cross-country,2021
-Sean Banko,,Sr.,,,"Wilmington, Del.",mens-cross-country,2022
-Troy Hill,,Jr.,,,"Middletown, N.J.",mens-cross-country,2022
-Holden Emery,,So.,,,"Buckingham, Pa.",mens-cross-country,2022
-Sahil Dodda,,Fr.,,,"Dallas, Texas",mens-cross-country,2022
-Matthew Fernando,,Fr.,,,"Atlanta, Ga.",mens-cross-country,2022
-Dennis Fortuna,,Fr.,,,"Runnemede, N.J.",mens-cross-country,2022
-Denis Gallagher,,Jr.,,,"Narberth, Pa.",mens-cross-country,2022
-Liam Going,,Fr.,,,"Westbury, N.Y.",mens-cross-country,2022
-Jonah Gorevic,,So.,,,"Tarrytown, N.Y.",mens-cross-country,2022
-Titus Bretzke,,So.,,,"Greenville, Mich.",mens-cross-country,2022
-Zubeir Dagane,,Sr.,,,"Bloomington, Minn.",mens-cross-country,2022
-Nick Carpenter,,Fr.,,,"Winter Park, Fla.",mens-cross-country,2022
-Nick Faries,,Sr.,,,"Santa Monica, Calif.",mens-cross-country,2022
-Vidhur Polam,,So.,,,"Monmouth Junction, N.J.",mens-cross-country,2022
-Charlie King,,So.,,,"Ridgefield, Conn.",mens-cross-country,2022
-Luke Johnson,,So.,,,"Plainsboro, N.J.",mens-cross-country,2022
-Dylan Throop,,So.,,,"Edinboro, Pa.",mens-cross-country,2022
-Kyle Miller,,So.,,,"Scottsdale, Ariz.",mens-cross-country,2022
-Anton Idhammar,,Sr.,,,"Cary, N.C.",mens-cross-country,2022
-Silas Ruth,,So.,,,"Rochester, N.Y.",mens-cross-country,2022
-Michael Keehan,,Sr.,,,"Wilmington, Del.",mens-cross-country,2022
+Titus Bretzke,,Fr.,,,"Greenville, Mich.",mens-cross-country,2021
+Troy Hill,,So.,,,"Middletown, N.J.",mens-cross-country,2021
+Mason Gatewood,,Sr.,,,"South Huntington, N.Y.",mens-cross-country,2021
+Justin Cornetta,,Sr.,,,"Flemington, N.J.",mens-cross-country,2021
 Oliver Stewart,,Jr.,,,"Cape Town, South Africa",mens-cross-country,2022
 Justin Iler,,Jr.,,,"Hunting Valley, Ohio",mens-cross-country,2022
+Anton Idhammar,,Sr.,,,"Cary, N.C.",mens-cross-country,2022
+Zubeir Dagane,,Sr.,,,"Bloomington, Minn.",mens-cross-country,2022
+Silas Ruth,,So.,,,"Rochester, N.Y.",mens-cross-country,2022
+Luke Johnson,,So.,,,"Plainsboro, N.J.",mens-cross-country,2022
+Kyle Miller,,So.,,,"Scottsdale, Ariz.",mens-cross-country,2022
+Vidhur Polam,,So.,,,"Monmouth Junction, N.J.",mens-cross-country,2022
+Nick Carpenter,,Fr.,,,"Winter Park, Fla.",mens-cross-country,2022
+Charlie King,,So.,,,"Ridgefield, Conn.",mens-cross-country,2022
+Troy Hill,,Jr.,,,"Middletown, N.J.",mens-cross-country,2022
+Michael Keehan,,Sr.,,,"Wilmington, Del.",mens-cross-country,2022
+Dylan Throop,,So.,,,"Edinboro, Pa.",mens-cross-country,2022
+Sean Banko,,Sr.,,,"Wilmington, Del.",mens-cross-country,2022
+Jonah Gorevic,,So.,,,"Tarrytown, N.Y.",mens-cross-country,2022
+Liam Going,,Fr.,,,"Westbury, N.Y.",mens-cross-country,2022
 Nicolas Pizarro,,Fr.,,,"Wilmington, Del.",mens-cross-country,2022
+Titus Bretzke,,So.,,,"Greenville, Mich.",mens-cross-country,2022
+Denis Gallagher,,Jr.,,,"Narberth, Pa.",mens-cross-country,2022
+Sahil Dodda,,Fr.,,,"Dallas, Texas",mens-cross-country,2022
+Dennis Fortuna,,Fr.,,,"Runnemede, N.J.",mens-cross-country,2022
 Edwin Klanke,,So.,,,"Jersey City, N.J.",mens-cross-country,2022
 Will Shaughnessy,,Jr.,,,"Brunswick, Maine",mens-cross-country,2022
-Dennis Fortuna,,So.,,,"Runnemede, N.J.",mens-cross-country,2023
-Alex Boyko,,Fr.,,,"Cinnaminson, N.J.",mens-cross-country,2023
-Troy Hill,,Sr.,,,"Middletown, N.J.",mens-cross-country,2023
-Brian Gent,,Fr.,,,"Pepper Pike, Ohio",mens-cross-country,2023
-Denis Gallagher,,Sr.,,,"Narberth, Pa.",mens-cross-country,2023
+Holden Emery,,So.,,,"Buckingham, Pa.",mens-cross-country,2022
+Matthew Fernando,,Fr.,,,"Atlanta, Ga.",mens-cross-country,2022
+Nick Faries,,Sr.,,,"Santa Monica, Calif.",mens-cross-country,2022
+Nicolas Pizarro,,So.,,,"Wilmington, Del.",mens-cross-country,2023
+Vidhur Polam,,Jr.,,,"Monmouth Junction, N.J.",mens-cross-country,2023
+Kyle Miller,,Jr.,,,"Scottsdale, Ariz.",mens-cross-country,2023
+Dylan Throop,,Jr.,,,"Edinboro, Pa.",mens-cross-country,2023
+Edwin Klanke,,Jr.,,,"Jersey City, N.J.",mens-cross-country,2023
+Sahil Dodda,,So.,,,"Dallas, Texas",mens-cross-country,2023
+Luke Johnson,,Jr.,,,"Plainsboro, N.J.",mens-cross-country,2023
+George Keen,,Fr.,,,"Cambridge, United Kingdom",mens-cross-country,2023
+Rory Lieberman,,Fr.,,,"Danville, Pa.",mens-cross-country,2023
+Silas Ruth,,Jr.,,,"Rochester, N.Y.",mens-cross-country,2023
+Sebastian Pizarro,,Fr.,,,"Wilmington, Del.",mens-cross-country,2023
+Will Shaughnessy,,Jr.,,,"Brunswick, Maine",mens-cross-country,2023
 Titus Bretzke,,Jr.,,,"Greenville, Mich.",mens-cross-country,2023
+Dennis Fortuna,,So.,,,"Runnemede, N.J.",mens-cross-country,2023
 Kofi Fordjour,,Fr.,,,"Quincy, Mass.",mens-cross-country,2023
 Holden Emery,,Jr.,,,"Buckingham, Pa.",mens-cross-country,2023
 Nick Carpenter,,So.,,,"Winter Park, Fla.",mens-cross-country,2023
+Alex Boyko,,Fr.,,,"Cinnaminson, N.J.",mens-cross-country,2023
+Troy Hill,,Sr.,,,"Middletown, N.J.",mens-cross-country,2023
+Brian Gent,,Fr.,,,"Pepper Pike, Ohio",mens-cross-country,2023
 Liam Going,,So.,,,"Westbury, N.Y.",mens-cross-country,2023
-Sahil Dodda,,So.,,,"Dallas, Texas",mens-cross-country,2023
-Luke Johnson,,Jr.,,,"Plainsboro, N.J.",mens-cross-country,2023
-Nicolas Pizarro,,So.,,,"Wilmington, Del.",mens-cross-country,2023
-Silas Ruth,,Jr.,,,"Rochester, N.Y.",mens-cross-country,2023
-Will Shaughnessy,,Jr.,,,"Brunswick, Maine",mens-cross-country,2023
-Vidhur Polam,,Jr.,,,"Monmouth Junction, N.J.",mens-cross-country,2023
-Sebastian Pizarro,,Fr.,,,"Wilmington, Del.",mens-cross-country,2023
-Dylan Throop,,Jr.,,,"Edinboro, Pa.",mens-cross-country,2023
-Kyle Miller,,Jr.,,,"Scottsdale, Ariz.",mens-cross-country,2023
-Rory Lieberman,,Fr.,,,"Danville, Pa.",mens-cross-country,2023
-Edwin Klanke,,Jr.,,,"Jersey City, N.J.",mens-cross-country,2023
-George Keen,,Fr.,,,"Cambridge, United Kingdom",mens-cross-country,2023
-Dylan Throop,,Sr.,,,"Edinboro, Pa.",mens-cross-country,2024
-Liam Going,,Jr.,,,"Westbury, N.Y.",mens-cross-country,2024
-Brian Gent,,So.,,,"Pepper Pike, Ohio",mens-cross-country,2024
+Denis Gallagher,,Sr.,,,"Narberth, Pa.",mens-cross-country,2023
 Dennis Fortuna,,Jr.,,,"Runnemede, N.J.",mens-cross-country,2024
-Brady Golomb,,Fr.,,,"Elmhurst, Ill.",mens-cross-country,2024
-Raghav Gopalakrishnan,,Fr.,,,"Charlotte, N.C.",mens-cross-country,2024
-Esfan Daya,,Fr.,,,"Atlanta, Ga.",mens-cross-country,2024
-Nick Carpenter,,Jr.,,,"Winter Park, Fla.",mens-cross-country,2024
-Alex Boyko,,So.,,,"Cinnaminson, N.J.",mens-cross-country,2024
-Vidhur Polam,,Sr.,,,"Monmouth Junction, N.J.",mens-cross-country,2024
-Sebastian Pizarro,,So.,,,"Wilmington, Del.",mens-cross-country,2024
-Nathan Blades,,Fr.,,,"Portland, Maine",mens-cross-country,2024
-Sahil Dodda,,Jr.,,,"Dallas, Texas",mens-cross-country,2024
-Kofi Fordjour,,So.,,,"Quincy, Mass.",mens-cross-country,2024
-Will Shaughnessy,,Sr.,,,"Brunswick, Maine",mens-cross-country,2024
-Silas Ruth,,Sr.,,,"Rochester, N.Y.",mens-cross-country,2024
 Joseph Ruiz,,Fr.,,,"Miami, Fla.",mens-cross-country,2024
 Luke Johnson,,Sr.,,,"Plainsboro, N.J.",mens-cross-country,2024
-Edwin Klanke,,Sr.,,,"Jersey City, N.J.",mens-cross-country,2024
-Shane Murphy,,Fr.,,,"New York, N.Y.",mens-cross-country,2024
-Diego Mendez Colon,,Fr.,,,"Dorado, Puerto Rico",mens-cross-country,2024
 Chris Larnard,,Fr.,,,"Scituate, Mass.",mens-cross-country,2024
+Alex Boyko,,So.,,,"Cinnaminson, N.J.",mens-cross-country,2024
+Brian Gent,,So.,,,"Pepper Pike, Ohio",mens-cross-country,2024
+Will Shaughnessy,,Sr.,,,"Brunswick, Maine",mens-cross-country,2024
 George Keen,,So.,,,"Cambridge, United Kingdom",mens-cross-country,2024
+Edwin Klanke,,Sr.,,,"Jersey City, N.J.",mens-cross-country,2024
+Brady Golomb,,Fr.,,,"Elmhurst, Ill.",mens-cross-country,2024
+Sebastian Pizarro,,So.,,,"Wilmington, Del.",mens-cross-country,2024
+Kofi Fordjour,,So.,,,"Quincy, Mass.",mens-cross-country,2024
+Diego Mendez Colon,,Fr.,,,"Dorado, Puerto Rico",mens-cross-country,2024
+Silas Ruth,,Sr.,,,"Rochester, N.Y.",mens-cross-country,2024
+Nick Carpenter,,Jr.,,,"Winter Park, Fla.",mens-cross-country,2024
+Esfan Daya,,Fr.,,,"Atlanta, Ga.",mens-cross-country,2024
+Raghav Gopalakrishnan,,Fr.,,,"Charlotte, N.C.",mens-cross-country,2024
+Shane Murphy,,Fr.,,,"New York, N.Y.",mens-cross-country,2024
+Nathan Blades,,Fr.,,,"Portland, Maine",mens-cross-country,2024
+Liam Going,,Jr.,,,"Westbury, N.Y.",mens-cross-country,2024
+Dylan Throop,,Sr.,,,"Edinboro, Pa.",mens-cross-country,2024
+Sahil Dodda,,Jr.,,,"Dallas, Texas",mens-cross-country,2024
+Vidhur Polam,,Sr.,,,"Monmouth Junction, N.J.",mens-cross-country,2024
 Sahil Dodda,,Sr.,,,"Dallas, Texas",mens-cross-country,2025
 Vinay Raman,,Fr.,,,"Hershey, Pa.",mens-cross-country,2025
-Dennis Fortuna,,Sr.,,,"Runnemede, N.J.",mens-cross-country,2025
-Shamus Larnard,,Fr.,,,"Boston, Mass.",mens-cross-country,2025
-Liam Going,,Sr.,,,"Westbury, N.Y.",mens-cross-country,2025
-Raghav Gopalakrishnan,,So.,,,"Charlotte, N.C.",mens-cross-country,2025
-Nick Carpenter,,Sr.,,,"Winter Park, Fla.",mens-cross-country,2025
-Joseph Socarras,,Fr.,,,"Miami, Fla.",mens-cross-country,2025
-Nathan Blades,,So.,,,"Portland, Maine",mens-cross-country,2025
-Joseph Ruiz,,So.,,,"Miami, Fla.",mens-cross-country,2025
-Porter Warren,,Fr.,,,"Littleton, Colo.",mens-cross-country,2025
-George Keen,,Jr.,,,"Cambridge, United Kingdom",mens-cross-country,2025
-Liam Jordan,,Fr.,,,"Tampa, Fla.",mens-cross-country,2025
 Chris Larnard,,So.,,,"Scituate, Mass.",mens-cross-country,2025
-Kofi Fordjour,,Jr.,,,"Quincy, Mass.",mens-cross-country,2025
-Shane Murphy,,So.,,,"New York, N.Y.",mens-cross-country,2025
+Shamus Larnard,,Fr.,,,"Boston, Mass.",mens-cross-country,2025
+George Keen,,Jr.,,,"Cambridge, United Kingdom",mens-cross-country,2025
+Raghav Gopalakrishnan,,So.,,,"Charlotte, N.C.",mens-cross-country,2025
+Joseph Ruiz,,So.,,,"Miami, Fla.",mens-cross-country,2025
+Nathan Blades,,So.,,,"Portland, Maine",mens-cross-country,2025
+Porter Warren,,Fr.,,,"Littleton, Colo.",mens-cross-country,2025
+Joseph Socarras,,Fr.,,,"Miami, Fla.",mens-cross-country,2025
 Esfan Daya,,So.,,,"Atlanta, Ga.",mens-cross-country,2025
+Nick Carpenter,,Sr.,,,"Winter Park, Fla.",mens-cross-country,2025
+Liam Jordan,,Fr.,,,"Tampa, Fla.",mens-cross-country,2025
+Liam Going,,Sr.,,,"Westbury, N.Y.",mens-cross-country,2025
+Kofi Fordjour,,Jr.,,,"Quincy, Mass.",mens-cross-country,2025
+Dennis Fortuna,,Sr.,,,"Runnemede, N.J.",mens-cross-country,2025
+Shane Murphy,,So.,,,"New York, N.Y.",mens-cross-country,2025
 Joseph Ruiz,,Jr.,,,"Miami, Fla.",mens-cross-country,2026
 Vinay Raman,,So.,,,"Hershey, Pa.",mens-cross-country,2026
 Shane Murphy,,Jr.,,,"New York, N.Y.",mens-cross-country,2026

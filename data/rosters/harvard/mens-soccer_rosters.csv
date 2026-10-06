@@ -1,158 +1,283 @@
 name,position,class,height,weight,hometown,sport,year
-David Paquette,,Jr.,"6'3""",195 lbs,"Petoskey, Mich.",mens-soccer,2021
-Ryan Nguyen,,Fy,"5'10""",160 lbs,"Clinton, Conn.",mens-soccer,2021
-Willem Ebbinge,,So.,"6'1""",170 lbs,"Queenstown, New Zealand",mens-soccer,2021
+Kyle Parks,,Jr.,"6'1""",,"Plano, Texas",mens-soccer,2016
+Landon Plunkett,,Fy,"6'4""",,"Highland Village, Texas",mens-soccer,2016
+Daniel Smith,,Sr.,"6'2""",,"Bellevue, Wash.",mens-soccer,2016
+Tyler Savitsky,,Jr.,"6'1""",,"Malibu, Calif.",mens-soccer,2016
+Andrew Wheeler-Omiunu,,Sr.,"5'9""",,"Bellingham, Mass.",mens-soccer,2016
+Asa Silverman,,Fy,"6'1""",,"South Pasadena, Calif.",mens-soccer,2016
+Philip Hausen,,Fy,"5'11""",,"Redwood City, Calif.",mens-soccer,2016
+Christian Sady,,Jr.,"5'8""",,"North Andover, Mass.",mens-soccer,2016
+Mark Ashby,,Sr.,"6'2""",,"Denton, Texas",mens-soccer,2016
+Jorma Görns,,Fy,,,"Danischenhagen, Germany",mens-soccer,2016
+Nathan Goldberg,,Jr.,"5'8""",,"Mexico City, Mexico",mens-soccer,2016
+Sam Brown,,Jr.,"6'1""",,"Ann Arbor, Mich.",mens-soccer,2016
+Joel Serugo,,Fy,,,"North Hills, Calif.",mens-soccer,2016
+Taner Dogan,,Fy,,,"St. Louis, Mo.",mens-soccer,2016
+Justin Crichlow,,Jr.,,,"Edmonds, Wash",mens-soccer,2016
+Pieter Zenner,,Sr.,"5'11""",,"Riverside, Conn.",mens-soccer,2016
+Cesar Farias Jr.,,So.,"5'9""",,"Santa Rosa, Calif.",mens-soccer,2016
+Eduardo Cedeño,,So.,"5'11""",,"Cypress, Texas",mens-soccer,2016
+Luis Viceira,,Fy,"5'11""",,"Belmont, Mass.",mens-soccer,2016
+Alex Leondis,,Sr.,"6'1""",,"Manhasset, N.Y.",mens-soccer,2016
+Jake Freeman,,Sr.,"5'11""",,"Melville, N.Y.",mens-soccer,2016
+Gavin Baker-Greene,,Fy,"5'11""",,"Milton, Mass.",mens-soccer,2016
+Nate Devine,,Jr.,"5'9""",,"Lodi, Calif.",mens-soccer,2016
+Matthew Glass,,Fy,"6'1""",,"Sacramento, Calif.",mens-soccer,2016
+Matt Hatter,,So.,"6'1""",,"Redding, Calif.",mens-soccer,2016
+Jack Miler,,So.,"6'1""",,"Lakeville, Minn.",mens-soccer,2016
+Eric Gylling,,Jr.,,,"Sacramento, Calif.",mens-soccer,2016
+Jack Miler,,Jr.,"6'1""",,"Lakeville, Minn.",mens-soccer,2017
+Landon Plunkett,,Jr.,"6'4""",,"Highland Village, Texas",mens-soccer,2017
+Jorma Görns,,So.,,,"Danischenhagen, Germany",mens-soccer,2017
+Eric Gylling,,Sr.,,,"Sacramento, Calif.",mens-soccer,2017
+Asa Silverman,,So.,"6'1""",,"South Pasadena, Calif.",mens-soccer,2017
+Kyle Parks,,Sr.,"6'1""",,"Plano, Texas",mens-soccer,2017
+Joel Serugo,,So.,,,"North Hills, Calif.",mens-soccer,2017
+Philip Hausen,,So.,"5'11""",,"Redwood City, Calif.",mens-soccer,2017
+Nathan Goldberg,,Sr.,"5'8""",,"Mexico City, Mexico",mens-soccer,2017
+Taner Dogan,,So.,,,"St. Louis, Mo.",mens-soccer,2017
+Rory Conway,,Fy,"6'2""",,"Brookline, Mass.",mens-soccer,2017
+Paolo Belloni Urso,,Fy,"5'8""",,"Delray Beach, Fla.",mens-soccer,2017
+Eduardo Cedeño,,Jr.,"5'11""",,"Cypress, Texas",mens-soccer,2017
+Justin Crichlow,,Sr.,,,"Edmonds, Wash",mens-soccer,2017
+Christian Sady,,Sr.,"5'8""",,"North Andover, Mass.",mens-soccer,2017
+Matthew Glass,,So.,"6'1""",,"Sacramento, Calif.",mens-soccer,2017
+Matt Hatter,,Jr.,"6'1""",,"Redding, Calif.",mens-soccer,2017
+Sebastian Lindner-Liaw,,Fy,"5'9""",,"South Portland, Maine",mens-soccer,2017
+Fernando Docters,,Fy,"5'10""",,"Larchmont, N.Y.",mens-soccer,2017
+Nate Devine,,Sr.,"5'9""",,"Lodi, Calif.",mens-soccer,2017
+Cesar Farias Jr.,,Jr.,"5'9""",,"Santa Rosa, Calif.",mens-soccer,2017
+Cornelius Bencsik,,Fy,"5'7""",,"Brumunddal, Norway",mens-soccer,2017
+Luis Viceira,,So.,"5'11""",,"Belmont, Mass.",mens-soccer,2017
+Gavin Baker-Greene,,So.,"5'11""",,"Milton, Mass.",mens-soccer,2017
+Matt Freese,,Fy,"6'4""",,"Bryn Mawr, Pa.",mens-soccer,2017
+Asa Silverman,,Jr.,"6'1""",,"South Pasadena, Calif.",mens-soccer,2018
+Philip Geanakoplos,,So.,"6'1""",,"New Haven, Conn.",mens-soccer,2018
+Jorma Görns,,Jr.,,,"Danischenhagen, Germany",mens-soccer,2018
+Sebastian Lindner-Liaw,,So.,"5'9""",,"South Portland, Maine",mens-soccer,2018
+Matt Hatter,,Sr.,"6'1""",,"Redding, Calif.",mens-soccer,2018
+Taner Dogan,,Jr.,,,"St. Louis, Mo.",mens-soccer,2018
+Alfred Perez,,Fy,"6'1""",,"Miami, Fla.",mens-soccer,2018
+Joel Serugo,,Jr.,,,"North Hills, Calif.",mens-soccer,2018
+Sam Brown,,Sr.,"6'1""",,"Ann Arbor, Mich.",mens-soccer,2018
+Håvard Hjermstad,,Fy,"5'10""",,"Hosle, Norway",mens-soccer,2018
+David Paquette,,Fy,"6'3""",,"Petoskey, Mich.",mens-soccer,2018
+Ben Bryant,,Fy,"5'11""",,"Brookline, Mass.",mens-soccer,2018
+Philip Hausen,,Jr.,"5'11""",,"Redwood City, Calif.",mens-soccer,2018
+Fernando Docters,,So.,"5'10""",,"Larchmont, N.Y.",mens-soccer,2018
+Alex Debayo-Doherty,,Fy,"6'2""",,"McLean, Va.",mens-soccer,2018
+Matthew Glass,,Jr.,"6'1""",,"Sacramento, Calif.",mens-soccer,2018
+Nico Garcia-Morillo,,Fy,,,"Key Biscayne, Fla.",mens-soccer,2018
+Jack Miler,,Sr.,"6'1""",,"Lakeville, Minn.",mens-soccer,2018
+Eduardo Cedeño,,Sr.,"5'11""",,"Cypress, Texas",mens-soccer,2018
+Nathan Goldberg,,Sr.,"5'8""",,"Mexico City, Mexico",mens-soccer,2018
+Nate Devine,,Sr.,"5'9""",,"Lodi, Calif.",mens-soccer,2018
+Matt Freese,,So.,"6'4""",,"Bryn Mawr, Pa.",mens-soccer,2018
+Cesar Farias Jr.,,Sr.,"5'9""",,"Santa Rosa, Calif.",mens-soccer,2018
+Paolo Belloni Urso,,So.,"5'8""",,"Delray Beach, Fla.",mens-soccer,2018
+Rory Conway,,So.,"6'2""",,"Brookline, Mass.",mens-soccer,2018
+Nico Garcia-Morillo,,So.,,173 lbs,"Key Biscayne, Fla.",mens-soccer,2019
+Harry Moore,,Fy,"5'10""",150 lbs,"Washington, D.C.",mens-soccer,2019
+Taner Dogan,,Sr.,,165 lbs,"St. Louis, Mo.",mens-soccer,2019
+Asa Silverman,,Sr.,"6'1""",160 lbs,"Los Angeles, Calif.",mens-soccer,2019
+Charlie Peary,,Fy,,,"Needham, Mass.",mens-soccer,2019
+George Nageeb,,So.,"6'1""",190 lbs,"Solon, Ohio",mens-soccer,2019
+Philip Geanakoplos,,Jr.,"6'1""",173 lbs,"New Haven, Conn.",mens-soccer,2019
+Alex Debayo-Doherty,,So.,"6'2""",183 lbs,"McLean, Va.",mens-soccer,2019
+Loic Tagne,,Fy,"5'10""",150 lbs,"Markham, Ontario",mens-soccer,2019
+Matthew Glass,,Sr.,"6'1""",165 lbs,"Sacramento, Calif.",mens-soccer,2019
+Sebastian Lindner-Liaw,,Jr.,"5'9""",160 lbs,"South Portland, Maine",mens-soccer,2019
+Galen Lewis,,Fy,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2019
+Sam Pratt,,Fy,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2019
+Ben Bryant,,So.,"5'11""",170 lbs,"Brookline, Mass.",mens-soccer,2019
+Martin Vician,,Fy,"6'4""",187 lbs,"Bratislava, Slovakia",mens-soccer,2019
+Willem Ebbinge,,Fy,,170 lbs,"Queenstown, New Zealand",mens-soccer,2019
+David Paquette,,So.,"6'3""",195 lbs,"Petoskey, Mich.",mens-soccer,2019
+Oskar Nilsson,,Fy,"5'11""",161 lbs,"Uppsala, Sweden",mens-soccer,2019
+Bobby Harraka,,Fy,,185 lbs,"Yorba Linda, Calif",mens-soccer,2019
+Gianluca Trofa,,Fy,"6'2""",200 lbs,"Norwalk, Conn.",mens-soccer,2019
+Fernando Docters,,Jr.,"5'10""",162 lbs,"Larchmont, N.Y.",mens-soccer,2019
+Alfred Perez,,So.,"6'1""",175 lbs,"Miami, Fla.",mens-soccer,2019
+Håvard Hjermstad,,So.,"5'10""",141 lbs,"Hosle, Norway",mens-soccer,2019
+Duncan Sutherland,,Fy,"6'2""",185 lbs,"Millville, Mass.",mens-soccer,2019
+Cornelius Bencsik,,So.,"5'7""",155 lbs,"Brumunddal, Norway",mens-soccer,2019
+James Fahmy,,Fy,"6'1""",156 lbs,"London, England",mens-soccer,2020
+Joel Serugo,,Sr.,"6'0""",175 lbs,"North Hills, Calif.",mens-soccer,2020
+Alex Debayo-Doherty,,Jr.,"6'2""",183 lbs,"McLean, Va.",mens-soccer,2020
+Martin Vician,,So.,"6'4""",187 lbs,"Bratislava, Slovakia",mens-soccer,2020
+Sam Pratt,,So.,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2020
+Nico Garcia-Morillo,,Jr.,"6'0""",173 lbs,"Key Biscayne, Fla.",mens-soccer,2020
+Cornelius Bencsik,,Jr.,"5'7""",155 lbs,"Brumunddal, Norway",mens-soccer,2020
+Charlie Peary,,Rs.,,,"Needham, Mass.",mens-soccer,2020
+Alfred Perez,,Jr.,"6'1""",175 lbs,"Miami, Fla.",mens-soccer,2020
+George Nageeb,,Jr.,"6'1""",190 lbs,"Solon, Ohio",mens-soccer,2020
+Paolo Belloni Urso,,Jr.,"5'8""",150 lbs,"Delray Beach, Fla.",mens-soccer,2020
+Ale Gutierrez,,Fy,"5'9""",161 lbs,"Heredia, Costa Rica",mens-soccer,2020
+Galen Lewis,,So.,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2020
+Nik White,,Fy,"6'2""",180 lbs,"Port Moody, British Columbia",mens-soccer,2020
+Håvard Hjermstad,,Jr.,"5'10""",141 lbs,"Hosle, Norway",mens-soccer,2020
+Duncan Sutherland,,So.,"6'2""",185 lbs,"Millville, Mass.",mens-soccer,2020
+Gianluca Trofa,,So.,"6'2""",200 lbs,"Norwalk, Conn.",mens-soccer,2020
+Philip Geanakoplos,,Sr.,"6'1""",173 lbs,"New Haven, Conn.",mens-soccer,2020
+Ben Bryant,,Jr.,"5'11""",170 lbs,"Brookline, Mass.",mens-soccer,2020
+Kaoru Fujiwara,,Fy,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2020
+Loic Tagne,,So.,"5'10""",150 lbs,"Markham, Ontario",mens-soccer,2020
+Oskar Nilsson,,So.,"5'11""",161 lbs,"Uppsala, Sweden",mens-soccer,2020
+Fernando Docters,,Sr.,"5'10""",162 lbs,"Larchmont, N.Y.",mens-soccer,2020
 Martin Vician,,Jr.,"6'4""",193 lbs,"Bratislava, Slovakia",mens-soccer,2021
-Paolo Belloni Urso,,Sr.,"5'8""",150 lbs,"Delray Beach, Fla.",mens-soccer,2021
 Alfred Perez,,Sr.,"6'1""",175 lbs,"Miami, Fla.",mens-soccer,2021
-Charlie Peary,,R-Fr.,,,"Needham, Mass.",mens-soccer,2021
 George Nageeb,,Sr.,"6'1""",190 lbs,"Solon, Ohio",mens-soccer,2021
-Nico Garcia-Morillo,,Sr.,"6'0""",173 lbs,"Key Biscayne, Fla.",mens-soccer,2021
-James Fahmy,,So.,"6'1""",165 lbs,"London, England",mens-soccer,2021
 Kristján Gunnarsson,,Fy,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2021
+James Fahmy,,So.,"6'1""",165 lbs,"London, England",mens-soccer,2021
+Ryan Nguyen,,Fy,"5'10""",160 lbs,"Clinton, Conn.",mens-soccer,2021
 Gianluca Trofa,,Jr.,"6'2""",200 lbs,"Norwalk, Conn.",mens-soccer,2021
-Duncan Sutherland,,Jr.,"6'2""",185 lbs,"Millville, Mass.",mens-soccer,2021
-Ludovico Rollo,,Fy,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2021
-Galen Lewis,,Jr.,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2021
-Fernando Docters,,Sr.,"5'10""",162 lbs,"Larchmont, N.Y.",mens-soccer,2021
+Charlie Peary,,R-Fr.,,,"Needham, Mass.",mens-soccer,2021
+Paolo Belloni Urso,,Sr.,"5'8""",150 lbs,"Delray Beach, Fla.",mens-soccer,2021
+David Paquette,,Jr.,"6'3""",195 lbs,"Petoskey, Mich.",mens-soccer,2021
 Nik White,,So.,"6'2""",180 lbs,"Port Moody, British Columbia",mens-soccer,2021
-Harry Moore,,So.,"5'11""",162 lbs,"Washington, D.C.",mens-soccer,2021
 Cornelius Bencsik,,Sr.,"5'7""",155 lbs,"Brumunddal, Norway",mens-soccer,2021
+Jan Riecke,,Fy,"6'1""",165 lbs,"Berlin, Germany",mens-soccer,2021
+Duncan Sutherland,,Jr.,"6'2""",185 lbs,"Millville, Mass.",mens-soccer,2021
+Galen Lewis,,Jr.,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2021
+Nico Garcia-Morillo,,Sr.,"6'0""",173 lbs,"Key Biscayne, Fla.",mens-soccer,2021
 Alex Debayo-Doherty,,Sr.,"6'2""",187 lbs,"McLean, Va.",mens-soccer,2021
 Marko Isakovic,,Fy,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2021
-Sam Bjarnason,,Fy,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2021
-Edwin Dominguez,,Fy,"5'10""",192 lbs,"Riverside, Calif.",mens-soccer,2021
-Alessandro Arlotti,,Fy,"5'9""",165 lbs,Monaco,mens-soccer,2021
-Kaoru Fujiwara,,So.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2021
-Loic Tagne,,Jr.,"5'11""",162 lbs,"Markham, Ontario",mens-soccer,2021
-Ale Gutierrez,,So.,"5'9""",161 lbs,"Heredia, Costa Rica",mens-soccer,2021
-Håvard Hjermstad,,Sr.,"5'10""",141 lbs,"Hosle, Norway",mens-soccer,2021
-Max Goeggel,,Fy,"5'11""",174 lbs,"Napa Valley, Calif.",mens-soccer,2021
-Sam Pratt,,Jr.,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2021
-Jan Riecke,,Fy,"6'1""",165 lbs,"Berlin, Germany",mens-soccer,2021
 Oskar Nilsson,,Jr.,"5'11""",161 lbs,"Uppsala, Sweden",mens-soccer,2021
-Galen Lewis,,Sr.,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2022
+Loic Tagne,,Jr.,"5'11""",162 lbs,"Markham, Ontario",mens-soccer,2021
+Håvard Hjermstad,,Sr.,"5'10""",141 lbs,"Hosle, Norway",mens-soccer,2021
+Ale Gutierrez,,So.,"5'9""",161 lbs,"Heredia, Costa Rica",mens-soccer,2021
+Kaoru Fujiwara,,So.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2021
+Sam Pratt,,Jr.,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2021
+Edwin Dominguez,,Fy,"5'10""",192 lbs,"Riverside, Calif.",mens-soccer,2021
+Sam Bjarnason,,Fy,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2021
+Harry Moore,,So.,"5'11""",162 lbs,"Washington, D.C.",mens-soccer,2021
+Fernando Docters,,Sr.,"5'10""",162 lbs,"Larchmont, N.Y.",mens-soccer,2021
+Ludovico Rollo,,Fy,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2021
+Willem Ebbinge,,So.,"6'1""",170 lbs,"Queenstown, New Zealand",mens-soccer,2021
+Max Goeggel,,Fy,"5'11""",174 lbs,"Napa Valley, Calif.",mens-soccer,2021
+Alessandro Arlotti,,Fy,"5'9""",165 lbs,Monaco,mens-soccer,2021
+Kristján Gunnarsson,,So.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2022
 James Fahmy,,Jr.,"6'1""",165 lbs,"London, England",mens-soccer,2022
 Nik White,,Jr.,"6'2""",180 lbs,"Port Moody, British Columbia",mens-soccer,2022
 Duncan Sutherland,,Sr.,"6'2""",185 lbs,"Millville, Mass.",mens-soccer,2022
-Cullen MacNeil,,Fy,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2022
-Gianluca Trofa,,Sr.,"6'2""",200 lbs,"Norwalk, Conn.",mens-soccer,2022
 Jan Riecke,,So.,"6'1""",165 lbs,"Berlin, Germany",mens-soccer,2022
-Alessandro Arlotti,,So.,"5'9""",165 lbs,Monaco,mens-soccer,2022
-Nico Garcia-Morillo,,Sr.,"6'0""",175 lbs,"Key Biscayne, Fla.",mens-soccer,2022
+Marko Isakovic,,So.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2022
+David Paquette,,Sr.,"6'3""",195 lbs,"Petoskey, Mich.",mens-soccer,2022
 Martin Vician,,Sr.,"6'4""",195 lbs,"Bratislava, Slovakia",mens-soccer,2022
 Sam Bjarnason,,So.,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2022
-Marko Isakovic,,So.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2022
+Cullen MacNeil,,Fy,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2022
+Nico Garcia-Morillo,,Sr.,"6'0""",175 lbs,"Key Biscayne, Fla.",mens-soccer,2022
+Gianluca Trofa,,Sr.,"6'2""",200 lbs,"Norwalk, Conn.",mens-soccer,2022
 Ale Gutierrez,,Jr.,"5'9""",160 lbs,"Heredia, Costa Rica",mens-soccer,2022
-David Paquette,,Sr.,"6'3""",195 lbs,"Petoskey, Mich.",mens-soccer,2022
-Kristján Gunnarsson,,So.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2022
+Galen Lewis,,Sr.,"5'11""",165 lbs,"Leominster, Mass.",mens-soccer,2022
+Alessandro Arlotti,,So.,"5'9""",165 lbs,Monaco,mens-soccer,2022
+Juho Ojanen,,Fy,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2022
 Matus Vician,,Fy,"6'1""",170 lbs,"Bratislava, Slovakia",mens-soccer,2022
-Kaoru Fujiwara,,Jr.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2022
 Nicholas Nyquist,,Fy,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2022
 Zachary Sardi-Santos,,Fy,"5'8""",165 lbs,"Newton, Mass.",mens-soccer,2022
-Juho Ojanen,,Fy,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2022
-Sam Pratt,,Sr.,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2022
-Marcos Ojea Quintana,,Fy,"5'10""",170 lbs,"Riverside, Conn.",mens-soccer,2022
 Willem Ebbinge,,Jr.,"6'1""",170 lbs,"Queenstown, New Zealand",mens-soccer,2022
-Harry Moore,,Jr.,"5'11""",160 lbs,"Washington, D.C.",mens-soccer,2022
-Loic Tagne,,Sr.,"5'11""",165 lbs,"Markham, Ontario",mens-soccer,2022
-Lucian Wood,,Fy,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2022
 Oskar Nilsson,,Sr.,"5'11""",160 lbs,"Uppsala, Sweden",mens-soccer,2022
 Ludovico Rollo,,So.,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2022
-Ethan Veghte,,Fy,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2022
 Edwin Dominguez,,So.,"5'10""",190 lbs,"Riverside, Calif.",mens-soccer,2022
-Nicholas Willen,,Fy,"5'9""",170 lbs,"Worcester, Pa.",mens-soccer,2023
-Will Sherwood,,Fy,"6'3""",180 lbs,"Los Angeles, Calif.",mens-soccer,2023
-Cullen MacNeil,,So.,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2023
-Kristján Gunnarsson,,Jr.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2023
-James Fahmy,,Sr.,"6'1""",165 lbs,"London, England",mens-soccer,2023
-Nik White,,Sr.,"6'2""",180 lbs,"Port Moody, British Columbia",mens-soccer,2023
-Alessandro Arlotti,,Jr.,"6'0""",165 lbs,Monaco,mens-soccer,2023
-Sam Bjarnason,,Jr.,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2023
-Marcos Ojea Quintana,,So.,"5'10""",170 lbs,"Riverside, Conn.",mens-soccer,2023
-Andreas Savva,,Fy,"5'10""",160 lbs,"Nicosia, Cyprus",mens-soccer,2023
-Ben Kelly,,Fy,"6'2""",175 lbs,"Cambridge, Mass.",mens-soccer,2023
+Lucian Wood,,Fy,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2022
+Kaoru Fujiwara,,Jr.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2022
+Sam Pratt,,Sr.,"5'10""",165 lbs,"Concord, N.H.",mens-soccer,2022
+Loic Tagne,,Sr.,"5'11""",165 lbs,"Markham, Ontario",mens-soccer,2022
+Marcos Ojea Quintana,,Fy,"5'10""",170 lbs,"Riverside, Conn.",mens-soccer,2022
+Ethan Veghte,,Fy,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2022
+Harry Moore,,Jr.,"5'11""",160 lbs,"Washington, D.C.",mens-soccer,2022
 Jan Riecke,,Jr.,"6'1""",165 lbs,"Berlin, Germany",mens-soccer,2023
-Marko Isakovic,,Jr.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2023
+James Fahmy,,Sr.,"6'1""",165 lbs,"London, England",mens-soccer,2023
+Ben Kelly,,Fy,"6'2""",175 lbs,"Cambridge, Mass.",mens-soccer,2023
+Nik White,,Sr.,"6'2""",180 lbs,"Port Moody, British Columbia",mens-soccer,2023
+Andreas Savva,,Fy,"5'10""",160 lbs,"Nicosia, Cyprus",mens-soccer,2023
+Nicholas Willen,,Fy,"5'9""",170 lbs,"Worcester, Pa.",mens-soccer,2023
+Kristján Gunnarsson,,Jr.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2023
 Rustin Khosravi,,So.,"5'10""",155 lbs,"McLean, Va.",mens-soccer,2023
+Will Sherwood,,Fy,"6'3""",180 lbs,"Los Angeles, Calif.",mens-soccer,2023
+Marko Isakovic,,Jr.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2023
 Ale Gutierrez,,Sr.,"5'9""",160 lbs,"Heredia, Costa Rica",mens-soccer,2023
+Alessandro Arlotti,,Jr.,"6'0""",165 lbs,Monaco,mens-soccer,2023
+Marcos Ojea Quintana,,So.,"5'10""",170 lbs,"Riverside, Conn.",mens-soccer,2023
+Cullen MacNeil,,So.,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2023
+Sam Bjarnason,,Jr.,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2023
+Kaoru Fujiwara,,Sr.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2023
+Ludovico Rollo,,Jr.,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2023
+Nicholas Nyquist,,So.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2023
+Lucian Wood,,So.,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2023
+Zachary Sardi-Santos,,So.,"5'8""",165 lbs,"Newton, Mass.",mens-soccer,2023
 Juho Ojanen,,So.,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2023
 Harry Moore,,Sr.,"5'11""",160 lbs,"Washington, D.C.",mens-soccer,2023
-Erik Dalaker,,Fy,"5'11""",170 lbs,"Rennesøy, Norway",mens-soccer,2023
 Dylan Tellado,,Fy,"6'1""",160 lbs,"Mountain View, Calif.",mens-soccer,2023
-Matus Vician,,So.,"6'1""",170 lbs,"Bratislava, Slovakia",mens-soccer,2023
-Nicholas Nyquist,,So.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2023
-Zachary Sardi-Santos,,So.,"5'8""",165 lbs,"Newton, Mass.",mens-soccer,2023
-Ethan Veghte,,So.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2023
-Yuta Hata,,Fy,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2023
-Kaoru Fujiwara,,Sr.,"5'8""",150 lbs,"Aichi, Japan",mens-soccer,2023
-Riccardo Rollo,,Fy,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2023
 Willem Ebbinge,,Sr.,"6'1""",170 lbs,"Queenstown, New Zealand",mens-soccer,2023
-Lucian Wood,,So.,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2023
-Ludovico Rollo,,Jr.,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2023
+Erik Dalaker,,Fy,"5'11""",170 lbs,"Rennesøy, Norway",mens-soccer,2023
+Matus Vician,,So.,"6'1""",170 lbs,"Bratislava, Slovakia",mens-soccer,2023
+Ethan Veghte,,So.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2023
 Edwin Dominguez,,Jr.,"5'10""",190 lbs,"Riverside, Calif.",mens-soccer,2023
-Ben Kelly,,So.,"6'2""",175 lbs,"Cambridge, Mass.",mens-soccer,2024
-Ludovico Rollo,,Sr.,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2024
-Rustin Khosravi,,Jr.,"5'10""",155 lbs,"McLean, Va.",mens-soccer,2024
-Sam Bjarnason,,Sr.,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2024
-Cullen MacNeil,,Jr.,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2024
-Nicholas Nyquist,,Jr.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2024
-Zachary Sardi-Santos,,Jr.,"5'8""",165 lbs,"Newton, Mass.",mens-soccer,2024
-Marko Isakovic,,Sr.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2024
-Juho Ojanen,,Jr.,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2024
-Kristján Gunnarsson,,Sr.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2024
+Riccardo Rollo,,Fy,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2023
+Yuta Hata,,Fy,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2023
 Marcos Ojea Quintana,,Jr.,"5'10""",170 lbs,"Riverside, Conn.",mens-soccer,2024
 Phoenix Wooten,,Fy,"6'0""",165 lbs,"Kill Devil Hills, N.C.",mens-soccer,2024
+Ludovico Rollo,,Sr.,"6'0""",165 lbs,"Boston, Mass.",mens-soccer,2024
 Nicholas Willen,,So.,"5'9""",170 lbs,"Worcester, Pa.",mens-soccer,2024
+Zachary Sardi-Santos,,Jr.,"5'8""",165 lbs,"Newton, Mass.",mens-soccer,2024
+Juho Ojanen,,Jr.,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2024
 Jan Riecke,,Sr.,"6'1""",165 lbs,"Berlin, Germany",mens-soccer,2024
+Cullen MacNeil,,Jr.,"6'4""",215 lbs,"Rochester, Mich.",mens-soccer,2024
+Ben Kelly,,So.,"6'2""",175 lbs,"Cambridge, Mass.",mens-soccer,2024
+Nicholas Nyquist,,Jr.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2024
+Marko Isakovic,,Sr.,"5'10""",160 lbs,"Belgrade, Serbia",mens-soccer,2024
 Andreas Savva,,So.,"5'10""",160 lbs,"Nicosia, Cyprus",mens-soccer,2024
-Matus Vician,,Jr.,"6'1""",170 lbs,"Bratislava, Slovakia",mens-soccer,2024
-Alexander Castel,,Fy,"6'0""",170 lbs,"Chevy Chase, Md.",mens-soccer,2024
-Erik Dalaker,,So.,"5'11""",170 lbs,"Rennesøy, Norway",mens-soccer,2024
-Riccardo Rollo,,So.,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2024
-Nayan Das,,Fy,"6'0""",170 lbs,"Lexington, Mass.",mens-soccer,2024
-Ethan Veghte,,Jr.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2024
-Tim Langenbahn,,Fy,"6'1""",170 lbs,"Miesenheim, Germany",mens-soccer,2024
-Shane Lonergan,,Fy,"6'0""",175 lbs,"San Francisco, Calif.",mens-soccer,2024
-Will Sherwood,,So.,"6'3""",180 lbs,"Los Angeles, Calif.",mens-soccer,2024
+Sam Bjarnason,,Sr.,"6'1""",170 lbs,"Washington, D.C.",mens-soccer,2024
+Rustin Khosravi,,Jr.,"5'10""",155 lbs,"McLean, Va.",mens-soccer,2024
+Kristján Gunnarsson,,Sr.,"5'10""",150 lbs,"Kópavogur, Iceland",mens-soccer,2024
 Bobby Cupps,,Jr.,"6'1""",175 lbs,"Chicago, Ill.",mens-soccer,2024
-Lucian Wood,,Jr.,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2024
-Yuta Hata,,So.,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2024
-Dylan Tellado,,So.,"6'1""",160 lbs,"Mountain View, Calif.",mens-soccer,2024
+Will Sherwood,,So.,"6'3""",180 lbs,"Los Angeles, Calif.",mens-soccer,2024
+Erik Dalaker,,So.,"5'11""",170 lbs,"Rennesøy, Norway",mens-soccer,2024
 Xavier Tanyi,,Fy,"6'3""",175 lbs,"Kensington, Md.",mens-soccer,2024
+Yuta Hata,,So.,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2024
+Shane Lonergan,,Fy,"6'0""",175 lbs,"San Francisco, Calif.",mens-soccer,2024
+Alexander Castel,,Fy,"6'0""",170 lbs,"Chevy Chase, Md.",mens-soccer,2024
+Dylan Tellado,,So.,"6'1""",160 lbs,"Mountain View, Calif.",mens-soccer,2024
+Matus Vician,,Jr.,"6'1""",170 lbs,"Bratislava, Slovakia",mens-soccer,2024
+Ethan Veghte,,Jr.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2024
 Edwin Dominguez,,Sr.,"5'10""",190 lbs,"Riverside, Calif.",mens-soccer,2024
-Dylan Tellado,,Jr.,"6'1""",160 lbs,"Mountain View, Calif.",mens-soccer,2025
-Tim Langenbahn,,So.,"6'1""",175 lbs,"Miesenheim, Germany",mens-soccer,2025
-Mikey Cortellessa,,Fy,"5'10""",150 lbs,"San Jose, Calif.",mens-soccer,2025
-Phoenix Wooten,,So.,"6'0""",165 lbs,"Kill Devil Hills, N.C.",mens-soccer,2025
-Alexander Castel,,So.,"6'1""",180 lbs,"Chevy Chase, Md.",mens-soccer,2025
-Juho Ojanen,,Sr.,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2025
-Cullen MacNeil,,Sr.,"6'5""",215 lbs,"Rochester, Mich.",mens-soccer,2025
-Jason Broome,,Fy,"6'3""",185 lbs,"Owings Mills, Md.",mens-soccer,2025
-Lucas Benuce Sarvas,,Fy,"6'0""",160 lbs,"São Paulo, Brazil",mens-soccer,2025
+Tim Langenbahn,,Fy,"6'1""",170 lbs,"Miesenheim, Germany",mens-soccer,2024
+Riccardo Rollo,,So.,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2024
+Lucian Wood,,Jr.,"6'1""",185 lbs,"Cambridge, Mass.",mens-soccer,2024
+Nayan Das,,Fy,"6'0""",170 lbs,"Lexington, Mass.",mens-soccer,2024
 Rustin Khosravi,,Sr.,"5'10""",165 lbs,"McLean, Va.",mens-soccer,2025
-Nicholas Willen,,Jr.,"5'10""",180 lbs,"Worcester, Pa.",mens-soccer,2025
-Ben Kelly,,Jr.,"6'2""",180 lbs,"Cambridge, Mass.",mens-soccer,2025
-Nicholas Nyquist,,Sr.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2025
-Marcos Ojea Quintana,,Sr.,"6'2""",180 lbs,"Riverside, Conn.",mens-soccer,2025
-Andreas Savva,,Jr.,"5'10""",160 lbs,"Nicosia, Cyprus",mens-soccer,2025
+Alexander Castel,,So.,"6'1""",180 lbs,"Chevy Chase, Md.",mens-soccer,2025
 Maxwell Mobray,,Fy,"6'0""",185 lbs,"Washingtonville, N.Y.",mens-soccer,2025
+Nicholas Willen,,Jr.,"5'10""",180 lbs,"Worcester, Pa.",mens-soccer,2025
+Jason Broome,,Fy,"6'3""",185 lbs,"Owings Mills, Md.",mens-soccer,2025
+Cullen MacNeil,,Sr.,"6'5""",215 lbs,"Rochester, Mich.",mens-soccer,2025
+Andreas Savva,,Jr.,"5'10""",160 lbs,"Nicosia, Cyprus",mens-soccer,2025
+Lucas Benuce Sarvas,,Fy,"6'0""",160 lbs,"São Paulo, Brazil",mens-soccer,2025
+Tim Langenbahn,,So.,"6'1""",175 lbs,"Miesenheim, Germany",mens-soccer,2025
+Phoenix Wooten,,So.,"6'0""",165 lbs,"Kill Devil Hills, N.C.",mens-soccer,2025
+Ben Kelly,,Jr.,"6'2""",180 lbs,"Cambridge, Mass.",mens-soccer,2025
+Dylan Tellado,,Jr.,"6'1""",160 lbs,"Mountain View, Calif.",mens-soccer,2025
+Marcos Ojea Quintana,,Sr.,"6'2""",180 lbs,"Riverside, Conn.",mens-soccer,2025
+Mikey Cortellessa,,Fy,"5'10""",150 lbs,"San Jose, Calif.",mens-soccer,2025
+Juho Ojanen,,Sr.,"6'1""",180 lbs,"Espoo, Finland",mens-soccer,2025
+Nicholas Nyquist,,Sr.,"6'2""",180 lbs,"Asker, Norway",mens-soccer,2025
+Drew Lobley,,Fy,"5'9""",150 lbs,"Hagerstown, Md.",mens-soccer,2025
+Alejandro Palacio,,Fy,"6'0""",165 lbs,"North Andover, Mass.",mens-soccer,2025
+Xavier Tanyi,,So.,"6'3""",190 lbs,"Kensington, Md.",mens-soccer,2025
+Yuta Hata,,Jr.,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2025
+Juan Pablo Fregoso,,So.,"6'0""",185 lbs,"La Puente, Calif.",mens-soccer,2025
+Matus Vician,,Sr.,"6'1""",180 lbs,"Bratislava, Slovakia",mens-soccer,2025
 Bobby Cupps,,Sr.,"6'1""",180 lbs,"Chicago, Ill.",mens-soccer,2025
 Christo Velikin,,Fy,"6'2""",170 lbs,"Boston, Mass.",mens-soccer,2025
-Nayan Das,,So.,"6'0""",180 lbs,"Lexington, Mass.",mens-soccer,2025
-Lucian Wood,,Sr.,"6'1""",195 lbs,"Cambridge, Mass.",mens-soccer,2025
-Riccardo Rollo,,Jr.,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2025
-Will Sherwood,,Jr.,"6'3""",190 lbs,"Los Angeles, Calif.",mens-soccer,2025
-Yuta Hata,,Jr.,"6'0""",160 lbs,"Tokyo, Japan",mens-soccer,2025
-Adam Poliakov,,Fy,"6'0""",165 lbs,"Kiev, Ukraine",mens-soccer,2025
-Drew Lobley,,Fy,"5'9""",150 lbs,"Hagerstown, Md.",mens-soccer,2025
-Matus Vician,,Sr.,"6'1""",180 lbs,"Bratislava, Slovakia",mens-soccer,2025
-Xavier Tanyi,,So.,"6'3""",190 lbs,"Kensington, Md.",mens-soccer,2025
-Juan Pablo Fregoso,,So.,"6'0""",185 lbs,"La Puente, Calif.",mens-soccer,2025
-Ethan Veghte,,Sr.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2025
-Alejandro Palacio,,Fy,"6'0""",165 lbs,"North Andover, Mass.",mens-soccer,2025
 Shane Lonergan,,So.,"6'0""",175 lbs,"San Francisco, Calif.",mens-soccer,2025
+Lucian Wood,,Sr.,"6'1""",195 lbs,"Cambridge, Mass.",mens-soccer,2025
+Nayan Das,,So.,"6'0""",180 lbs,"Lexington, Mass.",mens-soccer,2025
+Ethan Veghte,,Sr.,"5'10""",170 lbs,"Menlo Park, Calif.",mens-soccer,2025
+Will Sherwood,,Jr.,"6'3""",190 lbs,"Los Angeles, Calif.",mens-soccer,2025
 Sophian Lovato,,Fy,"6'1""",165 lbs,San Francisco Calif.,mens-soccer,2025
+Adam Poliakov,,Fy,"6'0""",165 lbs,"Kiev, Ukraine",mens-soccer,2025
+Riccardo Rollo,,Jr.,"5'10""",160 lbs,"Boston, Mass.",mens-soccer,2025
 Drew Lobley,,So.,"5'9""",150 lbs,"Hagerstown, Md.",mens-soccer,2026
 Adam Poliakov,,So.,"6'0""",165 lbs,"Kiev, Ukraine",mens-soccer,2026
 Tobias Barnas,,Fy,"6'1""",175 lbs,"Bratislava, Slovakia",mens-soccer,2026

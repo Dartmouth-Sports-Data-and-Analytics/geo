@@ -1,86 +1,170 @@
 name,position,class,height,weight,hometown,sport,year
-Veer Chotrani,,Jr.,"5'9""",,"Mumbai, India",mens-squash,2021
-Max Lubowitz,,Jr.,,,"Philadelphia, Pa.",mens-squash,2021
-Rohan Iyer,,Fr.,,,"Cincinnati, Ohio",mens-squash,2021
-Morgan Huberman,,So.,"5'11""",,"New York, N.Y.",mens-squash,2021
+Jordan Brail,,Jr.,,,"New York, N.Y.",mens-squash,2016
+Ben Francis,,So.,,,"Baltimore, Md.",mens-squash,2016
+Harry Freeman,,Sr.,,,"Vancouver, British Columbia",mens-squash,2016
+Nik Gilevskiy,,So.,,,"Bray, Ireland",mens-squash,2016
+Augie Jones,,Sr.,,,"Locust Valley, N.Y.",mens-squash,2016
+Andy Muran,,So.,,,"Oyster Bay, N.Y.",mens-squash,2016
+Alex Jung,,So.,,,"Basking Ridge, N.J.",mens-squash,2016
+Kevin Flannery,,Sr.,,,"Haverford, Pa.",mens-squash,2016
+Andrew Stone,,Jr.,,,"Wynnewood, Pa.",mens-squash,2016
+Liad Hare,,Jr.,,,"Raanana, Israel",mens-squash,2016
+Perry Hanson,,So.,,,"Pennington, N.J.",mens-squash,2016
+Yash Jaggi,,Fr.,,,"Warren, N.J.",mens-squash,2016
+Seb Obieta-Chichizola,,Jr.,,,"London, England",mens-squash,2016
+Kenan Ong,,So.,,,"Chatham, N.J.",mens-squash,2016
+Ian Rothweiler,,Jr.,,,"Radnor, Pa.",mens-squash,2016
+Jared Scherl,,Fr.,,,"Tenafly, N.J.",mens-squash,2016
+Yohann Surti,,Fr.,,,"Mumbai, India",mens-squash,2017
+Jordan Brail,,Sr.,,,"New York, N.Y.",mens-squash,2017
+Jared Scherl,,So.,,,"Tenafly, N.J.",mens-squash,2017
+Nik Gilevskiy,,Jr.,,,"Bray, Ireland",mens-squash,2017
+Ian Rothweiler,,Sr.,,,"Radnor, Pa.",mens-squash,2017
+V. Luke Park II,,Fr.,,,"New York, N.Y.",mens-squash,2017
+Illia Presman,,Fr.,,,"San Diego, Calif.",mens-squash,2017
+Andrew Stone,,Sr.,,,"Wynnewood, Pa.",mens-squash,2017
+Seb Obieta-Chichizola,,Sr.,,,"London, England",mens-squash,2017
+Max R. Mailman,,So.,,,"Stamford, Conn.",mens-squash,2017
+James Paolella,,So.,,,"Dedham, Mass.",mens-squash,2017
+Perry Hanson,,Jr.,,,"Pennington, N.J.",mens-squash,2017
+Alex Jung,,Jr.,,,"Basking Ridge, N.J.",mens-squash,2017
+Andy Muran,,Jr.,,,"Oyster Bay, N.Y.",mens-squash,2017
+Faraaz Ahmar,,Fr.,,,"Orlando, Fla.",mens-squash,2017
+Kenan Ong,,Jr.,,,"Chatham, N.J.",mens-squash,2017
+Alex Dworetzky,,Fr.,"6'3""",,"San Francisco, Calif.",mens-squash,2018
+Nik Gilevskiy,,Sr.,"5'8""",,"Bray, Ireland",mens-squash,2018
+Nicholas Göth Errington,,Fr.,"6'2""",,"Stockholm, Sweden",mens-squash,2018
+Perry Hanson,,Sr.,"6'1""",,"Pennington, N.J.",mens-squash,2018
+Andy Muran,,Sr.,"5'11""",,"Oyster Bay, N.Y.",mens-squash,2018
+Charles Culhane,,Fr.,"6'0""",,"Brooklyn Heights, N.Y.",mens-squash,2018
+Nikhil Arjunan Iyer,,Fr.,"5'9""",,"Cincinnati, Ohio",mens-squash,2018
+Max R. Mailman,,Jr.,"5'10""",,"Stamford, Conn.",mens-squash,2018
+Thomas Mocorrea,,Fr.,"5'10""",,"Locust Valley, N.Y.",mens-squash,2018
+Jared Scherl,,Jr.,"5'9""",,"Tenafly, N.J.",mens-squash,2018
+V. Luke Park II,,So.,"5'9""",,"New York, N.Y.",mens-squash,2018
+James Paolella,,Jr.,"5'9""",,"Dedham, Mass.",mens-squash,2018
+Illia Presman,,So.,"5'11""",,"San Diego, Calif.",mens-squash,2018
+Henry Robbins,,Fr.,"6'2""",,"Louisville, Ky.",mens-squash,2018
+Yohann Surti,,So.,"5'9""",,"Mumbai, India",mens-squash,2018
+John Sawyers,,So.,"5'10""",,"New York, N.Y.",mens-squash,2018
+Yohann Surti,,Jr.,"5'9""",,"Mumbai, India",mens-squash,2019
+Brent Stein,,Fr.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2019
+Inderjit Singh,,Fr.,"5'7""",,"Chandigarh, India",mens-squash,2019
+Jared Scherl,,Sr.,"5'9""",,"Tenafly, N.J.",mens-squash,2019
+John Sawyers,,Jr.,"5'10""",,"New York, N.Y.",mens-squash,2019
+Henry Robbins,,So.,"6'2""",,"Louisville, Ky.",mens-squash,2019
+Illia Presman,,Jr.,"5'11""",,"San Diego, Calif.",mens-squash,2019
+V. Luke Park II,,Jr.,"5'9""",,"New York, N.Y.",mens-squash,2019
+Max R. Mailman,,Sr.,"5'10""",,"Stamford, Conn.",mens-squash,2019
+Thomas Mocorrea,,So.,"5'10""",,"Locust Valley, N.Y.",mens-squash,2019
+Max Lubowitz,,Fr.,,,"Philadelphia, Pa.",mens-squash,2019
+Humza Khan,,Fr.,"5'11""",,"Centerville, Ohio",mens-squash,2019
+Nikhil Arjunan Iyer,,So.,"5'9""",,"Cincinnati, Ohio",mens-squash,2019
+Nicholas Göth Errington,,So.,"6'2""",,"Stockholm, Sweden",mens-squash,2019
+Charles Culhane,,So.,"6'0""",,"Brooklyn Heights, N.Y.",mens-squash,2019
+Veer Chotrani,,Fr.,"5'9""",,"Mumbai, India",mens-squash,2019
+James Paolella,,Sr.,"5'9""",,"Dedham, Mass.",mens-squash,2019
+Alex Dworetzky,,So.,"6'3""",,"San Francisco, Calif.",mens-squash,2019
+Illia Presman,,Sr.,"5'11""",,"San Diego, Calif.",mens-squash,2020
+Charles Culhane,,Jr.,"6'0""",,"Brooklyn Heights, N.Y.",mens-squash,2020
+Brent Stein,,So.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2020
+Inderjit Singh,,So.,"5'7""",,"Chandigarh, India",mens-squash,2020
+John Sawyers,,Sr.,"5'10""",,"New York, N.Y.",mens-squash,2020
+Nick Robinson,,Fr.,,,"New York, N.Y.",mens-squash,2020
+Veer Chotrani,,So.,"5'9""",,"Mumbai, India",mens-squash,2020
+V. Luke Park II,,Sr.,"5'9""",,"New York, N.Y.",mens-squash,2020
+Spencer Yager,,Fr.,"6'4""",,"Villanova, Pa.",mens-squash,2020
+William Langdon,,Jr.,"6'3""",,"Maitland, Fla.",mens-squash,2020
+Max Lubowitz,,So.,,,"Philadelphia, Pa.",mens-squash,2020
+Yohann Surti,,Sr.,"5'9""",,"Mumbai, India",mens-squash,2020
+Humza Khan,,So.,"5'11""",,"Centerville, Ohio",mens-squash,2020
+Nikhil Arjunan Iyer,,Jr.,"5'9""",,"Cincinnati, Ohio",mens-squash,2020
+Morgan Huberman,,Fr.,"5'11""",,"New York, N.Y.",mens-squash,2020
+Alex Dworetzky,,Jr.,"6'3""",,"San Francisco, Calif.",mens-squash,2020
+Thomas Mocorrea,,Jr.,"5'10""",,"Locust Valley, N.Y.",mens-squash,2020
+Teddy Morneau,,Fr.,,,"Toronto, Ontario",mens-squash,2020
+Inderjit Singh,,Jr.,"5'7""",,"Chandigarh, India",mens-squash,2021
 Humza Khan,,Jr.,"5'11""",,"Centerville, Ohio",mens-squash,2021
-Charles Culhane,,Sr.,"6'0""",,"Brooklyn Heights, N.Y.",mens-squash,2021
-Nikhil Arjunan Iyer,,Sr.,"5'9""",,"Cincinnati, Ohio",mens-squash,2021
 William Langdon,,Jr.,"6'3""",,"Maitland, Fla.",mens-squash,2021
-Nicholas Göth Errington,,Sr.,"6'2""",,"Stockholm, Sweden",mens-squash,2021
-Thomas Mocorrea,,Sr.,"5'10""",,"Locust Valley, N.Y.",mens-squash,2021
-Teddy Morneau,,So.,,,"Toronto, Ontario",mens-squash,2021
-Tanay Punjabi,,Fr.,,,"Mumbai, India",mens-squash,2021
-Yohann Surti,,Gr.,"5'9""",,"Mumbai, India",mens-squash,2021
+Spencer Yager,,So.,"6'4""",,"Villanova, Pa.",mens-squash,2021
+Max Lubowitz,,Jr.,,,"Philadelphia, Pa.",mens-squash,2021
 Henry Robbins,,Sr.,"6'2""",,"Louisville, Ky.",mens-squash,2021
 Nick Robinson,,So.,"6'2""",,"New York, N.Y.",mens-squash,2021
-Inderjit Singh,,Jr.,"5'7""",,"Chandigarh, India",mens-squash,2021
-Spencer Yager,,So.,"6'4""",,"Villanova, Pa.",mens-squash,2021
-William Sarbinowski,,Fr.,,,"Darien, Conn.",mens-squash,2021
-Brent Stein,,Jr.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2021
+Teddy Morneau,,So.,,,"Toronto, Ontario",mens-squash,2021
 Arnaav Sareen,,Fr.,"5'8""",,"Pune, India",mens-squash,2021
+Tanay Punjabi,,Fr.,,,"Mumbai, India",mens-squash,2021
+Rohan Iyer,,Fr.,,,"Cincinnati, Ohio",mens-squash,2021
+Yohann Surti,,Gr.,"5'9""",,"Mumbai, India",mens-squash,2021
+Veer Chotrani,,Jr.,"5'9""",,"Mumbai, India",mens-squash,2021
+Morgan Huberman,,So.,"5'11""",,"New York, N.Y.",mens-squash,2021
+William Sarbinowski,,Fr.,,,"Darien, Conn.",mens-squash,2021
 Shreemann Raghavan,,Fr.,"5'11""",,"Chennai, India",mens-squash,2021
+Nicholas Göth Errington,,Sr.,"6'2""",,"Stockholm, Sweden",mens-squash,2021
+Thomas Mocorrea,,Sr.,"5'10""",,"Locust Valley, N.Y.",mens-squash,2021
+Nikhil Arjunan Iyer,,Sr.,"5'9""",,"Cincinnati, Ohio",mens-squash,2021
+Charles Culhane,,Sr.,"6'0""",,"Brooklyn Heights, N.Y.",mens-squash,2021
+Brent Stein,,Jr.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2021
+Spencer Yager,,Jr.,"6'4""",,"Villanova, Pa.",mens-squash,2022
 Rohan Iyer,,So.,"6'0""",,"Cincinnati, Ohio",mens-squash,2022
-Mukunth Gopalakrishnan,,Fr.,"6'2""",,"Fremont, Calif.",mens-squash,2022
-Humza Khan,,Sr.,"5'11""",,"Centerville, Ohio",mens-squash,2022
+Shreemann Raghavan,,So.,"5'11""",,"Chennai, India",mens-squash,2022
 William Langdon,,Sr.,"6'3""",,"Maitland, Fla.",mens-squash,2022
-Veer Chotrani,,Sr.,"5'9""",,"Mumbai, India",mens-squash,2022
+Brent Stein,,Sr.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2022
 Nicholas Göth Errington,,Sr.,"6'2""",,"Stockholm, Sweden",mens-squash,2022
+Arnaav Sareen,,So.,"5'8""",,"Pune, India",mens-squash,2022
+Teddy Morneau,,Jr.,"6'0""",,"Toronto, Ontario",mens-squash,2022
+Mukunth Gopalakrishnan,,Fr.,"6'2""",,"Fremont, Calif.",mens-squash,2022
 Morgan Huberman,,Jr.,"5'11""",,"New York, N.Y.",mens-squash,2022
 Aaron Liang,,So.,"5'9""",,Singapore,mens-squash,2022
-Teddy Morneau,,Jr.,"6'0""",,"Toronto, Ontario",mens-squash,2022
-Jeh Pandole,,Fr.,,,,mens-squash,2022
-Arnaav Sareen,,So.,"5'8""",,"Pune, India",mens-squash,2022
+Veer Chotrani,,Sr.,"5'9""",,"Mumbai, India",mens-squash,2022
 Robert Sawyers,,So.,"6'0""",,"New York, N.Y.",mens-squash,2022
-Brent Stein,,Sr.,"6'1""",,"Paradise Valley, Ariz.",mens-squash,2022
+Humza Khan,,Sr.,"5'11""",,"Centerville, Ohio",mens-squash,2022
 Tanay Punjabi,,So.,"6'0""",,"Mumbai, India",mens-squash,2022
-Shreemann Raghavan,,So.,"5'11""",,"Chennai, India",mens-squash,2022
+Jeh Pandole,,Fr.,,,,mens-squash,2022
 William Sarbinowski,,So.,"5'9""",,"Darien, Conn.",mens-squash,2022
-Spencer Yager,,Jr.,"6'4""",,"Villanova, Pa.",mens-squash,2022
+Spencer Yager,,Sr.,"6'4""",,"Villanova, Pa.",mens-squash,2023
+Syan Singh,,Fr.,"5'10""",,"Mississauga, Ontario",mens-squash,2023
+William Sarbinowski,,Jr.,"5'9""",,"Darien, Conn.",mens-squash,2023
+Arnaav Sareen,,Jr.,"5'8""",,"Pune, India",mens-squash,2023
+Aaron Liang,,Jr.,"5'9""",,Singapore,mens-squash,2023
 Morgan Huberman,,Sr.,"5'11""",,"New York, N.Y.",mens-squash,2023
 Arnav Tevatia,,Fr.,"6'4""",,"New York, N.Y.",mens-squash,2023
-Aaron Liang,,Jr.,"5'9""",,Singapore,mens-squash,2023
+Shreemann Raghavan,,Jr.,"5'11""",,"Chennai, India",mens-squash,2023
 Robert Sawyers,,Jr.,"6'0""",,"New York, N.Y.",mens-squash,2023
+Nick Robinson,,Sr.,"6'2""",,"New York, N.Y.",mens-squash,2023
+Jeh Pandole,,So.,,,,mens-squash,2023
+Veer Chotrani,,5th,"5'9""",,"Mumbai, India",mens-squash,2023
+Rohan Iyer,,Jr.,"6'0""",,"Cincinnati, Ohio",mens-squash,2023
+Mukunth Gopalakrishnan,,So.,"6'2""",,"Fremont, Calif.",mens-squash,2023
+Daanyal Agboatwalla,,Jr.,"6'3""",,"Bronx, N.Y.",mens-squash,2023
 Teddy Morneau,,Sr.,"6'0""",,"Toronto, Ontario",mens-squash,2023
 Tanay Punjabi,,Jr.,"6'0""",,"Mumbai, India",mens-squash,2023
-Veer Chotrani,,5th,"5'9""",,"Mumbai, India",mens-squash,2023
-Jeh Pandole,,So.,,,,mens-squash,2023
-Nick Robinson,,Sr.,"6'2""",,"New York, N.Y.",mens-squash,2023
-Shreemann Raghavan,,Jr.,"5'11""",,"Chennai, India",mens-squash,2023
-Syan Singh,,Fr.,"5'10""",,"Mississauga, Ontario",mens-squash,2023
-Spencer Yager,,Sr.,"6'4""",,"Villanova, Pa.",mens-squash,2023
-Rohan Iyer,,Jr.,"6'0""",,"Cincinnati, Ohio",mens-squash,2023
-William Sarbinowski,,Jr.,"5'9""",,"Darien, Conn.",mens-squash,2023
-Mukunth Gopalakrishnan,,So.,"6'2""",,"Fremont, Calif.",mens-squash,2023
-Arnaav Sareen,,Jr.,"5'8""",,"Pune, India",mens-squash,2023
-Daanyal Agboatwalla,,Jr.,"6'3""",,"Bronx, N.Y.",mens-squash,2023
-Rohan Iyer,,Sr.,"6'0""",,"Cincinnati, Ohio",mens-squash,2024
-Aaron Liang,,Sr.,"5'9""",,Singapore,mens-squash,2024
-Shreemann Raghavan,,Sr.,"5'11""",,"Chennai, India",mens-squash,2024
+Arnaav Sareen,,Sr.,"5'8""",,"Pune, India",mens-squash,2024
+Arnav Tevatia,,So.,"6'4""",,"New York, N.Y.",mens-squash,2024
+Syan Singh,,So.,"5'10""",,"Mississauga, Ontario",mens-squash,2024
+Tanay Punjabi,,Sr.,"6'0""",,"Mumbai, India",mens-squash,2024
+Robert Sawyers,,Sr.,"6'0""",,"New York, N.Y.",mens-squash,2024
+Vivaan Shah,,Fr.,"5'9""",,"Mumbai, India",mens-squash,2024
+William Sarbinowski,,Sr.,"5'9""",,"Darien, Conn.",mens-squash,2024
+Youssef Sarhan,,Fr.,"5'7""",,"Cairo, Egypt",mens-squash,2024
+Sebastian Dobron,,Jr.,"6'2""",,"Barrington, R.I.",mens-squash,2024
+Jeh Pandole,,Jr.,,,,mens-squash,2024
+Grant Roshkoff,,Fr.,"5'10""",,"Haverford, Pa.",mens-squash,2024
 Daanyal Agboatwalla,,Sr.,"6'3""",,"Bronx, N.Y.",mens-squash,2024
 Roman Bicknell,,Fr.,"6'0""",,"West Vancouver, British Columbia",mens-squash,2024
-Jeh Pandole,,Jr.,,,,mens-squash,2024
-Tanay Punjabi,,Sr.,"6'0""",,"Mumbai, India",mens-squash,2024
-Sebastian Dobron,,Jr.,"6'2""",,"Barrington, R.I.",mens-squash,2024
-Grant Roshkoff,,Fr.,"5'10""",,"Haverford, Pa.",mens-squash,2024
-William Sarbinowski,,Sr.,"5'9""",,"Darien, Conn.",mens-squash,2024
-Vivaan Shah,,Fr.,"5'9""",,"Mumbai, India",mens-squash,2024
-Syan Singh,,So.,"5'10""",,"Mississauga, Ontario",mens-squash,2024
-Arnav Tevatia,,So.,"6'4""",,"New York, N.Y.",mens-squash,2024
-Arnaav Sareen,,Sr.,"5'8""",,"Pune, India",mens-squash,2024
-Youssef Sarhan,,Fr.,"5'7""",,"Cairo, Egypt",mens-squash,2024
-Robert Sawyers,,Sr.,"6'0""",,"New York, N.Y.",mens-squash,2024
-Youssef Sarhan,,So.,"5'7""",,"Cairo, Egypt",mens-squash,2025
-Kaz Malhotra,,Fr.,"6'1""",,"Portland, Ore.",mens-squash,2025
+Shreemann Raghavan,,Sr.,"5'11""",,"Chennai, India",mens-squash,2024
+Aaron Liang,,Sr.,"5'9""",,Singapore,mens-squash,2024
+Rohan Iyer,,Sr.,"6'0""",,"Cincinnati, Ohio",mens-squash,2024
+Daniel King,,Fr.,,,"Bethesda, Md.",mens-squash,2025
+Grant Roshkoff,,So.,"5'10""",,"Haverford, Pa.",mens-squash,2025
+Roman Bicknell,,So.,"6'0""",,"West Vancouver, British Columbia",mens-squash,2025
 Arnav Tevatia,,Jr.,"6'4""",,"New York, N.Y.",mens-squash,2025
 Aly Ezzat,,Fr.,,,"Cairo, Egypt",mens-squash,2025
+Vivaan Shah,,So.,"5'9""",,"Mumbai, India",mens-squash,2025
 Ethan Jain,,Fr.,"6'0""",,"Toronto, Ontario",mens-squash,2025
-Roman Bicknell,,So.,"6'0""",,"West Vancouver, British Columbia",mens-squash,2025
 Syan Singh,,Jr.,"5'10""",,"Mississauga, Ontario",mens-squash,2025
 Jeh Pandole,,Sr.,,,,mens-squash,2025
-Grant Roshkoff,,So.,"5'10""",,"Haverford, Pa.",mens-squash,2025
-Daniel King,,Fr.,,,"Bethesda, Md.",mens-squash,2025
-Sebastian Dobron,,Sr.,"6'2""",,"Barrington, R.I.",mens-squash,2025
+Kaz Malhotra,,Fr.,"6'1""",,"Portland, Ore.",mens-squash,2025
+Youssef Sarhan,,So.,"5'7""",,"Cairo, Egypt",mens-squash,2025
 Vedant Chheda,,Fr.,"5'11""",,"Mumbai, India",mens-squash,2025
-Vivaan Shah,,So.,"5'9""",,"Mumbai, India",mens-squash,2025
+Sebastian Dobron,,Sr.,"6'2""",,"Barrington, R.I.",mens-squash,2025
 Edward Thng,,Fr.,"5'8""",,Singapore,mens-squash,2025

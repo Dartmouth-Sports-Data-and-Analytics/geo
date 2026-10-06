@@ -1,74 +1,138 @@
 name,position,class,height,weight,hometown,sport,year
-Rachel Arbitman,,Fy,,,"Hewlett, N.Y.",womens-tennis,2021
-Rachel Eason,,Sr.,,,"Union City, Calif.",womens-tennis,2021
-Holly Fischer,,Fy,,,"London, England",womens-tennis,2021
+Erica Oosterhout,,So.,,,"Tampa, Fla.",womens-tennis,2016
+Nika Besker,,Fy,,,"Zagreb, Croatia",womens-tennis,2016
+Angelina Ye,,Fy,,,"Sycamore, Ill.",womens-tennis,2016
+Sabrina Xiong,,So.,,,"Fresh Medows, N.Y.",womens-tennis,2016
+Irene Lu,,Fy,,,"Laurel, Md.",womens-tennis,2016
+Jenna Friedel,,Fy,,,"Mill Valley, Calif.",womens-tennis,2016
+Lexi Milunovich,,Fy,,,"New Canaan, Conn.",womens-tennis,2016
+Kaelli Thiel,,Fy,,,"Piedmont, Calif.",womens-tennis,2016
+Annika Ringblom,,Jr.,,,"Palos Verdes Estates, Calif.",womens-tennis,2016
+June Lee,,Sr.,,,"West Windsor, N.J.",womens-tennis,2016
+Isabel Jasper,,So.,,,"Newton, Mass.",womens-tennis,2016
+Natasha Gonzalez,,Fy,,,"Houston, Texas",womens-tennis,2016
+Erica Oosterhout,,Jr.,,,"Tampa, Fla.",womens-tennis,2017
+Lexi Milunovich,,So.,,,"New Canaan, Conn.",womens-tennis,2017
+Lia Kiam,,Fy,,,"New York, N.Y.",womens-tennis,2017
+Irene Lu,,So.,,,"Laurel, Md.",womens-tennis,2017
+Isabel Jasper,,Jr.,,,"Newton, Mass.",womens-tennis,2017
+Annika Ringblom,,Sr.,,,"Palos Verdes Estates, Calif.",womens-tennis,2017
+Anna Li,,Fy,,,"Wexford, Pa.",womens-tennis,2017
+Jenna Moustafa,,Fy,,,"Los Angeles, Calif.",womens-tennis,2017
+Neha Gupta,,Fy,,,"Elk Grove, Calif.",womens-tennis,2017
+Natasha Gonzalez,,So.,,,"Houston, Texas",womens-tennis,2017
+Jenna Friedel,,So.,,,"Mill Valley, Calif.",womens-tennis,2017
+Isabel Jasper,,Sr.,,,"Newton, Mass.",womens-tennis,2018
+Natasha Gonzalez,,Jr.,,,"Houston, Texas",womens-tennis,2018
+Neha Gupta,,So.,,,"Elk Grove, Calif.",womens-tennis,2018
+Rachel Eason,,Fy,,,"Union City, Calif.",womens-tennis,2018
+Anna Li,,So.,,,"Wexford, Pa.",womens-tennis,2018
+Lexi Milunovich,,Jr.,,,"New Canaan, Conn.",womens-tennis,2018
+Annika Bassey,,Fy,,,"Denver, Colo.",womens-tennis,2018
+Chelsea Williams,,Fy,,,"Brooklyn, N.Y.",womens-tennis,2018
+Jenna Friedel,,Jr.,,,"Mill Valley, Calif.",womens-tennis,2018
+Irene Lu,,Jr.,,,"Laurel, Md.",womens-tennis,2018
+Jenna Moustafa,,So.,,,"Los Angeles, Calif.",womens-tennis,2018
+Erica Oosterhout,,Sr.,,,"Tampa, Fla.",womens-tennis,2018
+Rachel Lim,,Fy,,,"Briarcliff Manor, N.Y.",womens-tennis,2018
+Lexi Milunovich,,Sr.,,,"New Canaan, Conn.",womens-tennis,2019
+Mihaela Marculescu,,Fy,,,"Bucharest, Romania",womens-tennis,2019
+Irene Lu,,Sr.,,,"Laurel, Md.",womens-tennis,2019
+Anna Li,,Jr.,,,"Wexford, Pa.",womens-tennis,2019
+Demi Snyder,,Fy,,,"Ft. Lauderdale, Fla.",womens-tennis,2019
+Lauryn Wu,,Fy,,,"McLean, Va.",womens-tennis,2019
+Chelsea Williams,,So.,,,"Brooklyn, N.Y.",womens-tennis,2019
+Rachel Eason,,So.,,,"Union City, Calif.",womens-tennis,2019
+Annika Bassey,,So.,,,"Denver, Colo.",womens-tennis,2019
+Kayla Leschly,,Fy,,,"Weston, Mass.",womens-tennis,2019
+Rachel Lim,,So.,,,"Briarcliff Manor, N.Y.",womens-tennis,2019
+Sophia Ho,,Fy,,,"Port Moody, British Columbia",womens-tennis,2019
+Natasha Gonzalez,,Sr.,,,"Houston, Texas",womens-tennis,2019
+Jenna Friedel,,Sr.,,,"Mill Valley, Calif.",womens-tennis,2019
+Chelsea Williams,,Jr.,,,"Brooklyn, N.Y.",womens-tennis,2020
+Mihaela Marculescu,,So.,,,"Bucharest, Romania",womens-tennis,2020
+Anna Li,,Sr.,,,"Wexford, Pa.",womens-tennis,2020
+Rachel Lim,,Jr.,,,"Briarcliff Manor, N.Y.",womens-tennis,2020
+Neha Gupta,,Sr.,,,"Elk Grove, Calif.",womens-tennis,2020
+Lauryn Wu,,So.,,,"McLean, Va.",womens-tennis,2020
+Demi Snyder,,So.,,,"Ft. Lauderdale, Fla.",womens-tennis,2020
+Sany Gawande,,Fy,,,"Bradenton, Fla.",womens-tennis,2020
+Kayla Leschly,,So.,,,"Weston, Mass.",womens-tennis,2020
+Rachel Eason,,Jr.,,,"Union City, Calif.",womens-tennis,2020
+Amy Huang,,Fy,,,"San Diego, Calif.",womens-tennis,2020
+Sophia Ho,,So.,,,"Port Moody, British Columbia",womens-tennis,2020
+Iveta Daujotaite,,Fy,,,"Siauliai Vijoliai, Lithuania",womens-tennis,2020
+Annika Bassey,,Jr.,,,"Denver, Colo.",womens-tennis,2020
 Sophia Ho,,Jr.,,,"Port Moody, British Columbia",womens-tennis,2021
+Mihaela Marculescu,,Jr.,,,"Bucharest, Romania",womens-tennis,2021
+Sany Gawande,,So.,,,"Bradenton, Fla.",womens-tennis,2021
+Angel You,,Fy,,,"Chantilly, Va.",womens-tennis,2021
+Rachel Arbitman,,Fy,,,"Hewlett, N.Y.",womens-tennis,2021
+Rachel Lim,,Sr.,,,"Briarcliff Manor, N.Y.",womens-tennis,2021
+Maxi Duncan,,Fy,,,"Los Angeles, Calif.",womens-tennis,2021
 Annika Bassey,,Sr.,,,"Denver, Colo.",womens-tennis,2021
 Iveta Daujotaite,,So.,,,"Siauliai Vijoliai, Lithuania",womens-tennis,2021
-Sany Gawande,,So.,,,"Bradenton, Fla.",womens-tennis,2021
-Maxi Duncan,,Fy,,,"Los Angeles, Calif.",womens-tennis,2021
+Kayla Leschly,,Jr.,,,"Weston, Mass.",womens-tennis,2021
+Holly Fischer,,Fy,,,"London, England",womens-tennis,2021
+Rachel Eason,,Sr.,,,"Union City, Calif.",womens-tennis,2021
 Amy Huang,,So.,,,"San Diego, Calif.",womens-tennis,2021
 Demi Snyder,,Jr.,,,"Ft. Lauderdale, Fla.",womens-tennis,2021
 Chelsea Williams,,Sr.,,,"Brooklyn, N.Y.",womens-tennis,2021
-Angel You,,Fy,,,"Chantilly, Va.",womens-tennis,2021
-Kayla Leschly,,Jr.,,,"Weston, Mass.",womens-tennis,2021
-Rachel Lim,,Sr.,,,"Briarcliff Manor, N.Y.",womens-tennis,2021
-Mihaela Marculescu,,Jr.,,,"Bucharest, Romania",womens-tennis,2021
+Maxi Duncan,,So.,,,"Los Angeles, Calif.",womens-tennis,2022
 Iveta Daujotaite,,Jr.,,,"Siauliai Vijoliai, Lithuania",womens-tennis,2022
 Charlotte Owensby,,Fy,,,"Boca Raton, Fla.",womens-tennis,2022
 Mihaela Marculescu,,Sr.,,,"Bucharest, Romania",womens-tennis,2022
-Amy Huang,,Jr.,,,"San Diego, Calif.",womens-tennis,2022
+Sany Gawande,,Jr.,,,"Bradenton, Fla.",womens-tennis,2022
 Sophia Ho,,Sr.,,,"Port Moody, British Columbia",womens-tennis,2022
-Demi Snyder,,Sr.,,,"Ft. Lauderdale, Fla.",womens-tennis,2022
 Kayla Leschly,,Sr.,,,"Weston, Mass.",womens-tennis,2022
 Angel You,,So.,,,"Chantilly, Va.",womens-tennis,2022
 Rachel Arbitman,,So.,,,"Hewlett, N.Y.",womens-tennis,2022
-Sany Gawande,,Jr.,,,"Bradenton, Fla.",womens-tennis,2022
-Maxi Duncan,,So.,,,"Los Angeles, Calif.",womens-tennis,2022
-Natalie Block,,Fy,,,"Plantation, Fla.",womens-tennis,2023
+Amy Huang,,Jr.,,,"San Diego, Calif.",womens-tennis,2022
+Demi Snyder,,Sr.,,,"Ft. Lauderdale, Fla.",womens-tennis,2022
 Iveta Daujotaite,,Sr.,,,"Siauliai Vijoliai, Lithuania",womens-tennis,2023
 Maxi Duncan,,Jr.,,,"Los Angeles, Calif.",womens-tennis,2023
 Rachel Arbitman,,Jr.,,,"Hewlett, N.Y.",womens-tennis,2023
 Holly Fischer,,Jr.,,,"London, England",womens-tennis,2023
+Elsie Ragatz,,Fy,,,"Woodside, Calif.",womens-tennis,2023
+Natalie Block,,Fy,,,"Plantation, Fla.",womens-tennis,2023
+Charlotte Owensby,,So.,,,"Boca Raton, Fla.",womens-tennis,2023
 Sany Gawande,,Sr.,,,"Bradenton, Fla.",womens-tennis,2023
+Angel You,,Jr.,,,"Chantilly, Va.",womens-tennis,2023
 Kavya Karra,,Fy,,,"Princeton Junction, N.J.",womens-tennis,2023
 Stephanie Yakoff,,Fy,,,"Fort Lee, N.J.",womens-tennis,2023
 Kate Kim,,Fy,,,"Joplin, Mo.",womens-tennis,2023
-Charlotte Owensby,,So.,,,"Boca Raton, Fla.",womens-tennis,2023
-Elsie Ragatz,,Fy,,,"Woodside, Calif.",womens-tennis,2023
-Angel You,,Jr.,,,"Chantilly, Va.",womens-tennis,2023
-Rachel Arbitman,,Sr.,,,"Hewlett, N.Y.",womens-tennis,2024
-Natalie Block,,So.,,,"Plantation, Fla.",womens-tennis,2024
-Maxi Duncan,,Sr.,,,"Los Angeles, Calif.",womens-tennis,2024
-Holly Fischer,,Sr.,,,"London, England",womens-tennis,2024
-Kavya Karra,,So.,,,"Princeton Junction, N.J.",womens-tennis,2024
-Kate Kim,,So.,,,"Joplin, Mo.",womens-tennis,2024
-Charlotte Owensby,,Jr.,,,"Boca Raton, Fla.",womens-tennis,2024
-Elsie Ragatz,,So.,,,"Woodside, Calif.",womens-tennis,2024
-Natasha Rajaram,,Fy,,,"Cupertino, Calif.",womens-tennis,2024
 Anna-Raphaëlle Serghi,,Fy,,,"Ottawa, Ontario",womens-tennis,2024
+Natasha Rajaram,,Fy,,,"Cupertino, Calif.",womens-tennis,2024
+Kate Kim,,So.,,,"Joplin, Mo.",womens-tennis,2024
+Elsie Ragatz,,So.,,,"Woodside, Calif.",womens-tennis,2024
 Stephanie Yakoff,,So.,,,"Fort Lee, N.J.",womens-tennis,2024
 Angel You,,Sr.,,,"Chantilly, Va.",womens-tennis,2024
+Holly Fischer,,Sr.,,,"London, England",womens-tennis,2024
+Rachel Arbitman,,Sr.,,,"Hewlett, N.Y.",womens-tennis,2024
+Natalie Block,,So.,,,"Plantation, Fla.",womens-tennis,2024
+Kavya Karra,,So.,,,"Princeton Junction, N.J.",womens-tennis,2024
+Maxi Duncan,,Sr.,,,"Los Angeles, Calif.",womens-tennis,2024
+Charlotte Owensby,,Jr.,,,"Boca Raton, Fla.",womens-tennis,2024
+Claire Shao,,Fy,,,"Princeton Junction, N.J.",womens-tennis,2025
 Natalie Block,,Jr.,,,"Plantation, Fla.",womens-tennis,2025
-Andra Braicu,,Fy,,,"Berlin, Germany",womens-tennis,2025
-Kavya Karra,,Jr.,,,"Princeton Junction, N.J.",womens-tennis,2025
-Isabella Ohr,,Fy,,,,womens-tennis,2025
-Polina Krumkachev,,Fy,,,"Bradenton, Fla.",womens-tennis,2025
-Kate Kim,,Jr.,,,"Joplin, Mo.",womens-tennis,2025
+Charlotte Owensby,,Sr.,,,"Boca Raton, Fla.",womens-tennis,2025
+Anna-Raphaëlle Serghi,,So.,,,"Ottawa, Ontario",womens-tennis,2025
+Natasha Rajaram,,So.,,,"Cupertino, Calif.",womens-tennis,2025
 Stephanie Yakoff,,Jr.,,,"Fort Lee, N.J.",womens-tennis,2025
 Elsie Ragatz,,Jr.,,,"Woodside, Calif.",womens-tennis,2025
-Natasha Rajaram,,So.,,,"Cupertino, Calif.",womens-tennis,2025
-Anna-Raphaëlle Serghi,,So.,,,"Ottawa, Ontario",womens-tennis,2025
-Claire Shao,,Fy,,,"Princeton Junction, N.J.",womens-tennis,2025
-Charlotte Owensby,,Sr.,,,"Boca Raton, Fla.",womens-tennis,2025
+Polina Krumkachev,,Fy,,,"Bradenton, Fla.",womens-tennis,2025
+Isabella Ohr,,Fy,,,,womens-tennis,2025
+Kavya Karra,,Jr.,,,"Princeton Junction, N.J.",womens-tennis,2025
+Andra Braicu,,Fy,,,"Berlin, Germany",womens-tennis,2025
+Kate Kim,,Jr.,,,"Joplin, Mo.",womens-tennis,2025
 Anna Tabunshchyk,,Fy,,,"Burlington, Ontario, Canada",womens-tennis,2026
 Claire Shao,,So.,,,"Princeton Junction, N.J.",womens-tennis,2026
 Anna-Raphaëlle Serghi,,Jr.,,,"Ottawa, Ontario",womens-tennis,2026
 Natasha Rajaram,,Jr.,,,"Cupertino, Calif.",womens-tennis,2026
 Elsie Ragatz,,Sr.,,,"Woodside, Calif.",womens-tennis,2026
 Isabella Ohr,,So.,,,,womens-tennis,2026
-Kate Kim,,Sr.,,,"Joplin, Mo.",womens-tennis,2026
 Kavya Karra,,Sr.,,,"Princeton Junction, N.J.",womens-tennis,2026
+Kate Kim,,Sr.,,,"Joplin, Mo.",womens-tennis,2026
 Elizabeth Evans,,Fy,,,"Cardiff, Wales, United Kingdom",womens-tennis,2026
 Andra Braicu,,So.,,,"Berlin, Germany",womens-tennis,2026
 Natalie Block,,Sr.,,,"Plantation, Fla.",womens-tennis,2026

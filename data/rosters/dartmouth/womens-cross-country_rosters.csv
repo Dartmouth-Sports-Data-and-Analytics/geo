@@ -1,123 +1,242 @@
 name,position,class,height,weight,hometown,sport,year
-Anna Banovac,Distance,Fy.,,,"Brentwood, Tenn.",womens-cross-country,2021
-Macenna Hansen,Distance,Jr.,,,"Bellevue, Wash.",womens-cross-country,2021
-Corinne Robitaille,Distance,Jr.,,,"Manchester, N.H.",womens-cross-country,2021
-Sara Fragione,Distance,Jr.,,,"Methuen, Mass.",womens-cross-country,2021
-Annie Jackson,Mid-Distance,So.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2021
-Anya Hirschfeld,Distance,Jr.,,,"Seattle, Wash.",womens-cross-country,2021
-Isabella Chao,Distance,Sr.,,,"Lafayette, Calif.",womens-cross-country,2021
-Abigail Brazil,Distance,Gr.,,,"Jackson, Wy.",womens-cross-country,2021
-Emily Levonas,Mid-Distance,So.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2021
-Steph Finley,Distance,Jr.,,,"Portland, Ore.",womens-cross-country,2021
-Natalie Shapiro,Distance,So.,5' 5'',,"Morganville, N.J.",womens-cross-country,2021
-Emma Kerimo,Distance,Fy.,,,"Concord, Mass.",womens-cross-country,2021
-MaryGrace Rittler,Distance,Sr.,,,"Glenside, Pa,",womens-cross-country,2021
-Evie Cohen,Distance,Fy.,,,"San Francisco, Calif.",womens-cross-country,2021
-Madeleine Locher,Distance,Fy.,,,"Ventura, Calif.",womens-cross-country,2021
-Breanna Glover,Distance,Sr.,,,"Ravensdale, Wash.",womens-cross-country,2021
-Ellie Tymorek,Distance,Fy.,,,"Boca Raton, Fla.",womens-cross-country,2021
-Caroline Livingston,Mid-Distance,Fy.,5' 3'',,"Barrington, R.I.",womens-cross-country,2021
-Kendra Foley Andrews,,,,,,womens-cross-country,2021
-Payton Weiner,Distance,Fy.,,,"Haddonfield, N.J.",womens-cross-country,2021
-Veronica Winham,Distance,Sr.,,,"Pukalani, Hawaii",womens-cross-country,2021
-Madaket Nobili,Distance,Sr.,,,"Eastham, Mass.",womens-cross-country,2021
-Glennis Murphy,Distance,Gr.,,,"Larkspur, Calif.",womens-cross-country,2021
+Aliyah Gallup,Distance,Sr.,,,"Springfield, Ore.",womens-cross-country,2016
+Meg Tuthill,Distance,Fy.,,,"Southold, N.Y.",womens-cross-country,2016
+Anna Clark,Distance,So.,,,"Saxtons River, Vt.",womens-cross-country,2016
+Julia Stevenson,Distance,Fy.,,,"Tarrytown, N.Y.",womens-cross-country,2016
+Olivia Lantz,Distance,So.,,,"Manchester, Mass.",womens-cross-country,2016
+Diana Vizza,Distance,Fy.,,,"Glen Head, N.Y.",womens-cross-country,2016
+Abby Livingston,Distance,Jr.,,,"Barrington, R.I.",womens-cross-country,2016
+Lauren Sapone,Distance,Fy.,,,"Shrewsbury, N.J.",womens-cross-country,2016
+Jennie Cunningham,Distance,Sr.,,,"Southern Pines, N.C.",womens-cross-country,2016
+Bridget O'Neill,Distance,Jr.,,,"Oakville, Ontario",womens-cross-country,2016
+Eliza Dekker,Distance,So.,,,"Durham, N.C.",womens-cross-country,2016
+Barry Harwick,,,,,,womens-cross-country,2016
+Alexa Jennings,Distance,Fy.,,,"Dayton, Ohio",womens-cross-country,2016
+Leigh Moffett,Distance,Jr.,,,"Friant, Calif.",womens-cross-country,2016
+Meghan Grela,Distance,Sr.,,,"Weston, Mass.",womens-cross-country,2016
+Grace Thompson,Distance,So.,,,"West Vancouver, British Columbia",womens-cross-country,2016
+Claire Dougherty,Distance,Fy.,,,"Mt. Lebanon, Pa.",womens-cross-country,2016
+Helen Schlachtenhaufen,Distance,Sr.,,,"Lake Forest, Ill.",womens-cross-country,2016
+Annalisa Crowe,Distance,Fy.,,,"Atherton, Calif.",womens-cross-country,2016
+Georgia Fear,Distance,Fy.,,,"London, England",womens-cross-country,2016
+Bridget Flynn,Distance,Jr.,,,"Margate City, N.J.",womens-cross-country,2016
+Allison Anderson,Distance,Fy.,,,"Toronto, Ontario",womens-cross-country,2016
+Maya Jarostchuk,Distance,Sr.,,,"Acton, Mass.",womens-cross-country,2016
+Lauren Archer,Distance,Fy.,,,"Miami, Fla.",womens-cross-country,2016
+Angela Ortlieb,Distance,So.,,,"Escondido, Calif.",womens-cross-country,2016
+Lillian Anderson,Distance,So.,,,"Asheville, N.C.",womens-cross-country,2016
+Olivia Lantz,Distance,Jr.,,,"Manchester, Mass.",womens-cross-country,2017
+Meg Tuthill,Distance,So.,,,"Southold, N.Y.",womens-cross-country,2017
+Courtney Jaworski,,,,,,womens-cross-country,2017
+Diana Vizza,Distance,So.,,,"Glen Head, N.Y.",womens-cross-country,2017
+Grace Thompson,Distance,Jr.,,,"West Vancouver, British Columbia",womens-cross-country,2017
+Ella Ketchum,Distance,Fy.,,,"Brooklyn, N.Y.",womens-cross-country,2017
+Angela Ortlieb,Distance,Jr.,,,"Escondido, Calif.",womens-cross-country,2017
+Bridget O'Neill,Distance,Sr.,,,"Oakville, Ontario",womens-cross-country,2017
+Glennis Murphy,Distance,Fy.,,,"Larkspur, Calif.",womens-cross-country,2017
+Leigh Moffett,Distance,Sr.,,,"Friant, Calif.",womens-cross-country,2017
+Lauren Sapone,Distance,So.,,,"Shrewsbury, N.J.",womens-cross-country,2017
+Abby Livingston,Distance,Sr.,,,"Barrington, R.I.",womens-cross-country,2017
+Julia Stevenson,Distance,So.,,,"Tarrytown, N.Y.",womens-cross-country,2017
+Allison Anderson,Distance,So.,,,"Toronto, Ontario",womens-cross-country,2017
+Annalisa Crowe,Distance,So.,,,"Atherton, Calif.",womens-cross-country,2017
+Lauren Archer,Distance,So.,,,"Miami, Fla.",womens-cross-country,2017
+Abigail Brazil,Distance,Fy.,,,"Jackson, Wy.",womens-cross-country,2017
+Lillian Anderson,Distance,Jr.,,,"Asheville, N.C.",womens-cross-country,2017
+Isabelle Giordano,MD,Fy.,,,"Hopkinton, Mass.",womens-cross-country,2017
+Anna Clark,Distance,Jr.,,,"Saxtons River, Vt.",womens-cross-country,2017
+Bridget Flynn,Distance,Sr.,,,"Margate City, N.J.",womens-cross-country,2017
+Eliza Dekker,Distance,Jr.,,,"Durham, N.C.",womens-cross-country,2017
+Anna DiMarcello,Distance,Fy.,,,"Asbury, N.J.",womens-cross-country,2017
+Claire Dougherty,Distance,So.,,,"Mt. Lebanon, Pa.",womens-cross-country,2017
+Georgia Fear,Distance,So.,,,"London, England",womens-cross-country,2017
+Rachel Ludwikowski,Distance,Fy.,,,"Montebello, N.Y.",womens-cross-country,2017
+Georgia Fear,Distance,Jr.,,,"London, England",womens-cross-country,2018
+Diana Vizza,Distance,Jr.,,,"Glen Head, N.Y.",womens-cross-country,2018
+Lillian Anderson,Distance,Sr.,,,"Asheville, N.C.",womens-cross-country,2018
+Veronica Winham,Distance,Fy.,,,"Pukalani, Hawaii",womens-cross-country,2018
+Anna DiMarcello,Distance,So.,,,"Asbury, N.J.",womens-cross-country,2018
+Allison Anderson,Distance,Jr.,,,"Toronto, Ontario",womens-cross-country,2018
+Eliza Dekker,Distance,Sr.,,,"Durham, N.C.",womens-cross-country,2018
+Isabella Chao,Distance,Fy.,,,"Lafayette, Calif.",womens-cross-country,2018
+Abigail Brazil,Distance,So.,,,"Jackson, Wy.",womens-cross-country,2018
+Courtney Jaworski,,,,,,womens-cross-country,2018
+Anna Clark,Distance,Sr.,,,"Saxtons River, Vt.",womens-cross-country,2018
+Soleil Gaylord,Distance,Fy.,,,"Telluride, Colo.",womens-cross-country,2018
+Isabelle Giordano,MD,So.,,,"Hopkinton, Mass.",womens-cross-country,2018
+Angela Ortlieb,Distance,Sr.,,,"Escondido, Calif.",womens-cross-country,2018
+Breanna Glover,Distance,Fy.,,,"Ravensdale, Wash.",womens-cross-country,2018
+Lauren Sapone,Distance,Jr.,,,"Shrewsbury, N.J.",womens-cross-country,2018
+Alexa Jennings,Distance,Jr.,,,"Dayton, Ohio",womens-cross-country,2018
+Meg Tuthill,Distance,Jr.,,,"Southold, N.Y.",womens-cross-country,2018
+Madaket Nobili,Distance,Fy.,,,"Eastham, Mass.",womens-cross-country,2018
+Julia Stevenson,Distance,Jr.,,,"Tarrytown, N.Y.",womens-cross-country,2018
+MaryGrace Rittler,Distance,Fy.,,,"Glenside, Pa,",womens-cross-country,2018
+Ella Ketchum,Distance,So.,,,"Brooklyn, N.Y.",womens-cross-country,2018
+Grace Thompson,Distance,Sr.,,,"West Vancouver, British Columbia",womens-cross-country,2018
+Rachel Ludwikowski,Distance,So.,,,"Montebello, N.Y.",womens-cross-country,2018
+Glennis Murphy,Distance,So.,,,"Larkspur, Calif.",womens-cross-country,2018
+Olivia Lantz,Distance,Sr.,,,"Manchester, Mass.",womens-cross-country,2018
+Madaket Nobili,Distance,So.,,,"Eastham, Mass.",womens-cross-country,2019
+Rachel Ludwikowski,Distance,Jr.,,,"Montebello, N.Y.",womens-cross-country,2019
+Glennis Murphy,Distance,Jr.,,,"Larkspur, Calif.",womens-cross-country,2019
+Courtney Jaworski,,,,,,womens-cross-country,2019
+Ella Ketchum,Distance,Jr.,,,"Brooklyn, N.Y.",womens-cross-country,2019
+Veronica Winham,Distance,So.,,,"Pukalani, Hawaii",womens-cross-country,2019
+Diana Vizza,Distance,Sr.,,,"Glen Head, N.Y.",womens-cross-country,2019
+Lauren Sapone,Distance(C),Sr.,,,"Shrewsbury, N.J.",womens-cross-country,2019
+Claudia Lane,Distance,Fy.,,,"Malibu, Calif.",womens-cross-country,2019
+Julia Stevenson,Distance(C),Sr.,,,"Tarrytown, N.Y.",womens-cross-country,2019
+Julia Robitaille,Distance,Fy.,,,"Manchester, N.H.",womens-cross-country,2019
+Meg Tuthill,Distance,Sr.,,,"Southold, N.Y.",womens-cross-country,2019
+Macenna Hansen,Distance,Fy.,,,"Bellevue, Wash.",womens-cross-country,2019
+Claire Dougherty,Distance,Sr.,,,"Mt. Lebanon, Pa.",womens-cross-country,2019
+MaryGrace Rittler,Distance,So.,,,"Glenside, Pa,",womens-cross-country,2019
+Corinne Robitaille,Distance,Fy.,,,"Manchester, N.H.",womens-cross-country,2019
+Samantha Ford,Distance,Fy.,,,"Toronto, Ontario",womens-cross-country,2019
+Anya Hirschfeld,Distance,Fy.,,,"Seattle, Wash.",womens-cross-country,2019
+Lauren Archer,Distance,Sr.,,,"Miami, Fla.",womens-cross-country,2019
+Georgia Fear,Distance,Sr.,,,"London, England",womens-cross-country,2019
+Abigail Brazil,Distance,Jr.,,,"Jackson, Wy.",womens-cross-country,2019
+Steph Finley,Distance,Fy.,,,"Portland, Ore.",womens-cross-country,2019
+Breanna Glover,Distance,So.,,,"Ravensdale, Wash.",womens-cross-country,2019
+Isabella Chao,Distance,So.,,,"Lafayette, Calif.",womens-cross-country,2019
+Breanna Glover,Distance,Jr.,,,"Ravensdale, Wash.",womens-cross-country,2020
+Veronica Winham,Distance,Jr.,,,"Pukalani, Hawaii",womens-cross-country,2020
+Rachel Ludwikowski,Distance,Sr.,,,"Montebello, N.Y.",womens-cross-country,2020
+Julia Robitaille,Distance,So.,,,"Manchester, N.H.",womens-cross-country,2020
+Isabella Chao,Distance,Jr.,,,"Lafayette, Calif.",womens-cross-country,2020
+Madaket Nobili,Distance,Jr.,,,"Eastham, Mass.",womens-cross-country,2020
+Glennis Murphy,Distance(C),Sr.,,,"Larkspur, Calif.",womens-cross-country,2020
+Annie Jackson,Mid-Dist./XC,Fy.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2020
+Corinne Robitaille,Distance,So.,,,"Manchester, N.H.",womens-cross-country,2020
+Anya Hirschfeld,Distance,So.,,,"Seattle, Wash.",womens-cross-country,2020
+Macenna Hansen,Distance,So.,,,"Bellevue, Wash.",womens-cross-country,2020
+Samantha Ford,Distance,So.,,,"Toronto, Ontario",womens-cross-country,2020
+Steph Finley,Distance,So.,,,"Portland, Ore.",womens-cross-country,2020
+Natalie Shapiro,Dist./XC,Fy.,5' 5'',,"Morganville, N.J.",womens-cross-country,2020
+Abigail Brazil,Distance(C),Sr.,,,"Jackson, Wy.",womens-cross-country,2020
+Courtney Jaworski,,,,,,womens-cross-country,2020
+Emily Levonas,Mid-Dist./XC,Fy.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2020
 Julia Robitaille,Distance,Jr.,,,"Manchester, N.H.",womens-cross-country,2021
+Madeleine Locher,Distance,Fy.,,,"Ventura, Calif.",womens-cross-country,2021
 Samantha Ford,Distance,Jr.,,,"Toronto, Ontario",womens-cross-country,2021
 Bella Pietrasiewicz,Distance,Fy.,,,"Norton, Mass.",womens-cross-country,2021
-Natalie Shapiro,Distance,Jr.,5' 5'',,"Morganville, N.J.",womens-cross-country,2022
-Julia Fenerty,Middle Distance(C),Sr.,,,"Franklin, Mass.",womens-cross-country,2022
-Evie Cohen,Distance,So.,,,"San Francisco, Calif.",womens-cross-country,2022
-Mia Compton-Engle,Distance,Fy.,,,"Shaker Heights, Ohio",womens-cross-country,2022
-Anna Banovac,Distance,So.,,,"Brentwood, Tenn.",womens-cross-country,2022
-Uhuru Hashimoto,Distance,Sr.,,,"Ellensburg, Wash.",womens-cross-country,2022
-Sofia Abrego,Distance,Fy.,,,"Porter Ranch, Calif.",womens-cross-country,2022
-Sara Fragione,Distance,Sr.,,,"Methuen, Mass.",womens-cross-country,2022
-Annie Jackson,Mid-Distance,Jr.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2022
-Macenna Hansen,Distance,Sr.,,,"Bellevue, Wash.",womens-cross-country,2022
-Kendra Foley Andrews,,,,,,womens-cross-country,2022
-Anya Hirschfeld,Distance,Sr.,,,"Seattle, Wash.",womens-cross-country,2022
-Esme Huh,Distance,Fy.,,,"Birmingham, Ala.",womens-cross-country,2022
+Madaket Nobili,Distance,Sr.,,,"Eastham, Mass.",womens-cross-country,2021
+Glennis Murphy,Distance,Gr.,,,"Larkspur, Calif.",womens-cross-country,2021
+Evie Cohen,Distance,Fy.,,,"San Francisco, Calif.",womens-cross-country,2021
+Breanna Glover,Distance,Sr.,,,"Ravensdale, Wash.",womens-cross-country,2021
+Veronica Winham,Distance,Sr.,,,"Pukalani, Hawaii",womens-cross-country,2021
+Payton Weiner,Distance,Fy.,,,"Haddonfield, N.J.",womens-cross-country,2021
+Ellie Tymorek,Distance,Fy.,,,"Boca Raton, Fla.",womens-cross-country,2021
+Anna Banovac,Distance,Fy.,,,"Brentwood, Tenn.",womens-cross-country,2021
+Kendra Foley Andrews,,,,,,womens-cross-country,2021
+Corinne Robitaille,Distance,Jr.,,,"Manchester, N.H.",womens-cross-country,2021
+Natalie Shapiro,Distance,So.,5' 5'',,"Morganville, N.J.",womens-cross-country,2021
+Anya Hirschfeld,Distance,Jr.,,,"Seattle, Wash.",womens-cross-country,2021
+Emma Kerimo,Distance,Fy.,,,"Concord, Mass.",womens-cross-country,2021
+Isabella Chao,Distance,Sr.,,,"Lafayette, Calif.",womens-cross-country,2021
+Emily Levonas,Mid-Distance,So.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2021
+Steph Finley,Distance,Jr.,,,"Portland, Ore.",womens-cross-country,2021
+Abigail Brazil,Distance,Gr.,,,"Jackson, Wy.",womens-cross-country,2021
+Caroline Livingston,Mid-Distance,Fy.,5' 3'',,"Barrington, R.I.",womens-cross-country,2021
+Macenna Hansen,Distance,Jr.,,,"Bellevue, Wash.",womens-cross-country,2021
+Annie Jackson,Mid-Distance,So.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2021
+Sara Fragione,Distance,Jr.,,,"Methuen, Mass.",womens-cross-country,2021
+MaryGrace Rittler,Distance,Sr.,,,"Glenside, Pa,",womens-cross-country,2021
 Ellie Tymorek,Distance,So.,,,"Boca Raton, Fla.",womens-cross-country,2022
 Emma Kerimo,Distance,So.,,,"Concord, Mass.",womens-cross-country,2022
-Samantha Ford,Distance,Sr.,,,"Toronto, Ontario",womens-cross-country,2022
-Breanna Glover,Distance,5th,,,"Ravensdale, Wash.",womens-cross-country,2022
 Madeleine Locher,Distance,So.,,,"Ventura, Calif.",womens-cross-country,2022
 Andie Murray,Distance,Fy.,,,"Allentown, N.J.",womens-cross-country,2022
-Corinne Robitaille,Distance,Sr.,,,"Manchester, N.H.",womens-cross-country,2022
-Bella Pietrasiewicz,Distance,So.,,,"Norton, Mass.",womens-cross-country,2022
+Evie Cohen,Distance,So.,,,"San Francisco, Calif.",womens-cross-country,2022
+Breanna Glover,Distance,5th,,,"Ravensdale, Wash.",womens-cross-country,2022
 Julia Robitaille,Distance(C),Sr.,,,"Manchester, N.H.",womens-cross-country,2022
 Caroline Livingston,Mid-Distance,So.,5' 3'',,"Barrington, R.I.",womens-cross-country,2022
-Katherine Strong,Distance,Fy.,,,"McLean, Va.",womens-cross-country,2022
+Samantha Ford,Distance,Sr.,,,"Toronto, Ontario",womens-cross-country,2022
+Corinne Robitaille,Distance,Sr.,,,"Manchester, N.H.",womens-cross-country,2022
 Steph Finley,Distance,Sr.,,,"Portland, Ore.",womens-cross-country,2022
+Bella Pietrasiewicz,Distance,So.,,,"Norton, Mass.",womens-cross-country,2022
+Esme Huh,Distance,Fy.,,,"Birmingham, Ala.",womens-cross-country,2022
+Anya Hirschfeld,Distance,Sr.,,,"Seattle, Wash.",womens-cross-country,2022
+Anna Banovac,Distance,So.,,,"Brentwood, Tenn.",womens-cross-country,2022
+Natalie Shapiro,Distance,Jr.,5' 5'',,"Morganville, N.J.",womens-cross-country,2022
+Sara Fragione,Distance,Sr.,,,"Methuen, Mass.",womens-cross-country,2022
+Sofia Abrego,Distance,Fy.,,,"Porter Ranch, Calif.",womens-cross-country,2022
+Macenna Hansen,Distance,Sr.,,,"Bellevue, Wash.",womens-cross-country,2022
+Mia Compton-Engle,Distance,Fy.,,,"Shaker Heights, Ohio",womens-cross-country,2022
+Katherine Strong,Distance,Fy.,,,"McLean, Va.",womens-cross-country,2022
 Payton Weiner,Distance,So.,,,"Haddonfield, N.J.",womens-cross-country,2022
+Julia Fenerty,Middle Distance(C),Sr.,,,"Franklin, Mass.",womens-cross-country,2022
+Uhuru Hashimoto,Distance,Sr.,,,"Ellensburg, Wash.",womens-cross-country,2022
+Kendra Foley Andrews,,,,,,womens-cross-country,2022
 Emily Levonas,Mid-Distance,Jr.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2022
-Bella Pietrasiewicz,Distance,Jr.,,,"Norton, Mass.",womens-cross-country,2023
-Anna Banovac,Distance,Jr.,,,"Brentwood, Tenn.",womens-cross-country,2023
-Evie Cohen,Distance,Jr.,,,"San Francisco, Calif.",womens-cross-country,2023
-Mia Compton-Engle,Distance,So.,,,"Shaker Heights, Ohio",womens-cross-country,2023
-Emily Levonas,Mid-Distance,Sr.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2023
+Annie Jackson,Mid-Distance,Jr.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2022
 Esme Huh,Distance,So.,,,"Birmingham, Ala.",womens-cross-country,2023
 Annie Jackson,Mid-Distance,Sr.,5' 11'',,"Dorchester, Mass.",womens-cross-country,2023
+Nicole Lipieta,Distance,Fy.,,,"Woolwich, N.J.",womens-cross-country,2023
+Payton Weiner,Distance,Jr.,,,"Haddonfield, N.J.",womens-cross-country,2023
+Ellie Tymorek,Distance,Jr.,,,"Boca Raton, Fla.",womens-cross-country,2023
+Katherine Strong,Distance,So.,,,"McLean, Va.",womens-cross-country,2023
+Sofia Abrego,Distance,So.,,,"Porter Ranch, Calif.",womens-cross-country,2023
+Natalie Shapiro,Distance,Sr.,5' 5'',,"Morganville, N.J.",womens-cross-country,2023
+Andie Murray,Distance,So.,,,"Allentown, N.J.",womens-cross-country,2023
+Emily Levonas,Mid-Distance,Sr.,5' 4'',,"Holmdel, N.J.",womens-cross-country,2023
+Bella Pietrasiewicz,Distance,Jr.,,,"Norton, Mass.",womens-cross-country,2023
+Mia Compton-Engle,Distance,So.,,,"Shaker Heights, Ohio",womens-cross-country,2023
+Claire McDonald,Distance,Fy.,,,"Bend, Ore.",womens-cross-country,2023
+Evie Cohen,Distance,Jr.,,,"San Francisco, Calif.",womens-cross-country,2023
+Emma Kerimo,Distance,Jr.,,,"Concord, Mass.",womens-cross-country,2023
+Caroline Livingston,Mid-Distance,Jr.,5' 3'',,"Barrington, R.I.",womens-cross-country,2023
+Julia Pye,Mid-Distance,Fy.,,,"Doylestown, Pa.",womens-cross-country,2023
+Ryan Davi,MD,Jr.,,,"Bernardsville, N.J.",womens-cross-country,2023
 Hannah Kaercher,Distance,Fy.,,,"Fayetteville, N.Y.",womens-cross-country,2023
 Erin Karas,Distance,Fy.,,,"Columbus, Ohio",womens-cross-country,2023
-Julia Pye,Mid-Distance,Fy.,,,"Doylestown, Pa.",womens-cross-country,2023
-Caroline Livingston,Mid-Distance,Jr.,5' 3'',,"Barrington, R.I.",womens-cross-country,2023
-Emma Kerimo,Distance,Jr.,,,"Concord, Mass.",womens-cross-country,2023
-Ryan Davi,MD,Jr.,,,"Bernardsville, N.J.",womens-cross-country,2023
-Madeleine Locher,Distance,Jr.,,,"Ventura, Calif.",womens-cross-country,2023
-Claire McDonald,Distance,Fy.,,,"Bend, Ore.",womens-cross-country,2023
-Andie Murray,Distance,So.,,,"Allentown, N.J.",womens-cross-country,2023
-Natalie Shapiro,Distance,Sr.,5' 5'',,"Morganville, N.J.",womens-cross-country,2023
-Nicole Lipieta,Distance,Fy.,,,"Woolwich, N.J.",womens-cross-country,2023
-Sofia Abrego,Distance,So.,,,"Porter Ranch, Calif.",womens-cross-country,2023
-Katherine Strong,Distance,So.,,,"McLean, Va.",womens-cross-country,2023
-Ellie Tymorek,Distance,Jr.,,,"Boca Raton, Fla.",womens-cross-country,2023
-Payton Weiner,Distance,Jr.,,,"Haddonfield, N.J.",womens-cross-country,2023
+Anna Banovac,Distance,Jr.,,,"Brentwood, Tenn.",womens-cross-country,2023
 Kendra Foley Andrews,,,,,,womens-cross-country,2023
-Esme Huh,Dist.,Jr.,,,"Birmingham, Ala.",womens-cross-country,2024
-Nicole Lipieta,Dist.,So.,,,"Woolwich, N.J.",womens-cross-country,2024
-Emma Kerimo,Dist.,Sr.,,,"Concord, Mass.",womens-cross-country,2024
-Erin Karas,Dist.,So.,,,"Columbus, Ohio",womens-cross-country,2024
-Hannah Kaercher,Dist.,So.,,,"Fayetteville, N.Y.",womens-cross-country,2024
-Virginia Averyt,Dist.,Fy.,,,"Birmingham, Ala.",womens-cross-country,2024
-Esme Daplyn,Dist.,Fy.,,,"Greenwich, Conn.",womens-cross-country,2024
+Madeleine Locher,Distance,Jr.,,,"Ventura, Calif.",womens-cross-country,2023
+Payton Weiner,Dist.,Sr.,,,"Haddonfield, N.J.",womens-cross-country,2024
+Claire McDonald,Dist.,So.,,,"Bend, Ore.",womens-cross-country,2024
+Annie Pflaum,Dist.,Fy.,,,"Altherton, Calif.",womens-cross-country,2024
+Bella Pietrasiewicz,Dist.,Sr.,,,"Norton, Mass.",womens-cross-country,2024
+Julia Pye,Mid-Dist.,So.,,,"Doylestown, Pa.",womens-cross-country,2024
+Mike Nelson,,,,,,womens-cross-country,2024
+Emmy Thornton,Dist.,Fy.,,,"Belfast, Northern Ireland",womens-cross-country,2024
+Ellie Tymorek,Dist.,Sr.,,,"Boca Raton, Fla.",womens-cross-country,2024
 Evie Cohen,Dist.,Sr.,,,"San Francisco, Calif.",womens-cross-country,2024
+Katherine Strong,Dist.,Jr.,,,"McLean, Va.",womens-cross-country,2024
+Andie Murray,Dist.,Jr.,,,"Allentown, N.J.",womens-cross-country,2024
 Anna Banovac,Dist.,Sr.,,,"Brentwood, Tenn.",womens-cross-country,2024
 Sofia Abrego,Dist.,Jr.,,,"Porter Ranch, Calif.",womens-cross-country,2024
-Caroline Livingston,Mid-Dist.,Sr.,5' 3'',,"Barrington, R.I.",womens-cross-country,2024
+Nicole Lipieta,Dist.,So.,,,"Woolwich, N.J.",womens-cross-country,2024
+Esme Daplyn,Dist.,Fy.,,,"Greenwich, Conn.",womens-cross-country,2024
+Virginia Averyt,Dist.,Fy.,,,"Birmingham, Ala.",womens-cross-country,2024
+Hannah Kaercher,Dist.,So.,,,"Fayetteville, N.Y.",womens-cross-country,2024
+Erin Karas,Dist.,So.,,,"Columbus, Ohio",womens-cross-country,2024
+Emma Kerimo,Dist.,Sr.,,,"Concord, Mass.",womens-cross-country,2024
+Esme Huh,Dist.,Jr.,,,"Birmingham, Ala.",womens-cross-country,2024
 Madeleine Locher,Dist.,Sr.,,,"Ventura, Calif.",womens-cross-country,2024
-Katherine Strong,Dist.,Jr.,,,"McLean, Va.",womens-cross-country,2024
-Claire McDonald,Dist.,So.,,,"Bend, Ore.",womens-cross-country,2024
-Payton Weiner,Dist.,Sr.,,,"Haddonfield, N.J.",womens-cross-country,2024
-Ellie Tymorek,Dist.,Sr.,,,"Boca Raton, Fla.",womens-cross-country,2024
-Emmy Thornton,Dist.,Fy.,,,"Belfast, Northern Ireland",womens-cross-country,2024
-Mike Nelson,,,,,,womens-cross-country,2024
-Julia Pye,Mid-Dist.,So.,,,"Doylestown, Pa.",womens-cross-country,2024
-Bella Pietrasiewicz,Dist.,Sr.,,,"Norton, Mass.",womens-cross-country,2024
-Annie Pflaum,Dist.,Fy.,,,"Altherton, Calif.",womens-cross-country,2024
-Andie Murray,Dist.,Jr.,,,"Allentown, N.J.",womens-cross-country,2024
-Erin Karas,Dist.,Jr.,,,"Columbus, Ohio",womens-cross-country,2025
-Abby Kerrins,Mid-Dist.,Fy.,5' 7'',,"Charlotte, N.C.",womens-cross-country,2025
-Lindsey Kerrins,Mid-Dist.,Fy.,5' 9'',,"Charlotte, N.C.",womens-cross-country,2025
-Virginia Averyt,Dist.,So.,,,"Birmingham, Ala.",womens-cross-country,2025
-Annamaria Bacchetta,Dist.,Fy.,5' 6'',,"Nashville, Tenn.",womens-cross-country,2025
-Katherine Strong,Dist.(C),Sr.,,,"McLean, Va.",womens-cross-country,2025
-Sophie Spelman,Dist.,Fy.,5' 4'',,"Fairfield, Conn.",womens-cross-country,2025
-Claire McDonald,Dist.,Jr.,,,"Bend, Ore.",womens-cross-country,2025
-Hannah Kaercher,Dist.,Jr.,,,"Fayetteville, N.Y.",womens-cross-country,2025
-Nicole Lipieta,Dist.,Jr.,,,"Woolwich, N.J.",womens-cross-country,2025
-Emmy Thornton,Dist.,So.,,,"Belfast, Northern Ireland",womens-cross-country,2025
+Caroline Livingston,Mid-Dist.,Sr.,5' 3'',,"Barrington, R.I.",womens-cross-country,2024
 Andie Murray,Dist.,Sr.,,,"Allentown, N.J.",womens-cross-country,2025
 Maddie Romaine,Dist.,Fy.,5' 6'',,"Wheaton, Ill.",womens-cross-country,2025
-Mike Nelson,,,,,,womens-cross-country,2025
-Esme Huh,Dist.(C),Sr.,,,"Birmingham, Ala.",womens-cross-country,2025
-Esme Daplyn,Dist.,So.,,,"Greenwich, Conn.",womens-cross-country,2025
-Tessa Zima,Dist.,Fy.,5' 3'',,"Gig Harbor, Wash.",womens-cross-country,2025
-Maura O’Scannlain,Dist.,Fy.,5' 4'',,"Portland, Ore.",womens-cross-country,2025
-Annie Pflaum,Mid-Dist.,So.,,,"Altherton, Calif.",womens-cross-country,2025
 Julia Pye,Mid-Dist.,Jr.,,,"Doylestown, Pa.",womens-cross-country,2025
+Claire McDonald,Dist.,Jr.,,,"Bend, Ore.",womens-cross-country,2025
+Esme Daplyn,Dist.,So.,,,"Greenwich, Conn.",womens-cross-country,2025
+Esme Huh,Dist.(C),Sr.,,,"Birmingham, Ala.",womens-cross-country,2025
+Annie Pflaum,Mid-Dist.,So.,,,"Altherton, Calif.",womens-cross-country,2025
+Sophie Spelman,Dist.,Fy.,5' 4'',,"Fairfield, Conn.",womens-cross-country,2025
+Annamaria Bacchetta,Dist.,Fy.,5' 6'',,"Nashville, Tenn.",womens-cross-country,2025
+Virginia Averyt,Dist.,So.,,,"Birmingham, Ala.",womens-cross-country,2025
+Erin Karas,Dist.,Jr.,,,"Columbus, Ohio",womens-cross-country,2025
+Maura O’Scannlain,Dist.,Fy.,5' 4'',,"Portland, Ore.",womens-cross-country,2025
+Emmy Thornton,Dist.,So.,,,"Belfast, Northern Ireland",womens-cross-country,2025
+Katherine Strong,Dist.(C),Sr.,,,"McLean, Va.",womens-cross-country,2025
+Lindsey Kerrins,Mid-Dist.,Fy.,5' 9'',,"Charlotte, N.C.",womens-cross-country,2025
+Hannah Kaercher,Dist.,Jr.,,,"Fayetteville, N.Y.",womens-cross-country,2025
 Mia Compton-Engle,Dist.,Sr.,,,"Shaker Heights, Ohio",womens-cross-country,2025
+Nicole Lipieta,Dist.,Jr.,,,"Woolwich, N.J.",womens-cross-country,2025
+Mike Nelson,,,,,,womens-cross-country,2025
+Abby Kerrins,Mid-Dist.,Fy.,5' 7'',,"Charlotte, N.C.",womens-cross-country,2025
+Tessa Zima,Dist.,Fy.,5' 3'',,"Gig Harbor, Wash.",womens-cross-country,2025
 Maura O’Scannlain,Dist.,So.,5' 4'',,"Portland, Ore.",womens-cross-country,2026
 Annie Pflaum,Mid-Dist.,Jr.,,,"Altherton, Calif.",womens-cross-country,2026
 Julia Pye,Mid-Dist.,Sr.,,,"Doylestown, Pa.",womens-cross-country,2026

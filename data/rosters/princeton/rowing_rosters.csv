@@ -1,68 +1,290 @@
 name,position,class,height,weight,hometown,sport,year
+Gregory Kernisan,,So.,,,"Glastonbury, Ct.",rowing,2016
+Arman Odabas,,Sr.,,,"New Albany, Ohio",rowing,2016
+Matthew Miller,,So.,,,"Maple Glen, Pa.",rowing,2016
+Charlie Kwitchoff,,Fr.,,,"Buffalo, N.Y.",rowing,2016
+Daniel Chao,,So.,,,"Arcadia, Calif.",rowing,2016
+Jordi Cabanas,,So.,,,"Brookline, Mass.",rowing,2016
+Marley Brackett,,Jr.,,,"Newburgh, N.Y.",rowing,2016
+Ryan Born,,So.,,,"Washington, Mich.",rowing,2016
+Oskar Arzt-Jones,,Fr.,,,"London, Eng.",rowing,2016
+Ryan Pristo,,Jr.,,,"Ft. Lauderdale, Fla.",rowing,2016
+Charlie Ramirez,,Jr.,,,"Pasadena, Calif.",rowing,2016
+Joe Ratliffe,,Fr.,,,"Seattle, Wash.",rowing,2016
+Richard Romano,,Fr.,,,"Cary, N.C.",rowing,2016
+Richard Chang,,Sr.,,,"Holmdel, N.J.",rowing,2016
+Nicholas Apostolakis,,Fr.,,,"Lakewood, Ohio",rowing,2016
+Ricky Swanton,,So.,,,"Winchester, Mass.",rowing,2016
+Bernardo Pacini,,Jr.,,,"Chestnut Hill, Mass.",rowing,2016
+Samuel Parsons,,So.,,,"Killawarra, Aust.",rowing,2016
+James Sincavage,,Jr.,,,"Malvern, Pa.",rowing,2016
+Bhavani Srinivas,,Fr.,,,"Mt. Pleasant, S.C.",rowing,2016
+Clayton Travis,,So.,,,"Angola, Ind.",rowing,2016
+Charles Ughetta,,So.,,,"New York, N.Y.",rowing,2016
+Will Van Cleve,,Sr.,,,"Seattle, Wash.",rowing,2016
+Jesus Serrano Cendejas,,Jr.,,,"Mexico City, Mexico",rowing,2016
+Benjamin Parker,,Fr.,,,"New Orleans, La.",rowing,2016
+Tyler Valicenti,,Jr.,,,"El Dorado Hills, Calif.",rowing,2016
+Bill Van Cleve,,Sr.,,,"St. Louis, Mo.",rowing,2016
+Adam Teece,,Fr.,,,"Newbury, U.K.",rowing,2016
+Shea Minter,,So.,,,"New Kensington, Pa.",rowing,2016
+Harrison Shure,,Jr.,,,"Seattle, Wash.",rowing,2016
+Ameen Moshirfar,,Fr.,,,"Sandy, Utah",rowing,2016
+Patrick Watt,,Jr.,,,"Toronto, Ont.",rowing,2016
+Marty Crotty,,,,,,rowing,2016
+Andrew Salmons,,Jr.,,,"Syracuse, N.Y.",rowing,2016
+Dennis Duffin,,Fr.,,,"Ventnor City, N.J.",rowing,2016
+Charles Miller,,Jr.,,,"Rochester, Mich.",rowing,2016
+Cameron McKenzie,,So.,,,"Church Hill, Tenn.",rowing,2016
+Matthew McGhee,,So.,,,"Newport Coast, Calif.",rowing,2016
+Kolby McDaniel,,Fr.,,,"Tallahassee, Fla.",rowing,2016
+Jessica Li,,Jr.,,,"Chandler, Az.",rowing,2016
+Blake Lange,,Jr.,,,"Darien, Conn.",rowing,2016
+Ayden Lamont,,Fr.,,,"Auckland, N.Z.",rowing,2016
+Ashlyn Lackey,,Jr.,,,,rowing,2016
+Christian Kelling,,So.,,,"Pelham, N.Y.",rowing,2016
+Lucas Manning,,Fr.,,,"Westport, Conn.",rowing,2016
+Aaron Hilton,,Fr.,,,"Washington, D.C.",rowing,2016
+Tyler Hoffman,,Sr.,,,"Farmington, Conn.",rowing,2016
+Jameson Lowrey,,Jr.,,,"New York, N.Y.",rowing,2016
+Theo Long,,Fr.,,,"London, Eng.",rowing,2016
+Oscar Holmes,,So.,,,"London, England",rowing,2016
+Danny Hogan,,So.,,,"Lafayette, Calif.",rowing,2016
+William Hess,,So.,,,"Milton, Mass.",rowing,2016
+Trevor Henningson,,Jr.,,,"Atlanta, Ga.",rowing,2016
+Forrest Daugherty,,Sr.,,,"Davidson, N.C.",rowing,2016
+Christopher King,,Sr.,,,"Redding, Conn.",rowing,2016
+Matthew Lotocki,,Sr.,,,"River Vale, N.J.",rowing,2016
+James Goble,,Jr.,,,"Winchester, Eng.",rowing,2016
+Richard Furchtgott,,Fr.,,,"Washington, D.C.",rowing,2016
+Ameen Moshirfar,,So.,,,"Sandy, Utah",rowing,2017
+Matthew McGhee,,Jr.,,,"Newport Coast, Calif.",rowing,2017
+Harrison Shure,,Sr.,,,"Seattle, Wash.",rowing,2017
+Shea Minter,,Jr.,,,"New Kensington, Pa.",rowing,2017
+Samuel Parsons,,Jr.,,,"Killawarra, Aust.",rowing,2017
+Lucas Manning,,So.,,,"Westport, Conn.",rowing,2017
+Ryan Pristo,,Sr.,,,"Ft. Lauderdale, Fla.",rowing,2017
+Andrew Salmons,,Sr.,,,"Syracuse, N.Y.",rowing,2017
+Jesus Serrano Cendejas,,Sr.,,,"Mexico City, Mexico",rowing,2017
+Gianni Pompili,,Fr.,,,"San Anselmo, Calif.",rowing,2017
+William Hess,,Jr.,,,"Milton, Mass.",rowing,2017
+James Goble,,Sr.,,,"Winchester, Eng.",rowing,2017
+James Sincavage,,Sr.,,,"Malvern, Pa.",rowing,2017
+Maximillian Sporer,,Fr.,,,"Morristown, N.J.",rowing,2017
+Tyler Skow,,Fr.,,,"London, Eng.",rowing,2017
+Joe Ratliffe,,So.,,,"Seattle, Wash.",rowing,2017
+Christopher Ye,,Fr.,,,"Beijing, China",rowing,2017
+Ricky Swanton,,Jr.,,,"Winchester, Mass.",rowing,2017
+Adam Teece,,So.,,,"Newbury, U.K.",rowing,2017
+Clayton Travis,,Jr.,,,"Angola, Ind.",rowing,2017
+Charles Miller,,Sr.,,,"Rochester, Mich.",rowing,2017
+Tyler Valicenti,,Sr.,,,"El Dorado Hills, Calif.",rowing,2017
+Patrick Watt,,Sr.,,,"Toronto, Ont.",rowing,2017
+Alexander Williams,,Fr.,,,"London, Eng.",rowing,2017
+Stephen Woolridge,,Fr.,,,"Frankfort, Ky.",rowing,2017
+Christopher Walton,,Fr.,,,"Pennington, N.J.",rowing,2017
+Henry Ogilby,,Sr.,,,"Belmont, Mass.",rowing,2017
+Richard Romano,,So.,,,"Cary, N.C.",rowing,2017
+Dennis Duffin,,So.,,,"Ventnor City, N.J.",rowing,2017
+Bernardo Pacini,,Sr.,,,"Chestnut Hill, Mass.",rowing,2017
+Riesa Cassano,,Fr.,,,"Pittsford, N.Y.",rowing,2017
+Shai Slav,,Fr.,,,"Tel Aviv, Israel",rowing,2017
+Nicholas Apostolakis,,So.,,,"Lakewood, Ohio",rowing,2017
+Peter Colvin,,Fr.,,,"Medical Lake, Wash.",rowing,2017
+Oskar Arzt-Jones,,So.,,,"London, Eng.",rowing,2017
+Matthew Butler,,Fr.,,,"Whakatane, N.Z.",rowing,2017
+Marty Crotty,,,,,,rowing,2017
+Christopher Callegari,,Fr.,,,"Malvern, Pa.",rowing,2017
+Daniel Chao,,Jr.,,,"Arcadia, Calif.",rowing,2017
+Matthew Collins,,Fr.,,,"Newry, Northern Ireland",rowing,2017
+Jordi Cabanas,,Jr.,,,"Brookline, Mass.",rowing,2017
+Joshua Melnyk,,Fr.,,,"Fairfax, Va.",rowing,2017
+David Slear,,Fr.,,,"Dallas, Texas",rowing,2017
+Kolby McDaniel,,So.,,,"Tallahassee, Fla.",rowing,2017
+Marley Brackett,,Sr.,,,"Newburgh, N.Y.",rowing,2017
+William Conte,,Fr.,,,"San Francisco, Calif.",rowing,2017
+Samuel Breckenridge,,Fr.,,,"Geneva, Switzerland",rowing,2017
+Trevor Henningson,,Sr.,,,"Atlanta, Ga.",rowing,2017
+Isabel Leigh,,Jr.,,,"Ft. Myers, Fla.",rowing,2017
+Blake Lange,,Sr.,,,"Darien, Conn.",rowing,2017
+Sydney Edwards,,Fr.,,,"Sarasota, Fla.",rowing,2017
+Christian Kelling,,Jr.,,,"Pelham, N.Y.",rowing,2017
+Gregory Kernisan,,Jr.,,,"Glastonbury, Ct.",rowing,2017
+Marcus Jonas,,Fr.,,,"London, Eng.",rowing,2017
+Oscar Holmes,,Jr.,,,"London, England",rowing,2017
+Danny Hogan,,Jr.,,,"Lafayette, Calif.",rowing,2017
+Jonathan Carr,,Fr.,,,"Phoenix, Az.",rowing,2017
+Charlie Kwitchoff,,So.,,,"Buffalo, N.Y.",rowing,2017
+Theo Long,,So.,,,"London, Eng.",rowing,2017
+Gianni Pompili,,So.,,,"San Anselmo, Calif.",rowing,2018
+Ameen Moshirfar,,Jr.,,,"Sandy, Utah",rowing,2018
+Adam Teece,,Jr.,,,"Newbury, U.K.",rowing,2018
+Jacob Barber,,Fr.,,,"Pound Ridge, N.Y.",rowing,2018
+Matthew Butler,,So.,,,"Whakatane, N.Z.",rowing,2018
+Tim Scheuritzel,,Fr.,,,"Narbeth, Pa.",rowing,2018
+Gordon Walters,,Fr.,,,"Ventnor City, N.J.",rowing,2018
+Richard Romano,,Jr.,,,"Cary, N.C.",rowing,2018
+Christopher Walton,,So.,,,"Pennington, N.J.",rowing,2018
+Oskar Arzt-Jones,,Jr.,,,"London, Eng.",rowing,2018
+Shai Slav,,So.,,,"Tel Aviv, Israel",rowing,2018
+Joe Ratliffe,,Jr.,,,"Seattle, Wash.",rowing,2018
+Ricky Swanton,,Sr.,,,"Winchester, Mass.",rowing,2018
+Christopher Ye,,So.,,,"Beijing, China",rowing,2018
+David Slear,,So.,,,"Dallas, Texas",rowing,2018
+Alexander Williams,,So.,,,"London, Eng.",rowing,2018
+Andrew Berg,,Fr.,,,"Wellesley, Mass.",rowing,2018
+Samuel Breckenridge,,So.,,,"Geneva, Switzerland",rowing,2018
+Henry Vecchione,,Fr.,,,"Montclair, N.J.",rowing,2018
+Clayton Travis,,Sr.,,,"Angola, Ind.",rowing,2018
+Stephen Woolridge,,So.,,,"Frankfort, Ky.",rowing,2018
+Jack Woll,,Fr.,,,"Walnut Creek, Calif.",rowing,2018
+Tyler Skow,,So.,,,"London, Eng.",rowing,2018
+Henry Thomas,,Fr.,,,"Wellesley, Mass.",rowing,2018
+Samuel Parsons,,Sr.,,,"Killawarra, Aust.",rowing,2018
+Jason Sun,,Fr.,,,"Piedmont, Calif.",rowing,2018
+Maximillian Sporer,,So.,,,"Morristown, N.J.",rowing,2018
+Marty Crotty,,,,,,rowing,2018
+Nicholas Apostolakis,,Jr.,,,"Lakewood, Ohio",rowing,2018
+George Middleton,,Fr.,,,"Twickenham, Eng.",rowing,2018
+Joe DiMarino,,Fr.,,,"Moorestown, N.J.",rowing,2018
+Peter Colvin,,So.,,,"Medical Lake, Wash.",rowing,2018
+Daniel Chao,,Sr.,,,"Arcadia, Calif.",rowing,2018
+Jordi Cabanas,,Sr.,,,"Brookline, Mass.",rowing,2018
+Jonathan Carr,,So.,,,"Phoenix, Az.",rowing,2018
+Riesa Cassano,,So.,,,"Pittsford, N.Y.",rowing,2018
+Charlie Kwitchoff,,Jr.,,,"Buffalo, N.Y.",rowing,2018
+Oliver Crane,,Fr.,,,"Lawrenceville, N.J.",rowing,2018
+Gregory Kernisan,,Sr.,,,"Glastonbury, Ct.",rowing,2018
+Christopher Callegari,,So.,,,"Malvern, Pa.",rowing,2018
+Joshua Melnyk,,So.,,,"Fairfax, Va.",rowing,2018
+William Conte,,So.,,,"San Francisco, Calif.",rowing,2018
+Kolby McDaniel,,Jr.,,,"Tallahassee, Fla.",rowing,2018
+Shea Minter,,Sr.,,,"New Kensington, Pa.",rowing,2018
+Oscar Holmes,,Sr.,,,"London, England",rowing,2018
+Sydney Edwards,,So.,,,"Sarasota, Fla.",rowing,2018
+William Hess,,Sr.,,,"Milton, Mass.",rowing,2018
+Matthew McGhee,,Sr.,,,"Newport Coast, Calif.",rowing,2018
+Matthew Collins,,So.,,,"Newry, Northern Ireland",rowing,2018
+George Dickinson,,Fr.,,,"London, Eng.",rowing,2018
+Christian Kelling,,Sr.,,,"Pelham, N.Y.",rowing,2018
+Lucas Manning,,Jr.,,,"Westport, Conn.",rowing,2018
+Theo Long,,Jr.,,,"London, Eng.",rowing,2018
+Danny Hogan,,Sr.,,,"Lafayette, Calif.",rowing,2018
+Felipe Mendoza,,Fr.,,,"Bogota, Columbia",rowing,2018
+Dennis Duffin,,Jr.,,,"Ventnor City, N.J.",rowing,2018
+Isabel Leigh,,Sr.,,,"Ft. Myers, Fla.",rowing,2018
+Marcus Jonas,,So.,,,"London, Eng.",rowing,2018
+Marcus Jonas,,Jr.,,,"London, Eng.",rowing,2019
+Matthew Collins,,Jr.,,,"Newry, Northern Ireland",rowing,2019
+John Gonzales,,Fr.,,,"Milwaukee, Wisc.",rowing,2019
+Charlie Kwitchoff,,Sr.,,,"Buffalo, N.Y.",rowing,2019
+Felipe Mendoza,,So.,,,"Bogota, Columbia",rowing,2019
+Theo Long,,Sr.,,,"London, Eng.",rowing,2019
+Peter Skinner,,Fr.,,,"Winnetka, Ill.",rowing,2019
+Jason Sun,,So.,,,"Piedmont, Calif.",rowing,2019
+Adam Teece,,Sr.,,,"Newbury, U.K.",rowing,2019
+Stephen Woolridge,,Jr.,,,"Frankfort, Ky.",rowing,2019
+David Slear,,Jr.,,,"Dallas, Texas",rowing,2019
+William Olson,,Fr.,,,"Menlo Park, Calif.",rowing,2019
+Tim Scheuritzel,,So.,,,"Narbeth, Pa.",rowing,2019
+Jack Bogdan,,Fr.,,,"Spring Lake, N.J.",rowing,2019
+George Middleton,,So.,,,"Twickenham, Eng.",rowing,2019
+Rhys Drout,,So.,,,"Dedham, Mass.",rowing,2019
+David Veldran,,Fr.,,,"Montclair, N.J.",rowing,2019
+Tyler Skow,,Jr.,,,"London, Eng.",rowing,2019
+Tim Eilers,,Fr.,,,"Bremen, Germany",rowing,2019
+John High,,Fr.,,,"Plymouth, Mass.",rowing,2019
+Aaron Chaffee,,Fr.,,,"Ballston Lake, N.Y.",rowing,2019
+Eoin Gaffney,,Fr.,,,"Cork City, Ireland",rowing,2019
+Sydney Edwards,,Jr.,,,"Sarasota, Fla.",rowing,2019
+Anthony Frascella,,Fr.,,,"Greenwich, Conn.",rowing,2019
+Gianni Pompili,,Jr.,,,"San Anselmo, Calif.",rowing,2019
+Nicholas Apostolakis,,Sr.,,,"Lakewood, Ohio",rowing,2019
+Oskar Arzt-Jones,,Jr.,,,"London, Eng.",rowing,2019
+Luke Baxter,,Fr.,,,"Haddonfield, N.J.",rowing,2019
+Andrew Berg,,So.,,,"Wellesley, Mass.",rowing,2019
+Peter Colvin,,Jr.,,,"Medical Lake, Wash.",rowing,2019
+Axel de Boissard,,So.,,,"London, Eng.",rowing,2019
+Marty Crotty,,,,,,rowing,2019
+Matthew Butler,,Jr.,,,"Whakatane, N.Z.",rowing,2019
+Riesa Cassano,,Jr.,,,"Pittsford, N.Y.",rowing,2019
+Ethan Abraham,,Fr.,,,"El Dorado Hills, Calif.",rowing,2019
+Carl Borsotti,,Fr.,,,"Glenview, Ill.",rowing,2019
+Henry Vecchione,,So.,,,"Montclair, N.J.",rowing,2019
+George Dickinson,,So.,,,"London, Eng.",rowing,2019
+Samuel Breckenridge,,Jr.,,,"Geneva, Switzerland",rowing,2019
+Jack Woll,,So.,,,"Walnut Creek, Calif.",rowing,2019
+Dennis Duffin,,Sr.,,,"Ventnor City, N.J.",rowing,2019
+Paul Höselbarth,,Fr.,,,"Hessen, Germany",rowing,2020
+Marcus Jonas,,Sr.,,,"London, Eng.",rowing,2020
+Vincenzo Montoni,,Fr.,,,"New Hyde Park, N.Y.",rowing,2020
+William Olson,,So.,,,"Menlo Park, Calif.",rowing,2020
+Tyler Skow,,Sr.,,,"London, Eng.",rowing,2020
+Peter Skinner,,So.,,,"Winnetka, Ill.",rowing,2020
+John High,,So.,,,"Plymouth, Mass.",rowing,2020
+John Gonzales,,So.,,,"Milwaukee, Wisc.",rowing,2020
+David Slear,,Sr.,,,"Dallas, Texas",rowing,2020
+Rhys Drout,,Jr.,,,"Dedham, Mass.",rowing,2020
+Gianni Pompili,,Sr.,,,"San Anselmo, Calif.",rowing,2020
+Henry Thomas,,So.,,,"Wellesley, Mass.",rowing,2020
+Henry Vecchione,,Jr.,,,"Montclair, N.J.",rowing,2020
+Matthew Collins,,Sr.,,,"Newry, Northern Ireland",rowing,2020
+Oskar Arzt-Jones,,Sr.,,,"London, Eng.",rowing,2020
+Sydney Edwards,,Sr.,,,"Sarasota, Fla.",rowing,2020
+Riesa Cassano,,Sr.,,,"Pittsford, N.Y.",rowing,2020
+Jonathan Carr,,Sr.,,,"Phoenix, Az.",rowing,2020
+Matthew Butler,,Sr.,,,"Whakatane, N.Z.",rowing,2020
+Samuel Breckenridge,,Sr.,,,"Geneva, Switzerland",rowing,2020
+Jack Bogdan,,So.,,,"Spring Lake, N.J.",rowing,2020
+Andrew Berg,,Jr.,,,"Wellesley, Mass.",rowing,2020
+Marty Crotty,,,,,,rowing,2020
+Aaron Chaffee,,So.,,,"Ballston Lake, N.Y.",rowing,2020
+Ethan Abraham,,So.,,,"El Dorado Hills, Calif.",rowing,2020
+Carl Borsotti,,So.,,,"Glenview, Ill.",rowing,2020
+Peter Colvin,,Sr.,,,"Medical Lake, Wash.",rowing,2020
+Stephen Woolridge,,Sr.,,,"Frankfort, Ky.",rowing,2020
+Will Nash,,Fr.,,,"Washington, D.C.",rowing,2021
+George Middleton,,Jr.,,,"Twickenham, Eng.",rowing,2021
+Henry Thomas,,Jr.,,,"Wellesley, Mass.",rowing,2021
+David Van Velden,,Fr.,,,"Amsterdam, Netherlands",rowing,2021
+Aaron Chaffee,,Jr.,,,"Ballston Lake, N.Y.",rowing,2021
+Charles McWeeny,,Fr.,,,"Williamstown, Mass.",rowing,2021
+Sarah Brewer,,So.,,,"Princeton, N.J.",rowing,2021
+Jack Woll,,Sr.,,,"Walnut Creek, Calif.",rowing,2021
 Ethan Abraham,,Jr.,,,"El Dorado Hills, Calif.",rowing,2021
-Peter Skinner,,Jr.,,,"Winnetka, Ill.",rowing,2021
-Andrew Barry,,Fr.,,,"St. Catharines, Ontario",rowing,2021
-Giorgio Battigaglia,,So.,,,"Rome, Italy",rowing,2021
-Luke Baxter,,So.,,,"Haddonfield, N.J.",rowing,2021
-Andrew Berg,,Sr.,,,"Wellesley, Mass.",rowing,2021
-Jack Bogdan,,Jr.,,,"Spring Lake, N.J.",rowing,2021
+Fergus Nevill,,Fr.,,,"Woking, Great Britain",rowing,2021
+Cyrus Hatam,,Jr.,,,"Bethesda, Md.",rowing,2021
+Paul Höselbarth,,So.,,,"Hessen, Germany",rowing,2021
+Henry Wright,,So.,,,"London, England",rowing,2021
+Aaron Wenk,,Fr.,,,"Scarsdale, N.Y.",rowing,2021
+William Olson,,Jr.,,,"Menlo Park, Calif.",rowing,2021
+Marty Crotty,,,,,,rowing,2021
+Henry Vecchione,,Sr.,,,"Montclair, N.J.",rowing,2021
+Caroline Zhao,,Fr.,,,"Westfield, N.J.",rowing,2021
+Matt Willer,,Fr.,,,"Palo Alto, Calif.",rowing,2021
+Jason Sun,,Jr.,,,"Piedmont, Calif.",rowing,2021
+Thomas Pries,,Jr.,,,"South Bend, Ind.",rowing,2021
+John High,,Jr.,,,"Plymouth, Mass.",rowing,2021
 Carl Borsotti,,Jr.,,,"Glenview, Ill.",rowing,2021
+Giorgio Battigaglia,,So.,,,"Rome, Italy",rowing,2021
 George Dickinson,,Jr.,,,"London, Eng.",rowing,2021
 Matthew Collins,,Gr.,,,"Newry, Northern Ireland",rowing,2021
 Tim Scheuritzel,,Jr.,,,"Narbeth, Pa.",rowing,2021
-Luc Harbers,,Fr.,,,"New York, N.Y.",rowing,2021
 Laney Gold-Rappe,,Fr.,,,"Penn Valley, Pa.",rowing,2021
-Rodrigo Gallardo,,So.,,,"Coronado, Calif.",rowing,2021
-Anthony Frascella,,So.,,,"Greenwich, Conn.",rowing,2021
+Peter Skinner,,Jr.,,,"Winnetka, Ill.",rowing,2021
 Eoin Gaffney,,So.,,,"Cork City, Ireland",rowing,2021
-Tim Eilers,,So.,,,"Bremen, Germany",rowing,2021
-Rhys Drout,,Sr.,,,"Dedham, Mass.",rowing,2021
-John Gonzales,,Jr.,,,"Milwaukee, Wisc.",rowing,2021
-Nick Aronow,,Fr.,,,"Laurel Hollow, N.Y.",rowing,2021
-John High,,Jr.,,,"Plymouth, Mass.",rowing,2021
+Andrew Barry,,Fr.,,,"St. Catharines, Ontario",rowing,2021
+Andrew Berg,,Sr.,,,"Wellesley, Mass.",rowing,2021
+Luke Baxter,,So.,,,"Haddonfield, N.J.",rowing,2021
 Cal Gorvy,,Fr.,,,"Marlow, Great Britain",rowing,2021
-Jason Sun,,Jr.,,,"Piedmont, Calif.",rowing,2021
-Aaron Chaffee,,Jr.,,,"Ballston Lake, N.Y.",rowing,2021
-Charles McWeeny,,Fr.,,,"Williamstown, Mass.",rowing,2021
-George Middleton,,Jr.,,,"Twickenham, Eng.",rowing,2021
-Will Nash,,Fr.,,,"Washington, D.C.",rowing,2021
-Fergus Nevill,,Fr.,,,"Woking, Great Britain",rowing,2021
-William Olson,,Jr.,,,"Menlo Park, Calif.",rowing,2021
-Thomas Pries,,Jr.,,,"South Bend, Ind.",rowing,2021
-Henry Thomas,,Jr.,,,"Wellesley, Mass.",rowing,2021
-David Van Velden,,Fr.,,,"Amsterdam, Netherlands",rowing,2021
-Sarah Brewer,,So.,,,"Princeton, N.J.",rowing,2021
-Paul Höselbarth,,So.,,,"Hessen, Germany",rowing,2021
-Cyrus Hatam,,Jr.,,,"Bethesda, Md.",rowing,2021
-Caroline Zhao,,Fr.,,,"Westfield, N.J.",rowing,2021
-Henry Wright,,So.,,,"London, England",rowing,2021
-Matt Willer,,Fr.,,,"Palo Alto, Calif.",rowing,2021
-Jack Woll,,Sr.,,,"Walnut Creek, Calif.",rowing,2021
-Aaron Wenk,,Fr.,,,"Scarsdale, N.Y.",rowing,2021
-Henry Vecchione,,Sr.,,,"Montclair, N.J.",rowing,2021
-Marty Crotty,,,,,,rowing,2021
-Cal Gorvy,,So.,,,"Marlow, Great Britain",rowing,2022
-Adam Casler,,Fr.,,,"Newport, Calif.",rowing,2022
-Andrew Barry,,So.,,,"St. Catharines, Ontario",rowing,2022
-Jack Bogdan,,Sr.,,,"Spring Lake, N.J.",rowing,2022
-Carl Borsotti,,Sr.,,,"Glenview, Ill.",rowing,2022
-Braeden Carroll,,Fr.,,,"Kinnelon, N.J.",rowing,2022
-Nick Aronow,,So.,,,"Laurel Hollow, N.Y.",rowing,2022
-Reuben Cook,,Fr.,,,"Dunedin, New Zealand",rowing,2022
-Aaron Chaffee,,Sr.,,,"Ballston Lake, N.Y.",rowing,2022
-Laney Gold-Rappe,,So.,,,"Penn Valley, Pa.",rowing,2022
-Tim Eilers,,Jr.,,,"Bremen, Germany",rowing,2022
-Eoin Gaffney,,Jr.,,,"Cork City, Ireland",rowing,2022
-Charlotte Cox,,Fr.,,,"Los Angeles, Calif.",rowing,2022
-John Gonzales,,Sr.,,,"Milwaukee, Wisc.",rowing,2022
-Liam Dooley,,Fr.,,,"Chicago, Ill.",rowing,2022
-Conlan Diamond,,Fr.,,,"Dallas, Texas",rowing,2022
-Anthony Frascella,,Jr.,,,"Greenwich, Conn.",rowing,2022
-Quinn Diamond,,Fr.,,,"Dallas, Texas",rowing,2022
-George Dickinson,,Sr.,,,"London, Eng.",rowing,2022
-Ethan Abraham,,Sr.,,,"El Dorado Hills, Calif.",rowing,2022
-William Olson,,Sr.,,,"Menlo Park, Calif.",rowing,2022
-Peter Skinner,,Sr.,,,"Winnetka, Ill.",rowing,2022
+Nick Aronow,,Fr.,,,"Laurel Hollow, N.Y.",rowing,2021
+Luc Harbers,,Fr.,,,"New York, N.Y.",rowing,2021
+Rhys Drout,,Sr.,,,"Dedham, Mass.",rowing,2021
+Anthony Frascella,,So.,,,"Greenwich, Conn.",rowing,2021
+Jack Bogdan,,Jr.,,,"Spring Lake, N.J.",rowing,2021
+Tim Eilers,,So.,,,"Bremen, Germany",rowing,2021
+Rodrigo Gallardo,,So.,,,"Coronado, Calif.",rowing,2021
+John Gonzales,,Jr.,,,"Milwaukee, Wisc.",rowing,2021
 Noah Klemmer Domonkos,,Fr.,,,"Stockholm, Sweden",rowing,2022
 Paul Höselbarth,,Jr.,,,"Hessen, Germany",rowing,2022
 Astor Lu,,Fr.,,,"Washington, D.C.",rowing,2022
@@ -71,137 +293,159 @@ Charles McWeeny,,So.,,,"Williamstown, Mass.",rowing,2022
 George Middleton,,Sr.,,,"Twickenham, Eng.",rowing,2022
 Daniel Pries,,Fr.,,,"South Bend, Ind.",rowing,2022
 Luc Harbers,,So.,,,"New York, N.Y.",rowing,2022
-Will Nash,,So.,,,"Washington, D.C.",rowing,2022
 David Van Velden,,So.,,,"Amsterdam, Netherlands",rowing,2022
-Laszlo Wenk,,Fr.,,,"Scarsdale, New York",rowing,2022
-Marty Crotty,,,,,,rowing,2022
 John High,,Sr.,,,"Plymouth, Mass.",rowing,2022
-Matteo Torres,,Fr.,,,"Frederick, Md.",rowing,2022
-Thomas Pries,,Sr.,,,"South Bend, Ind.",rowing,2022
+Peter Skinner,,Sr.,,,"Winnetka, Ill.",rowing,2022
+Laszlo Wenk,,Fr.,,,"Scarsdale, New York",rowing,2022
 Aaron Wenk,,So.,,,"Scarsdale, N.Y.",rowing,2022
-Tim Scheuritzel,,Sr.,,,"Narbeth, Pa.",rowing,2022
+Marty Crotty,,,,,,rowing,2022
 Caroline Zhao,,So.,,,"Westfield, N.J.",rowing,2022
-Allen Liu,,Fr.,,,"Woodbridge, Conn.",rowing,2023
-Andrew Barry,,Sr.,,,"St. Catharines, Ontario",rowing,2023
-Braeden Carroll,,So.,,,"Kinnelon, N.J.",rowing,2023
-Adam Casler,,So.,,,"Newport, Calif.",rowing,2023
-Quinn Diamond,,So.,,,"Dallas, Texas",rowing,2023
-Laney Gold-Rappe,,Jr.,,,"Penn Valley, Pa.",rowing,2023
-Luke Helstrom,,Fr.,,,"Philadelphia, Pa.",rowing,2023
-Paul Höselbarth,,Sr.,,,"Hessen, Germany",rowing,2023
-Eoin Gaffney,,Sr.,,,"Cork City, Ireland",rowing,2023
-Luc Harbers,,Jr.,,,"New York, N.Y.",rowing,2023
-Liam Dooley,,So.,,,"Chicago, Ill.",rowing,2023
-Tim Eilers,,Sr.,,,"Bremen, Germany",rowing,2023
-Reuben Cook,,So.,,,"Dunedin, New Zealand",rowing,2023
-Anthony Frascella,,Sr.,,,"Greenwich, Conn.",rowing,2023
-Charlotte Cox,,So.,,,"Los Angeles, Calif.",rowing,2023
+Matteo Torres,,Fr.,,,"Frederick, Md.",rowing,2022
+Will Nash,,So.,,,"Washington, D.C.",rowing,2022
+Thomas Pries,,Sr.,,,"South Bend, Ind.",rowing,2022
+Tim Scheuritzel,,Sr.,,,"Narbeth, Pa.",rowing,2022
+William Olson,,Sr.,,,"Menlo Park, Calif.",rowing,2022
+George Dickinson,,Sr.,,,"London, Eng.",rowing,2022
+John Gonzales,,Sr.,,,"Milwaukee, Wisc.",rowing,2022
+Cal Gorvy,,So.,,,"Marlow, Great Britain",rowing,2022
+Adam Casler,,Fr.,,,"Newport, Calif.",rowing,2022
+Andrew Barry,,So.,,,"St. Catharines, Ontario",rowing,2022
+Jack Bogdan,,Sr.,,,"Spring Lake, N.J.",rowing,2022
+Carl Borsotti,,Sr.,,,"Glenview, Ill.",rowing,2022
+Braeden Carroll,,Fr.,,,"Kinnelon, N.J.",rowing,2022
+Nick Aronow,,So.,,,"Laurel Hollow, N.Y.",rowing,2022
+Reuben Cook,,Fr.,,,"Dunedin, New Zealand",rowing,2022
+Laney Gold-Rappe,,So.,,,"Penn Valley, Pa.",rowing,2022
+Conlan Diamond,,Fr.,,,"Dallas, Texas",rowing,2022
+Aaron Chaffee,,Sr.,,,"Ballston Lake, N.Y.",rowing,2022
+Charlotte Cox,,Fr.,,,"Los Angeles, Calif.",rowing,2022
+Quinn Diamond,,Fr.,,,"Dallas, Texas",rowing,2022
+Liam Dooley,,Fr.,,,"Chicago, Ill.",rowing,2022
+Tim Eilers,,Jr.,,,"Bremen, Germany",rowing,2022
+Anthony Frascella,,Jr.,,,"Greenwich, Conn.",rowing,2022
+Eoin Gaffney,,Jr.,,,"Cork City, Ireland",rowing,2022
+Ethan Abraham,,Sr.,,,"El Dorado Hills, Calif.",rowing,2022
 Conlan Diamond,,So.,,,"Dallas, Texas",rowing,2023
+Sid Jain,,So.,,,"Roslyn Heights, N.Y.",rowing,2023
+Adam Casler,,So.,,,"Newport, Calif.",rowing,2023
 Johannes Jakobsen,,Fr.,,,"Copenhagen, Denmark",rowing,2023
 Astor Lu,,So.,,,"Washington, D.C.",rowing,2023
 Maaso Ortega,,So.,,,"Pasadena, Calif.",rowing,2023
-Sid Jain,,So.,,,"Roslyn Heights, N.Y.",rowing,2023
-Nick Aronow,,Jr.,,,"Laurel Hollow, N.Y.",rowing,2023
+Reuben Cook,,So.,,,"Dunedin, New Zealand",rowing,2023
+Charlotte Cox,,So.,,,"Los Angeles, Calif.",rowing,2023
+Tim Eilers,,Sr.,,,"Bremen, Germany",rowing,2023
+Luke Helstrom,,Fr.,,,"Philadelphia, Pa.",rowing,2023
+Luc Harbers,,Jr.,,,"New York, N.Y.",rowing,2023
+Eoin Gaffney,,Sr.,,,"Cork City, Ireland",rowing,2023
+Paul Höselbarth,,Sr.,,,"Hessen, Germany",rowing,2023
+Laney Gold-Rappe,,Jr.,,,"Penn Valley, Pa.",rowing,2023
+Andrew Barry,,Sr.,,,"St. Catharines, Ontario",rowing,2023
+Anthony Frascella,,Sr.,,,"Greenwich, Conn.",rowing,2023
+Braeden Carroll,,So.,,,"Kinnelon, N.J.",rowing,2023
+Allen Liu,,Fr.,,,"Woodbridge, Conn.",rowing,2023
+Liam Dooley,,So.,,,"Chicago, Ill.",rowing,2023
+Quinn Diamond,,So.,,,"Dallas, Texas",rowing,2023
 Hidde Lycklama,,So.,,,"Amsterdam, Noord-Holland",rowing,2023
-Vincent Mann,,Fr.,,,"Indianapolis, Ind.",rowing,2023
-Charles McWeeny,,Jr.,,,"Williamstown, Mass.",rowing,2023
-David Van Velden,,Jr.,,,"Amsterdam, Netherlands",rowing,2023
-Caroline Zhao,,Jr.,,,"Westfield, N.J.",rowing,2023
+Sam Scowen,,Fr.,,,"London, England",rowing,2023
 Noah Klemmer Domonkos,,So.,,,"Stockholm, Sweden",rowing,2023
-Daniel Pries,,So.,,,"South Bend, Ind.",rowing,2023
+Charlie Vaksman,,Fr.,,,"Burlingame, Calif.",rowing,2023
+Matteo Torres,,So.,,,"Frederick, Md.",rowing,2023
+Bach Ryan,,Fr.,,,"Sausalito, Calif.",rowing,2023
 Lon Walton,,Fr.,,,"Jacksonville, Fla.",rowing,2023
 Marty Crotty,,,,,,rowing,2023
-Sam Scowen,,Fr.,,,"London, England",rowing,2023
-Bach Ryan,,Fr.,,,"Sausalito, Calif.",rowing,2023
-Matteo Torres,,So.,,,"Frederick, Md.",rowing,2023
 Will Nash,,Jr.,,,"Washington, D.C.",rowing,2023
-Charlie Vaksman,,Fr.,,,"Burlingame, Calif.",rowing,2023
-Adam Casler,,Jr.,,,"Newport, Calif.",rowing,2024
-Charlie Vaksman,,So.,,,"Burlingame, Calif.",rowing,2024
-Reuben Cook,,Jr.,,,"Dunedin, New Zealand",rowing,2024
-Matteo Torres,,Jr.,,,"Frederick, Md.",rowing,2024
-Charlotte Cox,,Jr.,,,"Los Angeles, Calif.",rowing,2024
-Brian Karle,,Fr.,,,"Ridgefield, Conn.",rowing,2024
-Nick Aronow,,Sr.,,,"Laurel Hollow, N.Y.",rowing,2024
-Paul Canalori,,Fr.,,,"Woodbridge, Conn.",rowing,2024
-Mason Delamater,,Fr.,,,"Cabot, Ark.",rowing,2024
-Atticus Chute,,Fr.,,,"Slough, England",rowing,2024
+Daniel Pries,,So.,,,"South Bend, Ind.",rowing,2023
+Nick Aronow,,Jr.,,,"Laurel Hollow, N.Y.",rowing,2023
+Caroline Zhao,,Jr.,,,"Westfield, N.J.",rowing,2023
+David Van Velden,,Jr.,,,"Amsterdam, Netherlands",rowing,2023
+Charles McWeeny,,Jr.,,,"Williamstown, Mass.",rowing,2023
+Vincent Mann,,Fr.,,,"Indianapolis, Ind.",rowing,2023
+Will Nash,,Sr.,,,"Washington, D.C.",rowing,2024
+Frederick Middleton,,Fr.,,,"Twickenham, England",rowing,2024
+Vincent Mann,,So.,,,"Indianapolis, Ind.",rowing,2024
+Laney Gold-Rappe,,Sr.,,,"Penn Valley, Pa.",rowing,2024
+John Kiely,,Fr.,,,"Westport, Conn.",rowing,2024
 Quinn Diamond,,Jr.,,,"Dallas, Texas",rowing,2024
+Daniel Pries,,Jr.,,,"South Bend, Ind.",rowing,2024
+Astor Lu,,Jr.,,,"Washington, D.C.",rowing,2024
+Allen Liu,,So.,,,"Woodbridge, Conn.",rowing,2024
+Lon Walton,,So.,,,"Jacksonville, Fla.",rowing,2024
+James Swinehart,,So.,,,"Columbus, Ga.",rowing,2024
+Sebastian Whiteley,,Fr.,,,"Toorak, Aus.",rowing,2024
+Hidde Lycklama,,Jr.,,,"Amsterdam, Noord-Holland",rowing,2024
+David Van Velden,,Sr.,,,"Amsterdam, Netherlands",rowing,2024
+Sid Jain,,Jr.,,,"Roslyn Heights, N.Y.",rowing,2024
+Charles McWeeny,,Sr.,,,"Williamstown, Mass.",rowing,2024
+Cal Gorvy,,Jr.,,,"Marlow, Great Britain",rowing,2024
+Bach Ryan,,So.,,,"Sausalito, Calif.",rowing,2024
+Maaso Ortega,,Jr.,,,"Pasadena, Calif.",rowing,2024
+Luc Harbers,,Sr.,,,"New York, N.Y.",rowing,2024
+Johannes Jakobsen,,So.,,,"Copenhagen, Denmark",rowing,2024
+Caroline Zhao,,Sr.,,,"Westfield, N.J.",rowing,2024
+Noah Klemmer Domonkos,,Jr.,,,"Stockholm, Sweden",rowing,2024
+Laszlo Wenk,,Jr.,,,"Scarsdale, New York",rowing,2024
+Conlan Diamond,,Jr.,,,"Dallas, Texas",rowing,2024
+Matteo Torres,,Jr.,,,"Frederick, Md.",rowing,2024
+Mason Delamater,,Fr.,,,"Cabot, Ark.",rowing,2024
+Charlotte Cox,,Jr.,,,"Los Angeles, Calif.",rowing,2024
+Nick Aronow,,Sr.,,,"Laurel Hollow, N.Y.",rowing,2024
+Reuben Cook,,Jr.,,,"Dunedin, New Zealand",rowing,2024
+Paul Canalori,,Fr.,,,"Woodbridge, Conn.",rowing,2024
+Atticus Chute,,Fr.,,,"Slough, England",rowing,2024
+Sam Scowen,,So.,,,"London, England",rowing,2024
 Liam Dooley,,Jr.,,,"Chicago, Ill.",rowing,2024
 Ethan Hicks,,Fr.,,,"Perry, Ohio",rowing,2024
-Cal Gorvy,,Jr.,,,"Marlow, Great Britain",rowing,2024
-Luc Harbers,,Sr.,,,"New York, N.Y.",rowing,2024
+Adam Casler,,Jr.,,,"Newport, Calif.",rowing,2024
+Brian Karle,,Fr.,,,"Ridgefield, Conn.",rowing,2024
 Luke Helstrom,,So.,,,"Philadelphia, Pa.",rowing,2024
 Braeden Carroll,,Jr.,,,"Kinnelon, N.J.",rowing,2024
 Jack Hume,,Fr.,,,"Alameda, Calif.",rowing,2024
-Johannes Jakobsen,,So.,,,"Copenhagen, Denmark",rowing,2024
-Reese Bommer,,Fr.,,,"Rye, N.Y.",rowing,2024
 Matt Smith,,,,,,rowing,2024
-Conlan Diamond,,Jr.,,,"Dallas, Texas",rowing,2024
-Hidde Lycklama,,Jr.,,,"Amsterdam, Noord-Holland",rowing,2024
-Sid Jain,,Jr.,,,"Roslyn Heights, N.Y.",rowing,2024
-Frederick Middleton,,Fr.,,,"Twickenham, England",rowing,2024
-Laney Gold-Rappe,,Sr.,,,"Penn Valley, Pa.",rowing,2024
-Will Nash,,Sr.,,,"Washington, D.C.",rowing,2024
-John Kiely,,Fr.,,,"Westport, Conn.",rowing,2024
-Maaso Ortega,,Jr.,,,"Pasadena, Calif.",rowing,2024
-Astor Lu,,Jr.,,,"Washington, D.C.",rowing,2024
-Vincent Mann,,So.,,,"Indianapolis, Ind.",rowing,2024
-Daniel Pries,,Jr.,,,"South Bend, Ind.",rowing,2024
-Allen Liu,,So.,,,"Woodbridge, Conn.",rowing,2024
-Sam Scowen,,So.,,,"London, England",rowing,2024
-James Swinehart,,So.,,,"Columbus, Ga.",rowing,2024
-Sebastian Whiteley,,Fr.,,,"Toorak, Aus.",rowing,2024
-Noah Klemmer Domonkos,,Jr.,,,"Stockholm, Sweden",rowing,2024
-David Van Velden,,Sr.,,,"Amsterdam, Netherlands",rowing,2024
-Lon Walton,,So.,,,"Jacksonville, Fla.",rowing,2024
-Laszlo Wenk,,Jr.,,,"Scarsdale, New York",rowing,2024
-Charles McWeeny,,Sr.,,,"Williamstown, Mass.",rowing,2024
-Caroline Zhao,,Sr.,,,"Westfield, N.J.",rowing,2024
-Bach Ryan,,So.,,,"Sausalito, Calif.",rowing,2024
-Atticus Chute,,So.,,,"Slough, England",rowing,2025
-Adam Casler,,Sr.,,,"Newport, Calif.",rowing,2025
-Charlie Vaksman,,Jr.,,,"Burlingame, Calif.",rowing,2025
-Bryson Jeppesen,,Fr.,,,"Mesa, Ariz.",rowing,2025
-Reese Bommer,,So.,,,"Rye, N.Y.",rowing,2025
-Jackson Anderson,,Fr.,,,"Rye, N.Y.",rowing,2025
-Reuben Cook,,Sr.,,,"Dunedin, New Zealand",rowing,2025
-Sebastian Whiteley,,So.,,,"Toorak, Aus.",rowing,2025
-Braeden Carroll,,Sr.,,,"Kinnelon, N.J.",rowing,2025
-Sid Jain,,Sr.,,,"Roslyn Heights, N.Y.",rowing,2025
-Paul Canalori,,So.,,,"Woodbridge, Conn.",rowing,2025
-Charlotte Cox,,Sr.,,,"Los Angeles, Calif.",rowing,2025
-Liam D'Evelyn,,Fr.,,,"Saratoga Springs, N.Y.",rowing,2025
-Liam Dooley,,Sr.,,,"Chicago, Ill.",rowing,2025
-William Drapkin,,So.,,,"New Canaan, Conn.",rowing,2025
-Edward Galer,,Fr.,,,"Thames Ditton, England",rowing,2025
-Cal Gorvy,,Sr.,,,"Marlow, Great Britain",rowing,2025
-Luke Helstrom,,Jr.,,,"Philadelphia, Pa.",rowing,2025
-George Dolce,,Fr.,,,"Rye Brook, N.Y.",rowing,2025
-Charles Huckel,,Fr.,,,"Doylestown, Pa.",rowing,2025
-Quinn Diamond,,Sr.,,,"Dallas, Texas",rowing,2025
+Reese Bommer,,Fr.,,,"Rye, N.Y.",rowing,2024
+Charlie Vaksman,,So.,,,"Burlingame, Calif.",rowing,2024
+Brian Karle,,So.,,,"Ridgefield, Conn.",rowing,2025
+Frederick Middleton,,So.,,,"Twickenham, England",rowing,2025
 Conlan Diamond,,Sr.,,,"Dallas, Texas",rowing,2025
 Benjamin Peron,,Fr.,,,"Rye, N.Y.",rowing,2025
-Bach Ryan,,Jr.,,,"Sausalito, Calif.",rowing,2025
-Jack Hume,,So.,,,"Alameda, Calif.",rowing,2025
-Vincent Mann,,Jr.,,,"Indianapolis, Ind.",rowing,2025
-Sebastian Lyne,,Fr.,,,"Parnell, New Zealand",rowing,2025
-Mason Delamater,,So.,,,"Cabot, Ark.",rowing,2025
 Ethan Hicks,,Sr.,,,"Perry, Ohio",rowing,2025
-Noah Klemmer Domonkos,,Sr.,,,"Stockholm, Sweden",rowing,2025
-John Kiely,,So.,,,"Westport, Conn.",rowing,2025
-Frederick Middleton,,So.,,,"Twickenham, England",rowing,2025
-Brian Karle,,So.,,,"Ridgefield, Conn.",rowing,2025
-Matteus Rueca,,Fr.,,,"Oakland, Calif.",rowing,2025
-Hidde Lycklama,,Sr.,,,"Amsterdam, Noord-Holland",rowing,2025
-Astor Lu,,Sr.,,,"Washington, D.C.",rowing,2025
-Ivo Monaghan,,Fr.,,,"London, England",rowing,2025
+Mason Delamater,,So.,,,"Cabot, Ark.",rowing,2025
+Sebastian Lyne,,Fr.,,,"Parnell, New Zealand",rowing,2025
+Charles Huckel,,Fr.,,,"Doylestown, Pa.",rowing,2025
+Paul Canalori,,So.,,,"Woodbridge, Conn.",rowing,2025
 Beatrice Schlein,,Fr.,,,"Westport, Conn.",rowing,2025
+Vincent Mann,,Jr.,,,"Indianapolis, Ind.",rowing,2025
+John Kiely,,So.,,,"Westport, Conn.",rowing,2025
+Noah Klemmer Domonkos,,Sr.,,,"Stockholm, Sweden",rowing,2025
 Sam Scowen,,Jr.,,,"London, England",rowing,2025
 Peter Strecansky,,Fr.,,,"Piestany, Slovakia",rowing,2025
 James Swinehart,,Jr.,,,"Columbus, Ga.",rowing,2025
 Matteo Torres,,Sr.,,,"Frederick, Md.",rowing,2025
 Johannes Jakobsen,,Jr.,,,"Copenhagen, Denmark",rowing,2025
+Ivo Monaghan,,Fr.,,,"London, England",rowing,2025
+Jack Hume,,So.,,,"Alameda, Calif.",rowing,2025
+Astor Lu,,Sr.,,,"Washington, D.C.",rowing,2025
+Matteus Rueca,,Fr.,,,"Oakland, Calif.",rowing,2025
+Braeden Carroll,,Sr.,,,"Kinnelon, N.J.",rowing,2025
+Charlotte Cox,,Sr.,,,"Los Angeles, Calif.",rowing,2025
+Bach Ryan,,Jr.,,,"Sausalito, Calif.",rowing,2025
+Adam Casler,,Sr.,,,"Newport, Calif.",rowing,2025
+Charlie Vaksman,,Jr.,,,"Burlingame, Calif.",rowing,2025
 Laszlo Wenk,,Sr.,,,"Scarsdale, New York",rowing,2025
+Hidde Lycklama,,Sr.,,,"Amsterdam, Noord-Holland",rowing,2025
+Jackson Anderson,,Fr.,,,"Rye, N.Y.",rowing,2025
+Reuben Cook,,Sr.,,,"Dunedin, New Zealand",rowing,2025
+Sebastian Whiteley,,So.,,,"Toorak, Aus.",rowing,2025
 Maaso Ortega,,Sr.,,,"Pasadena, Calif.",rowing,2025
+Sid Jain,,Sr.,,,"Roslyn Heights, N.Y.",rowing,2025
+Atticus Chute,,So.,,,"Slough, England",rowing,2025
+Reese Bommer,,So.,,,"Rye, N.Y.",rowing,2025
+Bryson Jeppesen,,Fr.,,,"Mesa, Ariz.",rowing,2025
+William Drapkin,,So.,,,"New Canaan, Conn.",rowing,2025
+Edward Galer,,Fr.,,,"Thames Ditton, England",rowing,2025
+Cal Gorvy,,Sr.,,,"Marlow, Great Britain",rowing,2025
+Luke Helstrom,,Jr.,,,"Philadelphia, Pa.",rowing,2025
+George Dolce,,Fr.,,,"Rye Brook, N.Y.",rowing,2025
+Liam Dooley,,Sr.,,,"Chicago, Ill.",rowing,2025
+Quinn Diamond,,Sr.,,,"Dallas, Texas",rowing,2025
+Liam D'Evelyn,,Fr.,,,"Saratoga Springs, N.Y.",rowing,2025
 Matt Smith,,,,,,rowing,2025

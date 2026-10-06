@@ -1,98 +1,176 @@
 name,position,class,height,weight,hometown,sport,year
-Mya Murray,F,So.,6' 2'',,"Uniontown, Pa.",womens-basketball,2021
-Amanda Latkany,F,Fr.,6' 1'',,"Rye, N.Y.",womens-basketball,2021
-Gianna Aiello,C,Fr.,6' 3'',,"Matawan, N.J.",womens-basketball,2021
-Chantal Nadia,F,So.,6' 1'',,"Los Angeles, Calif.",womens-basketball,2021
-Lexi Love,G,Jr.,5' 4'',,"Oakland, Calif.",womens-basketball,2021
-Myla Cox,G,Jr.,6' 0'',,"Petal, Miss.",womens-basketball,2021
-Fiona Finn,F,Jr.,6' 1'',,"West Roxbury, Mass.",womens-basketball,2021
-Maddie Mullin,G,Jr.,5' 9'',,"Wellesley, Mass.",womens-basketball,2021
-Charlee Arthur,G,Fr.,5' 10'',,"Bellevue, Wash.",womens-basketball,2021
-Kyla Jones,G,So.,5' 9'',,"Chicago, Ill.",womens-basketball,2021
-Ashley Ducharme,F,Sr.,6' 1'',,"Milton, Mass.",womens-basketball,2021
-Emma Laszewski,F,So.,6' 2'',,"Jupiter, Fla.",womens-basketball,2021
-Dani Short,F,Jr.,6' 1'',,"Aliquippa, Pa.",womens-basketball,2021
-Charlee Worcester,PG,,5' 2'',,"Lincoln, R.I.",womens-basketball,2021
-Monique LeBlanc,,,,,,womens-basketball,2021
-Charlotte Jewell,G,So.,5' 7'',,"Alexandria, Va.",womens-basketball,2021
-Isabella Mauricio,G,Fr.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2021
+Melissa Heath,Forward,So.,6' 2'',,"Ho-Ho-Kus, N.J.",womens-basketball,2016
+Megan Reilly,Guard,Jr.,5' 7'',,"Norwood, N.J.",womens-basketball,2016
+Justine Gaziano,Guard/Forward,Fr.,6' 0'',,"Natick, Mass.",womens-basketball,2016
+Mary Butler,Forward,So.,6' 0'',,"Bangor, Maine",womens-basketball,2016
+Kathleen Ryan,Guard/Forward,Fr.,6' 2'',,"Clarence Center, N.Y.",womens-basketball,2016
+Shayna Mehta,Guard,So.,5' 7'',,"San Francisco, Calif.",womens-basketball,2016
+Janie White,Forward,Jr.,6' 2'',,"Clarksville, Tenn.",womens-basketball,2016
+Sarah Behn,,,,,,womens-basketball,2016
+Abby O'Keefe,Guard,Fr.,5' 8'',,"St. Louis, Mo.",womens-basketball,2016
+Lames ElGammal,Forward/Center,Fr.,6' 2'',,"Baldwin, N.Y.",womens-basketball,2016
+Haley Green,Forward/Center,Fr.,6' 3'',,"Salem, Va.",womens-basketball,2016
+Randi Richardson,Guard,Fr.,5' 5'',,"Flint, Mich.",womens-basketball,2016
+Taylor Will,Guard,So.,5' 11'',,"Arlington Heights, Ill.",womens-basketball,2016
+Erika Steeves,Forward,So.,6' 2'',,"Montreal, Quebec",womens-basketball,2016
+Lames ElGammal,Center,So.,6' 2'',,"Baldwin, N.Y.",womens-basketball,2017
+Haley Green,Center,So.,6' 3'',,"Salem, Va.",womens-basketball,2017
+Janie White,Forward,Sr.,6' 2'',,"Clarksville, Tenn.",womens-basketball,2017
+Jenna Benzinger,Center,Fr.,6' 5'',,"Williamstown, Mass.",womens-basketball,2017
+Kathleen Ryan,Forward,So.,6' 2'',,"Clarence Center, N.Y.",womens-basketball,2017
+Erika Steeves,Forward,Jr.,6' 2'',,"Montreal, Quebec",womens-basketball,2017
+Mary Butler,Forward,Jr.,6' 0'',,"Bangor, Maine",womens-basketball,2017
+Shayna Mehta,Guard,Jr.,5' 7'',,"San Francisco, Calif.",womens-basketball,2017
+Sarah Behn,,,,,,womens-basketball,2017
+Melissa Heath,Forward,Jr.,6' 2'',,"Ho-Ho-Kus, N.J.",womens-basketball,2017
+Megan Reilly,Guard,Sr.,5' 7'',,"Norwood, N.J.",womens-basketball,2017
+McKenna Dale,Guard,Fr.,6' 0'',,"Storrs, Conn.",womens-basketball,2017
+Savannah Lewis,Guard/Forward,Fr.,6' 0'',,"Westlake Village, Calif.",womens-basketball,2017
+Morgan Clausen,Forward,Fr.,6' 0'',,"Algonquin, Ill.",womens-basketball,2017
+Taylor Will,Guard,Jr.,5' 11'',,"Arlington Heights, Ill.",womens-basketball,2017
+Dominique Leonidas,Guard,Fr.,5' 5'',,"Stone Mountain, Ga.",womens-basketball,2017
+Justine Gaziano,Guard,So.,6' 0'',,"Natick, Mass.",womens-basketball,2017
+Randi Richardson,Guard,So.,5' 5'',,"Flint, Mich.",womens-basketball,2017
+Alana Kelley,G/F,Fr.,6' 0'',,"Phoenix, Ariz.",womens-basketball,2018
+Taylor Will,G(C),Sr.,5' 11'',,"Arlington Heights, Ill.",womens-basketball,2018
+Dominique Leonidas,G,So.,5' 5'',,"Stone Mountain, Ga.",womens-basketball,2018
+Savannah Lewis,F,So.,6' 0'',,"Westlake Village, Calif.",womens-basketball,2018
+Morgan Clausen,F,So.,6' 0'',,"Algonquin, Ill.",womens-basketball,2018
+Justine Gaziano,G,Jr.,6' 0'',,"Natick, Mass.",womens-basketball,2018
+Nina Mehta,G,Fr.,5' 8'',,"San Francisco, Calif.",womens-basketball,2018
+Mary Butler,F,Sr.,6' 0'',,"Bangor, Maine",womens-basketball,2018
+Ashley Ducharme,F,Fr.,6' 1'',,"Milton, Mass.",womens-basketball,2018
+Haley Green,C,Jr.,6' 3'',,"Salem, Va.",womens-basketball,2018
+Traiva Breedlove,G,Fr.,5' 8'',,"Rochester, N.Y.",womens-basketball,2018
+Sarah Behn,,,,,,womens-basketball,2018
+McKenna Dale,G,So.,6' 0'',,"Storrs, Conn.",womens-basketball,2018
+Randi Richardson,G,Jr.,5' 5'',,"Flint, Mich.",womens-basketball,2018
+Shayna Mehta,G(C),Sr.,5' 7'',,"San Francisco, Calif.",womens-basketball,2018
+Erika Steeves,F(C),Sr.,6' 2'',,"Montreal, Quebec",womens-basketball,2018
+Maddie Mullin,G,Fr.,5' 9'',,"Wellesley, Mass.",womens-basketball,2018
+Dani Short,F,Fr.,6' 1'',,"Aliquippa, Pa.",womens-basketball,2019
+Sarah Behn,,,,,,womens-basketball,2019
+Haley Green,C,Sr.,6' 3'',,"Salem, Va.",womens-basketball,2019
+Maddie Mullin,G,So.,5' 9'',,"Wellesley, Mass.",womens-basketball,2019
+Mia Mascone,G,Fr.,5' 9'',,"Irvington, N.Y.",womens-basketball,2019
+Sydney Rosant,G,Fr.,5' 8'',,"Foster City, Ga.",womens-basketball,2019
+Ashley Ducharme,F,So.,6' 1'',,"Milton, Mass.",womens-basketball,2019
+Fiona Finn,F,Fr.,6' 1'',,"West Roxbury, Mass.",womens-basketball,2019
+Myla Cox,G,Fr.,6' 0'',,"Petal, Miss.",womens-basketball,2019
+Justine Gaziano,G,Sr.,6' 0'',,"Natick, Mass.",womens-basketball,2019
+Dominique Leonidas,G,Jr.,5' 5'',,"Stone Mountain, Ga.",womens-basketball,2019
+Lexi Love,G,Fr.,5' 4'',,"Oakland, Calif.",womens-basketball,2019
+McKenna Dale,G,Jr.,6' 0'',,"Storrs, Conn.",womens-basketball,2019
+Sydney Rosant,G,So.,5' 8'',,"Foster City, Ga.",womens-basketball,2020
+Monique LeBlanc,,,,,,womens-basketball,2020
+Maddie Mullin,G,Jr.,5' 9'',,"Wellesley, Mass.",womens-basketball,2020
+Emma Laszewski,F,Fr.,6' 2'',,"Jupiter, Fla.",womens-basketball,2020
+Charlotte Jewell,G,Fr.,5' 7'',,"Alexandria, Va.",womens-basketball,2020
+Dani Short,F,So.,6' 1'',,"Aliquippa, Pa.",womens-basketball,2020
+Ashley Ducharme,F,Jr.,6' 1'',,"Milton, Mass.",womens-basketball,2020
+Grace Kirk,G,Fr.,5' 5'',,"Duluth, Minn.",womens-basketball,2020
+Chantal Nadia,F,Fr.,6' 1'',,"Los Angeles, Calif.",womens-basketball,2020
+Fiona Finn,F,So.,6' 1'',,"West Roxbury, Mass.",womens-basketball,2020
+Myla Cox,G,So.,6' 0'',,"Petal, Miss.",womens-basketball,2020
+Lexi Love,G,So.,5' 4'',,"Oakland, Calif.",womens-basketball,2020
+Mya Murray,F,Fr.,6' 2'',,"Uniontown, Pa.",womens-basketball,2020
+Dominique Leonidas,G,Sr.,5' 5'',,"Stone Mountain, Ga.",womens-basketball,2020
+McKenna Dale,G,Sr.,6' 0'',,"Storrs, Conn.",womens-basketball,2020
+Kyla Jones,G,Fr.,5' 9'',,"Chicago, Ill.",womens-basketball,2020
 Grace Kirk,G,So.,5' 5'',,"Duluth, Minn.",womens-basketball,2021
+Kyla Jones,G,So.,5' 9'',,"Chicago, Ill.",womens-basketball,2021
+Isabella Mauricio,G,Fr.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2021
+Charlotte Jewell,G,So.,5' 7'',,"Alexandria, Va.",womens-basketball,2021
+Monique LeBlanc,,,,,,womens-basketball,2021
+Charlee Worcester,PG,,5' 2'',,"Lincoln, R.I.",womens-basketball,2021
+Emma Laszewski,F,So.,6' 2'',,"Jupiter, Fla.",womens-basketball,2021
+Ashley Ducharme,F,Sr.,6' 1'',,"Milton, Mass.",womens-basketball,2021
+Mya Murray,F,So.,6' 2'',,"Uniontown, Pa.",womens-basketball,2021
+Dani Short,F,Jr.,6' 1'',,"Aliquippa, Pa.",womens-basketball,2021
+Charlee Arthur,G,Fr.,5' 10'',,"Bellevue, Wash.",womens-basketball,2021
+Fiona Finn,F,Jr.,6' 1'',,"West Roxbury, Mass.",womens-basketball,2021
+Myla Cox,G,Jr.,6' 0'',,"Petal, Miss.",womens-basketball,2021
+Maddie Mullin,G,Jr.,5' 9'',,"Wellesley, Mass.",womens-basketball,2021
+Chantal Nadia,F,So.,6' 1'',,"Los Angeles, Calif.",womens-basketball,2021
+Gianna Aiello,C,Fr.,6' 3'',,"Matawan, N.J.",womens-basketball,2021
+Amanda Latkany,F,Fr.,6' 1'',,"Rye, N.Y.",womens-basketball,2021
+Lexi Love,G,Jr.,5' 4'',,"Oakland, Calif.",womens-basketball,2021
+Mady Calhoun,G,Fr.,5' 10'',,"Barrington, R.I.",womens-basketball,2022
 Maddie Mullin,G,Sr.,5' 9'',,"Wellesley, Mass.",womens-basketball,2022
+Monique LeBlanc,,,,,,womens-basketball,2022
+Gianna Aiello,C,So.,6' 4'',,"Matawan, N.J.",womens-basketball,2022
+Ada Anamekwe,F,Fr.,6' 0'',,"Dallas, Texas",womens-basketball,2022
+Mackenzie Leahy,G,Fr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2022
+Beth Nelson,F,Fr.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2022
+Page Greenburg,G,Fr.,5' 9'',,"Washington, D.C.",womens-basketball,2022
+Amanda Latkany,F,So.,6' 1'',,"Rye, N.Y.",womens-basketball,2022
+Isabella Mauricio,G,So.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2022
+Charlotte Jewell,G,Jr.,5' 7'',,"Alexandria, Va.",womens-basketball,2022
+Lexy Calhoun,G,Fr.,5' 8'',,"Barrington, R.I.",womens-basketball,2022
+Myla Cox,G,Sr.,6' 0'',,"Petal, Miss.",womens-basketball,2022
+Mya Murray,F,Jr.,6' 2'',,"Uniontown, Pa.",womens-basketball,2022
+Grace Kirk,G,Jr.,5' 5'',,"Duluth, Minn.",womens-basketball,2022
+Charlee Worcester,,,5' 2'',,"Lincoln, R.I.",womens-basketball,2022
+Alyssa Moreland,F,Fr.,5' 11'',,"Beverly, Mass.",womens-basketball,2022
+Grace Arnolie,G,Fr.,5' 8'',,"Vienna, Va.",womens-basketball,2022
 Lexi Love,G,Sr.,5' 4'',,"Oakland, Calif.",womens-basketball,2022
 Kyla Jones,G,Jr.,5' 9'',,"Chicago, Ill.",womens-basketball,2022
-Grace Kirk,G,Jr.,5' 5'',,"Duluth, Minn.",womens-basketball,2022
-Mya Murray,F,Jr.,6' 2'',,"Uniontown, Pa.",womens-basketball,2022
-Myla Cox,G,Sr.,6' 0'',,"Petal, Miss.",womens-basketball,2022
-Lexy Calhoun,G,Fr.,5' 8'',,"Barrington, R.I.",womens-basketball,2022
-Charlotte Jewell,G,Jr.,5' 7'',,"Alexandria, Va.",womens-basketball,2022
-Isabella Mauricio,G,So.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2022
-Alyssa Moreland,F,Fr.,5' 11'',,"Beverly, Mass.",womens-basketball,2022
-Page Greenburg,G,Fr.,5' 9'',,"Washington, D.C.",womens-basketball,2022
-Mady Calhoun,G,Fr.,5' 10'',,"Barrington, R.I.",womens-basketball,2022
-Beth Nelson,F,Fr.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2022
-Mackenzie Leahy,G,Fr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2022
-Ada Anamekwe,F,Fr.,6' 0'',,"Dallas, Texas",womens-basketball,2022
-Gianna Aiello,C,So.,6' 4'',,"Matawan, N.J.",womens-basketball,2022
-Monique LeBlanc,,,,,,womens-basketball,2022
-Amanda Latkany,F,So.,6' 1'',,"Rye, N.Y.",womens-basketball,2022
-Charlee Worcester,,,5' 2'',,"Lincoln, R.I.",womens-basketball,2022
-Grace Arnolie,G,Fr.,5' 8'',,"Vienna, Va.",womens-basketball,2022
-Mya Murray,F,Sr.,6' 2'',,"Uniontown, Pa.",womens-basketball,2023
-Kyla Jones,G,Sr.,5' 9'',,"Chicago, Ill.",womens-basketball,2023
-Grace Kirk,G,Sr.,5' 5'',,"Duluth, Minn.",womens-basketball,2023
-Isabella Mauricio,G,Jr.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2023
-Olivia Young,G,Fr.,5' 11'',,"Durham, N.C.",womens-basketball,2023
-Lexy Calhoun,G,So.,5' 8'',,"Barrington, R.I.",womens-basketball,2023
-Alyssa Moreland,F,So.,5' 11'',,"Beverly, Mass.",womens-basketball,2023
-Charlotte Jewell,G,Sr.,5' 7'',,"Alexandria, Va.",womens-basketball,2023
-Mady Calhoun,G,So.,5' 10'',,"Barrington, R.I.",womens-basketball,2023
-Beth Nelson,F,So.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2023
+Charlee Worcester,Team IMPACT,,5' 2'',,"Lincoln, R.I.",womens-basketball,2023
 Grace Arnolie,G,So.,5' 8'',,"Vienna, Va.",womens-basketball,2023
 Mackenzie Leahy,G,So.,5' 8'',,"West Dundee, Ill.",womens-basketball,2023
+Lexy Calhoun,G,So.,5' 8'',,"Barrington, R.I.",womens-basketball,2023
 Ada Anamekwe,F,So.,6' 0'',,"Dallas, Texas",womens-basketball,2023
 Amiya Hopkins,F/C,Fr.,6' 2'',,"Fort Worth, Texas",womens-basketball,2023
 Gianna Aiello,C,Jr.,6' 4'',,"Matawan, N.J.",womens-basketball,2023
-Charlee Worcester,Team IMPACT,,5' 2'',,"Lincoln, R.I.",womens-basketball,2023
 Monique LeBlanc,,,,,,womens-basketball,2023
-Alyssa Moreland,F,Jr.,5' 11'',,"Beverly, Mass.",womens-basketball,2024
+Mady Calhoun,G,So.,5' 10'',,"Barrington, R.I.",womens-basketball,2023
+Olivia Young,G,Fr.,5' 11'',,"Durham, N.C.",womens-basketball,2023
+Charlotte Jewell,G,Sr.,5' 7'',,"Alexandria, Va.",womens-basketball,2023
+Alyssa Moreland,F,So.,5' 11'',,"Beverly, Mass.",womens-basketball,2023
+Beth Nelson,F,So.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2023
+Isabella Mauricio,G,Jr.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2023
+Grace Kirk,G,Sr.,5' 5'',,"Duluth, Minn.",womens-basketball,2023
+Kyla Jones,G,Sr.,5' 9'',,"Chicago, Ill.",womens-basketball,2023
+Mya Murray,F,Sr.,6' 2'',,"Uniontown, Pa.",womens-basketball,2023
+Grace Arnolie,G,Jr.,5' 8'',,"Vienna, Va.",womens-basketball,2024
+Monique LeBlanc,,,,,,womens-basketball,2024
+Aima Ofunrein,F,Fr.,6' 1'',,"Round Rock, Texas",womens-basketball,2024
+Ada Anamekwe,F,Jr.,6' 0'',,"Dallas, Texas",womens-basketball,2024
+Mackenzie Leahy,G,Jr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2024
+Sela Klein,G,Fr.,5' 11'',,"Wilmette, Ill.",womens-basketball,2024
+Charlee Worcester,Team IMPACT,,5' 2'',,"Lincoln, R.I.",womens-basketball,2024
 Mady Calhoun,G,Jr.,5' 10'',,"Barrington, R.I.",womens-basketball,2024
-Beth Nelson,F,Jr.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2024
-Gia Powell,G,Fr.,5' 8'',,"Edmonds, Wash.",womens-basketball,2024
 Isabella Mauricio,G,Sr.,5' 4'',,"Pleasanton, Calif.",womens-basketball,2024
 Olivia Young,G,So.,5' 11'',,"Durham, N.C.",womens-basketball,2024
-Sela Klein,G,Fr.,5' 11'',,"Wilmette, Ill.",womens-basketball,2024
 Gianna Aiello,C,Sr.,6' 4'',,"Matawan, N.J.",womens-basketball,2024
-Aima Ofunrein,F,Fr.,6' 1'',,"Round Rock, Texas",womens-basketball,2024
-Charlee Worcester,Team IMPACT,,5' 2'',,"Lincoln, R.I.",womens-basketball,2024
-Monique LeBlanc,,,,,,womens-basketball,2024
-Grace Arnolie,G,Jr.,5' 8'',,"Vienna, Va.",womens-basketball,2024
-Mackenzie Leahy,G,Jr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2024
-Ada Anamekwe,F,Jr.,6' 0'',,"Dallas, Texas",womens-basketball,2024
-Sela Klein,G,So.,5' 11'',,"Wilmette, Ill.",womens-basketball,2025
-Alyssa Moreland,F,Sr.,5' 11'',,"Beverly, Mass.",womens-basketball,2025
-Morgan Ross,F,Fr.,6' 0'',,"Oakland, Calif.",womens-basketball,2025
-Charlotte Climenhage,G,Jr.,6' 0'',,"Folsom, Calif.",womens-basketball,2025
-Gia Powell,G,So.,5' 8'',,"Edmonds, Wash.",womens-basketball,2025
-Lindsay Harzich,G,Fr.,5' 11'',,"Hinsdale, Ill.",womens-basketball,2025
-Isabella Wesley,G/F,Fr.,5' 10'',,"New York, N.Y.",womens-basketball,2025
-Monét Witherspoon,G,So.,5' 8'',,"St. Louis, Mo.",womens-basketball,2025
-Olivia Young,G,Jr.,5' 11'',,"Durham, N.C.",womens-basketball,2025
-Mackenzie Leahy,G,Sr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2025
+Gia Powell,G,Fr.,5' 8'',,"Edmonds, Wash.",womens-basketball,2024
+Alyssa Moreland,F,Jr.,5' 11'',,"Beverly, Mass.",womens-basketball,2024
+Beth Nelson,F,Jr.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2024
 Beth Nelson,F,Sr.,6' 0'',,"Murfreesboro, Tenn.",womens-basketball,2025
+Sela Klein,G,So.,5' 11'',,"Wilmette, Ill.",womens-basketball,2025
+Mackenzie Leahy,G,Sr.,5' 8'',,"West Dundee, Ill.",womens-basketball,2025
 Ada Anamekwe,F,Sr.,6' 0'',,"Dallas, Texas",womens-basketball,2025
 Aima Ofunrein,F,So.,6' 1'',,"Round Rock, Texas",womens-basketball,2025
 Charlee Worcester,Team IMPACT,,5' 2'',,"Lincoln, R.I.",womens-basketball,2025
 Mady Calhoun,G,Sr.,5' 10'',,"Barrington, R.I.",womens-basketball,2025
-Monique LeBlanc,,,,,,womens-basketball,2025
 Charlotte Adams-Lopez,G,Fr.,5' 7'',,"North Attleboro, Mass.",womens-basketball,2025
 Grace Arnolie,G,Sr.,5' 8'',,"Vienna, Va.",womens-basketball,2025
-Nalah Smith,F,Fr.,6' 3'',,"Fort Myers, Fla.",womens-basketball,2026
-Aima Ofunrein,F,Jr.,6' 1'',,"Round Rock, Texas",womens-basketball,2026
-Summer Lee,G/F,Fr.,6' 2'',,"Carrboro, N.C.",womens-basketball,2026
-Erin Reid,G,Fr.,5' 10'',,"Fair Haven, N.J.",womens-basketball,2026
-Sravya Janapati,G,Fr.,5' 11'',,"Ashburn, Va.",womens-basketball,2026
+Olivia Young,G,Jr.,5' 11'',,"Durham, N.C.",womens-basketball,2025
+Monique LeBlanc,,,,,,womens-basketball,2025
+Isabella Wesley,G/F,Fr.,5' 10'',,"New York, N.Y.",womens-basketball,2025
+Lindsay Harzich,G,Fr.,5' 11'',,"Hinsdale, Ill.",womens-basketball,2025
+Gia Powell,G,So.,5' 8'',,"Edmonds, Wash.",womens-basketball,2025
+Charlotte Climenhage,G,Jr.,6' 0'',,"Folsom, Calif.",womens-basketball,2025
+Morgan Ross,F,Fr.,6' 0'',,"Oakland, Calif.",womens-basketball,2025
+Alyssa Moreland,F,Sr.,5' 11'',,"Beverly, Mass.",womens-basketball,2025
+Monét Witherspoon,G,So.,5' 8'',,"St. Louis, Mo.",womens-basketball,2025
 Charlotte Adams-Lopez,G,So.,5' 7'',,"North Attleboro, Mass.",womens-basketball,2026
+Sravya Janapati,G,Fr.,5' 11'',,"Ashburn, Va.",womens-basketball,2026
+Nalah Smith,F,Fr.,6' 3'',,"Fort Myers, Fla.",womens-basketball,2026
+Summer Lee,G/F,Fr.,6' 2'',,"Carrboro, N.C.",womens-basketball,2026
+Aima Ofunrein,F,Jr.,6' 1'',,"Round Rock, Texas",womens-basketball,2026
 Sophia Eastman,G,Fr.,5' 10'',,"Bellevue, Wash.",womens-basketball,2026
+Erin Reid,G,Fr.,5' 10'',,"Fair Haven, N.J.",womens-basketball,2026
 Caitlyn Kramer,G,Fr.,5' 9'',,"Los Altos Hills, Calif.",womens-basketball,2026
 Olivia Young,G,Sr.,5' 11'',,"Durham, N.C.",womens-basketball,2026
 Sela Klein,G,Jr.,5' 11'',,"Wilmette, Ill.",womens-basketball,2026

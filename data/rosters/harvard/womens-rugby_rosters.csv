@@ -1,164 +1,319 @@
 name,position,class,height,weight,hometown,sport,year
+Jenny Kronish,,So.,,,"New York, N.Y.",womens-rugby,2016
+Virginia Miller,,So.,,,"Evergreen Park, Ill.",womens-rugby,2016
+Becky Soilson,,Fy,,,"Plymouth, Mass.",womens-rugby,2016
+Genevieve Quirion,,So.,,,"Quebec, Canada",womens-rugby,2016
+Maya Learned,,Jr.,,,"Denver, Colo.",womens-rugby,2016
+Emily Prentice,,Fy,,,"Seattle, Wash.",womens-rugby,2016
+Caitlin Weigel,,So.,,,"Hudson, Ohio",womens-rugby,2016
+Theresa Manivanh,,So.,,,"Des Moines, Iowa",womens-rugby,2016
+Taciana Periera,,Sr.,,,"Curitiba, Brazil",womens-rugby,2016
+Ana Suazo,,Fy,,,,womens-rugby,2016
+Akweley Okine,,So.,,,"Westchester, Pa.",womens-rugby,2016
+Sarah Lipson,,So.,,,"Chevy Chase, Md.",womens-rugby,2016
+Victoria Tong,,Fy,,,"Burwood, Australia",womens-rugby,2016
+Haley Langan,,Jr.,,,"South Burlington, Vt.",womens-rugby,2016
+Delia Hellander,,Fy,,,"Lebanon, N.J.",womens-rugby,2016
+Dalton Youngblood,,Jr.,,,"Dallas, Texas",womens-rugby,2016
+Rachel Harkavy,,So.,,,"Cambridge, Mass.",womens-rugby,2016
+Min Kim,,So.,,,"Rye, N.Y.",womens-rugby,2016
+Camille Bean,,Fy,,,"Elk Grove, Calif.",womens-rugby,2016
+Cydnee Colpaert,,Fy,,,"San Tan Valley, Ariz.",womens-rugby,2016
+Robyn Beese,,Fy,,,"Sai Kung, Hong Kong",womens-rugby,2016
+Grace Chao,,So.,,,"Fairfax, Colo.",womens-rugby,2016
+Claire Collins,,Sr.,,,"Palo Alto, Calif.",womens-rugby,2016
+Dominique Cantave,,Fy,,,"Park Forest, Ill.",womens-rugby,2016
+Justina Hewitt,,Fy,,,"Lake Clear, N.Y.",womens-rugby,2016
+Rachel Slater,,Fy,,,"Hudson, Ohio",womens-rugby,2017
+Erin Wright,,Fy,,,"Waukesha, Wisc.",womens-rugby,2017
+Caitlin Weigel,,Jr.,,,"Hudson, Ohio",womens-rugby,2017
+Nina Uoigwe,,Fy,,,"Brooklyn, N.Y.",womens-rugby,2017
+Ana Suazo,,So.,,,"San Pedro Sula, Honduras",womens-rugby,2017
+Victoria Tong,,So.,,,"Burwood, Australia",womens-rugby,2017
+Dalton Youngblood,,Sr.,,,"Dallas, Texas",womens-rugby,2017
+Milan Roberts,,Fy,,,"Ottawa, Canada",womens-rugby,2017
+Virginia Miller,,Jr.,,,"Evergreen Park, Ill.",womens-rugby,2017
+Akweley Okine,,Jr.,,,"Westchester, Pa.",womens-rugby,2017
+Bridget Grimm,,So.,,,"Canandaigua, N.Y.",womens-rugby,2017
+Jenny Kronish,,Jr.,,,"New York, N.Y.",womens-rugby,2017
+Heide Rogers,,Fy,,,"Weinheim, Germany",womens-rugby,2017
+Rachel Harkavy,,Jr.,,,"Cambridge, Mass.",womens-rugby,2017
+Genevieve Quirion,,Jr.,,,"Quebec, Canada",womens-rugby,2017
+Sarah Lipson,,Jr.,,,"Chevy Chase, Md.",womens-rugby,2017
+Delia Hellander,,So.,,,"Lebanon, N.J.",womens-rugby,2017
+Haley Langan,,Sr.,,,"South Burlington, Vt.",womens-rugby,2017
+Arianna Romero,,Fy,,,"Boise, Idaho",womens-rugby,2017
+Robyn Beese,,So.,,,"Sai Kung, Hong Kong",womens-rugby,2017
+Grace Chao,,Jr.,,,"Fairfax, Colo.",womens-rugby,2017
+Maya Learned,,Sr.,,,"Denver, Colo.",womens-rugby,2017
+Susie Clements,,Jr.,,,,womens-rugby,2017
+Brooklynn Davis,,So.,,,"Boise, Idaho",womens-rugby,2017
+Dominique Cantave,,So.,,,"Park Forest, Ill.",womens-rugby,2017
+Hannah Eckstein,,Fy,,,"Lloyd Harbor, N.Y.",womens-rugby,2017
+Sabrina Kim,,Fy,,,"Piedmont, Calif.",womens-rugby,2017
+Camille Bean,,So.,,,"Elk Grove, Calif.",womens-rugby,2017
+Emily Prentice,,So.,,,"Seattle, Wash.",womens-rugby,2017
+Becky Soilson,,So.,,,"Plymouth, Mass.",womens-rugby,2017
+Theresa Manivanh,,Jr.,,,"Des Moines, Iowa",womens-rugby,2017
+Erica Jarrell,,Fy,,,"Lincoln, Mass.",womens-rugby,2017
+Justina Hewitt,,So.,,,"Lake Clear, N.Y.",womens-rugby,2017
+Emma Kearney,,Fy,,,"Acton, Mass.",womens-rugby,2018
+Bridget Grimm,,Jr.,,,"Canandaigua, N.Y.",womens-rugby,2018
+Erica Jarrell,,So.,,,"Lincoln, Mass.",womens-rugby,2018
+Justina Hewitt,,Jr.,,,"Lake Clear, N.Y.",womens-rugby,2018
+Delia Hellander,,Jr.,,,"Lebanon, N.J.",womens-rugby,2018
+Rachael Harkavy,,Sr.,,,"Cambridge, Mass.",womens-rugby,2018
+Carine Hajjar,,So.,,,"Milton, Mass.",womens-rugby,2018
+Michelle Groth,,Fy,,,"Albuquerque, N.M.",womens-rugby,2018
+Grace Chao,,Sr.,,,"Fairfax, Colo.",womens-rugby,2018
+Robyn Beese,,Jr.,,,"Sai Kung, Hong Kong",womens-rugby,2018
+Camille Bean,,Jr.,,,"Elk Grove, Calif.",womens-rugby,2018
+Francesca Barr,,Fy,,,"Chatham, Mass.",womens-rugby,2018
+Brooklynn Davis,,Jr.,,,"Boise, Idaho",womens-rugby,2018
+Gabrielle Fernandopulle,,So.,,,"Milton, Mass.",womens-rugby,2018
+Cassidy Bargell,,Fy,,,"Silverthorne, Colo.",womens-rugby,2018
+Sofie Fella,,Fy,,,"Shanghai, China",womens-rugby,2018
+Dominique Cantave,,Jr.,,,"Park Forest, Ill.",womens-rugby,2018
+Sabrina Kim,,So.,,,"Piedmont, Calif.",womens-rugby,2018
+Susie Clements,,Sr.,,,"St. Andrews, Scotland",womens-rugby,2018
+Jenny Kronish,,Sr.,,,"New York, N.Y.",womens-rugby,2018
+Genevieve Quirion,,Sr.,,,"Quebec, Canada",womens-rugby,2018
+Rebecca Lisk,,So.,,,"Rockford, Ill.",womens-rugby,2018
+Erin Wright,,So.,,,"Waukesha, Wisc.",womens-rugby,2018
+Caitlin Weigel,,Sr.,,,"Hudson, Ohio",womens-rugby,2018
+Nina Uzoigwe,,So.,,,"Brooklyn, N.Y.",womens-rugby,2018
+Victoria Tong,,Jr.,,,"Burwood, Australia",womens-rugby,2018
+Ana Suazo,,Jr.,,,"San Pedro Sula, Honduras",womens-rugby,2018
+Sephora Ruppert,,Fy,,,"Ketsch, Germany",womens-rugby,2018
+Emily Prentice,,Jr.,,,"Seattle, Wash.",womens-rugby,2018
+Jennifer Zhu,,Fy,,,"Pleasanton, Calif.",womens-rugby,2018
+Virginia Miller,,Sr.,,,"Evergreen Park, Ill.",womens-rugby,2018
+Theresa Manivanh,,Sr.,,,"Des Moines, Iowa",womens-rugby,2018
+Christina Lowell,,Fy,,,"Monrovia, Md.",womens-rugby,2018
+Sarah Lipson,,Jr.,,,"Chevy Chase, Md.",womens-rugby,2018
+Arianna Romero,,So.,,,"Boise, Idaho",womens-rugby,2018
+Milan Roberts,,So.,,,"Ottawa, Canada",womens-rugby,2018
+Alicia Rivera,,Fy,,,"New York, N.Y.",womens-rugby,2018
+Akweley Okine,,Sr.,,,"Westchester, Pa.",womens-rugby,2018
+Sabrina Kim,,Jr.,,,"Piedmont, Calif.",womens-rugby,2019
+Sarah Lipson,,Sr.,,,"Chevy Chase, Md.",womens-rugby,2019
+Rebecca Lisk,,Jr.,,,"Rockford, Ill.",womens-rugby,2019
+Alex Pipkin,,Fy,,,"Joppa, Md.",womens-rugby,2019
+Christina Lowell,,So.,,,"Monrovia, Md.",womens-rugby,2019
+Heidi Lucas,,Fy,,,"Smiths Falls, Ontario",womens-rugby,2019
+Virginia Miller,,Sr.,,,"Evergreen Park, Ill.",womens-rugby,2019
+Brogan Mior,,Fy,,,"Okotoks, Alberta",womens-rugby,2019
+Arianna Romero,,Jr.,,,"Boise, Idaho",womens-rugby,2019
+Alicia Rivera,,So.,,,"New York, N.Y.",womens-rugby,2019
+Nina Uzoigwe,,Jr.,,,"Brooklyn, N.Y.",womens-rugby,2019
+Erin Wright,,Jr.,,,"Waukesha, Wisc.",womens-rugby,2019
+Chiara Darnton,,So.,,,"Atlanta, Ga.",womens-rugby,2019
+Lucy Jacobsen,,Fy,,,"Boise, Idaho",womens-rugby,2019
+Kim Hartung,,Fy,,,"Smiths Falls, Ontario",womens-rugby,2019
+Emma Kearney,,So.,,,"Acton, Mass.",womens-rugby,2019
+Jennifer Zhu,,So.,,,"Pleasanton, Calif.",womens-rugby,2019
+Sephora Ruppert,,So.,,,"Ketsch, Germany",womens-rugby,2019
+Darby Eck,,Fy,,,"Sparta, Mich.",womens-rugby,2019
+Milan Roberts,,Jr.,,,"Ottawa, Canada",womens-rugby,2019
+Sofie Fella,,So.,,,"Shanghai, China",womens-rugby,2019
+Victoria Tong,,Sr.,,,"Burwood, Australia",womens-rugby,2019
+Achele Agada,,Fy,,,Birthplace: Nigeria / Resident: United Kingdom,womens-rugby,2019
+Cassidy Bargell,,So.,,,"Silverthorne, Colo.",womens-rugby,2019
+Ana Suazo,,Sr.,,,"San Pedro Sula, Honduras",womens-rugby,2019
+Francesca Barr,,So.,,,"Chatham, Mass.",womens-rugby,2019
+Camille Bean,,Sr.,,,"Elk Grove, Calif.",womens-rugby,2019
+Robyn Beese,,Sr.,,,"Sai Kung, Hong Kong",womens-rugby,2019
+Michelle Groth,,So.,,,"Albuquerque, N.M.",womens-rugby,2019
+Dominique Cantave,,Sr.,,,"Park Forest, Ill.",womens-rugby,2019
+Delia Hellander,,Sr.,,,"Lebanon, N.J.",womens-rugby,2019
+Brooklynn Davis,,Sr.,,,"Boise, Idaho",womens-rugby,2019
+Carine Hajjar,,Jr.,,,"Milton, Mass.",womens-rugby,2019
+Bridget Grimm,,Sr.,,,"Canandaigua, N.Y.",womens-rugby,2019
+Jordan Roe,,Fy,,,"Devon, Pa.",womens-rugby,2019
+Erica Jarrell,,Jr.,,,"Lincoln, Mass.",womens-rugby,2019
+Emily Prentice,,Sr.,,,"Seattle, Wash.",womens-rugby,2019
+Justina Hewitt,,Sr.,,,"Lake Clear, N.Y.",womens-rugby,2019
+Gabrielle Fernandopulle,,Jr.,,,"Milton, Mass.",womens-rugby,2019
+Heidi Lucas,,So.,,,"Smiths Falls, Ontario",womens-rugby,2020
+Nafanua Malietoa Fitisemanu,,Fy,,,"Cedar Hills, Utah",womens-rugby,2020
+Erin Wright,,Sr.,,,"Waukesha, Wisc.",womens-rugby,2020
+Elianne Sacher,,Fy,,,"Herzliya, Israel",womens-rugby,2020
+Sephora Ruppert,,Jr.,,,"Ketsch, Germany",womens-rugby,2020
+Arianna Romero,,Sr.,,,"Boise, Idaho",womens-rugby,2020
+Milan Roberts,,Sr.,,,"Ottawa, Canada",womens-rugby,2020
+Alex Pipkin,,So.,,,"Joppa, Md.",womens-rugby,2020
+Kim Hartung,,So.,,,"Smiths Falls, Ontario",womens-rugby,2020
+Anjalika Ybema,,Fy,,,"Lantau Island, Hong Kong",womens-rugby,2020
+Christina Lowell,,Jr.,,,"Monrovia, Md.",womens-rugby,2020
+Emma Kearney,,Jr.,,,"Acton, Mass.",womens-rugby,2020
+Carine Hajjar,,Sr.,,,"Milton, Mass.",womens-rugby,2020
+Gabrielle Fernandopulle,,Sr.,,,"Milton, Mass.",womens-rugby,2020
+Sofie Fella,,Jr.,,,"Shanghai, China",womens-rugby,2020
+Chiara Darnton,,Jr.,,,"Atlanta, Ga.",womens-rugby,2020
+Francesca Barr,,Jr.,,,"Chatham, Mass.",womens-rugby,2020
+Achele Agada,,So.,,,Birthplace: Nigeria / Resident: United Kingdom,womens-rugby,2020
+Cassidy Bargell,,Jr.,,,"Silverthorne, Colo.",womens-rugby,2020
+Rebecca Lisk,,Sr.,,,"Rockford, Ill.",womens-rugby,2020
 Achele Agada,,Jr.,,,Birthplace: Nigeria / Resident: United Kingdom,womens-rugby,2021
-Kiani Akina,,Fy,,,"Kahuku, (O'ahu) Hawai'i",womens-rugby,2021
-Alex Pipkin,,Jr.,,,"Joppa, Md.",womens-rugby,2021
-Cassidy Bargell,,Sr.,,,"Silverthorne, Colo.",womens-rugby,2021
-Francesca Barr,,Sr.,,,"Chatham, Mass.",womens-rugby,2021
-Sofie Fella,,Sr.,,,"Shanghai, China",womens-rugby,2021
-Yasmeen Alfaqeeh,,Jr.,,,"Gridley, Calif.",womens-rugby,2021
-Kade Kelsch,,So.,,,"Palmer, Alaska",womens-rugby,2021
-Grace O'Sullivan,,So.,,,"Weymouth, Mass.",womens-rugby,2021
-Sofia Hilger,,Fy,,,"Fair Oaks, Calif.",womens-rugby,2021
-Maeve Humphrey,,So.,,,"Cohasset, Mass.",womens-rugby,2021
-Malia Isaacs,,Fy,,,"Sandy, Utah",womens-rugby,2021
-Lucy Jacobsen,,So.,,,"Boise, Idaho",womens-rugby,2021
-Michelle Groth,,Sr.,,,"Albuquerque, N.M.",womens-rugby,2021
-Kim Hartung,,Jr.,,,"Smiths Falls, Ontario",womens-rugby,2021
-Chloe Headland,,Fy,,,"Smiths Falls, Ontario",womens-rugby,2021
-Emma Kearney,,Sr.,,,"Acton, Mass.",womens-rugby,2021
-Courtney Rabb,,Sr.,,,"Brentwood, Tenn.",womens-rugby,2021
-Jara Emtage-Cave,,Fy,,,"Bridgetown, Barbados",womens-rugby,2021
-Caroline Kinghorn,,So.,,,"Needham, Mass.",womens-rugby,2021
+Alicia Rivera,,Sr.,,,"New York, N.Y.",womens-rugby,2021
 Carly Lehman,,Fy,,,"Shaker Heights, Ohio",womens-rugby,2021
 Darby Eck,,So.,,,"Sparta, Mich.",womens-rugby,2021
 Brogan Mior,,So.,,,"Okotoks, Alberta",womens-rugby,2021
-Reese Morgan,,Fy,,,"Toronto, Ontario",womens-rugby,2021
-Alicia Rivera,,Sr.,,,"New York, N.Y.",womens-rugby,2021
-Jordan Roe,,So.,,,"Devon, Pa.",womens-rugby,2021
 Nafanua Malietoa Fitisemanu,,So.,,,"Cedar Hills, Utah",womens-rugby,2021
-Sabrina Kim,,Sr.,,,"Piedmont, Calif.",womens-rugby,2021
-Chiara Darnton,,Sr.,,,"Atlanta, Ga.",womens-rugby,2021
-Julia Tellides,,So.,,,"New Haven, Conn.",womens-rugby,2021
-PK Vincze,,Fy,,,"Breckenridge, Colo.",womens-rugby,2021
-Anjalika Ybema,,So.,,,"Lantau Island, Hong Kong",womens-rugby,2021
-Jennifer Zhu,,Jr.,,,"Pleasanton, Calif.",womens-rugby,2021
+Jordan Roe,,So.,,,"Devon, Pa.",womens-rugby,2021
 Sephora Ruppert,,Sr.,,,"Ketsch, Germany",womens-rugby,2021
+Anjalika Ybema,,So.,,,"Lantau Island, Hong Kong",womens-rugby,2021
+Jara Emtage-Cave,,Fy,,,"Bridgetown, Barbados",womens-rugby,2021
 Elianne Sacher,,So.,,,"Herzliya, Israel",womens-rugby,2021
+Chiara Darnton,,Sr.,,,"Atlanta, Ga.",womens-rugby,2021
+Jennifer Zhu,,Jr.,,,"Pleasanton, Calif.",womens-rugby,2021
+Sabrina Kim,,Sr.,,,"Piedmont, Calif.",womens-rugby,2021
+Caroline Kinghorn,,So.,,,"Needham, Mass.",womens-rugby,2021
+PK Vincze,,Fy,,,"Breckenridge, Colo.",womens-rugby,2021
 Corrie Sasse,,Fy,,,"Fremont, Neb.",womens-rugby,2021
-Kiani Akina,,So.,,,"Kahuku, (O'ahu) Hawai'i",womens-rugby,2022
-Jara Emtage-Cave,,So.,,,"Bridgetown, Barbados",womens-rugby,2022
-Cameron Fields,,Fy,,,"Stockton, Calif.",womens-rugby,2022
-Sofia Hilger,,So.,,,"Fair Oaks, Calif.",womens-rugby,2022
-Malia Isaacs,,So.,,,"Sandy, Utah",womens-rugby,2022
+Julia Tellides,,So.,,,"New Haven, Conn.",womens-rugby,2021
+Malia Isaacs,,Fy,,,"Sandy, Utah",womens-rugby,2021
+Michelle Groth,,Sr.,,,"Albuquerque, N.M.",womens-rugby,2021
+Kiani Akina,,Fy,,,"Kahuku, (O'ahu) Hawai'i",womens-rugby,2021
+Alex Pipkin,,Jr.,,,"Joppa, Md.",womens-rugby,2021
+Courtney Rabb,,Sr.,,,"Brentwood, Tenn.",womens-rugby,2021
+Francesca Barr,,Sr.,,,"Chatham, Mass.",womens-rugby,2021
+Kade Kelsch,,So.,,,"Palmer, Alaska",womens-rugby,2021
+Yasmeen Alfaqeeh,,Jr.,,,"Gridley, Calif.",womens-rugby,2021
+Grace O'Sullivan,,So.,,,"Weymouth, Mass.",womens-rugby,2021
+Sofie Fella,,Sr.,,,"Shanghai, China",womens-rugby,2021
+Chloe Headland,,Fy,,,"Smiths Falls, Ontario",womens-rugby,2021
+Reese Morgan,,Fy,,,"Toronto, Ontario",womens-rugby,2021
+Emma Kearney,,Sr.,,,"Acton, Mass.",womens-rugby,2021
+Kim Hartung,,Jr.,,,"Smiths Falls, Ontario",womens-rugby,2021
+Cassidy Bargell,,Sr.,,,"Silverthorne, Colo.",womens-rugby,2021
+Sofia Hilger,,Fy,,,"Fair Oaks, Calif.",womens-rugby,2021
+Maeve Humphrey,,So.,,,"Cohasset, Mass.",womens-rugby,2021
+Lucy Jacobsen,,So.,,,"Boise, Idaho",womens-rugby,2021
+Victoria Stanley,,Fy,,,"Toronto, Ontario",womens-rugby,2022
 Charlotte Gilmour,,Fy,,,"Perth, Scotland",womens-rugby,2022
+Kade Kelsch,,Jr.,,,"Palmer, Alaska",womens-rugby,2022
+Grace O'Sullivan,,Jr.,,,"Weymouth, Mass.",womens-rugby,2022
+Alex Pipkin,,Sr.,,,"Joppa, Md.",womens-rugby,2022
+Anjalika Ybema,,Jr.,,,"Lantau Island, Hong Kong",womens-rugby,2022
+Kiani Akina,,So.,,,"Kahuku, (O'ahu) Hawai'i",womens-rugby,2022
+PK Vincze,,So.,,,"Breckenridge, Colo.",womens-rugby,2022
+Chloe Headland,,So.,,,"Smiths Falls, Ontario",womens-rugby,2022
+Maeve Humphrey,,Jr.,,,"Cohasset, Mass.",womens-rugby,2022
+Olyvia Snyder,,Fy,,,"Silverthorne, Colo.",womens-rugby,2022
+Tiahna Padilla,,Fy,,,"Fallbrook, Calif.",womens-rugby,2022
+Reese Morgan,,So.,,,"Toronto, Ontario",womens-rugby,2022
+Elianne Sacher,,Jr.,,,"Herzliya, Israel",womens-rugby,2022
+Malia Isaacs,,So.,,,"Sandy, Utah",womens-rugby,2022
+Lennox London,,Fy,,,"Fort Mill, S.C.",womens-rugby,2022
+Sofia Hilger,,So.,,,"Fair Oaks, Calif.",womens-rugby,2022
+Sarah Looney,,Fy,,,"Weymouth, Mass.",womens-rugby,2022
+Brogan Mior,,Jr.,,,"Okotoks, Alberta",womens-rugby,2022
+Caroline Kinghorn,,Jr.,,,"Needham, Mass.",womens-rugby,2022
+Cameron Fields,,Fy,,,"Stockton, Calif.",womens-rugby,2022
+Jara Emtage-Cave,,So.,,,"Bridgetown, Barbados",womens-rugby,2022
 Skylar Jordan,,Fy,,,"Whitman, Mass.",womens-rugby,2022
 Olivia Jaskolska,,Fy,,,,womens-rugby,2022
-Eva Rankin,,Fy,,,"Pittsburgh, Pa.",womens-rugby,2022
-Caroline Kinghorn,,Jr.,,,"Needham, Mass.",womens-rugby,2022
 Carly Lehman,,So.,,,"Shaker Heights, Ohio",womens-rugby,2022
-Olyvia Snyder,,Fy,,,"Silverthorne, Colo.",womens-rugby,2022
-Sarah Looney,,Fy,,,"Weymouth, Mass.",womens-rugby,2022
-Lennox London,,Fy,,,"Fort Mill, S.C.",womens-rugby,2022
-Anjalika Ybema,,Jr.,,,"Lantau Island, Hong Kong",womens-rugby,2022
 Catherine Mignone,,Fy,,,"Bronxville, N.Y.",womens-rugby,2022
-Kade Kelsch,,Jr.,,,"Palmer, Alaska",womens-rugby,2022
-Reese Morgan,,So.,,,"Toronto, Ontario",womens-rugby,2022
-Grace O'Sullivan,,Jr.,,,"Weymouth, Mass.",womens-rugby,2022
-Tiahna Padilla,,Fy,,,"Fallbrook, Calif.",womens-rugby,2022
-Jordan Roe,,Jr.,,,"Devon, Pa.",womens-rugby,2022
 Corrie Sasse,,So.,,,"Fremont, Neb.",womens-rugby,2022
-Alex Pipkin,,Sr.,,,"Joppa, Md.",womens-rugby,2022
-Chloe Headland,,So.,,,"Smiths Falls, Ontario",womens-rugby,2022
-Victoria Stanley,,Fy,,,"Toronto, Ontario",womens-rugby,2022
-PK Vincze,,So.,,,"Breckenridge, Colo.",womens-rugby,2022
-Maeve Humphrey,,Jr.,,,"Cohasset, Mass.",womens-rugby,2022
-Brogan Mior,,Jr.,,,"Okotoks, Alberta",womens-rugby,2022
-Elianne Sacher,,Jr.,,,"Herzliya, Israel",womens-rugby,2022
-Charlotte Gilmour,,So.,,,"Perth, Scotland",womens-rugby,2023
-Carly Lehman,,Jr.,,,"Shaker Heights, Ohio",womens-rugby,2023
-Cameron Fields,,So.,,,"Stockton, Calif.",womens-rugby,2023
-Ava Giguere,,Fy,,,"West Warwick, R.I.",womens-rugby,2023
-Victoria Stanley,,So.,,,"Toronto, Ontario",womens-rugby,2023
-Olyvia Snyder,,So.,,,"Silverthorne, Colo.",womens-rugby,2023
+Eva Rankin,,Fy,,,"Pittsburgh, Pa.",womens-rugby,2022
+Jordan Roe,,Jr.,,,"Devon, Pa.",womens-rugby,2022
 Chloe Headland,,Jr.,,,"Smiths Falls, Ontario",womens-rugby,2023
-Maya Hilger,,Fy,,,"Fair Oaks, Calif.",womens-rugby,2023
-Sofia Hilger,,Jr.,,,"Fair Oaks, Calif.",womens-rugby,2023
-Malia Isaacs,,Jr.,,,"Sandy, Utah",womens-rugby,2023
-Caroline Kinghorn,,Sr.,,,"Needham, Mass.",womens-rugby,2023
-Jessica Lee,,Jr.,,,,womens-rugby,2023
-Jara Emtage-Cave,,Jr.,,,"Bridgetown, Barbados",womens-rugby,2023
 Ava Ference,,Fy,,,"Cobble Hill, British Columbia",womens-rugby,2023
-Sydney Gottesman,,Fy,,,"Mill Valley, Calif.",womens-rugby,2023
-Courtney Taylor,,Fy,,,"Greer, S.C.",womens-rugby,2023
-Skylar Jordan,,So.,,,"Whitman, Mass.",womens-rugby,2023
-Eva Rankin,,So.,,,"Pittsburgh, Pa.",womens-rugby,2023
-Tiahna Padilla,,So.,,,"Fallbrook, Calif.",womens-rugby,2023
-Brogan Mior,,Sr.,,,"Okotoks, Alberta",womens-rugby,2023
-Reese Morgan,,Jr.,,,"Toronto, Ontario",womens-rugby,2023
-Olivia Jaskolska,,So.,,,,womens-rugby,2023
-Lucy Jacobsen,,Jr.,,,"Boise, Idaho",womens-rugby,2023
-Lennox London,,So.,,,"Fort Mill, S.C.",womens-rugby,2023
-Jordan Roe,,Sr.,,,"Devon, Pa.",womens-rugby,2023
-Lulu Patterson,,Sr.,,,,womens-rugby,2023
-Corrie Sasse,,Jr.,,,"Fremont, Neb.",womens-rugby,2023
-Chloe Schrader,,Sr.,,,,womens-rugby,2023
-Amber Van Meines,,So.,,,"Moraga, Calif.",womens-rugby,2023
-Neasa McLaughlin,,Fy,,,"Long Valley, N.J.",womens-rugby,2023
-Elianne Sacher,,Sr.,,,"Herzliya, Israel",womens-rugby,2023
 Lily Miller,,Fy,,,"Missoula, Mont.",womens-rugby,2023
+Jessica Lee,,Jr.,,,,womens-rugby,2023
+Olyvia Snyder,,So.,,,"Silverthorne, Colo.",womens-rugby,2023
+Corrie Sasse,,Jr.,,,"Fremont, Neb.",womens-rugby,2023
+Ava Giguere,,Fy,,,"West Warwick, R.I.",womens-rugby,2023
+Carly Lehman,,Jr.,,,"Shaker Heights, Ohio",womens-rugby,2023
+Charlotte Gilmour,,So.,,,"Perth, Scotland",womens-rugby,2023
+Maya Hilger,,Fy,,,"Fair Oaks, Calif.",womens-rugby,2023
+Courtney Taylor,,Fy,,,"Greer, S.C.",womens-rugby,2023
+Malia Isaacs,,Jr.,,,"Sandy, Utah",womens-rugby,2023
+Jara Emtage-Cave,,Jr.,,,"Bridgetown, Barbados",womens-rugby,2023
+Eva Rankin,,So.,,,"Pittsburgh, Pa.",womens-rugby,2023
+Chloe Schrader,,Sr.,,,,womens-rugby,2023
+Cameron Fields,,So.,,,"Stockton, Calif.",womens-rugby,2023
+Tiahna Padilla,,So.,,,"Fallbrook, Calif.",womens-rugby,2023
+Skylar Jordan,,So.,,,"Whitman, Mass.",womens-rugby,2023
+Victoria Stanley,,So.,,,"Toronto, Ontario",womens-rugby,2023
+Elianne Sacher,,Sr.,,,"Herzliya, Israel",womens-rugby,2023
+Sofia Hilger,,Jr.,,,"Fair Oaks, Calif.",womens-rugby,2023
+Amber Van Meines,,So.,,,"Moraga, Calif.",womens-rugby,2023
+Lennox London,,So.,,,"Fort Mill, S.C.",womens-rugby,2023
+Lucy Jacobsen,,Jr.,,,"Boise, Idaho",womens-rugby,2023
+Olivia Jaskolska,,So.,,,,womens-rugby,2023
+Caroline Kinghorn,,Sr.,,,"Needham, Mass.",womens-rugby,2023
+Brogan Mior,,Sr.,,,"Okotoks, Alberta",womens-rugby,2023
+Lulu Patterson,,Sr.,,,,womens-rugby,2023
+Jordan Roe,,Sr.,,,"Devon, Pa.",womens-rugby,2023
+Neasa McLaughlin,,Fy,,,"Long Valley, N.J.",womens-rugby,2023
 PK Vincze,,Jr.,,,"Breckenridge, Colo.",womens-rugby,2023
-Sophie Diaz,,Fy,,,"Sacramento, Calif.",womens-rugby,2024
-Jara Emtage-Cave,,Sr.,,,"Bridgetown, Barbados",womens-rugby,2024
-Ava Ference,,So.,,,"Cobble Hill, British Columbia",womens-rugby,2024
-Sydney Gottesman,,So.,,,"Mill Valley, Calif.",womens-rugby,2024
-Sofia Hilger,,Sr.,,,"Fair Oaks, Calif.",womens-rugby,2024
-Skylar Jordan,,Jr.,,,"Whitman, Mass.",womens-rugby,2024
-Jessica Lee,,Sr.,,,,womens-rugby,2024
-Olivia Jaskolska,,Sr.,,,,womens-rugby,2024
-Dana Greer,,Fy,,,"Sacramento, Calif.",womens-rugby,2024
-Chloe Headland,,Sr.,,,"Smiths Falls, Ontario",womens-rugby,2024
-Cameron Fields,,Jr.,,,"Stockton, Calif.",womens-rugby,2024
-Maya Hilger,,So.,,,"Fair Oaks, Calif.",womens-rugby,2024
-Ava Giguere,,So.,,,"West Warwick, R.I.",womens-rugby,2024
-Charlotte Gilmour,,Jr.,,,"Perth, Scotland",womens-rugby,2024
-Carly Lehman,,Sr.,,,"Shaker Heights, Ohio",womens-rugby,2024
-Lennox London,,Jr.,,,"Fort Mill, S.C.",womens-rugby,2024
-Tiahna Padilla,,Jr.,,,"Fallbrook, Calif.",womens-rugby,2024
-Neasa McLaughlin,,So.,,,"Long Valley, N.J.",womens-rugby,2024
-Josephine Mignone,,Fy,,,"Bronxville, N.Y.",womens-rugby,2024
-Lily Miller,,So.,,,"Missoula, Mont.",womens-rugby,2024
-Courtney Taylor,,So.,,,"Greer, S.C.",womens-rugby,2024
+Sydney Gottesman,,Fy,,,"Mill Valley, Calif.",womens-rugby,2023
+Reese Morgan,,Jr.,,,"Toronto, Ontario",womens-rugby,2023
 Natalia Villanueva-Hernandez,,Fy,,,"San Leandro, Calif.",womens-rugby,2024
-Nafanua Malietoa Fitisemanu,,Jr.,,,"Cedar Hills, Utah",womens-rugby,2024
-Eseta Pale,,Fy,,,"Elk Grove, Calif.",womens-rugby,2024
+Josephine Mignone,,Fy,,,"Bronxville, N.Y.",womens-rugby,2024
+Tiahna Padilla,,Jr.,,,"Fallbrook, Calif.",womens-rugby,2024
+Courtney Taylor,,So.,,,"Greer, S.C.",womens-rugby,2024
 PK Vincze,,Sr.,,,"Breckenridge, Colo.",womens-rugby,2024
-Olyvia Snyder,,Jr.,,,"Silverthorne, Colo.",womens-rugby,2024
+Lily Miller,,So.,,,"Missoula, Mont.",womens-rugby,2024
+Ava Giguere,,So.,,,"West Warwick, R.I.",womens-rugby,2024
+Neasa McLaughlin,,So.,,,"Long Valley, N.J.",womens-rugby,2024
 Eva Rankin,,Jr.,,,"Pittsburgh, Pa.",womens-rugby,2024
 Victoria Stanley,,Jr.,,,"Toronto, Ontario",womens-rugby,2024
 Reese Morgan,,Sr.,,,"Toronto, Ontario",womens-rugby,2024
 Amber Van Meines,,Jr.,,,"Moraga, Calif.",womens-rugby,2024
-Cameron Fields,,Sr.,,,"Stockton, Calif.",womens-rugby,2025
-Cecilia Beauchamp,,Fy,,,"New York, N.Y.",womens-rugby,2025
-Morgan Gibson,,Fy,,,"Lexington, Mass.",womens-rugby,2025
-Mikayla Lord,,Fy,,,"Calgary, Alberta",womens-rugby,2025
-Evie Eyers,,Fy,,,"Wirral, England",womens-rugby,2025
-Ava Ference,,Jr.,,,"Cobble Hill, British Columbia",womens-rugby,2025
-Nellie Fitzpatrick,,Jr.,,,"New York, N.Y.",womens-rugby,2025
-Ava Giguere,,Jr.,,,"West Warwick, R.I.",womens-rugby,2025
-Charlotte Gilmour,,Sr.,,,"Perth, Scotland",womens-rugby,2025
-Dana Greer,,So.,,,"Sacramento, Calif.",womens-rugby,2025
-Sophie Hayes,,Fy,,,"Victoria, British Columbia",womens-rugby,2025
-Maya Hilger,,Jr.,,,"Fair Oaks, Calif.",womens-rugby,2025
-Madelyn Hubbell,,Fy,,,"Cleveland, Ohio",womens-rugby,2025
-Lennox London,,Sr.,,,"Fort Mill, S.C.",womens-rugby,2025
-Skylar Jordan,,Sr.,,,"Whitman, Mass.",womens-rugby,2025
-Sabine Fuchs,,Fy,,,"Ross, Calif.",womens-rugby,2025
-Gemma Ogoke,,Fy,,,"Calgary, Alberta",womens-rugby,2025
-Sofia Zhang,,So.,,,"Hoboken, N.J.",womens-rugby,2025
-Tiahna Padilla,,Sr.,,,"Fallbrook, Calif.",womens-rugby,2025
-Eseta Pale,,So.,,,"Elk Grove, Calif.",womens-rugby,2025
+Eseta Pale,,Fy,,,"Elk Grove, Calif.",womens-rugby,2024
+Nafanua Malietoa Fitisemanu,,Jr.,,,"Cedar Hills, Utah",womens-rugby,2024
+Olyvia Snyder,,Jr.,,,"Silverthorne, Colo.",womens-rugby,2024
+Skylar Jordan,,Jr.,,,"Whitman, Mass.",womens-rugby,2024
+Carly Lehman,,Sr.,,,"Shaker Heights, Ohio",womens-rugby,2024
+Jessica Lee,,Sr.,,,,womens-rugby,2024
+Sofia Hilger,,Sr.,,,"Fair Oaks, Calif.",womens-rugby,2024
+Cameron Fields,,Jr.,,,"Stockton, Calif.",womens-rugby,2024
+Charlotte Gilmour,,Jr.,,,"Perth, Scotland",womens-rugby,2024
+Chloe Headland,,Sr.,,,"Smiths Falls, Ontario",womens-rugby,2024
+Maya Hilger,,So.,,,"Fair Oaks, Calif.",womens-rugby,2024
+Olivia Jaskolska,,Sr.,,,,womens-rugby,2024
+Sydney Gottesman,,So.,,,"Mill Valley, Calif.",womens-rugby,2024
+Ava Ference,,So.,,,"Cobble Hill, British Columbia",womens-rugby,2024
+Jara Emtage-Cave,,Sr.,,,"Bridgetown, Barbados",womens-rugby,2024
+Sophie Diaz,,Fy,,,"Sacramento, Calif.",womens-rugby,2024
+Lennox London,,Jr.,,,"Fort Mill, S.C.",womens-rugby,2024
+Dana Greer,,Fy,,,"Sacramento, Calif.",womens-rugby,2024
 Sana'a Lunon,,Fy,,,"State College, Pa.",womens-rugby,2025
-Eyve Martinez,,So.,,,"Brooklyn, N.Y.",womens-rugby,2025
 Neasa McLaughlin,,Jr.,,,"Long Valley, N.J.",womens-rugby,2025
-Josephine Mignone,,So.,,,"Bronxville, N.Y.",womens-rugby,2025
-Lily Miller,,Jr.,,,"Missoula, Mont.",womens-rugby,2025
-Eva Rankin,,Sr.,,,"Pittsburgh, Pa.",womens-rugby,2025
-Olyvia Snyder,,Sr.,,,"Silverthorne, Colo.",womens-rugby,2025
-Victoria Stanley,,Sr.,,,"Toronto, Ontario",womens-rugby,2025
-Courtney Taylor,,Jr.,,,"Greer, S.C.",womens-rugby,2025
 Amber Van Meines,,Sr.,,,"Moraga, Calif.",womens-rugby,2025
 Natalia Villanueva-Hernandez,,So.,,,"San Leandro, Calif.",womens-rugby,2025
+Victoria Stanley,,Sr.,,,"Toronto, Ontario",womens-rugby,2025
+Lily Miller,,Jr.,,,"Missoula, Mont.",womens-rugby,2025
+Gemma Ogoke,,Fy,,,"Calgary, Alberta",womens-rugby,2025
+Olyvia Snyder,,Sr.,,,"Silverthorne, Colo.",womens-rugby,2025
+Josephine Mignone,,So.,,,"Bronxville, N.Y.",womens-rugby,2025
+Cameron Fields,,Sr.,,,"Stockton, Calif.",womens-rugby,2025
+Eyve Martinez,,So.,,,"Brooklyn, N.Y.",womens-rugby,2025
+Courtney Taylor,,Jr.,,,"Greer, S.C.",womens-rugby,2025
+Eseta Pale,,So.,,,"Elk Grove, Calif.",womens-rugby,2025
+Tiahna Padilla,,Sr.,,,"Fallbrook, Calif.",womens-rugby,2025
+Sofia Zhang,,So.,,,"Hoboken, N.J.",womens-rugby,2025
+Eva Rankin,,Sr.,,,"Pittsburgh, Pa.",womens-rugby,2025
 Nafanua Malietoa Fitisemanu,,Sr.,,,"Cedar Hills, Utah",womens-rugby,2025
+Nellie Fitzpatrick,,Jr.,,,"New York, N.Y.",womens-rugby,2025
+Maya Hilger,,Jr.,,,"Fair Oaks, Calif.",womens-rugby,2025
+Cecilia Beauchamp,,Fy,,,"New York, N.Y.",womens-rugby,2025
+Mikayla Lord,,Fy,,,"Calgary, Alberta",womens-rugby,2025
+Evie Eyers,,Fy,,,"Wirral, England",womens-rugby,2025
+Lennox London,,Sr.,,,"Fort Mill, S.C.",womens-rugby,2025
+Skylar Jordan,,Sr.,,,"Whitman, Mass.",womens-rugby,2025
+Dana Greer,,So.,,,"Sacramento, Calif.",womens-rugby,2025
+Morgan Gibson,,Fy,,,"Lexington, Mass.",womens-rugby,2025
+Ava Giguere,,Jr.,,,"West Warwick, R.I.",womens-rugby,2025
+Sophie Hayes,,Fy,,,"Victoria, British Columbia",womens-rugby,2025
+Sabine Fuchs,,Fy,,,"Ross, Calif.",womens-rugby,2025
+Madelyn Hubbell,,Fy,,,"Cleveland, Ohio",womens-rugby,2025
+Ava Ference,,Jr.,,,"Cobble Hill, British Columbia",womens-rugby,2025
+Charlotte Gilmour,,Sr.,,,"Perth, Scotland",womens-rugby,2025
 Sana'a Lunon,,So.,,,"State College, Pa.",womens-rugby,2026
 Mackenzie Marks,,Fy,,,"Clinton, N.J.",womens-rugby,2026
 Eyve Martinez,,Jr.,,,"Brooklyn, N.Y.",womens-rugby,2026

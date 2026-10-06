@@ -162,16 +162,19 @@ function hideTip() {
 
 // A dropdown of checkboxes (with Select all / Clear all) that edits and returns a Set; used for seasons and sports.
 const menuPanels = [];
-function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plural }) {
-  const set = new Set(items);
+function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plural, initial = items, presets = [] }) {
+  const set = new Set(initial);
   const btn = byId(btnId);
   const panel = byId(panelId);
   const boxes = [];
   menuPanels.push(panel);
 
+  const sameAs = (list) => list.length === set.size && list.every((item) => set.has(item));
   const label = () => {
     if (set.size === items.length) return `All ${plural}`;
     if (set.size === 0) return `Select ${plural}`;
+    const preset = presets.find((p) => sameAs(p.pick(items)));
+    if (preset) return preset.summary;
     if (set.size === 1) return format([...set][0]);
     return `${set.size} of ${items.length} ${plural}`;
   };
@@ -181,7 +184,7 @@ function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plu
     const row = document.createElement("label");
     const input = document.createElement("input");
     input.type = "checkbox";
-    input.checked = true;
+    input.checked = set.has(item);
     input.addEventListener("change", () => {
       if (input.checked) set.add(item);
       else set.delete(item);
@@ -192,14 +195,22 @@ function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plu
     byId(listId).appendChild(row);
     boxes.push(input);
   }
-  const setAll = (on) => {
+  const choose = (list) => {
     set.clear();
-    if (on) items.forEach((item) => set.add(item));
-    boxes.forEach((b) => (b.checked = on));
+    list.forEach((item) => set.add(item));
+    boxes.forEach((b, i) => (b.checked = set.has(items[i])));
     refresh();
   };
-  byId(allId).addEventListener("click", () => setAll(true));
-  byId(noneId).addEventListener("click", () => setAll(false));
+  byId(allId).addEventListener("click", () => choose(items));
+  byId(noneId).addEventListener("click", () => choose([]));
+  for (const preset of presets) {
+    const link = document.createElement("button");
+    link.type = "button";
+    link.className = "link-btn";
+    link.textContent = preset.button;
+    link.addEventListener("click", () => choose(preset.pick(items)));
+    panel.querySelector(".menu-actions").insertBefore(link, byId(allId));
+  }
   btn.addEventListener("click", (e) => {
     e.stopPropagation();
     const open = panel.hidden;
@@ -214,9 +225,11 @@ function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plu
 function buildControls() {
   document.addEventListener("click", () => menuPanels.forEach((p) => (p.hidden = true)));
 
+  const seasons = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
   ui.years = multiSelect({
     btnId: "yearBtn", panelId: "yearPanel", listId: "yearList", allId: "yearsAll", noneId: "yearsNone",
-    items: Array.from(new Set(data.years.flat())).sort((a, b) => a - b), format: formatSeason, plural: "seasons"
+    items: seasons, format: formatSeason, plural: "seasons", initial: latestSeasons(seasons, DEFAULT_SEASONS),
+    presets: [5, 10].map((n) => ({ button: `Latest ${n}`, summary: `Latest ${n} seasons`, pick: (items) => latestSeasons(items, n) }))
   });
   ui.sports = multiSelect({
     btnId: "sportBtn", panelId: "sportPanel", listId: "sportList", allId: "sportsAll", noneId: "sportsNone",
@@ -278,7 +291,7 @@ function buildCards() {
 }
 
 async function main() {
-  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=dc742e66"), fetch("us-states.json?v=6ea79f14")]);
+  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=93c70efe"), fetch("us-states.json?v=6ea79f14")]);
   if (!dataRes.ok) throw new Error("Could not load data.json");
   if (!geoRes.ok) throw new Error("Could not load us-states.json (run pipeline/prepare_states.py)");
   data = await dataRes.json();

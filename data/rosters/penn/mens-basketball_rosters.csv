@@ -1,88 +1,184 @@
 name,position,class,height,weight,hometown,sport,year
+Matt Howard,,Sr.,"6'4""",,"Columbia, S.C.",mens-basketball,2016
+AJ Brodeur,,Fr.,"6'8""",,"Northborough, Mass.",mens-basketball,2016
+Shawn Simmons,,Jr.,"6'4""",,"Virginia Beach, Va.",mens-basketball,2016
+Kuba Mijakowski,,Fr.,"6'7""",,"Warsaw, Poland",mens-basketball,2016
+Darnell Foreman,,Jr.,"6'1""",,"Camden, N.J.",mens-basketball,2016
+Ryan Betley,,Fr.,"6'5""",,"Downingtown, Pa.",mens-basketball,2016
+Max Rothschild,,So.,"6'8""",,"Chicago, Ill.",mens-basketball,2016
+Ray Jerome,,Fr.,"6'2""",,"Latham, N.Y.",mens-basketball,2016
+Jake Silpe,,So.,"6'2""",,"Cherry Hill, N.J.",mens-basketball,2016
+Dan Dwyer,,Jr.,"6'8""",,"River Forest, Ill.",mens-basketball,2016
+Jackson Donahue,,So.,"6'0""",,"Pawcatuck, Conn.",mens-basketball,2016
+Caleb Wood,,Jr.,"6'4""",,"Reno, Nev.",mens-basketball,2016
+Tyler Hamilton,,So.,"6'4""",,"Atlanta, Ga.",mens-basketball,2016
+Devon Goodman,,Fr.,"6'0""",,"Laverock, Pa.",mens-basketball,2016
+Matt MacDonald,,Jr.,"6'5""",,"Eggertsville, N.Y.",mens-basketball,2016
+Dylan Jones,,Sr.,"6'8""",,"Houston, Texas",mens-basketball,2016
+Sam Jones,,Jr.,"6'7""",,"Gilbert, Ariz.",mens-basketball,2016
+Collin McManus,,So.,"6'10""",,"Bedford, N.H.",mens-basketball,2016
+Zack Kaminsky,,Fr.,"6'6""",,"Atlanta, Ga.",mens-basketball,2016
+Zack Kaminsky,,So.,"6'6""",,"Atlanta, Ga.",mens-basketball,2017
+Collin McManus,,Jr.,"6'10""",,"Bedford, N.H.",mens-basketball,2017
+Mark Jackson,,Fr.,"7'3""",,"Salt Lake City, Utah",mens-basketball,2017
+AJ Brodeur,,So.,"6'8""",,"Northborough, Mass.",mens-basketball,2017
+Jarrod Simmons,,Fr.,"6'8""",,"Crescent, Pa.",mens-basketball,2017
+Jelani Williams,,Fr.,"6'5""",,"Washington, D.C.",mens-basketball,2017
+Dan Dwyer,,Sr.,"6'8""",,"River Forest, Ill.",mens-basketball,2017
+Eddie Scott,,Fr.,"6'6""",,"Bowie, Md.",mens-basketball,2017
+Kuba Mijakowski,,So.,"6'7""",,"Warsaw, Poland",mens-basketball,2017
+Ryan Betley,,So.,"6'5""",,"Downingtown, Pa.",mens-basketball,2017
+Sam Jones,,Sr.,"6'7""",,"Gilbert, Ariz.",mens-basketball,2017
+Tommy Johnston,,Rs.,,,"Mount Laurel, N.J.",mens-basketball,2017
+Jackson Donahue,,Jr.,"6'0""",,"Pawcatuck, Conn.",mens-basketball,2017
+Tyler Hamilton,,Jr.,"6'4""",,"Atlanta, Ga.",mens-basketball,2017
+Devon Goodman,,So.,"6'0""",,"Laverock, Pa.",mens-basketball,2017
+Ray Jerome,,So.,"6'2""",,"Latham, N.Y.",mens-basketball,2017
+Antonio Woods,,Jr.,"6'1""",,"Cincinnati, Ohio",mens-basketball,2017
+Caleb Wood,,Sr.,"6'4""",,"Reno, Nev.",mens-basketball,2017
+Darnell Foreman,,Sr.,"6'1""",,"Camden, N.J.",mens-basketball,2017
+Max Rothschild,,Jr.,"6'8""",,"Chicago, Ill.",mens-basketball,2017
+Matt MacDonald,,Sr.,"6'5""",,"Eggertsville, N.Y.",mens-basketball,2017
+Jake Silpe,,Jr.,"6'2""",,"Cherry Hill, N.J.",mens-basketball,2017
+Jake Silpe,,Sr.,"6'2""",190 lbs,"Cherry Hill, N.J.",mens-basketball,2018
+Eddie Scott,,So.,"6'6""",195 lbs,"Bowie, Md.",mens-basketball,2018
+Jackson Donahue,,Sr.,"6'0""",180 lbs,"Pawcatuck, Conn.",mens-basketball,2018
+Tyler Hamilton,,Sr.,"6'4""",205 lbs,"Atlanta, Ga.",mens-basketball,2018
+AJ Brodeur,,Jr.,"6'8""",230 lbs,"Northborough, Mass.",mens-basketball,2018
+Jelani Williams,,So.,"6'5""",195 lbs,"Washington, D.C.",mens-basketball,2018
+Tommy Johnston,,R-So.,,,"Mount Laurel, N.J.",mens-basketball,2018
+Ray Jerome,,Jr.,"6'2""",190 lbs,"Latham, N.Y.",mens-basketball,2018
+Antonio Woods,,Sr.,"6'1""",200 lbs,"Cincinnati, Ohio",mens-basketball,2018
+Max Rothschild,,Sr.,"6'8""",225 lbs,"Chicago, Ill.",mens-basketball,2018
+Collin McManus,,Sr.,"6'10""",240 lbs,"Bedford, N.H.",mens-basketball,2018
+Devon Goodman,,Jr.,"6'0""",165 lbs,"Laverock, Pa.",mens-basketball,2018
+Alex Imegwu,,Fr.,"6'6""",210 lbs,"Short Hills, N.J.",mens-basketball,2018
+Jarrod Simmons,,So.,"6'8""",220 lbs,"Crescent, Pa.",mens-basketball,2018
+Griffin Ryan,,Fr.,"6'5""",210 lbs,"Winnetka, Ill.",mens-basketball,2018
+Mark Jackson,,So.,"7'3""",265 lbs,"Salt Lake City, Utah",mens-basketball,2018
+Bryce Washington,,Fr.,"6'4""",180 lbs,"Southfield, Mich.",mens-basketball,2018
+Ryan Betley,,Jr.,"6'5""",195 lbs,"Downingtown, Pa.",mens-basketball,2018
+Kuba Mijakowski,,Jr.,"6'7""",230 lbs,"Warsaw, Poland",mens-basketball,2018
+Michael Wang,,Fr.,"6'10""",215 lbs,"Taiyuan, Shanxi (China)",mens-basketball,2018
+Zack Kaminsky,,Jr.,"6'6""",200 lbs,"Atlanta, Ga.",mens-basketball,2018
+Bryce Washington,,So.,"6'4""",180 lbs,"Southfield, Mich.",mens-basketball,2019
+Mark Jackson,,Jr.,"7'3""",260 lbs,"Salt Lake City, Utah",mens-basketball,2019
+Max Martz,,Fr.,"6'6""",210 lbs,"Upper Arlington, Ohio",mens-basketball,2019
+Jarrod Simmons,,Jr.,"6'8""",220 lbs,"Crescent, Pa.",mens-basketball,2019
+Devon Goodman,,Sr.,"6'0""",170 lbs,"Laverock, Pa.",mens-basketball,2019
+Eddie Scott,,Jr.,"6'6""",200 lbs,"Bowie, Md.",mens-basketball,2019
+Kuba Mijakowski,,Sr.,"6'7""",230 lbs,"Warsaw, Poland",mens-basketball,2019
+Lucas Monroe,,Fr.,"6'6""",200 lbs,"Abington, Pa.",mens-basketball,2019
+Michael Wang,,So.,"6'10""",220 lbs,"Taiyuan, Shanxi (China)",mens-basketball,2019
+Jelani Williams,,Jr.,"6'5""",195 lbs,"Washington, D.C.",mens-basketball,2019
+AJ Brodeur,,Sr.,"6'8""",240 lbs,"Northborough, Mass.",mens-basketball,2019
+Ryan Betley,,Sr.,"6'5""",200 lbs,"Downingtown, Pa.",mens-basketball,2019
+Jonah Charles,,Fr.,"6'4""",180 lbs,"Roselle, N.J.",mens-basketball,2019
+Max Lorca-Lloyd,,Fr.,"6'9""",210 lbs,"Melbourne, Fla.",mens-basketball,2019
+Griffin Ryan,,So.,"6'5""",215 lbs,"Winnetka, Ill.",mens-basketball,2019
+Jordan Dingle,,Fr.,"6'3""",200 lbs,"Valley Stream, N.Y.",mens-basketball,2019
+Alex Imegwu,,So.,"6'6""",205 lbs,"Short Hills, N.J.",mens-basketball,2019
+Ray Jerome,,Sr.,"6'2""",190 lbs,"Latham, N.Y.",mens-basketball,2019
+Michael Wang,,Jr.,"6'10""",220 lbs,"Taiyuan, Shanxi (China)",mens-basketball,2020
+Lucas Monroe,,So.,"6'6""",200 lbs,"Abington, Pa.",mens-basketball,2020
+Eddie Scott,,Sr.,"6'6""",215 lbs,"Bowie, Md.",mens-basketball,2020
+Matteus Case,,Fr.,"6'5""",190 lbs,"Toronto, Ontario",mens-basketball,2020
+Mark Jackson,,Sr.,"7'3""",260 lbs,"Salt Lake City, Utah",mens-basketball,2020
+Bryce Washington,,Jr.,"6'4""",185 lbs,"Southfield, Mich.",mens-basketball,2020
+Jarrod Simmons,,Sr.,"6'8""",220 lbs,"Crescent, Pa.",mens-basketball,2020
+Griffin Ryan,,Jr.,"6'5""",235 lbs,"Winnetka, Ill.",mens-basketball,2020
+Andrew Laczkowski,,Fr.,"6'6""",180 lbs,"Dallas, Texas",mens-basketball,2020
+Colin Chambers,,Fr.,"6'0""",190 lbs,"Malvern, Pa.",mens-basketball,2020
+Max Lorca-Lloyd,,So.,"6'9""",215 lbs,"Melbourne, Fla.",mens-basketball,2020
+Jelani Williams,,Sr.,"6'5""",205 lbs,"Washington, D.C.",mens-basketball,2020
+Alex Imegwu,,Jr.,"6'6""",215 lbs,"Short Hills, N.J.",mens-basketball,2020
+Michael Moshkovitz,,So.,"6'7""",215 lbs,"Jerusalem, Israel",mens-basketball,2020
+Jonah Charles,,So.,"6'4""",195 lbs,"Roselle, N.J.",mens-basketball,2020
+Clark Slajchert,,Fr.,"6'1""",170 lbs,"Los Angeles, Calif.",mens-basketball,2020
 Clark Slajchert,,So.,"6'1""",170 lbs,"Los Angeles, Calif.",mens-basketball,2021
-Jelani Williams,,Sr.,"6'5""",200 lbs,"Washington, D.C.",mens-basketball,2021
-Alex Imegwu,,Sr.,"6'6""",220 lbs,"Short Hills, N.J.",mens-basketball,2021
 Nick Spinoso,,Fr.,"6'9""",240 lbs,"Port Washington, N.Y.",mens-basketball,2021
-Colin Chambers,,So.,"6'0""",185 lbs,"Malvern, Pa.",mens-basketball,2021
-Jonah Charles,,Jr.,"6'4""",180 lbs,"Roselle, N.J.",mens-basketball,2021
-Jordan Dingle,,So.,"6'3""",195 lbs,"Valley Stream, N.Y.",mens-basketball,2021
-Michael Moshkovitz,,Jr.,"6'7""",220 lbs,"Jerusalem, Israel",mens-basketball,2021
-Gus Larson,,Fr.,"6'10""",205 lbs,"New Canaan, Conn.",mens-basketball,2021
 Max Lorca-Lloyd,,Jr.,"6'9""",215 lbs,"Melbourne, Fla.",mens-basketball,2021
-Max Martz,,So.,"6'6""",220 lbs,"Upper Arlington, Ohio",mens-basketball,2021
-Andrew Laczkowski,,So.,"6'6""",190 lbs,"Dallas, Texas",mens-basketball,2021
-Reese McMullen,,Fr.,"6'3""",180 lbs,"Memphis, Tenn.",mens-basketball,2021
-Ed Holland III,,Fr.,"6'6""",205 lbs,"Philadelphia, Pa.",mens-basketball,2021
-Griffin Ryan,,Sr.,"6'5""",230 lbs,"Winnetka, Ill.",mens-basketball,2021
 George Smith,,Fr.,"6'4""",200 lbs,"Salem, N.H.",mens-basketball,2021
-Bryce Washington,,Sr.,"6'4""",185 lbs,"Southfield, Mich.",mens-basketball,2021
+Michael Moshkovitz,,Jr.,"6'7""",220 lbs,"Jerusalem, Israel",mens-basketball,2021
+Griffin Ryan,,Sr.,"6'5""",230 lbs,"Winnetka, Ill.",mens-basketball,2021
+Colin Chambers,,So.,"6'0""",185 lbs,"Malvern, Pa.",mens-basketball,2021
+Ed Holland III,,Fr.,"6'6""",205 lbs,"Philadelphia, Pa.",mens-basketball,2021
+Max Martz,,So.,"6'6""",220 lbs,"Upper Arlington, Ohio",mens-basketball,2021
+Alex Imegwu,,Sr.,"6'6""",220 lbs,"Short Hills, N.J.",mens-basketball,2021
+Andrew Laczkowski,,So.,"6'6""",190 lbs,"Dallas, Texas",mens-basketball,2021
+Jordan Dingle,,So.,"6'3""",195 lbs,"Valley Stream, N.Y.",mens-basketball,2021
 Lucas Monroe,,Jr.,"6'6""",200 lbs,"Abington, Pa.",mens-basketball,2021
+Jonah Charles,,Jr.,"6'4""",180 lbs,"Roselle, N.J.",mens-basketball,2021
+Bryce Washington,,Sr.,"6'4""",185 lbs,"Southfield, Mich.",mens-basketball,2021
+Gus Larson,,Fr.,"6'10""",205 lbs,"New Canaan, Conn.",mens-basketball,2021
+Reese McMullen,,Fr.,"6'3""",180 lbs,"Memphis, Tenn.",mens-basketball,2021
+Jelani Williams,,Sr.,"6'5""",200 lbs,"Washington, D.C.",mens-basketball,2021
 Michael Wang,,Sr.,"6'10""",230 lbs,"Taiyuan, Shanxi (China)",mens-basketball,2021
+George Smith,,So.,"6'4""",205 lbs,"Salem, N.H.",mens-basketball,2022
+Lucas Monroe,,Sr.,"6'6""",200 lbs,"Abington, Pa.",mens-basketball,2022
+Nick Spinoso,,So.,"6'9""",240 lbs,"Port Washington, N.Y.",mens-basketball,2022
+Max Martz,,Jr.,"6'6""",215 lbs,"Upper Arlington, Ohio",mens-basketball,2022
+Gus Larson,,So.,"6'10""",210 lbs,"New Canaan, Conn.",mens-basketball,2022
+Andrew Laczkowski,,Jr.,"6'6""",200 lbs,"Dallas, Texas",mens-basketball,2022
+Ed Holland III,,So.,"6'6""",210 lbs,"Philadelphia, Pa.",mens-basketball,2022
+Michael Moshkovitz,,Sr.,"6'7""",230 lbs,"Jerusalem, Israel",mens-basketball,2022
+Cam Thrower,,Fr.,"6'3""",190 lbs,"Manhattan Beach, Calif.",mens-basketball,2022
+Max Lorca-Lloyd,,Sr.,"6'9""",225 lbs,"Melbourne, Fla.",mens-basketball,2022
+Jonah Charles,,Sr.,"6'4""",200 lbs,"Roselle, N.J.",mens-basketball,2022
+Chris Ubochi,,Fr.,"6'9""",215 lbs,"Lagos, Nigeria",mens-basketball,2022
+Colin Chambers,,Jr.,"6'0""",195 lbs,"Malvern, Pa.",mens-basketball,2022
+Reese McMullen,,So.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2022
 Clark Slajchert,,Jr.,"6'1""",170 lbs,"Los Angeles, Calif.",mens-basketball,2022
 Jordan Dingle,,Jr.,"6'3""",195 lbs,"Valley Stream, N.Y.",mens-basketball,2022
-Jonah Charles,,Sr.,"6'4""",200 lbs,"Roselle, N.J.",mens-basketball,2022
-Max Lorca-Lloyd,,Sr.,"6'9""",225 lbs,"Melbourne, Fla.",mens-basketball,2022
-Cam Thrower,,Fr.,"6'3""",190 lbs,"Manhattan Beach, Calif.",mens-basketball,2022
-Michael Moshkovitz,,Sr.,"6'7""",230 lbs,"Jerusalem, Israel",mens-basketball,2022
-Ed Holland III,,So.,"6'6""",210 lbs,"Philadelphia, Pa.",mens-basketball,2022
-Colin Chambers,,Jr.,"6'0""",195 lbs,"Malvern, Pa.",mens-basketball,2022
-Gus Larson,,So.,"6'10""",210 lbs,"New Canaan, Conn.",mens-basketball,2022
-George Smith,,So.,"6'4""",205 lbs,"Salem, N.H.",mens-basketball,2022
-Max Martz,,Jr.,"6'6""",215 lbs,"Upper Arlington, Ohio",mens-basketball,2022
-Nick Spinoso,,So.,"6'9""",240 lbs,"Port Washington, N.Y.",mens-basketball,2022
-Lucas Monroe,,Sr.,"6'6""",200 lbs,"Abington, Pa.",mens-basketball,2022
-Andrew Laczkowski,,Jr.,"6'6""",200 lbs,"Dallas, Texas",mens-basketball,2022
-Chris Ubochi,,Fr.,"6'9""",215 lbs,"Lagos, Nigeria",mens-basketball,2022
-Reese McMullen,,So.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2022
-Cam Thrower,,So.,"6'3""",190 lbs,"Manhattan Beach, Calif.",mens-basketball,2023
-Ed Holland III,,Jr.,"6'6""",210 lbs,"Philadelphia, Pa.",mens-basketball,2023
-Sam Brown,,Fr.,"6'3""",180 lbs,"Merion Station, Pa.",mens-basketball,2023
 Clark Slajchert,,Sr.,"6'1""",170 lbs,"Los Angeles, Calif.",mens-basketball,2023
-Colin Chambers,,Sr.,"6'0""",195 lbs,"Malvern, Pa.",mens-basketball,2023
 Johnnie Walter,,So.,"6'10""",215 lbs,"Agoura Hills, Calif.",mens-basketball,2023
 Tyler Perkins,,Fr.,"6'4""",205 lbs,"Lorton, Va.",mens-basketball,2023
 Nick Spinoso,,Jr.,"6'9""",240 lbs,"Port Washington, N.Y.",mens-basketball,2023
+Cam Thrower,,So.,"6'3""",190 lbs,"Manhattan Beach, Calif.",mens-basketball,2023
+Ed Holland III,,Jr.,"6'6""",210 lbs,"Philadelphia, Pa.",mens-basketball,2023
+Sam Brown,,Fr.,"6'3""",180 lbs,"Merion Station, Pa.",mens-basketball,2023
+Colin Chambers,,Sr.,"6'0""",195 lbs,"Malvern, Pa.",mens-basketball,2023
+Jake Hsu,,So.,"6'0""",180 lbs,"Ambler, Pa.",mens-basketball,2023
+Reese McMullen,,Jr.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2023
 Augustus Gerhart,,Fr.,"6'9""",235 lbs,"Denver, Pa.",mens-basketball,2023
 Chris Ubochi,,So.,"6'9""",215 lbs,"Lagos, Nigeria",mens-basketball,2023
 Niklas Polonowski,,Fr.,"6'6""",210 lbs,"La Grange, Ill.",mens-basketball,2023
 George Smith,,Jr.,"6'4""",205 lbs,"Salem, N.H.",mens-basketball,2023
 Andrew Laczkowski,,Sr.,"6'6""",200 lbs,"Dallas, Texas",mens-basketball,2023
-Jake Hsu,,So.,"6'0""",180 lbs,"Ambler, Pa.",mens-basketball,2023
-Reese McMullen,,Jr.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2023
-Cam Thrower,,Jr.,"6'3""",195 lbs,"Manhattan Beach, Calif.",mens-basketball,2024
-Nick Spinoso,,Sr.,"6'9""",245 lbs,"Port Washington, N.Y.",mens-basketball,2024
-Michael Zanoni,,Jr.,"6'5""",200 lbs,"Charlotte, N.C.",mens-basketball,2024
-Sam Brown,,So.,"6'3""",185 lbs,"Merion Station, Pa.",mens-basketball,2024
-AJ Levine,,Fr.,"6'0""",180 lbs,"Elmhurst, Ill.",mens-basketball,2024
-Dylan Williams,,Jr.,"5'11""",180 lbs,"Columbia, S.C.",mens-basketball,2024
-Johnnie Walter,,Jr.,"6'10""",215 lbs,"Agoura Hills, Calif.",mens-basketball,2024
-Alex Massung,,Fr.,"6'4""",190 lbs,"West Orange, N.J.",mens-basketball,2024
-George Smith,,Sr.,"6'4""",210 lbs,"Salem, N.H.",mens-basketball,2024
-Michelangelo Oberti,,Fr.,"6'10""",230 lbs,"Riva di Solto, Italy",mens-basketball,2024
-Chris Ubochi,,Jr.,"6'9""",220 lbs,"Lagos, Nigeria",mens-basketball,2024
-Niklas Polonowski,,So.,"6'6""",210 lbs,"La Grange, Ill.",mens-basketball,2024
 Ethan Roberts,,Jr.,"6'5""",195 lbs,"Arlington Heights, Ill.",mens-basketball,2024
-Reese McMullen,,Sr.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2024
-Augustus Gerhart,,So.,"6'9""",235 lbs,"Denver, Pa.",mens-basketball,2024
+Niklas Polonowski,,So.,"6'6""",210 lbs,"La Grange, Ill.",mens-basketball,2024
+Michelangelo Oberti,,Fr.,"6'10""",230 lbs,"Riva di Solto, Italy",mens-basketball,2024
+Cam Thrower,,Jr.,"6'3""",195 lbs,"Manhattan Beach, Calif.",mens-basketball,2024
+Chris Ubochi,,Jr.,"6'9""",220 lbs,"Lagos, Nigeria",mens-basketball,2024
 Bradyn Foster,,Fr.,"6'8""",240 lbs,"Natrona Heights, Pa.",mens-basketball,2024
-AJ Levine,,So.,"6'0""",,"Elmhurst, Ill.",mens-basketball,2025
-Dylan Williams,,Sr.,"5'11""",,"Columbia, S.C.",mens-basketball,2025
-Johnnie Walter,,Sr.,"6'10""",,"Agoura Hills, Calif.",mens-basketball,2025
-Jay Jones,,Fr.,"6'4""",,"Chestnut Hill, Mass.",mens-basketball,2025
-Cam Thrower,,Sr.,"6'3""",,"Manhattan Beach, Calif.",mens-basketball,2025
-Michael Zanoni,,Sr.,"6'5""",,"Charlotte, N.C.",mens-basketball,2025
-Ryan Altman,,Fr.,"6'6""",,"Chestnut Hill, Mass.",mens-basketball,2025
-Alex Massung,,So.,"6'4""",,"West Orange, N.J.",mens-basketball,2025
-TJ Power,,Jr.,"6'9""",,"Shrewsbury, Mass.",mens-basketball,2025
+Augustus Gerhart,,So.,"6'9""",235 lbs,"Denver, Pa.",mens-basketball,2024
+Reese McMullen,,Sr.,"6'3""",185 lbs,"Memphis, Tenn.",mens-basketball,2024
+Sam Brown,,So.,"6'3""",185 lbs,"Merion Station, Pa.",mens-basketball,2024
+Michael Zanoni,,Jr.,"6'5""",200 lbs,"Charlotte, N.C.",mens-basketball,2024
+George Smith,,Sr.,"6'4""",210 lbs,"Salem, N.H.",mens-basketball,2024
+Nick Spinoso,,Sr.,"6'9""",245 lbs,"Port Washington, N.Y.",mens-basketball,2024
+Alex Massung,,Fr.,"6'4""",190 lbs,"West Orange, N.J.",mens-basketball,2024
+Johnnie Walter,,Jr.,"6'10""",215 lbs,"Agoura Hills, Calif.",mens-basketball,2024
+Dylan Williams,,Jr.,"5'11""",180 lbs,"Columbia, S.C.",mens-basketball,2024
+AJ Levine,,Fr.,"6'0""",180 lbs,"Elmhurst, Ill.",mens-basketball,2024
 Dalton Scantlebury,,Fr.,"6'9""",,"Chicago, Ill.",mens-basketball,2025
-Bradyn Foster,,So.,"6'8""",,"Natrona Heights, Pa.",mens-basketball,2025
-Payton Kamin,,Fr.,"6'7""",,"Chicago, Ill.",mens-basketball,2025
-Ethan Roberts,,Sr.,"6'5""",,"Arlington Heights, Ill.",mens-basketball,2025
-Augustus Gerhart,,Jr.,"6'9""",,"Denver, Pa.",mens-basketball,2025
-Lucas Lueth,,So.,"6'7""",,"Ames, Iowa",mens-basketball,2025
-Michelangelo Oberti,,So.,"6'10""",,"Riva di Solto, Italy",mens-basketball,2025
 Niklas Polonowski,,Jr.,"6'6""",,"La Grange, Ill.",mens-basketball,2025
 William Kruse,,Fr.,"6'11""",,"Nesbru, Norway",mens-basketball,2025
+Michelangelo Oberti,,So.,"6'10""",,"Riva di Solto, Italy",mens-basketball,2025
+Lucas Lueth,,So.,"6'7""",,"Ames, Iowa",mens-basketball,2025
+Augustus Gerhart,,Jr.,"6'9""",,"Denver, Pa.",mens-basketball,2025
+Payton Kamin,,Fr.,"6'7""",,"Chicago, Ill.",mens-basketball,2025
+Bradyn Foster,,So.,"6'8""",,"Natrona Heights, Pa.",mens-basketball,2025
+AJ Levine,,So.,"6'0""",,"Elmhurst, Ill.",mens-basketball,2025
+Ethan Roberts,,Sr.,"6'5""",,"Arlington Heights, Ill.",mens-basketball,2025
+Alex Massung,,So.,"6'4""",,"West Orange, N.J.",mens-basketball,2025
+Ryan Altman,,Fr.,"6'6""",,"Chestnut Hill, Mass.",mens-basketball,2025
+Michael Zanoni,,Sr.,"6'5""",,"Charlotte, N.C.",mens-basketball,2025
+Cam Thrower,,Sr.,"6'3""",,"Manhattan Beach, Calif.",mens-basketball,2025
+Jay Jones,,Fr.,"6'4""",,"Chestnut Hill, Mass.",mens-basketball,2025
+TJ Power,,Jr.,"6'9""",,"Shrewsbury, Mass.",mens-basketball,2025
+Dylan Williams,,Sr.,"5'11""",,"Columbia, S.C.",mens-basketball,2025
+Johnnie Walter,,Sr.,"6'10""",,"Agoura Hills, Calif.",mens-basketball,2025
 Dalton Scantlebury,,So.,"6'9""",,"Chicago, Ill.",mens-basketball,2026
 Sir Mohammed,,Jr.,"6'6""",,"Charlotte, N.C.",mens-basketball,2026
 Payton Kamin,,So.,"6'7""",,"Chicago, Ill.",mens-basketball,2026

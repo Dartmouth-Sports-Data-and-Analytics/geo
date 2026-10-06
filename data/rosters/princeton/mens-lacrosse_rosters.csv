@@ -1,100 +1,270 @@
 name,position,class,height,weight,hometown,sport,year
+Philip Thompson,Face-Off,Fr.,5' 11'',195 lbs,"Los Angeles, Calif.",mens-lacrosse,2016
+Phillip Robertson,Attack,Fr.,5' 6'',160 lbs,"Salem, Va.",mens-lacrosse,2016
+Arman Medghalchi,Defense/LSM,Fr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2016
+Drew O'Connell,Midfield,Jr.,6' 0'',195 lbs,"Middleton, Mass.",mens-lacrosse,2016
+Jon Levine,Goalie,Fr.,5' 11'',200 lbs,"Ridgewood, N.J.",mens-lacrosse,2016
+Adam Hardej,Midfield,Sr.,6' 6'',240 lbs,"Hingham, Mass.",mens-lacrosse,2016
+Gavin McBride,Attack,Sr.,5' 10'',180 lbs,"Bryn Mawr, Pa.",mens-lacrosse,2016
+Nick Bauer,Defense/LSM,Fr.,6' 2'',185 lbs,"Newport Beach, Calif.",mens-lacrosse,2016
+Bear Goldstein,Defense,Sr.,6' 0'',180 lbs,"Dallas, Texas",mens-lacrosse,2016
+Riley Thompson,Attack,Jr.,5' 6'',140 lbs,"Orangeville, Ont.",mens-lacrosse,2016
+Sean Connors,Attack,Sr.,6' 0'',190 lbs,"Manhasset, N.Y.",mens-lacrosse,2016
+Luke Pascucci,Defense,Fr.,6' 1'',200 lbs,"Needham, Mass.",mens-lacrosse,2016
+Strib Walker,Midfield,So.,6' 2'',210 lbs,"Richmond, Va.",mens-lacrosse,2016
+Jasper Arnold,Defense,Fr.,6' 3'',190 lbs,"Washington, D.C.",mens-lacrosse,2016
+Matt Brophy,Midfield,Sr.,6' 0'',185 lbs,"Fairfield, Conn.",mens-lacrosse,2016
+Alexander Fish,Midfield,Jr.,5' 11'',165 lbs,"San Francisco, Calif.",mens-lacrosse,2016
+Zack Struckman,Midfield,Fr.,5' 10'',180 lbs,"Wilmette, Ill.",mens-lacrosse,2016
+Christian Schade,Defense,Fr.,6' 2'',215 lbs,"Hopewell, N.J.",mens-lacrosse,2016
+David Sturtz,Defense,Fr.,6' 3'',180 lbs,"Sparks, Md.",mens-lacrosse,2016
+Jeffers Guthrie,Midfield,Fr.,5' 11'',155 lbs,"New York, N.Y.",mens-lacrosse,2016
+Andrew Bowman,Attack,Fr.,6' 0'',175 lbs,"Darien, Conn.",mens-lacrosse,2016
+Matt Madalon,,,,,,mens-lacrosse,2016
+Zach Currier,Midfield,Sr.,6' 0'',180 lbs,"Peterborough, Ont.",mens-lacrosse,2016
+Will Reynolds,Defense,Jr.,6' 3'',210 lbs,"Newtown, Pa.",mens-lacrosse,2016
+Daniel Winschuh,Defense/LSM,Jr.,6' 3'',205 lbs,"Chatham, N.J.",mens-lacrosse,2016
+Michael Sowers,Attack,Fr.,5' 8'',165 lbs,"Dresher, Pa.",mens-lacrosse,2016
+Alistair Berven,Defense,Sr.,6' 2'',220 lbs,"San Francisco, Calif.",mens-lacrosse,2016
+Tyler Blaisdell,Goalie,Jr.,5' 9'',165 lbs,"Hanover, Mass.",mens-lacrosse,2016
+Mark Strabo,Defense,Sr.,6' 0'',205 lbs,"Arlington, Va.",mens-lacrosse,2016
+Charlie Tarry,Defense/LSM,So.,6' 1'',185 lbs,"Bronxville, N.Y.",mens-lacrosse,2016
+Charlie Durbin,Midfield,So.,6' 0'',185 lbs,"Newton, Mass.",mens-lacrosse,2016
+Bear Altemus,Attack,Sr.,6' 1'',180 lbs,"Kensington, Md.",mens-lacrosse,2016
+Greg Merrill,Attack,Jr.,5' 8'',160 lbs,"Malvern, Pa.",mens-lacrosse,2016
+Connor McCarthy,Midfield,Fr.,6' 4'',200 lbs,"Sudbury, Mass.",mens-lacrosse,2016
+J.T. Caputo,Midfield,Jr.,5' 11'',195 lbs,"Huntington, N.Y.",mens-lacrosse,2016
+Jack O'Brien,Midfield,Sr.,6' 3'',200 lbs,"McLean, Va.",mens-lacrosse,2016
+Aran Roberts,Defense,So.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2016
+Dawson McKenzie,Attack,So.,5' 11'',190 lbs,"Fergus, Ont.",mens-lacrosse,2016
+Mike Morean,Midfield,So.,6' 1'',185 lbs,"Denver, Colo.",mens-lacrosse,2016
+Ralph Chrappa,Face-Off,Fr.,5' 8'',165 lbs,"Bronxville, N.Y.",mens-lacrosse,2016
+Carter Flaig,Attack,So.,5' 10'',185 lbs,"Elkridge, Md.",mens-lacrosse,2016
+Oliver Schmickel,Goalie,So.,6' 3'',200 lbs,"Baltimore, Md.",mens-lacrosse,2016
+Chase Williams,Midfield,Fr.,6' 1'',205 lbs,"Atlanta, Ga.",mens-lacrosse,2016
+Sam Gravitte,Midfield,Sr.,6' 2'',200 lbs,"Ridgefield, Conn.",mens-lacrosse,2016
+Austin Sims,Midfield,Jr.,6' 1'',185 lbs,"Fairfield, Conn.",mens-lacrosse,2016
+Sam Bonafede,Midfield,Jr.,5' 8'',170 lbs,"Bayshore, N.Y.",mens-lacrosse,2016
+Braedon Gait,Midfield,Jr.,6' 0'',180 lbs,"Syracuse, N.Y.",mens-lacrosse,2016
+Emmet Cordrey,Attack,So.,6' 0'',180 lbs,"Summit, N.J.",mens-lacrosse,2016
+Jamie Atkinson,Midfield,Fr.,5' 10'',180 lbs,"Garden City, N.Y.",mens-lacrosse,2017
+George Baughan,Defense/LSM,Fr.,6' 1'',195 lbs,"Wyndmoor, Pa.",mens-lacrosse,2017
+Michael Sowers,Attack,So.,5' 8'',165 lbs,"Dresher, Pa.",mens-lacrosse,2017
+J.T. Caputo,Midfield,Sr.,5' 11'',195 lbs,"Huntington, N.Y.",mens-lacrosse,2017
+Riley Thompson,Midfield,Sr.,5' 6'',140 lbs,"Orangeville, Ont.",mens-lacrosse,2017
+Charlie Durbin,Midfield,Jr.,6' 0'',185 lbs,"Newton, Mass.",mens-lacrosse,2017
+Braedon Gait,Midfield,Sr.,6' 0'',180 lbs,"Syracuse, N.Y.",mens-lacrosse,2017
+Austin Sims,Midfield,Sr.,6' 1'',185 lbs,"Fairfield, Conn.",mens-lacrosse,2017
+Chris Brown,Midfield,Fr.,6' 2'',200 lbs,"Fairfield, Conn.",mens-lacrosse,2017
+Sam Bonafede,Midfield,Sr.,5' 9'',185 lbs,"Bayshore, N.Y.",mens-lacrosse,2017
+Erik Peters,Goalie,Fr.,5' 10'',170 lbs,"Highlands Ranch, Colo.",mens-lacrosse,2017
+Ben Churchill,Goalie,Fr.,6' 2'',175 lbs,"Wellesley, Mass.",mens-lacrosse,2017
+Mike Morean,Midfield,Jr.,6' 1'',185 lbs,"Denver, Colo.",mens-lacrosse,2017
+Tyler Blaisdell,Goalie,Sr.,5' 9'',185 lbs,"Hanover, Mass.",mens-lacrosse,2017
+Connor McCarthy,Midfield,So.,6' 4'',200 lbs,"Sudbury, Mass.",mens-lacrosse,2017
+Phillip Robertson,Attack,So.,5' 6'',160 lbs,"Salem, Va.",mens-lacrosse,2017
+Greg Merrill,Attack,Sr.,5' 8'',160 lbs,"Malvern, Pa.",mens-lacrosse,2017
+Emmet Cordrey,Attack,Jr.,6' 0'',180 lbs,"Summit, N.J.",mens-lacrosse,2017
+Daniel Winschuh,Defense/LSM,Sr.,6' 3'',205 lbs,"Chatham, N.J.",mens-lacrosse,2017
+Drew O'Connell,Midfield,Sr.,6' 0'',195 lbs,"Middleton, Mass.",mens-lacrosse,2017
+Charlie Tarry,Defense/LSM,Jr.,6' 1'',185 lbs,"Bronxville, N.Y.",mens-lacrosse,2017
+Chase Williams,Midfield,So.,6' 1'',205 lbs,"Atlanta, Ga.",mens-lacrosse,2017
+Ralph Chrappa,Face-Off,So.,5' 8'',165 lbs,"Bronxville, N.Y.",mens-lacrosse,2017
+Jordan Crissy,Defense,Fr.,6' 2'',190 lbs,"Naperville, Ill.",mens-lacrosse,2017
+Terrell Seabrooks,Defense,Fr.,6' 2'',190 lbs,"West Palm Beach, Fla.",mens-lacrosse,2017
+Andrew Song,Defense/LSM,Fr.,5' 10'',185 lbs,"Canton, Mass.",mens-lacrosse,2017
+Jasper Arnold,Defense,So.,6' 3'',190 lbs,"Washington, D.C.",mens-lacrosse,2017
+Andrew Bowman,Attack,So.,6' 0'',175 lbs,"Darien, Conn.",mens-lacrosse,2017
+Dawson McKenzie,Attack,Jr.,5' 11'',190 lbs,"Fergus, Ont.",mens-lacrosse,2017
+Jon Levine,Goalie,So.,5' 11'',200 lbs,"Ridgewood, N.J.",mens-lacrosse,2017
+Oliver Schmickel,Goalie,Jr.,6' 3'',200 lbs,"Baltimore, Md.",mens-lacrosse,2017
+Owen Engel,Defense,Fr.,6' 0'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2017
+Luke Pascucci,Defense,So.,6' 1'',200 lbs,"Needham, Mass.",mens-lacrosse,2017
+Nick Bauer,Defense/LSM,So.,6' 2'',185 lbs,"Newport Beach, Calif.",mens-lacrosse,2017
+Jack-Henry Vara,Face-Off,Fr.,5' 10'',200 lbs,"Medfield, Mass.",mens-lacrosse,2017
+Arman Medghalchi,Defense/LSM,So.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2017
+Strib Walker,Midfield,Jr.,6' 2'',210 lbs,"Richmond, Va.",mens-lacrosse,2017
+Luke Crimmins,Midfield,Fr.,6' 1'',195 lbs,"Middletown, R.I.",mens-lacrosse,2017
+Matt Madalon,,,,,,mens-lacrosse,2017
+David Sturtz,Defense,So.,6' 3'',180 lbs,"Sparks, Md.",mens-lacrosse,2017
+Jeffers Guthrie,Midfield,So.,5' 11'',155 lbs,"New York, N.Y.",mens-lacrosse,2017
+Mick Upchurch,Defense,Fr.,6' 4'',225 lbs,"Jacksonville, Fla.",mens-lacrosse,2017
+Aran Roberts,Defense,Jr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2017
+Carter Zavitz,Attack/Midfield,Fr.,5' 6'',140 lbs,"St. Catharine's, Ont.",mens-lacrosse,2017
+Philip Thompson,Face-Off,So.,5' 11'',195 lbs,"Los Angeles, Calif.",mens-lacrosse,2017
+Zack Struckman,Midfield,So.,5' 10'',180 lbs,"Wilmette, Ill.",mens-lacrosse,2017
+Ralph Chrappa,Face-Off,Jr.,5' 8'',165 lbs,"Bronxville, N.Y.",mens-lacrosse,2018
+Ben Churchill,Goalie,So.,6' 2'',175 lbs,"Wellesley, Mass.",mens-lacrosse,2018
+Luc Anderson,Midfield,Fr.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2018
+Will Kusnierek,Midfield,Fr.,6' 0'',180 lbs,"Manhasset, N.Y.",mens-lacrosse,2018
+Nick Bauer,Defense/LSM,Jr.,6' 2'',185 lbs,"Newport Beach, Calif.",mens-lacrosse,2018
+Aran Roberts,Defense,Sr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2018
+Cathal Roberts,Defense,Fr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2018
+Jon Levine,Goalie,Jr.,5' 11'',200 lbs,"Ridgewood, N.J.",mens-lacrosse,2018
+Philip Thompson,Face-Off,Jr.,5' 11'',195 lbs,"Los Angeles, Calif.",mens-lacrosse,2018
+Zack Struckman,Midfield,Jr.,5' 10'',195 lbs,"Wilmette, Ill.",mens-lacrosse,2018
+David Sturtz,Defense,Jr.,6' 3'',180 lbs,"Sparks, Md.",mens-lacrosse,2018
+Jamie Atkinson,Midfield,So.,5' 10'',180 lbs,"Garden City, N.Y.",mens-lacrosse,2018
+Matt Madalon,,,,,,mens-lacrosse,2018
+Owen Engel,Defense,So.,6' 0'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2018
+Strib Walker,Midfield,Sr.,6' 2'',210 lbs,"Richmond, Va.",mens-lacrosse,2018
+Jacob Stoebner,Defense,Fr.,6' 3'',180 lbs,"Austin, Texas",mens-lacrosse,2018
+Alexander Fish,Midfield,Sr.,5' 11'',165 lbs,"San Francisco, Calif.",mens-lacrosse,2018
+Arman Medghalchi,Defense,Jr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2018
+Luke Crimmins,Midfield,So.,6' 1'',195 lbs,"Middletown, R.I.",mens-lacrosse,2018
+Andrew Song,Defense/LSM,So.,5' 10'',185 lbs,"Canton, Mass.",mens-lacrosse,2018
+Dawson McKenzie,Attack,Sr.,5' 11'',190 lbs,"Fergus, Ont.",mens-lacrosse,2018
+Emmet Cordrey,Attack,Sr.,6' 0'',180 lbs,"Summit, N.J.",mens-lacrosse,2018
+Chase Williams,Midfield,Jr.,6' 1'',205 lbs,"Atlanta, Ga.",mens-lacrosse,2018
+Jasper Arnold,Midfield,Jr.,6' 3'',190 lbs,"Washington, D.C.",mens-lacrosse,2018
+Terrell Seabrooks,Defense,So.,6' 2'',190 lbs,"West Palm Beach, Fla.",mens-lacrosse,2018
+Jack-Henry Vara,Face-Off,So.,5' 10'',200 lbs,"Medfield, Mass.",mens-lacrosse,2018
+Andrew Bowman,Attack,Jr.,6' 0'',175 lbs,"Darien, Conn.",mens-lacrosse,2018
+Beau Pederson,Midfield,Fr.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2018
+Chris Brown,Attack,So.,6' 2'',200 lbs,"Fairfield, Conn.",mens-lacrosse,2018
+Luca Lazzaretto,Defense,Fr.,6' 2'',200 lbs,"Lake Forest, Ill.",mens-lacrosse,2018
+Connor McCarthy,Midfield,Jr.,6' 4'',200 lbs,"Sudbury, Mass.",mens-lacrosse,2018
+Erik Peters,Goalie,So.,5' 10'',170 lbs,"Highlands Ranch, Colo.",mens-lacrosse,2018
+Carter Zavitz,Attack/Midfield,So.,5' 6'',140 lbs,"St. Catharine's, Ont.",mens-lacrosse,2018
+Mike Morean,Midfield,Sr.,6' 1'',185 lbs,"Denver, Colo.",mens-lacrosse,2018
+Jake Stevens,Midfield,Fr.,5' 9'',185 lbs,"Puslinch, Ont.",mens-lacrosse,2018
+George Baughan,Defense,So.,6' 1'',195 lbs,"Wyndmoor, Pa.",mens-lacrosse,2018
+Michael Sowers,Attack,Jr.,5' 9'',175 lbs,"Dresher, Pa.",mens-lacrosse,2018
+Phillip Robertson,Attack,Jr.,5' 6'',160 lbs,"Salem, Va.",mens-lacrosse,2018
+Jack Crockett,Attack,Fr.,5' 9'',175 lbs,"Menlo Park, Calif.",mens-lacrosse,2018
+Nicky Bond,Midfield,Fr.,6' 0'',195 lbs,"Westfield, N.J.",mens-lacrosse,2018
+Charlie Durbin,Midfield,Sr.,6' 0'',185 lbs,"Newton, Mass.",mens-lacrosse,2018
+Alexander Vardaro,Midfield,Fr.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2018
+Charlie Tarry,Defense/LSM,Sr.,6' 1'',185 lbs,"Bronxville, N.Y.",mens-lacrosse,2018
+Andrew Song,Defense/LSM,Jr.,5' 10'',185 lbs,"Canton, Mass.",mens-lacrosse,2019
+Jon Levine,Goalie,Sr.,5' 11'',200 lbs,"Ridgewood, N.J.",mens-lacrosse,2019
+Ian Murray,LSM/Defense,Fr.,6' 3'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2019
+Ben Churchill,Goalie,Jr.,6' 2'',175 lbs,"Wellesley, Mass.",mens-lacrosse,2019
+Luke Crimmins,Midfield,Jr.,6' 1'',195 lbs,"Middletown, R.I.",mens-lacrosse,2019
+Matt Madalon,,,,,,mens-lacrosse,2019
+Nick Bauer,Defense/LSM,Sr.,6' 2'',195 lbs,"Newport Beach, Calif.",mens-lacrosse,2019
+Tyler Sandoval,FO,Fr.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2019
+Jacob Stoebner,Defense,So.,6' 3'',205 lbs,"Austin, Texas",mens-lacrosse,2019
+Terrell Seabrooks,Defense,Jr.,6' 2'',190 lbs,"West Palm Beach, Fla.",mens-lacrosse,2019
+Zack Struckman,Midfield,Sr.,5' 10'',195 lbs,"Wilmette, Ill.",mens-lacrosse,2019
+Owen Engel,Defense,Jr.,6' 0'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2019
+Griffen Rakower,Goalie,Fr.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2019
+Arman Medghalchi,Defense,Sr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2019
+Philip Thompson,Face-Off,Sr.,5' 11'',195 lbs,"Los Angeles, Calif.",mens-lacrosse,2019
+Jack-Henry Vara,Face-Off,Jr.,5' 10'',200 lbs,"Medfield, Mass.",mens-lacrosse,2019
+Cathal Roberts,Defense,So.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2019
+Bear Lockshin,Midfield,Fr.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2019
+Jasper Arnold,Midfield,Sr.,6' 3'',190 lbs,"Washington, D.C.",mens-lacrosse,2019
+Luke Moriarty,LSM,Fr.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2019
+Weston Carpenter,Attack,Fr.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2019
+David Sturtz,Defense,Sr.,6' 3'',195 lbs,"Sparks, Md.",mens-lacrosse,2019
+Phillip Robertson,Attack,Sr.,5' 6'',160 lbs,"Salem, Va.",mens-lacrosse,2019
+Luc Anderson,Midfield,So.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2019
+Ben Finlay,Defense,Fr.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2019
+Christian Ronda,Attack,Fr.,5' 11'',160 lbs,"Greenwich, Conn.",mens-lacrosse,2019
+Chris Brown,Attack,Jr.,6' 2'',200 lbs,"Fairfield, Conn.",mens-lacrosse,2019
+Luca Lazzaretto,Defense,So.,6' 2'',215 lbs,"Lake Forest, Ill.",mens-lacrosse,2019
+Will Kusnierek,Midfield,So.,6' 0'',180 lbs,"Manhasset, N.Y.",mens-lacrosse,2019
+Sam English,Midfield,Fr.,6' 1'',170 lbs,"Burlington, Ont.",mens-lacrosse,2019
+Erik Peters,Goalie,Jr.,5' 10'',170 lbs,"Highlands Ranch, Colo.",mens-lacrosse,2019
+Jake Stevens,Midfield,So.,5' 9'',185 lbs,"Puslinch, Ont.",mens-lacrosse,2019
+Ralph Chrappa,Face-Off,Sr.,5' 8'',165 lbs,"Bronxville, N.Y.",mens-lacrosse,2019
+Connor McCarthy,Midfield,Sr.,6' 4'',200 lbs,"Sudbury, Mass.",mens-lacrosse,2019
+Alexander Vardaro,Midfield,So.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2019
+Nicky Bond,Midfield,So.,6' 0'',195 lbs,"Westfield, N.J.",mens-lacrosse,2019
+Tommy Barnds,Midfield,Fr.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2019
+Michael Sowers,Attack,Sr.,5' 9'',175 lbs,"Dresher, Pa.",mens-lacrosse,2019
+Alex Slusher,Attack,Fr.,5' 9'',170 lbs,"Portland, Ore.",mens-lacrosse,2019
+Jamie Atkinson,Midfield,Jr.,5' 10'',180 lbs,"Garden City, N.Y.",mens-lacrosse,2019
+Carter Zavitz,Attack/Midfield,Jr.,5' 6'',140 lbs,"St. Catharine's, Ont.",mens-lacrosse,2019
+Jack Crockett,Attack,So.,5' 10'',185 lbs,"Menlo Park, Calif.",mens-lacrosse,2019
+George Baughan,Defense,Jr.,6' 1'',195 lbs,"Wyndmoor, Pa.",mens-lacrosse,2019
+Beau Pederson,Midfield,So.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2019
+Billy Hefter,Defense,Jr.,6' 3'',205 lbs,"Bethesda, Md.",mens-lacrosse,2020
+Hunter Engel,Attack,Fr.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2020
+Colin Freer,Defense,Fr.,6' 2'',200 lbs,"Westfield, N.J.",mens-lacrosse,2020
+Varun Deb,Face-Off,Fr.,6' 3'',205 lbs,"Hillsborough, N.J.",mens-lacrosse,2020
+Ian Murray,LSM/Defense,So.,6' 2'',205 lbs,"Greenwich, Conn.",mens-lacrosse,2020
+Teddy Gutman,Midfield,Fr.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2020
+Griffen Rakower,Goalie,So.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2020
+Weston Carpenter,Attack,So.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2020
+Luke Moriarty,LSM,So.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2020
+Terrell Seabrooks,Defense,Sr.,6' 2'',190 lbs,"West Palm Beach, Fla.",mens-lacrosse,2020
+Marquez White,Midfield,Fr.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2020
+Nicky Bond,Midfield,Jr.,6' 0'',195 lbs,"Westfield, N.J.",mens-lacrosse,2020
+Christian Ronda,Attack,So.,5' 10'',170 lbs,"Greenwich, Conn.",mens-lacrosse,2020
+Lukas Stanat,Attack,Fr.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2020
+"Paul Weathington, Jr.",Midfield,Fr.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2020
+Pace Billings,Defense,Fr.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2020
+Matt Madalon,,,,,,mens-lacrosse,2020
+Will Kusnierek,Midfield,Jr.,6' 0'',180 lbs,"Manhasset, N.Y.",mens-lacrosse,2020
+Ben Finlay,Defense,So.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2020
+Alex Slusher,Attack,So.,5' 9'',180 lbs,"Portland, Ore.",mens-lacrosse,2020
+Sam English,Midfield,So.,6' 1'',180 lbs,"Burlington, Ont.",mens-lacrosse,2020
+Joseph Juengerkes,Midfield,Fr.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2020
+Michael Gianforcaro,Goalie,Fr.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2020
 Jack Crockett,Attack,Jr.,5' 10'',185 lbs,"Menlo Park, Calif.",mens-lacrosse,2021
+Colin Mulshine,Defense,Fr.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2021
+Braedon Saris,Attack,Fr.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2021
+Billy Barnds,Midfield,Fr.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2021
+Luke Crimmins,Midfield,Sr.,6' 1'',195 lbs,"Middletown, R.I.",mens-lacrosse,2021
+Liam Fairback,Midfield,Fr.,5' 9'',185 lbs,"Pelham, N.Y.",mens-lacrosse,2021
+Colin Freer,Defense,So.,6' 2'',200 lbs,"Westfield, N.J.",mens-lacrosse,2021
+Tyler Sandoval,FO,So.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2021
+Weston Carpenter,Attack,Jr.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2021
+Lukas Stanat,Attack,So.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2021
+Luke Moriarty,LSM,Jr.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2021
+Will Kusnierek,Midfield,Sr.,6' 0'',180 lbs,"Manhasset, N.Y.",mens-lacrosse,2021
+Jacob Stoebner,Defense,Jr.,6' 3'',205 lbs,"Austin, Texas",mens-lacrosse,2021
+Michael Kelly,Midfield,Fr.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2021
+Bear Lockshin,Attack,So.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2021
+George Baughan,Defense,Sr.,6' 1'',195 lbs,"Wyndmoor, Pa.",mens-lacrosse,2021
+Erik Peters,Goalie,Sr.,5' 10'',170 lbs,"Highlands Ranch, Colo.",mens-lacrosse,2021
+Jack-Henry Vara,Face-off,Sr.,5' 10'',200 lbs,"Medfield, Mass.",mens-lacrosse,2021
+Griffen Rakower,Goalie,Jr.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2021
+Nicky Bond,Midfield,Sr.,6' 0'',195 lbs,"Westfield, N.J.",mens-lacrosse,2021
+Owen Engel,Defense,Sr.,6' 0'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2021
+Teddy Gutman,Midfield,So.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2021
+Beau Pederson,Midfield,Jr.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2021
+Michael Bath,LSM,Fr.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2021
+Jack Ringhofer,Attack,Fr.,5' 11'',175 lbs,"Aurora, Colo.",mens-lacrosse,2021
+Luc Anderson,Midfield,Jr.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2021
+Andrew Song,LSM,Sr.,5' 10'',185 lbs,"Canton, Mass.",mens-lacrosse,2021
+Hunter Engel,Attack,So.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2021
 Carter Zavitz,Attack,Sr.,5' 6'',140 lbs,"St. Catharine's, Ont.",mens-lacrosse,2021
 Pace Billings,Defense,So.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2021
 "Paul Weathington, Jr.",Midfield,So.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2021
 Alex Slusher,Attack,Jr.,5' 9'',180 lbs,"Portland, Ore.",mens-lacrosse,2021
 Chris Brown,Attack,Sr.,6' 2'',200 lbs,"Fairfield, Conn.",mens-lacrosse,2021
-Luca Lazzaretto,LSM,Jr.,6' 2'',215 lbs,"Lake Forest, Ill.",mens-lacrosse,2021
+Ben Churchill,Goalie,Sr.,6' 2'',175 lbs,"Wellesley, Mass.",mens-lacrosse,2021
 Sean Cameron,Midfield,Fr.,5' 10'',160 lbs,"Bedford, N.H.",mens-lacrosse,2021
-Christian Ronda,Attack,Jr.,5' 10'',170 lbs,"Greenwich, Conn.",mens-lacrosse,2021
+Cathal Roberts,Defense,Jr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2021
 Michael Gianforcaro,Goalie,So.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2021
 Joseph Juengerkes,Midfield,So.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2021
-McKnight Pederson,LSM,Fr.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2021
-Ben Finlay,Defense,Jr.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2021
-Alexander Vardaro,Midfield,Jr.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2021
-Beau Pederson,Midfield,Jr.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2021
-Tommy Barnds,Attack,So.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2021
-Nicky Bond,Midfield,Sr.,6' 0'',195 lbs,"Westfield, N.J.",mens-lacrosse,2021
 Jake Stevens,Midfield,Jr.,5' 9'',185 lbs,"Puslinch, Ont.",mens-lacrosse,2021
+Ben Finlay,Defense,Jr.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2021
 Marquez White,Midfield,So.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2021
-George Baughan,Defense,Sr.,6' 1'',195 lbs,"Wyndmoor, Pa.",mens-lacrosse,2021
-Ben Churchill,Goalie,Sr.,6' 2'',175 lbs,"Wellesley, Mass.",mens-lacrosse,2021
-Sam English,Midfield,Jr.,6' 1'',180 lbs,"Burlington, Ont.",mens-lacrosse,2021
-Jamie Atkinson,Midfield,Sr.,5' 10'',180 lbs,"Garden City, N.Y.",mens-lacrosse,2021
-Luc Anderson,Midfield,Jr.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2021
-Cathal Roberts,Defense,Jr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2021
-Erik Peters,Goalie,Sr.,5' 10'',170 lbs,"Highlands Ranch, Colo.",mens-lacrosse,2021
-Jacob Stoebner,Defense,Jr.,6' 3'',205 lbs,"Austin, Texas",mens-lacrosse,2021
-Braedon Saris,Attack,Fr.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2021
-Billy Barnds,Midfield,Fr.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2021
-Luke Crimmins,Midfield,Sr.,6' 1'',195 lbs,"Middletown, R.I.",mens-lacrosse,2021
-Andrew Song,LSM,Sr.,5' 10'',185 lbs,"Canton, Mass.",mens-lacrosse,2021
-Will Kusnierek,Midfield,Sr.,6' 0'',180 lbs,"Manhasset, N.Y.",mens-lacrosse,2021
-Teddy Gutman,Midfield,So.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2021
-Tyler Sandoval,FO,So.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2021
-Weston Carpenter,Attack,Jr.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2021
-Lukas Stanat,Attack,So.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2021
-Luke Moriarty,LSM,Jr.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2021
-Colin Mulshine,Defense,Fr.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2021
-Griffen Rakower,Goalie,Jr.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2021
-Owen Engel,Defense,Sr.,6' 0'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2021
-Jack Ringhofer,Attack,Fr.,5' 11'',175 lbs,"Aurora, Colo.",mens-lacrosse,2021
-Colin Freer,Defense,So.,6' 2'',200 lbs,"Westfield, N.J.",mens-lacrosse,2021
+McKnight Pederson,LSM,Fr.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2021
 Koby Ginder,FO/Midfield,Fr.,5' 11'',180 lbs,"New York, N.Y.",mens-lacrosse,2021
+Luca Lazzaretto,LSM,Jr.,6' 2'',215 lbs,"Lake Forest, Ill.",mens-lacrosse,2021
 Coulter Mackesy,Attack,Fr.,5' 10'',170 lbs,"Bronxville, N.Y.",mens-lacrosse,2021
-Michael Bath,LSM,Fr.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2021
-Michael Kelly,Midfield,Fr.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2021
+Sam English,Midfield,Jr.,6' 1'',180 lbs,"Burlington, Ont.",mens-lacrosse,2021
+Tommy Barnds,Attack,So.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2021
 Matt Madalon,,,,,,mens-lacrosse,2021
-Liam Fairback,Midfield,Fr.,5' 9'',185 lbs,"Pelham, N.Y.",mens-lacrosse,2021
-Jack-Henry Vara,Face-off,Sr.,5' 10'',200 lbs,"Medfield, Mass.",mens-lacrosse,2021
-Hunter Engel,Attack,So.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2021
-Bear Lockshin,Attack,So.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2021
-McKnight Pederson,LSM,So.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2022
-Christian Ronda,Midfield,Sr.,5' 10'',170 lbs,"Greenwich, Conn.",mens-lacrosse,2022
-Jake Stevens,Midfield,Sr.,5' 9'',185 lbs,"Puslinch, Ont.",mens-lacrosse,2022
-Michael Gianforcaro,Goalie,Jr.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2022
-Jack Crockett,Attack,Sr.,5' 10'',185 lbs,"Menlo Park, Calif.",mens-lacrosse,2022
-Chad Palumbo,Attack,Fr.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2022
-Pace Billings,Defense,Jr.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2022
-"Paul Weathington, Jr.",Midfield,Jr.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2022
-Alex Slusher,Attack,Sr.,5' 9'',180 lbs,"Portland, Ore.",mens-lacrosse,2022
-Cathal Roberts,Defense,Sr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2022
-Luca Lazzaretto,LSM,Sr.,6' 2'',215 lbs,"Lake Forest, Ill.",mens-lacrosse,2022
-Nick Crowley,LSM/Defense,Fr.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2022
-Ryan Croddick,Goalie,Fr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2022
-Michael Kelly,Midfield,So.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2022
-Marquez White,Midfield,Jr.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2022
-Beau Pederson,Midfield,Sr.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2022
-Tommy Barnds,Midfield,Jr.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2022
-Quinn Krammer,Midfield,Fr.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2022
-Griffen Rakower,Goalie,Sr.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2022
-Luc Anderson,Midfield,Sr.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2022
-Michael Bath,LSM,So.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2022
-Jamison Moore,Midfield,Fr.,5' 10'',180 lbs,"Darien, Conn.",mens-lacrosse,2022
-Sam English,Midfield,Sr.,6' 1'',180 lbs,"Burlington, Ont.",mens-lacrosse,2022
-Ben Finlay,Defense,Sr.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2022
-Joseph Juengerkes,Midfield,Jr.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2022
-Alexander Vardaro,Midfield,Sr.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2022
-Sean Cameron,Midfield,So.,5' 10'',160 lbs,"Bedford, N.H.",mens-lacrosse,2022
-Luke Moriarty,LSM,Sr.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2022
-Jim Williams,Face-Off,Fr.,5' 11'',170 lbs,"Franklin, Tenn.",mens-lacrosse,2022
-Jacob Stoebner,Defense,Sr.,6' 3'',205 lbs,"Austin, Texas",mens-lacrosse,2022
-Billy Barnds,Midfield,So.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2022
-Andrew McMeekin,Face-Off,Fr.,6' 1'',210 lbs,"Newtown Square, Pa.",mens-lacrosse,2022
-Ian Murray,Defense,Jr.,6' 3'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2022
-Teddy Gutman,Midfield,Jr.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2022
-Tyler Sandoval,FO,Jr.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2022
-Braedon Saris,Attack,So.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2022
-Ian Mize,Midfield,Fr.,6' 3'',205 lbs,"Dallas, Texas",mens-lacrosse,2022
+Christian Ronda,Attack,Jr.,5' 10'',170 lbs,"Greenwich, Conn.",mens-lacrosse,2021
+Alexander Vardaro,Midfield,Jr.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2021
+Jamie Atkinson,Midfield,Sr.,5' 10'',180 lbs,"Garden City, N.Y.",mens-lacrosse,2021
 Harrison Caponiti,Midfield,Sr.,6' 4'',245 lbs,"Rye, N.Y.",mens-lacrosse,2022
-Colin Mulshine,Defense,So.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2022
-Lukas Stanat,Attack,Jr.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2022
-Weston Carpenter,Attack,Sr.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2022
-Zach Friedman,Defense,Fr.,6' 2'',200 lbs,"Arvada, Colo.",mens-lacrosse,2022
-Hunter Engel,Attack,Jr.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2022
+Ian Mize,Midfield,Fr.,6' 3'',205 lbs,"Dallas, Texas",mens-lacrosse,2022
 Koby Ginder,FO/Midfield,So.,5' 11'',180 lbs,"New York, N.Y.",mens-lacrosse,2022
+Jackson Kane,Attack,Fr.,5' 11'',180 lbs,"Tiburon, Calif.",mens-lacrosse,2022
+Billy Barnds,Midfield,So.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2022
+Lukas Stanat,Attack,Jr.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2022
+Ian Murray,Defense,Jr.,6' 3'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2022
+Tyler Sandoval,FO,Jr.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2022
+Hunter Engel,Attack,Jr.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2022
 Coulter Mackesy,Attack,So.,5' 10'',170 lbs,"Bronxville, N.Y.",mens-lacrosse,2022
+Andrew McMeekin,Face-Off,Fr.,6' 1'',210 lbs,"Newtown Square, Pa.",mens-lacrosse,2022
 Cooper Kistler,Defense,Fr.,6' 2'',190 lbs,"Tiburon, Calif.",mens-lacrosse,2022
 Colin Freer,Defense,Jr.,6' 2'',200 lbs,"Westfield, N.J.",mens-lacrosse,2022
 Matt Madalon,,,,,,mens-lacrosse,2022
@@ -102,74 +272,135 @@ David Smythe,Midfield,Fr.,6' 0'',170 lbs,"Norfolk, Va.",mens-lacrosse,2022
 Jack Ringhofer,Attack,So.,5' 11'',175 lbs,"Aurora, Colo.",mens-lacrosse,2022
 Liam Fairback,Midfield,So.,5' 9'',185 lbs,"Pelham, N.Y.",mens-lacrosse,2022
 John Dunphey,Midfield,Fr.,6' 0'',170 lbs,"Ridgewood, N.J.",mens-lacrosse,2022
-Jackson Kane,Attack,Fr.,5' 11'',180 lbs,"Tiburon, Calif.",mens-lacrosse,2022
+Jacob Stoebner,Defense,Sr.,6' 3'',205 lbs,"Austin, Texas",mens-lacrosse,2022
+Zach Friedman,Defense,Fr.,6' 2'',200 lbs,"Arvada, Colo.",mens-lacrosse,2022
+Jim Williams,Face-Off,Fr.,5' 11'',170 lbs,"Franklin, Tenn.",mens-lacrosse,2022
+Jake Stevens,Midfield,Sr.,5' 9'',185 lbs,"Puslinch, Ont.",mens-lacrosse,2022
+Colin Mulshine,Defense,So.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2022
+Weston Carpenter,Attack,Sr.,6' 0'',175 lbs,"Ridgefield, Conn.",mens-lacrosse,2022
+Sean Cameron,Midfield,So.,5' 10'',160 lbs,"Bedford, N.H.",mens-lacrosse,2022
+Teddy Gutman,Midfield,Jr.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2022
+Braedon Saris,Attack,So.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2022
+Ryan Croddick,Goalie,Fr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2022
+Michael Gianforcaro,Goalie,Jr.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2022
+Pace Billings,Defense,Jr.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2022
+Christian Ronda,Midfield,Sr.,5' 10'',170 lbs,"Greenwich, Conn.",mens-lacrosse,2022
+Beau Pederson,Midfield,Sr.,6' 3'',205 lbs,"Park City, Utah",mens-lacrosse,2022
+Alex Slusher,Attack,Sr.,5' 9'',180 lbs,"Portland, Ore.",mens-lacrosse,2022
+"Paul Weathington, Jr.",Midfield,Jr.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2022
+Luca Lazzaretto,LSM,Sr.,6' 2'',215 lbs,"Lake Forest, Ill.",mens-lacrosse,2022
+Michael Kelly,Midfield,So.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2022
+Tommy Barnds,Midfield,Jr.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2022
+Griffen Rakower,Goalie,Sr.,6' 1'',180 lbs,"Pleasantville, N.Y.",mens-lacrosse,2022
+Nick Crowley,LSM/Defense,Fr.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2022
+Luc Anderson,Midfield,Sr.,6' 0'',185 lbs,"Littleton, Colo.",mens-lacrosse,2022
+Michael Bath,LSM,So.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2022
+Chad Palumbo,Attack,Fr.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2022
+Sam English,Midfield,Sr.,6' 1'',180 lbs,"Burlington, Ont.",mens-lacrosse,2022
+Ben Finlay,Defense,Sr.,6' 0'',185 lbs,"Oakton, Va.",mens-lacrosse,2022
+Joseph Juengerkes,Midfield,Jr.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2022
+Alexander Vardaro,Midfield,Sr.,5' 9'',195 lbs,"Woodmere, N.Y.",mens-lacrosse,2022
+Luke Moriarty,LSM,Sr.,6' 1'',185 lbs,"North Andover, Mass.",mens-lacrosse,2022
 Bear Lockshin,Attack,Jr.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2022
-Michael Gianforcaro,Goalie,Sr.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2023
-Zach Friedman,Defense,So.,6' 2'',200 lbs,"Arvada, Colo.",mens-lacrosse,2023
-Mark Marino,Midfield,Fr.,6' 1'',195 lbs,"Mahwah, N.J.",mens-lacrosse,2023
-Brody Upton,Midfield,Fr.,6' 7'',230 lbs,"Dedham, Mass.",mens-lacrosse,2023
-"Paul Weathington, Jr.",SSDM,Sr.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2023
-Ian Mize,Midfield,So.,6' 3'',205 lbs,"Dallas, Texas",mens-lacrosse,2023
-Jackson Kane,Attack,So.,5' 11'',180 lbs,"Tiburon, Calif.",mens-lacrosse,2023
-McKnight Pederson,LSM,Jr.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2023
-Pace Billings,Defense,Sr.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2023
-Nate Kabiri,Attack,Fr.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2023
-Colin Freer,Defense,Sr.,6' 2'',210 lbs,"Westfield, N.J.",mens-lacrosse,2023
-Sean Cameron,Midfield,Jr.,5' 10'',160 lbs,"Bedford, N.H.",mens-lacrosse,2023
-Owen Fischer,SSDM,Fr.,6' 3'',205 lbs,"Glen Arm, Md.",mens-lacrosse,2023
-Joseph Juengerkes,SSDM,Sr.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2023
-Hunter Spiess,Defense,Fr.,6' 1'',190 lbs,"Old Greenwich, Conn.",mens-lacrosse,2023
-Jamison Moore,Midfield,So.,5' 10'',180 lbs,"Darien, Conn.",mens-lacrosse,2023
-Quinn Krammer,Midfield,So.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2023
-Marquez White,SSDM,Sr.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2023
-Michael Kelly,SSDM,Jr.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2023
-Carson Krammer,Midfield,Fr.,6' 5'',245 lbs,"Kirkland, Wash.",mens-lacrosse,2023
-Ryan Croddick,Goalie,So.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2023
-Michael Bath,LSM,Jr.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2023
-Colin Burns,Attack,Fr.,6' 1'',190 lbs,"Potomac, Md.",mens-lacrosse,2023
-Nick Crowley,LSM/Defense,So.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2023
-Chad Palumbo,Attack,So.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2023
-Colin Vickrey,Goalie,Fr.,6' 1'',185 lbs,"Westlake, Texas",mens-lacrosse,2023
-Tommy Barnds,Midfield,Sr.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2023
-Bear Lockshin,Attack,Sr.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2023
-Coulter Mackesy,Attack,Jr.,5' 10'',170 lbs,"Bronxville, N.Y.",mens-lacrosse,2023
-Tyler Sandoval,FO,Sr.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2023
+McKnight Pederson,LSM,So.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2022
+Jack Crockett,Attack,Sr.,5' 10'',185 lbs,"Menlo Park, Calif.",mens-lacrosse,2022
+Quinn Krammer,Midfield,Fr.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2022
+Marquez White,Midfield,Jr.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2022
+Cathal Roberts,Defense,Sr.,6' 3'',210 lbs,"Dublin, Ireland",mens-lacrosse,2022
+Jamison Moore,Midfield,Fr.,5' 10'',180 lbs,"Darien, Conn.",mens-lacrosse,2022
+Jack Stahl,Defense,Fr.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2023
 Jacob Todd,Attack,Fr.,6' 2'',200 lbs,"Stevensville, Md.",mens-lacrosse,2023
-Billy Barnds,Midfield,Jr.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2023
-Jackson Green,SSDM,Fr.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2023
+David Smythe,Midfield,So.,6' 0'',170 lbs,"Norfolk, Va.",mens-lacrosse,2023
+Ian Murray,Defense,Sr.,6' 3'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2023
 Braedon Saris,Attack,Jr.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2023
 Teddy Gutman,SSDM,Sr.,6' 1'',180 lbs,"Lawrenceville, N.J.",mens-lacrosse,2023
 Hunter Engel,Attack,Sr.,6' 1'',185 lbs,"Charlotte, N.C.",mens-lacrosse,2023
-Andrew McMeekin,Face-Off,So.,6' 1'',210 lbs,"Newtown Square, Pa.",mens-lacrosse,2023
-Jack Stahl,Defense,Fr.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2023
 Tucker Wade,Midfield,Fr.,6' 0'',195 lbs,"Bethesda, Md.",mens-lacrosse,2023
-Wilder Burgin,Face-Off,Fr.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2023
-Ian Murray,Defense,Sr.,6' 3'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2023
-John Dunphey,Midfield,So.,6' 0'',170 lbs,"Ridgewood, N.J.",mens-lacrosse,2023
-Cooper Kistler,Defense,So.,6' 2'',190 lbs,"Tiburon, Calif.",mens-lacrosse,2023
-Cooper Mueller,SSDM,Fr.,6' 3'',175 lbs,"Villanova, Pa.",mens-lacrosse,2023
-Jim Williams,Face-Off,So.,5' 11'',170 lbs,"Franklin, Tenn.",mens-lacrosse,2023
-David Smythe,Midfield,So.,6' 0'',170 lbs,"Norfolk, Va.",mens-lacrosse,2023
-Lukas Stanat,Attack,Sr.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2023
-Colin Mulshine,Defense,Jr.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2023
-Koby Ginder,FO/Midfield,Jr.,5' 11'',180 lbs,"New York, N.Y.",mens-lacrosse,2023
 Jack Ringhofer,Attack,Jr.,5' 11'',175 lbs,"Aurora, Colo.",mens-lacrosse,2023
 Liam Fairback,SSDM,Jr.,5' 9'',185 lbs,"Pelham, N.Y.",mens-lacrosse,2023
-Tyler Harris,SSDM,Fr.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2023
+Wilder Burgin,Face-Off,Fr.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2023
+Billy Barnds,Midfield,Jr.,5' 11'',185 lbs,"Woodside, Calif.",mens-lacrosse,2023
+Jim Williams,Face-Off,So.,5' 11'',170 lbs,"Franklin, Tenn.",mens-lacrosse,2023
+Cooper Kistler,Defense,So.,6' 2'',190 lbs,"Tiburon, Calif.",mens-lacrosse,2023
+Owen Fischer,SSDM,Fr.,6' 3'',205 lbs,"Glen Arm, Md.",mens-lacrosse,2023
+John Dunphey,Midfield,So.,6' 0'',170 lbs,"Ridgewood, N.J.",mens-lacrosse,2023
+Koby Ginder,FO/Midfield,Jr.,5' 11'',180 lbs,"New York, N.Y.",mens-lacrosse,2023
+Bear Lockshin,Attack,Sr.,5' 10'',190 lbs,"Los Angeles, Calif.",mens-lacrosse,2023
+Colin Mulshine,Defense,Jr.,6' 3'',205 lbs,"Riverside, Conn.",mens-lacrosse,2023
 Matt Madalon,,,,,,mens-lacrosse,2023
+Tyler Harris,SSDM,Fr.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2023
+Lukas Stanat,Attack,Sr.,6' 4'',195 lbs,"Brighton, N.Y.",mens-lacrosse,2023
+Cooper Mueller,SSDM,Fr.,6' 3'',175 lbs,"Villanova, Pa.",mens-lacrosse,2023
+Hunter Spiess,Defense,Fr.,6' 1'',190 lbs,"Old Greenwich, Conn.",mens-lacrosse,2023
+Tommy Barnds,Midfield,Sr.,6' 0'',200 lbs,"Woodside, Calif.",mens-lacrosse,2023
+Jackson Green,SSDM,Fr.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2023
+Ian Mize,Midfield,So.,6' 3'',205 lbs,"Dallas, Texas",mens-lacrosse,2023
+Nate Kabiri,Attack,Fr.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2023
+Andrew McMeekin,Face-Off,So.,6' 1'',210 lbs,"Newtown Square, Pa.",mens-lacrosse,2023
+Brody Upton,Midfield,Fr.,6' 7'',230 lbs,"Dedham, Mass.",mens-lacrosse,2023
+Colin Vickrey,Goalie,Fr.,6' 1'',185 lbs,"Westlake, Texas",mens-lacrosse,2023
+Joseph Juengerkes,SSDM,Sr.,6' 0'',215 lbs,"Islip, N.Y.",mens-lacrosse,2023
+Jackson Kane,Attack,So.,5' 11'',180 lbs,"Tiburon, Calif.",mens-lacrosse,2023
+McKnight Pederson,LSM,Jr.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2023
+Pace Billings,Defense,Sr.,6' 2'',205 lbs,"Denver, Colo.",mens-lacrosse,2023
+Ryan Croddick,Goalie,So.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2023
+Carson Krammer,Midfield,Fr.,6' 5'',245 lbs,"Kirkland, Wash.",mens-lacrosse,2023
+Sean Cameron,Midfield,Jr.,5' 10'',160 lbs,"Bedford, N.H.",mens-lacrosse,2023
+"Paul Weathington, Jr.",SSDM,Sr.,6' 2'',215 lbs,"Atlanta, Ga.",mens-lacrosse,2023
+Michael Gianforcaro,Goalie,Sr.,5' 11'',195 lbs,"Lincoln University, Pa.",mens-lacrosse,2023
+Colin Freer,Defense,Sr.,6' 2'',210 lbs,"Westfield, N.J.",mens-lacrosse,2023
+Zach Friedman,Defense,So.,6' 2'',200 lbs,"Arvada, Colo.",mens-lacrosse,2023
+Quinn Krammer,Midfield,So.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2023
+Tyler Sandoval,FO,Sr.,5' 9'',195 lbs,"Garden City, N.Y.",mens-lacrosse,2023
+Jamison Moore,Midfield,So.,5' 10'',180 lbs,"Darien, Conn.",mens-lacrosse,2023
+Nick Crowley,LSM/Defense,So.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2023
+Michael Kelly,SSDM,Jr.,6' 1'',190 lbs,"Marblehead, Mass.",mens-lacrosse,2023
+Coulter Mackesy,Attack,Jr.,5' 10'',170 lbs,"Bronxville, N.Y.",mens-lacrosse,2023
+Colin Burns,Attack,Fr.,6' 1'',190 lbs,"Potomac, Md.",mens-lacrosse,2023
+Mark Marino,Midfield,Fr.,6' 1'',195 lbs,"Mahwah, N.J.",mens-lacrosse,2023
+Chad Palumbo,Attack,So.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2023
+Michael Bath,LSM,Jr.,6' 0'',190 lbs,"Oakton, Va.",mens-lacrosse,2023
+Marquez White,SSDM,Sr.,6' 0'',185 lbs,"Poway, Calif.",mens-lacrosse,2023
+Jack Stahl,Defense,So.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2024
 Jackson Green,SSDM,So.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2024
+Jackson Kane,Attack,Jr.,5' 10'',185 lbs,"Tiburon, Calif.",mens-lacrosse,2024
+Jim Williams,Face-Off,Jr.,5' 11'',185 lbs,"Franklin, Tenn.",mens-lacrosse,2024
+Colin Mulshine,Defense,Sr.,6' 3'',225 lbs,"Riverside, Conn.",mens-lacrosse,2024
+Beau Hokanson,Midfield,Fr.,5' 10'',175 lbs,"Encinitas, Calif.",mens-lacrosse,2024
+Porter Malkiel,Attack,Fr.,5' 11'',185 lbs,"Portland, Ore.",mens-lacrosse,2024
+Jake Vana,Midfield,Fr.,6' 1'',200 lbs,"Boxford, Mass.",mens-lacrosse,2024
+Kevin Morrow,Defense,Fr.,6' 3'',180 lbs,"Cherry Hills Village, Colo.",mens-lacrosse,2024
+Billy Barnds,Midfield,Sr.,6' 0'',205 lbs,"Woodside, Calif.",mens-lacrosse,2024
+Wilder Burgin,Face-Off,So.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2024
+Connor Crosby,Midfield,Fr.,6' 1'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2024
+Matthew Kephart,Defense,Fr.,6' 2'',210 lbs,"Garden City, N.Y.",mens-lacrosse,2024
+Braedon Saris,Attack,Sr.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2024
+Andrew McMeekin,Face-Off,Jr.,6' 1'',225 lbs,"Newtown Square, Pa.",mens-lacrosse,2024
+Aidan McDonald,Attack,Fr.,5' 8'',160 lbs,"Maple Ridge, B.C.",mens-lacrosse,2024
+Cooper Kistler,Defense,Jr.,6' 2'',210 lbs,"Tiburon, Calif.",mens-lacrosse,2024
+Tyler Harris,SSDM,So.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2024
+Cooper Mueller,SSDM,So.,6' 3'',180 lbs,"Villanova, Pa.",mens-lacrosse,2024
+Matt Madalon,,,,,,mens-lacrosse,2024
+Coulter Mackesy,Attack,Sr.,5' 10'',185 lbs,"Bronxville, N.Y.",mens-lacrosse,2024
+Liam Fairback,SSDM,Sr.,5' 9'',190 lbs,"Pelham, N.Y.",mens-lacrosse,2024
+Jack Ringhofer,Attack,Sr.,5' 11'',180 lbs,"Aurora, Colo.",mens-lacrosse,2024
+Koby Ginder,FO/Midfield,Sr.,5' 11'',190 lbs,"New York, N.Y.",mens-lacrosse,2024
+David Smythe,Midfield,Jr.,6' 1'',185 lbs,"Norfolk, Va.",mens-lacrosse,2024
+Ryan Croddick,Goalie,Jr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2024
+Michael Kelly,SSDM,Sr.,6' 1'',205 lbs,"Marblehead, Mass.",mens-lacrosse,2024
+Colin Vickrey,Goalie,So.,6' 2'',200 lbs,"Westlake, Texas",mens-lacrosse,2024
 Brody Upton,Midfield,So.,6' 7'',230 lbs,"Dedham, Mass.",mens-lacrosse,2024
 Jacob Todd,Attack,So.,6' 2'',200 lbs,"Stevensville, Md.",mens-lacrosse,2024
 McKnight Pederson,LSM,Sr.,6' 5'',205 lbs,"Park City, Utah",mens-lacrosse,2024
 Colin Burns,Attack,So.,6' 1'',200 lbs,"Potomac, Md.",mens-lacrosse,2024
 Nate Kabiri,Attack,So.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2024
+Tucker Wade,Midfield,So.,6' 0'',195 lbs,"Bethesda, Md.",mens-lacrosse,2024
 Mark Marino,Midfield,So.,6' 1'',205 lbs,"Mahwah, N.J.",mens-lacrosse,2024
 Sean Cameron,Midfield,Sr.,5' 10'',180 lbs,"Bedford, N.H.",mens-lacrosse,2024
 Ian Mize,Midfield,Jr.,6' 3'',210 lbs,"Dallas, Texas",mens-lacrosse,2024
-Cody Lam,Attack,Fr.,6' 3'',215 lbs,"Westfield, N.J.",mens-lacrosse,2024
 Chad Palumbo,Attack,Jr.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2024
+Cody Lam,Attack,Fr.,6' 3'',215 lbs,"Westfield, N.J.",mens-lacrosse,2024
 Zach Friedman,Defense,Jr.,6' 2'',210 lbs,"Arvada, Colo.",mens-lacrosse,2024
-Peter Buonanno,Attack,Fr.,6' 1'',175 lbs,"Providence, R.I.",mens-lacrosse,2024
 Jamison Moore,Midfield,Jr.,5' 10'',190 lbs,"Darien, Conn.",mens-lacrosse,2024
 Michael Bath,LSM,Sr.,6' 1'',200 lbs,"Oakton, Va.",mens-lacrosse,2024
 Isaac Cruz,Midfield,Fr.,5' 10'',190 lbs,"Montgomery, N.Y.",mens-lacrosse,2024
@@ -180,88 +411,61 @@ Carter Johnson,Goalie,Fr.,6' 2'',190 lbs,"Jackson, Wyoming",mens-lacrosse,2024
 Hunter Spiess,Defense,So.,6' 2'',200 lbs,"Old Greenwich, Conn.",mens-lacrosse,2024
 Owen Fischer,SSDM,So.,6' 3'',205 lbs,"Glen Arm, Md.",mens-lacrosse,2024
 Finn Fox,Defense,Fr.,6' 1'',195 lbs,"Weston, Mass.",mens-lacrosse,2024
-Colin Vickrey,Goalie,So.,6' 2'',200 lbs,"Westlake, Texas",mens-lacrosse,2024
-Tucker Wade,Midfield,So.,6' 0'',195 lbs,"Bethesda, Md.",mens-lacrosse,2024
-Michael Kelly,SSDM,Sr.,6' 1'',205 lbs,"Marblehead, Mass.",mens-lacrosse,2024
-Matthew Kephart,Defense,Fr.,6' 2'',210 lbs,"Garden City, N.Y.",mens-lacrosse,2024
-Jackson Kane,Attack,Jr.,5' 10'',185 lbs,"Tiburon, Calif.",mens-lacrosse,2024
-Jim Williams,Face-Off,Jr.,5' 11'',185 lbs,"Franklin, Tenn.",mens-lacrosse,2024
-Colin Mulshine,Defense,Sr.,6' 3'',225 lbs,"Riverside, Conn.",mens-lacrosse,2024
-Beau Hokanson,Midfield,Fr.,5' 10'',175 lbs,"Encinitas, Calif.",mens-lacrosse,2024
-Jake Vana,Midfield,Fr.,6' 1'',200 lbs,"Boxford, Mass.",mens-lacrosse,2024
-Kevin Morrow,Defense,Fr.,6' 3'',180 lbs,"Cherry Hills Village, Colo.",mens-lacrosse,2024
-Billy Barnds,Midfield,Sr.,6' 0'',205 lbs,"Woodside, Calif.",mens-lacrosse,2024
-Wilder Burgin,Face-Off,So.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2024
-Porter Malkiel,Attack,Fr.,5' 11'',185 lbs,"Portland, Ore.",mens-lacrosse,2024
-Connor Crosby,Midfield,Fr.,6' 1'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2024
-Braedon Saris,Attack,Sr.,6' 3'',205 lbs,"Burlington, Ont.",mens-lacrosse,2024
-David Smythe,Midfield,Jr.,6' 1'',185 lbs,"Norfolk, Va.",mens-lacrosse,2024
-Andrew McMeekin,Face-Off,Jr.,6' 1'',225 lbs,"Newtown Square, Pa.",mens-lacrosse,2024
-Aidan McDonald,Attack,Fr.,5' 8'',160 lbs,"Maple Ridge, B.C.",mens-lacrosse,2024
-Cooper Kistler,Defense,Jr.,6' 2'',210 lbs,"Tiburon, Calif.",mens-lacrosse,2024
-Tyler Harris,SSDM,So.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2024
-Cooper Mueller,SSDM,So.,6' 3'',180 lbs,"Villanova, Pa.",mens-lacrosse,2024
-Matt Madalon,,,,,,mens-lacrosse,2024
-Koby Ginder,FO/Midfield,Sr.,5' 11'',190 lbs,"New York, N.Y.",mens-lacrosse,2024
-Ryan Croddick,Goalie,Jr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2024
-Jack Stahl,Defense,So.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2024
+Peter Buonanno,Attack,Fr.,6' 1'',175 lbs,"Providence, R.I.",mens-lacrosse,2024
 John Dunphey,Midfield,Jr.,6' 0'',185 lbs,"Ridgewood, N.J.",mens-lacrosse,2024
-Jack Ringhofer,Attack,Sr.,5' 11'',180 lbs,"Aurora, Colo.",mens-lacrosse,2024
-Liam Fairback,SSDM,Sr.,5' 9'',190 lbs,"Pelham, N.Y.",mens-lacrosse,2024
-Coulter Mackesy,Attack,Sr.,5' 10'',185 lbs,"Bronxville, N.Y.",mens-lacrosse,2024
-Caden Southworth,Midfield,Fr.,6' 1'',185 lbs,"Great Falls, Va.",mens-lacrosse,2025
-Chad Palumbo,Midfield,Sr.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2025
-Ian Mize,Midfield,Sr.,6' 3'',210 lbs,"Dallas, Texas",mens-lacrosse,2025
-Nick Crowley,LSM/Defense,Sr.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2025
-Peter Buonanno,Attack,So.,6' 1'',175 lbs,"Providence, R.I.",mens-lacrosse,2025
-Mark Marino,Midfield,Jr.,6' 1'',205 lbs,"Mahwah, N.J.",mens-lacrosse,2025
-Parker Reynolds,Midfield,Fr.,5' 10'',170 lbs,"Manlius, N.Y.",mens-lacrosse,2025
-Colin Burns,Attack,Jr.,6' 1'',200 lbs,"Potomac, Md.",mens-lacrosse,2025
-Nate Kabiri,Attack,Jr.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2025
-Jamison Moore,Midfield,Sr.,5' 10'',190 lbs,"Darien, Conn.",mens-lacrosse,2025
-Jackson Green,SSDM,Jr.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2025
-Thatcher Bernstein,Attack,Fr.,6' 4'',215 lbs,"Brookline, Mass.",mens-lacrosse,2025
-Hunter Spiess,Defense,Jr.,6' 2'',200 lbs,"Old Greenwich, Conn.",mens-lacrosse,2025
-Owen Fischer,SSDM,Jr.,6' 3'',205 lbs,"Glen Arm, Md.",mens-lacrosse,2025
-Porter Malkiel,Attack,So.,5' 11'',185 lbs,"Portland, Ore.",mens-lacrosse,2025
-Carter Johnson,Goalie,So.,6' 2'',190 lbs,"Jackson, Wyoming",mens-lacrosse,2025
-Isaac Cruz,Midfield,So.,5' 10'',190 lbs,"Montgomery, N.Y.",mens-lacrosse,2025
-Carson Krammer,Midfield,Jr.,6' 5'',245 lbs,"Kirkland, Wash.",mens-lacrosse,2025
-Quinn Krammer,Midfield,Sr.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2025
-Tucker Wade,Midfield,Jr.,6' 0'',195 lbs,"Bethesda, Md.",mens-lacrosse,2025
-Evan Calkins,Midfield,Fr.,6' 1'',190 lbs,"Naples, Fla.",mens-lacrosse,2025
-Colin Vickrey,Goalie,Jr.,6' 2'',200 lbs,"Westlake, Texas",mens-lacrosse,2025
-Ryan Croddick,Goalie,Sr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2025
+Jackson Kane,Attack,Sr.,5' 10'',185 lbs,"Tiburon, Calif.",mens-lacrosse,2025
+Gus von Metzsch,Goalie,Fr.,6' 4'',230 lbs,"Piedmont, Calif.",mens-lacrosse,2025
 Finn Fox,Defense,So.,6' 1'',195 lbs,"Weston, Mass.",mens-lacrosse,2025
-Will Fuller,Attack,Fr.,5' 11'',170 lbs,"Winchester, Mass.",mens-lacrosse,2025
-Jacob Todd,Attack,Jr.,6' 2'',200 lbs,"Stevensville, Md.",mens-lacrosse,2025
-Brody Upton,Midfield,Jr.,6' 7'',230 lbs,"Dedham, Mass.",mens-lacrosse,2025
-Connor Crosby,Midfield,So.,6' 1'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2025
-Matt Giannetti,Defense,Fr.,6' 2'',200 lbs,"Rye, N.Y.",mens-lacrosse,2025
-Kevin Morrow,Defense,So.,6' 3'',180 lbs,"Cherry Hills Village, Colo.",mens-lacrosse,2025
-Jake Vana,Midfield,So.,6' 1'',200 lbs,"Boxford, Mass.",mens-lacrosse,2025
-Wilder Burgin,SSDM,Jr.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2025
-Cooper Revis,Face-Off,Fr.,5' 10'',190 lbs,"Chevy Chase, Md.",mens-lacrosse,2025
-Andrew McMeekin,Face-Off,Sr.,6' 1'',225 lbs,"Newtown Square, Pa.",mens-lacrosse,2025
-Jack Stahl,Defense,Jr.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2025
+Cody Lam,Attack,So.,6' 3'',215 lbs,"Westfield, N.J.",mens-lacrosse,2025
+Ryan Croddick,Goalie,Sr.,6' 3'',185 lbs,"Rumson, N.J.",mens-lacrosse,2025
+Isaac Cruz,Midfield,So.,5' 10'',190 lbs,"Montgomery, N.Y.",mens-lacrosse,2025
+Colin Vickrey,Goalie,Jr.,6' 2'',200 lbs,"Westlake, Texas",mens-lacrosse,2025
+Carter Johnson,Goalie,So.,6' 2'',190 lbs,"Jackson, Wyoming",mens-lacrosse,2025
+Porter Malkiel,Attack,So.,5' 11'',185 lbs,"Portland, Ore.",mens-lacrosse,2025
+Matthew Kephart,Defense,So.,6' 2'',210 lbs,"Garden City, N.Y.",mens-lacrosse,2025
+Matt Madalon,,,,,,mens-lacrosse,2025
+Hunter Spiess,Defense,Jr.,6' 2'',200 lbs,"Old Greenwich, Conn.",mens-lacrosse,2025
+Thatcher Bernstein,Attack,Fr.,6' 4'',215 lbs,"Brookline, Mass.",mens-lacrosse,2025
+Parker Reynolds,Midfield,Fr.,5' 10'',170 lbs,"Manlius, N.Y.",mens-lacrosse,2025
+Mark Marino,Midfield,Jr.,6' 1'',205 lbs,"Mahwah, N.J.",mens-lacrosse,2025
+Peter Buonanno,Attack,So.,6' 1'',175 lbs,"Providence, R.I.",mens-lacrosse,2025
+Nick Crowley,LSM/Defense,Sr.,6' 1'',195 lbs,"Peterborough, Ont.",mens-lacrosse,2025
+Ian Mize,Midfield,Sr.,6' 3'',210 lbs,"Dallas, Texas",mens-lacrosse,2025
+Chad Palumbo,Midfield,Sr.,6' 2'',205 lbs,"Newton, Mass.",mens-lacrosse,2025
+Caden Southworth,Midfield,Fr.,6' 1'',185 lbs,"Great Falls, Va.",mens-lacrosse,2025
+John Dunphey,Midfield,Sr.,6' 0'',185 lbs,"Ridgewood, N.J.",mens-lacrosse,2025
+Jackson Green,SSDM,Jr.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2025
+Jamison Moore,Midfield,Sr.,5' 10'',190 lbs,"Darien, Conn.",mens-lacrosse,2025
+Nate Kabiri,Attack,Jr.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2025
+Colin Burns,Attack,Jr.,6' 1'',200 lbs,"Potomac, Md.",mens-lacrosse,2025
+Cooper Kistler,Defense,Sr.,6' 2'',210 lbs,"Tiburon, Calif.",mens-lacrosse,2025
+Carson Krammer,Midfield,Jr.,6' 5'',245 lbs,"Kirkland, Wash.",mens-lacrosse,2025
 Caden Frank,Defense,Fr.,6' 1'',185 lbs,"Rollingwood, Texas",mens-lacrosse,2025
+Brody Upton,Midfield,Jr.,6' 7'',230 lbs,"Dedham, Mass.",mens-lacrosse,2025
+Quinn Krammer,Midfield,Sr.,6' 2'',195 lbs,"Kirkland, Wash.",mens-lacrosse,2025
+David Smythe,Midfield,Sr.,6' 1'',185 lbs,"Norfolk, Va.",mens-lacrosse,2025
+Jacob Todd,Attack,Jr.,6' 2'',200 lbs,"Stevensville, Md.",mens-lacrosse,2025
+Aidan McDonald,Attack,So.,5' 8'',160 lbs,"Maple Ridge, B.C.",mens-lacrosse,2025
+Zach Friedman,Defense,Sr.,6' 2'',210 lbs,"Arvada, Colo.",mens-lacrosse,2025
+Evan Calkins,Midfield,Fr.,6' 1'',190 lbs,"Naples, Fla.",mens-lacrosse,2025
+Tyler Harris,SSDM,Jr.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2025
+Beau Hokanson,Midfield,So.,5' 10'',175 lbs,"Encinitas, Calif.",mens-lacrosse,2025
+Will Fuller,Attack,Fr.,5' 11'',170 lbs,"Winchester, Mass.",mens-lacrosse,2025
+Tucker Wade,Midfield,Jr.,6' 0'',195 lbs,"Bethesda, Md.",mens-lacrosse,2025
+Tucker Spiess,Defense,Fr.,6' 1'',190 lbs,"Old Greenwich, Conn.",mens-lacrosse,2025
+Cooper Mueller,SSDM,Jr.,6' 3'',180 lbs,"Villanova, Pa.",mens-lacrosse,2025
+Jack Stahl,Defense,Jr.,6' 4'',190 lbs,"Newport Beach, Calif.",mens-lacrosse,2025
+Andrew McMeekin,Face-Off,Sr.,6' 1'',225 lbs,"Newtown Square, Pa.",mens-lacrosse,2025
+Cooper Revis,Face-Off,Fr.,5' 10'',190 lbs,"Chevy Chase, Md.",mens-lacrosse,2025
+Wilder Burgin,SSDM,Jr.,6' 0'',180 lbs,"Bronxville, N.Y.",mens-lacrosse,2025
+Jake Vana,Midfield,So.,6' 1'',200 lbs,"Boxford, Mass.",mens-lacrosse,2025
+Kevin Morrow,Defense,So.,6' 3'',180 lbs,"Cherry Hills Village, Colo.",mens-lacrosse,2025
+Matt Giannetti,Defense,Fr.,6' 2'',200 lbs,"Rye, N.Y.",mens-lacrosse,2025
+Owen Fischer,SSDM,Jr.,6' 3'',205 lbs,"Glen Arm, Md.",mens-lacrosse,2025
+Tyler McDermott,Midfield,Fr.,5' 10'',190 lbs,"Rye, N.Y.",mens-lacrosse,2025
+Connor Crosby,Midfield,So.,6' 1'',195 lbs,"Greenwich, Conn.",mens-lacrosse,2025
 Jim Williams,Face-Off,Sr.,5' 11'',185 lbs,"Franklin, Tenn.",mens-lacrosse,2025
 Russ Fitzgerald,Face-Off,Fr.,5' 10'',210 lbs,"Flourtown, Pa.",mens-lacrosse,2025
-Matthew Kephart,Defense,So.,6' 2'',210 lbs,"Garden City, N.Y.",mens-lacrosse,2025
-Tucker Spiess,Defense,Fr.,6' 1'',190 lbs,"Old Greenwich, Conn.",mens-lacrosse,2025
-Beau Hokanson,Midfield,So.,5' 10'',175 lbs,"Encinitas, Calif.",mens-lacrosse,2025
-Tyler Harris,SSDM,Jr.,6' 2'',195 lbs,"Atlanta, Ga.",mens-lacrosse,2025
-Zach Friedman,Defense,Sr.,6' 2'',210 lbs,"Arvada, Colo.",mens-lacrosse,2025
-Tyler McDermott,Midfield,Fr.,5' 10'',190 lbs,"Rye, N.Y.",mens-lacrosse,2025
-Cooper Kistler,Defense,Sr.,6' 2'',210 lbs,"Tiburon, Calif.",mens-lacrosse,2025
-David Smythe,Midfield,Sr.,6' 1'',185 lbs,"Norfolk, Va.",mens-lacrosse,2025
-Gus von Metzsch,Goalie,Fr.,6' 4'',230 lbs,"Piedmont, Calif.",mens-lacrosse,2025
-Matt Madalon,,,,,,mens-lacrosse,2025
-Cooper Mueller,SSDM,Jr.,6' 3'',180 lbs,"Villanova, Pa.",mens-lacrosse,2025
-Aidan McDonald,Attack,So.,5' 8'',160 lbs,"Maple Ridge, B.C.",mens-lacrosse,2025
-Jackson Kane,Attack,Sr.,5' 10'',185 lbs,"Tiburon, Calif.",mens-lacrosse,2025
-Cody Lam,Attack,So.,6' 3'',215 lbs,"Westfield, N.J.",mens-lacrosse,2025
-John Dunphey,Midfield,Sr.,6' 0'',185 lbs,"Ridgewood, N.J.",mens-lacrosse,2025
 Tucker Spiess,Defense,So.,6' 1'',190 lbs,"Old Greenwich, Conn.",mens-lacrosse,2026
 Aidan Cabahug-Almonte,Face-Off,Fr.,5' 8'',170 lbs,"Wayne, Pa.",mens-lacrosse,2026
 Jake Vana,Midfield,Jr.,6' 1'',200 lbs,"Boxford, Mass.",mens-lacrosse,2026
@@ -292,7 +496,7 @@ Mack Smink,Attack,Fr.,5' 8'',160 lbs,"Dedham, Mass.",mens-lacrosse,2026
 Carter Johnson,Goalie,Jr.,6' 2'',190 lbs,"Jackson, Wyoming",mens-lacrosse,2026
 Russ Fitzgerald,Face-Off,So.,5' 10'',210 lbs,"Flourtown, Pa.",mens-lacrosse,2026
 Colin Burns,Attack,Sr.,6' 1'',200 lbs,"Potomac, Md.",mens-lacrosse,2026
-Mark Marino,Midfield,Sr.,6' 1'',205 lbs,"Mahwah, N.J.",mens-lacrosse,2026
+Mark Marino,SSDM,Sr.,6' 1'',205 lbs,"Mahwah, N.J.",mens-lacrosse,2026
 Nate Kabiri,Attack,Sr.,6' 1'',190 lbs,"McLean, Va.",mens-lacrosse,2026
 Cody Lam,Attack,Jr.,6' 3'',215 lbs,"Westfield, N.J.",mens-lacrosse,2026
 Jackson Green,SSDM,Sr.,6' 3'',225 lbs,"Rochester, N.Y.",mens-lacrosse,2026
@@ -312,7 +516,7 @@ Evan Calkins,Midfield,So.,6' 1'',190 lbs,"Naples, Fla.",mens-lacrosse,2026
 Tucker Wade,Midfield,Sr.,6' 0'',200 lbs,"Bethesda, Md.",mens-lacrosse,2026
 John Barnds,Midfield,Fr.,6' 3'',210 lbs,"Woodside, Calif.",mens-lacrosse,2026
 Carson Krammer,Midfield,Sr.,6' 5'',245 lbs,"Kirkland, Wash.",mens-lacrosse,2026
-Isaac Cruz,Midfield,Jr.,5' 10'',190 lbs,"Montgomery, N.Y.",mens-lacrosse,2026
+Isaac Cruz,SSDM,Jr.,5' 10'',190 lbs,"Montgomery, N.Y.",mens-lacrosse,2026
 Colin Vickrey,Goalie,Sr.,6' 2'',200 lbs,"Westlake, Texas",mens-lacrosse,2026
 Adam Ponting,Midfield,Fr.,6' 4'',190 lbs,"Welland, Ont.",mens-lacrosse,2026
 Matt Madalon,,,,,,mens-lacrosse,2026

@@ -1,42 +1,237 @@
 name,position,class,height,weight,hometown,sport,year
-Georgia Alexander,Rower,Sr.,,,"Victoria, British Columbia",womens-rowing,2021
-Audrey Craighead,Rower,So.,,,"South Salem, N.Y.",womens-rowing,2021
-Fiona Cronin,Rower,Sr.,,,"Arlington, Va.",womens-rowing,2021
-Sonya Danchak,Rower,Fy.,,,"Westport, Conn.",womens-rowing,2021
-Hanna Davis,Rower,Jr.,,,"Summit, N.J.",womens-rowing,2021
-Jessie Duckworth,Rower,Jr.,,,"Manhattan Beach, Calif.",womens-rowing,2021
-Daisy Dundas,Rower,Fy.,,,"Salt Point, N.Y.",womens-rowing,2021
-Anna Glasgow,Rower,Sr.,,,"Dallas, Texas",womens-rowing,2021
-Diana Bates,Rower,So.,,,"New York, N.Y.",womens-rowing,2021
-Anna Brause,Rower,So.,,,"Larchmont, N.Y.",womens-rowing,2021
-Haley Leversedge,Rower,Jr.,,,"Durham, N.C.",womens-rowing,2021
-Olivia Chin,Cox,Fy.,,,"Montvale, N.J.",womens-rowing,2021
-Emma Hochberg,Rower,Fy.,,,"Scarsdale, N.Y.",womens-rowing,2021
-Sophie Inkster,Rower,Jr.,,,"Healdsburg, Calif.",womens-rowing,2021
-Aarushi Jain,Coxswain,Fy.,,,"Hicksville, N.Y.",womens-rowing,2021
-Molly Katarincic,Rower,Sr.,,,"Pittsburgh, Pa.",womens-rowing,2021
-Morgan Kendall,Rower,Fy.,,,"Dover, Mass.",womens-rowing,2021
-Olivia Kester,Rower,Jr.,,,"Bronxville, N.Y.",womens-rowing,2021
-Madeleine Grussing,Rower,Jr.,,,"London, England",womens-rowing,2021
-Clara Hahn,Rower,Sr.,,,"Lake Wylie, S.C.",womens-rowing,2021
-Lucy Handy,Rower,Jr.,,,"Providence, R.I.",womens-rowing,2021
-Ava Koros,Rower,Jr.,,,"Burlingame, Calif.",womens-rowing,2021
-Lillian Leimkuhler,Rower,So.,,,"Haddonfield, N.J.",womens-rowing,2021
-Katherine Figura,Rower,So.,,,"Wilmette, Ill.",womens-rowing,2021
-Isabelle Lewitt,Coxswain,So.,,,"London, England",womens-rowing,2021
-Samantha Paisley,Rower,Fy.,,,"Salt Late City, Utah",womens-rowing,2021
-Julia Martin,Rower,Jr.,,,"Laguna Beach, Calif.",womens-rowing,2021
-Justine McGuire,Rower,Jr.,,,"Mont-Tremblant, Quebec",womens-rowing,2021
-Grace McInerney,Coxswain,Fy.,,,"La Jolla, Calif.",womens-rowing,2021
+Sarah Caplice,Rower,Sr.,,,"Toronto, Ontario",womens-rowing,2016
+Addie McKenzie,Rower,Fy.,,,"Philadelphia, Pa.",womens-rowing,2016
+Grace Ryan,Rower,Jr.,,,"North Attleborough, Mass.",womens-rowing,2016
+Audrey Scott,Cox,So.,,,"Mahtomedi, Minn.",womens-rowing,2016
+Lilienne Sexton,Rower,Fy.,,,"Watertown, Mass.",womens-rowing,2016
+Alexandra Stankard,Rower,Fy.,,,"Westwood, Mass.",womens-rowing,2016
+Jackie McInerney,Rower,So.,,,"Weston, Mass.",womens-rowing,2016
+Natalie Knight,Rower,So.,,,"Bronxville, N.Y.",womens-rowing,2016
+Isabella St. Onge,Rower,So.,,,"Bernardsville, N.J.",womens-rowing,2016
+Sophie Palmer,Rower,Fy.,,,"Milton, Mass.",womens-rowing,2016
+Maggie Stiefvater,Rower,So.,,,"Pelham, N.Y.",womens-rowing,2016
+Josie Pearce,Cox,Fy.,,,"Rossmoor, Calif.",womens-rowing,2016
+Sophia Stone,Rower,Jr.,,,"Wellesley, Mass.",womens-rowing,2016
+Shannon Kossmann,Rower,Fy.,,,"Santa Fe, N.M.",womens-rowing,2016
+Jenna Thompson,Rower,Fy.,,,"Pacific Palisades, CA",womens-rowing,2016
+Rebecca Thomson,Rower,Fy.,,,"Hopkinton, N.H.",womens-rowing,2016
+Ariana Wetzel,Rower,Sr.,,,"Burien, Wash.",womens-rowing,2016
+Nora Masler,Rower,Jr.,,,"Santa Monica, Calif.",womens-rowing,2016
+Jasmine Williams,Cox,Fy.,,,"Brockton, Mass.",womens-rowing,2016
+Emma Winson,Rower,Fy.,,,"Dallas, Texas",womens-rowing,2016
+Nitya Thakore,Cox,Fy.,,,"Cleveland, Ohio",womens-rowing,2016
+Harriet Van Metre,Rower,Sr.,,,"Minneapolis, Minn.",womens-rowing,2016
+Justeen Komok,Rower,So.,,,"Bainbridge Island, Wash.",womens-rowing,2016
+Mary Kate Milway,Rower,Fy.,,,"Wellesley, Mass.",womens-rowing,2016
+Anne Blackburn,Rower,Fy.,,,"Natick, Mass.",womens-rowing,2016
+Ciara Gaffney,Rower,So.,,,"Toronto, Ontario",womens-rowing,2016
+Emily Carney,Rower,Sr.,,,"Washington, D.C.",womens-rowing,2016
+Taylor Daly,Rower,Jr.,,,"Potomac, Md.",womens-rowing,2016
+Kniya De'De',Rower,Fy.,,,"Alexandria, La.",womens-rowing,2016
+Katie Erdos,Cox,Fy.,,,"Harvard, Mass.",womens-rowing,2016
+Sabrina Bohrer,Rower,Jr.,,,"Concord, Mass.",womens-rowing,2016
+Olivia Bono,Rower,Sr.,,,"Dover, Mass.",womens-rowing,2016
+Linda Muri,,,,,,womens-rowing,2016
+Carin Carroll,Rower,Sr.,,,"Weybridge, United Kingdom",womens-rowing,2016
+Simone Framson,Rower,Jr.,,,"Seattle, Wash.",womens-rowing,2016
+Cara Cavanaugh,Rower,So.,,,"North Andover, Mass.",womens-rowing,2016
+Rebecca Conway,Rower,So.,,,"Slingerlands, N.Y.",womens-rowing,2016
+Emma Gustafson,Rower,Fy.,,,"Provo, Utah",womens-rowing,2016
+Miranda Gish,Rower,Jr.,,,"Sudbury, Mass.",womens-rowing,2016
+Morgan Gelber,Rower,Fy.,,,"Woodside, N.Y.",womens-rowing,2016
+Louisa Greenburg,Rower,Fy.,,,"Washington, D.C.",womens-rowing,2016
+Kate Griffiths,Rower,Jr.,,,"London, England",womens-rowing,2016
+Samantha Hawley,Rower,Fy.,,,"Manchester, Mass.",womens-rowing,2016
+Brianna Ager,Rower,Sr.,,,"Davie, Fla.",womens-rowing,2016
+Elisabeth Fawcett,Rower,Fy.,,,"New York, N.Y.",womens-rowing,2016
+Klara Barbarossa,Rower,Fy.,,,"Saratoga, Calif.",womens-rowing,2016
+Julia Granito,Cox,Jr.,,,"Pittsburgh, Pa.",womens-rowing,2016
+Jasmine Williams,Cox,So.,,,"Brockton, Mass.",womens-rowing,2017
+Verity Lynch,Rower,Fy.,,,"Groton, Mass.",womens-rowing,2017
+Nora Masler,Rower,Sr.,,,"Santa Monica, Calif.",womens-rowing,2017
+Katharine Phillips,Rower,Fy.,,,"Wilmette, Ill.",womens-rowing,2017
+Rebecca Conway,Rower,Jr.,,,"Slingerlands, N.Y.",womens-rowing,2017
+Taylor Daly,Rower,Sr.,,,"Potomac, Md.",womens-rowing,2017
+Anne Blackburn,Rower,So.,,,"Natick, Mass.",womens-rowing,2017
+Justeen Komok,Rower,Jr.,,,"Bainbridge Island, Wash.",womens-rowing,2017
+Sophie Kostanecki,Rower,Fy.,,,"Ross, Calif.",womens-rowing,2017
+Jenna Thompson,Rower,So.,,,"Pacific Palisades, CA",womens-rowing,2017
+Lilienne Sexton,Rower,So.,,,"Watertown, Mass.",womens-rowing,2017
+Isabella St. Onge,Rower,Jr.,,,"Bernardsville, N.J.",womens-rowing,2017
+Wendy Bordeau,,,,,,womens-rowing,2017
+Rebecca Thomson,Rower,So.,,,"Hopkinton, N.H.",womens-rowing,2017
+Sophie Stone,Rower,Fy.,,,"Brookline, Mass.",womens-rowing,2017
+Sophie Kamhi,Rower,Fy.,,,"Santa Barbara, Calif.",womens-rowing,2017
+Sophia Stone,Rower,Sr.,,,"Wellesley, Mass.",womens-rowing,2017
+Elizabeth Whiting,Cox,Fy.,,,,womens-rowing,2017
+Maggie Stiefvater,Rower,Jr.,,,"Pelham, N.Y.",womens-rowing,2017
+Priya Shukla,Cox,Fy.,,,"Dover, Mass.",womens-rowing,2017
+Mikayla Hubner,Cox,Fy.,,,"Cold Spring Harbor, N.Y.",womens-rowing,2017
+Sabrina Bohrer,Rower,Sr.,,,"Concord, Mass.",womens-rowing,2017
+Grace Hannam,Cox,Fy.,,,"Norwich, Vt.",womens-rowing,2017
+Katie Erdos,Cox,So.,,,"Harvard, Mass.",womens-rowing,2017
+Natalie Knight,Rower,Jr.,,,"Bronxville, N.Y.",womens-rowing,2017
+Abigail Chamberlin,Rower,Fy.,,,"Camden, Maine",womens-rowing,2017
+McKenzie Baylis,Rower,Fy.,,,"Tiburon, Calif.",womens-rowing,2017
+Addie McKenzie,Rower,So.,,,"Philadelphia, Pa.",womens-rowing,2017
+Grace Ryan,Rower,Sr.,,,"North Attleborough, Mass.",womens-rowing,2017
+Alexandra Kent,Rower,Fy.,,,"Toronto, Ontario",womens-rowing,2017
+Claire Campbell,Rower,Fy.,,,"New Canaan, Conn.",womens-rowing,2017
+Zoe Dinneen,Rower,Sr.,,,"Boston, Mass.",womens-rowing,2017
+Cara Cavanaugh,Rower,Jr.,,,"North Andover, Mass.",womens-rowing,2017
+Emilie Baxter,Rower,Fy.,,,"Novato, Calif.",womens-rowing,2017
+Kate Griffiths,Rower,Sr.,,,"London, England",womens-rowing,2017
+Rhea Enzian,Rower,Fy.,,,"Vashon, Wash.",womens-rowing,2017
+Samantha Hawley,Rower,So.,,,"Manchester, Mass.",womens-rowing,2017
+Ciara Gaffney,Rower,Jr.,,,"Toronto, Ontario",womens-rowing,2017
+Francesca Governali,Rower,Sr.,,,"Cape Elizabeth, Maine",womens-rowing,2017
+Hannah Frater,Rower,Fy.,,,"New York, N.Y.",womens-rowing,2017
+Lily Fauver,Rower,Fy.,,,"Bedford, N.Y.",womens-rowing,2017
+Simone Framson,Rower,Sr.,,,"Seattle, Wash.",womens-rowing,2017
+Meghan Corwen,Rower,Fy.,,,"New Rochelle, N.Y.",womens-rowing,2017
+Anne Blackburn,Rower,Jr.,,,"Natick, Mass.",womens-rowing,2018
+Grace Hannam,Cox,So.,,,"Norwich, Vt.",womens-rowing,2018
+Katie Erdos,Cox,Jr.,,,"Harvard, Mass.",womens-rowing,2018
+Anna Glasgow,Rower,Fy.,,,"Dallas, Texas",womens-rowing,2018
+Rhea Enzian,Rower,So.,,,"Vashon, Wash.",womens-rowing,2018
+Sofie Blahova,Rower,Fy.,,,"Prague, Czech Republic",womens-rowing,2018
+Emilie Baxter,Rower,So.,,,"Novato, Calif.",womens-rowing,2018
+Lily Fauver,Rower,So.,,,"Bedford, N.Y.",womens-rowing,2018
+Mikayla Hubner,Cox,So.,,,"Cold Spring Harbor, N.Y.",womens-rowing,2018
+Hannah Frater,Rower,So.,,,"New York, N.Y.",womens-rowing,2018
+Rebecca Conway,Rower,Sr.,,,"Slingerlands, N.Y.",womens-rowing,2018
+Ciara Gaffney,Rower,Sr.,,,"Toronto, Ontario",womens-rowing,2018
+Claire Campbell,Rower,So.,,,"New Canaan, Conn.",womens-rowing,2018
+Aoibheann Holland,Rower,Fy.,,,"Arlington, Mass.",womens-rowing,2018
+Meghan Corwen,Rower,So.,,,"New Rochelle, N.Y.",womens-rowing,2018
+McKenzie Baylis,Rower,So.,,,"Tiburon, Calif.",womens-rowing,2018
+Clara Hahn,Rower,Fy.,,,"Lake Wylie, S.C.",womens-rowing,2018
+Abigail Chamberlin,Rower,So.,,,"Camden, Maine",womens-rowing,2018
+Fiona Cronin,Rower,Fy.,,,"Arlington, Va.",womens-rowing,2018
+Cara Cavanaugh,Rower,Sr.,,,"North Andover, Mass.",womens-rowing,2018
+Molly Katarincic,Rower,Fy.,,,"Pittsburgh, Pa.",womens-rowing,2018
+Cameron Thibault,Rower,Fy.,,,"Greenwich, Conn.",womens-rowing,2018
+Sophie Kamhi,Rower,So.,,,"Santa Barbara, Calif.",womens-rowing,2018
+Maggie Stiefvater,Rower,Sr.,,,"Pelham, N.Y.",womens-rowing,2018
+Maia Round,Rower,Fy.,,,Keene,womens-rowing,2018
+Sophia Kwon,Cox,Fy.,,,Liberty,womens-rowing,2018
+Alexandra Kent,Rower,So.,,,"Toronto, Ontario",womens-rowing,2018
+Katharine Phillips,Rower,So.,,,"Wilmette, Ill.",womens-rowing,2018
+Carter Nelson,Rower,Fy.,,,"London, England",womens-rowing,2018
+Lilienne Sexton,Rower,Jr.,,,"Watertown, Mass.",womens-rowing,2018
+Sophie Kostanecki,Rower,So.,,,"Ross, Calif.",womens-rowing,2018
+Mary Kate McIntyre,Rower,Fy.,,,"Port Washington, N.Y.",womens-rowing,2018
+Wendy Bordeau,,,,,,womens-rowing,2018
+Caitlin Lynch,Rower,Fy.,,,"Bradenton, Fla.",womens-rowing,2018
+Ellie Urdang,Rower,Fy.,,,"Stamford, Conn.",womens-rowing,2018
+Ashlyn Morris,Cox,So.,,,"Carmel, Ind.",womens-rowing,2018
+Natalie Knight,Rower,Sr.,,,"Bronxville, N.Y.",womens-rowing,2018
+Rebecca Thomson,Rower,Jr.,,,"Hopkinton, N.H.",womens-rowing,2018
+Verity Lynch,Rower,So.,,,"Groton, Mass.",womens-rowing,2018
+Sophie Stone,Rower,So.,,,"Brookline, Mass.",womens-rowing,2018
+Molly Katarincic,Rower,So.,,,"Pittsburgh, Pa.",womens-rowing,2019
+Justine McGuire,Rower,Fy.,,,"Mont-Tremblant, Quebec",womens-rowing,2019
+Ellie Urdang,Rower,So.,,,"Stamford, Conn.",womens-rowing,2019
+Lilienne Sexton,Rower,Sr.,,,"Watertown, Mass.",womens-rowing,2019
+Ava Koros,Rower,Fy.,,,"Burlingame, Calif.",womens-rowing,2019
+Sophie Stone,Rower,Jr.,,,"Brookline, Mass.",womens-rowing,2019
+Julia Martin,Rower,Fy.,,,"Laguna Beach, Calif.",womens-rowing,2019
+Margaret Moreland,Rower,Fy.,,,"San Francisco, Calif.",womens-rowing,2019
+Carter Nelson,Rower,So.,,,"London, England",womens-rowing,2019
+Haley Leversedge,Rower,Fy.,,,"Durham, N.C.",womens-rowing,2019
+Maia Round,Rower,So.,,,Keene,womens-rowing,2019
+Samantha Sizelove,Coxswain,Fy.,,,"Winter Garden, Fla.",womens-rowing,2019
+Allison Smith,Rower,Fy.,,,"Soddy Daisy, Tenn.",womens-rowing,2019
+Cameron Thibault,Rower,So.,,,"Greenwich, Conn.",womens-rowing,2019
+Olivia Kester,Rower,Fy.,,,"Bronxville, N.Y.",womens-rowing,2019
+Rebecca Thomson,Rower,Sr.,,,"Hopkinton, N.H.",womens-rowing,2019
+Sophie Kamhi,Rower,Jr.,,,"Santa Barbara, Calif.",womens-rowing,2019
+Caitlin Lynch,Rower,So.,,,"Bradenton, Fla.",womens-rowing,2019
+Kelly Harris,,,,,,womens-rowing,2019
+Eliana Ornelas,Rower,Fy.,,,"Reno, Nev.",womens-rowing,2019
+Abigail Hyun,Coxswain,Fy.,,,"New York, N.Y.",womens-rowing,2019
+Sophie Inkster,Rower,Fy.,,,"Healdsburg, Calif.",womens-rowing,2019
+Meghan Corwen,Rower,Jr.,,,"New Rochelle, N.Y.",womens-rowing,2019
+Fiona Cronin,Rower,So.,,,"Arlington, Va.",womens-rowing,2019
+Audrey Adamchak,Rower,Fy.,,,"Davis, Calif.",womens-rowing,2019
+Lucy Handy,Rower,Fy.,,,"Providence, R.I.",womens-rowing,2019
+Anne Blackburn,Rower,Sr.,,,"Natick, Mass.",womens-rowing,2019
+Sofie Blahova,Rower,So.,,,"Prague, Czech Republic",womens-rowing,2019
+Mikayla Hubner,Coxswain,Jr.,,,"Cold Spring Harbor, N.Y.",womens-rowing,2019
+Hanna Davis,Rower,Fy.,,,"Summit, N.J.",womens-rowing,2019
+Rhea Enzian,Rower,Jr.,,,"Vashon, Wash.",womens-rowing,2019
+Jessie Duckworth,Rower,Fy.,,,"Manhattan Beach, Calif.",womens-rowing,2019
+Madeleine Grussing,Rower,Fy.,,,"London, England",womens-rowing,2019
+Hannah Frater,Rower,Jr.,,,"New York, N.Y.",womens-rowing,2019
+Anna Glasgow,Rower,So.,,,"Dallas, Texas",womens-rowing,2019
+MacKenzie Guynn,Rower,Fy.,,,"Chicago, Ill.",womens-rowing,2019
+Bryanna Entwistle,Rower,Fy.,,,Singapore,womens-rowing,2019
+Clara Hahn,Rower,So.,,,"Lake Wylie, S.C.",womens-rowing,2019
+Aoibheann Holland,Rower,So.,,,"Arlington, Mass.",womens-rowing,2019
+Emilie Baxter,Rower,Jr.,,,"Novato, Calif.",womens-rowing,2019
+Katie Erdos,Coxswain,Sr.,,,"Harvard, Mass.",womens-rowing,2019
+Lily Fauver,Rower,Jr.,,,"Bedford, N.Y.",womens-rowing,2019
+Justine McGuire,Rower,So.,,,"Mont-Tremblant, Quebec",womens-rowing,2020
+Grace Mensi,Rower,Fy.,,,"Katonah, N.Y.",womens-rowing,2020
+Julia Martin,Rower,So.,,,"Laguna Beach, Calif.",womens-rowing,2020
+Anna Brause,Rower,Fy.,,,"Larchmont, N.Y.",womens-rowing,2020
+Isabelle Lewitt,Rower,Fy.,,,"London, England",womens-rowing,2020
+Ava Koros,Rower,So.,,,"Burlingame, Calif.",womens-rowing,2020
+Haley Leversedge,Rower,So.,,,"Durham, N.C.",womens-rowing,2020
+Caitlin Lynch,Rower,Jr.,,,"Bradenton, Fla.",womens-rowing,2020
+Margaret Moreland,Rower,So.,,,"San Francisco, Calif.",womens-rowing,2020
+Lillian Leimkuhler,Rower,Fy.,,,"Haddonfield, N.J.",womens-rowing,2020
+Carter Nelson,Rower,Jr.,,,"London, England",womens-rowing,2020
+Emma Troost,Rower,Fy.,,,"Detroit, Mich.",womens-rowing,2020
+Allison Smith,Rower,So.,,,"Soddy Daisy, Tenn.",womens-rowing,2020
+Maia Round,Rower,Jr.,,,Keene,womens-rowing,2020
+Eliana Ornelas,Rower,So.,,,"Reno, Nev.",womens-rowing,2020
+Katharine Phillips,Rower,Sr.,,,"Wilmette, Ill.",womens-rowing,2020
+Sophie Stone,Rower,Sr.,,,"Brookline, Mass.",womens-rowing,2020
+Cameron Thibault,Rower,Jr.,,,"Greenwich, Conn.",womens-rowing,2020
+Christine Wu,Rower,Fy.,,,"Basking Ridge, N.J.",womens-rowing,2020
+Olivia Kester,Rower,So.,,,"Bronxville, N.Y.",womens-rowing,2020
+Nancy LaRocque,,,,,,womens-rowing,2020
+Samantha Sizelove,Coxswain,So.,,,"Winter Garden, Fla.",womens-rowing,2020
+Ellie Urdang,Rower,Jr.,,,"Stamford, Conn.",womens-rowing,2020
+Jenna Martin,Rower,Fy.,,,"Wayland, Mass.",womens-rowing,2020
+Hanna Davis,Rower,So.,,,"Summit, N.J.",womens-rowing,2020
+MacKenzie Guynn,Rower,So.,,,"Chicago, Ill.",womens-rowing,2020
+Fiona Cronin,Rower,Jr.,,,"Arlington, Va.",womens-rowing,2020
+Audrey Craighead,Rower,Fy.,,,"South Salem, N.Y.",womens-rowing,2020
+Meghan Corwen,Rower,Sr.,,,"New Rochelle, N.Y.",womens-rowing,2020
+Abigail Chamberlin,Rower,Sr.,,,"Camden, Maine",womens-rowing,2020
+Diana Bates,Rower,Fy.,,,"New York, N.Y.",womens-rowing,2020
+Sophie Kamhi,Rower,Sr.,,,"Santa Barbara, Calif.",womens-rowing,2020
+Rhea Enzian,Rower,Sr.,,,"Vashon, Wash.",womens-rowing,2020
+Bryanna Entwistle,Rower,So.,,,Singapore,womens-rowing,2020
+Jessie Duckworth,Rower,So.,,,"Manhattan Beach, Calif.",womens-rowing,2020
+Lily Fauver,Rower,Sr.,,,"Bedford, N.Y.",womens-rowing,2020
+Katherine Figura,Rower,Fy.,,,"Wilmette, Ill.",womens-rowing,2020
+Abigail Hyun,Coxswain,So.,,,"New York, N.Y.",womens-rowing,2020
+Clara Hahn,Rower,Jr.,,,"Lake Wylie, S.C.",womens-rowing,2020
+Madeleine Grussing,Rower,So.,,,"London, England",womens-rowing,2020
+Peyton Bond,Rower,Fy.,,,"Wayne, Pa.",womens-rowing,2020
+Anna Glasgow,Rower,Jr.,,,"Dallas, Texas",womens-rowing,2020
+Lucy Handy,Rower,So.,,,"Providence, R.I.",womens-rowing,2020
+Sophie Inkster,Rower,So.,,,"Healdsburg, Calif.",womens-rowing,2020
+Hannah Frater,Rower,Sr.,,,"New York, N.Y.",womens-rowing,2020
+Mikayla Hubner,Coxswain,Sr.,,,"Cold Spring Harbor, N.Y.",womens-rowing,2020
+Molly Katarincic,Rower,Jr.,,,"Pittsburgh, Pa.",womens-rowing,2020
+Emilie Baxter,Rower,Sr.,,,"Novato, Calif.",womens-rowing,2020
 Margaret Moreland,Rower,Jr.,,,"San Francisco, Calif.",womens-rowing,2021
 Carter Nelson,Rower,Sr.,,,"London, England",womens-rowing,2021
 Cece Plass,Rower,Fy.,,,"Sarasota, Fla.",womens-rowing,2021
 Maia Round,Rower,Sr.,,,Keene,womens-rowing,2021
-Caitlin Lynch,Rower,Sr.,,,"Bradenton, Fla.",womens-rowing,2021
+Georgia Alexander,Rower,Sr.,,,"Victoria, British Columbia",womens-rowing,2021
 Ulla Libre,Rower,Fy.,,,"Alta, Utah",womens-rowing,2021
-Kat Lynch,,Fy.,,,"Ridgefield, Conn.",womens-rowing,2021
+Samantha Paisley,Rower,Fy.,,,"Salt Late City, Utah",womens-rowing,2021
+Julia Martin,Rower,Jr.,,,"Laguna Beach, Calif.",womens-rowing,2021
+Grace McInerney,Coxswain,Fy.,,,"La Jolla, Calif.",womens-rowing,2021
+Caitlin Lynch,Rower,Sr.,,,"Bradenton, Fla.",womens-rowing,2021
+Justine McGuire,Rower,Jr.,,,"Mont-Tremblant, Quebec",womens-rowing,2021
+Isabelle Lewitt,Coxswain,So.,,,"London, England",womens-rowing,2021
 Jenna Martin,Rower,So.,,,"Wayland, Mass.",womens-rowing,2021
-Allison Smith,Rower,Jr.,,,"Soddy Daisy, Tenn.",womens-rowing,2021
 Emma Troost,Rower,So.,,,"Detroit, Mich.",womens-rowing,2021
 Ellie Urdang,Rower,Sr.,,,"Stamford, Conn.",womens-rowing,2021
 Ella von Baeyer,,Fy.,,,,womens-rowing,2021
@@ -45,221 +240,246 @@ Junqing Yan,Row,Sr.,,,"Shanghai, China",womens-rowing,2021
 Nancy LaRocque,,,,,,womens-rowing,2021
 Arianna Stamatoyannopoulos,,Fy.,,,"Seattle, Wash.",womens-rowing,2021
 Maja Tellander,Rower,Fy.,,,"Wellesley, Mass.",womens-rowing,2021
+Haley Leversedge,Rower,Jr.,,,"Durham, N.C.",womens-rowing,2021
+Katherine Figura,Rower,So.,,,"Wilmette, Ill.",womens-rowing,2021
+Emma Hochberg,Rower,Fy.,,,"Scarsdale, N.Y.",womens-rowing,2021
 Cameron Thibault,Rower,Sr.,,,"Greenwich, Conn.",womens-rowing,2021
-Annika Colberg,Rower,Fy.,,,"Anchorage, Alaska",womens-rowing,2022
-Olivia Chin,Coxswain,So.,,,"Montvale, N.J.",womens-rowing,2022
-Sonya Danchak,Rower,So.,,,"Westport, Conn.",womens-rowing,2022
-Maia Crichlow,Rower,So.,,,"Brooklyn, N.Y.",womens-rowing,2022
-Aarushi Jain,Coxswain,So.,,,"Hicksville, N.Y.",womens-rowing,2022
-Diana Bates,Rower,Jr.,,,"New York, N.Y.",womens-rowing,2022
-Georgia Alexander,Rower,Sr.,,,"Victoria, British Columbia",womens-rowing,2022
-Audrey Craighead,Rower,Jr.,,,"South Salem, N.Y.",womens-rowing,2022
-Christine Wu,Rower,Jr.,,,"Basking Ridge, N.J.",womens-rowing,2022
-Emma Troost,Rower,Jr.,,,"Detroit, Mich.",womens-rowing,2022
-Daisy Dundas,Rower,So.,,,"Salt Point, N.Y.",womens-rowing,2022
-Emma Borchers,Rower,Fy.,,,"Basalt, Colo.",womens-rowing,2022
-Amaya Bonn,Coxswain,Fy.,,,"Evanston, Ill.",womens-rowing,2022
-Lily Chabica,Rower,Fy.,,,"Maple Grove, Minn.",womens-rowing,2022
-Jessie Duckworth,Rower,Sr.,,,"Manhattan Beach, Calif.",womens-rowing,2022
-Marin Clare Hadley,Coxswain,Fy.,,,"Milton, Ga.",womens-rowing,2022
-Lucy Handy,Rower,Sr.,,,"Providence, R.I.",womens-rowing,2022
-Hanna Davis,Rower,Sr.,,,"Summit, N.J.",womens-rowing,2022
-Madeleine Grussing,Rower,Sr.,,,"London, England",womens-rowing,2022
-Katherine Figura,Rower,Jr.,,,"Wilmette, Ill.",womens-rowing,2022
-Morgan Kendall,Rower,So.,,,"Dover, Mass.",womens-rowing,2022
-Lauren Yam,Rower,Fy.,,,"New York, N.Y.",womens-rowing,2022
-Sophie Inkster,Rower,Sr.,,,"Healdsburg, Calif.",womens-rowing,2022
-Áine Ley,Rower,Fy.,,,"Wayland, Mass.",womens-rowing,2022
-Carly McAleer,Rower,Fy.,,,"Park City, Utah",womens-rowing,2022
-Jenna Martin,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2022
-Margaret Moreland,Rower,Sr.,,,"San Francisco, Calif.",womens-rowing,2022
-Emma Hochberg,Rower,So.,,,"Scarsdale, N.Y.",womens-rowing,2022
+Jessie Duckworth,Rower,Jr.,,,"Manhattan Beach, Calif.",womens-rowing,2021
+Daisy Dundas,Rower,Fy.,,,"Salt Point, N.Y.",womens-rowing,2021
+Anna Glasgow,Rower,Sr.,,,"Dallas, Texas",womens-rowing,2021
+Lillian Leimkuhler,Rower,So.,,,"Haddonfield, N.J.",womens-rowing,2021
+Ava Koros,Rower,Jr.,,,"Burlingame, Calif.",womens-rowing,2021
+Audrey Craighead,Rower,So.,,,"South Salem, N.Y.",womens-rowing,2021
+Fiona Cronin,Rower,Sr.,,,"Arlington, Va.",womens-rowing,2021
+Sonya Danchak,Rower,Fy.,,,"Westport, Conn.",womens-rowing,2021
+Hanna Davis,Rower,Jr.,,,"Summit, N.J.",womens-rowing,2021
+Anna Brause,Rower,So.,,,"Larchmont, N.Y.",womens-rowing,2021
+Allison Smith,Rower,Jr.,,,"Soddy Daisy, Tenn.",womens-rowing,2021
+Olivia Chin,Cox,Fy.,,,"Montvale, N.J.",womens-rowing,2021
+Diana Bates,Rower,So.,,,"New York, N.Y.",womens-rowing,2021
+Lucy Handy,Rower,Jr.,,,"Providence, R.I.",womens-rowing,2021
+Sophie Inkster,Rower,Jr.,,,"Healdsburg, Calif.",womens-rowing,2021
+Aarushi Jain,Coxswain,Fy.,,,"Hicksville, N.Y.",womens-rowing,2021
+Molly Katarincic,Rower,Sr.,,,"Pittsburgh, Pa.",womens-rowing,2021
+Morgan Kendall,Rower,Fy.,,,"Dover, Mass.",womens-rowing,2021
+Olivia Kester,Rower,Jr.,,,"Bronxville, N.Y.",womens-rowing,2021
+Madeleine Grussing,Rower,Jr.,,,"London, England",womens-rowing,2021
+Clara Hahn,Rower,Sr.,,,"Lake Wylie, S.C.",womens-rowing,2021
+Kat Lynch,,Fy.,,,"Ridgefield, Conn.",womens-rowing,2021
 Grace McInerney,Coxswain,So.,,,"La Jolla, Calif.",womens-rowing,2022
-Lillian Leimkuhler,Rower,Jr.,,,"Haddonfield, N.J.",womens-rowing,2022
-Marlene Lauter,Rower,Fy.,,,"Kleinmachnow, Germany",womens-rowing,2022
 Justine McGuire,Rower,Sr.,,,"Mont-Tremblant, Quebec",womens-rowing,2022
-Annabelle Hermey,Rower,Fy.,,,"Boonton Township, N.J.",womens-rowing,2022
-Ava Koros,Rower,Sr.,,,"Burlingame, Calif.",womens-rowing,2022
-Claire Labovitz,Rower,Fy.,,,"Rye, N.Y.",womens-rowing,2022
-Kat Lynch,Rower,So.,,,"Ridgefield, Conn.",womens-rowing,2022
 Haley Leversedge,Rower,Sr.,,,"Durham, N.C.",womens-rowing,2022
+Aarushi Jain,Coxswain,So.,,,"Hicksville, N.Y.",womens-rowing,2022
+Carly McAleer,Rower,Fy.,,,"Park City, Utah",womens-rowing,2022
+Kat Lynch,Rower,So.,,,"Ridgefield, Conn.",womens-rowing,2022
+Emma Hochberg,Rower,So.,,,"Scarsdale, N.Y.",womens-rowing,2022
 Samantha Paisley,Rower,So.,,,"Salt Late City, Utah",womens-rowing,2022
+Ava Koros,Rower,Sr.,,,"Burlingame, Calif.",womens-rowing,2022
+Olivia Chin,Coxswain,So.,,,"Montvale, N.J.",womens-rowing,2022
+Allison Smith,Rower,Sr.,,,"Soddy Daisy, Tenn.",womens-rowing,2022
+Alexa Schlembach,Rower,Fy.,,,"Ocean View, N.J.",womens-rowing,2022
+Emma Borchers,Rower,Fy.,,,"Basalt, Colo.",womens-rowing,2022
+Emma Troost,Rower,Jr.,,,"Detroit, Mich.",womens-rowing,2022
+Margaret Moreland,Rower,Sr.,,,"San Francisco, Calif.",womens-rowing,2022
+Charlotte Pulkkinen,Rower,Fy.,,,"Bronxville, N.Y.",womens-rowing,2022
 Cece Plass,Rower,So.,,,"Sarasota, Fla.",womens-rowing,2022
+Daisy Dundas,Rower,So.,,,"Salt Point, N.Y.",womens-rowing,2022
 Arianna Stamatoyannopoulos,Rower,So.,,,"Seattle, Wash.",womens-rowing,2022
 Maja Tellander,Rower,So.,,,"Wellesley, Mass.",womens-rowing,2022
 Nancy LaRocque,,,,,,womens-rowing,2022
-Allison Smith,Rower,Sr.,,,"Soddy Daisy, Tenn.",womens-rowing,2022
-Alexa Schlembach,Rower,Fy.,,,"Ocean View, N.J.",womens-rowing,2022
-Charlotte Pulkkinen,Rower,Fy.,,,"Bronxville, N.Y.",womens-rowing,2022
-Annika Colberg,Rower,So.,,,"Anchorage, Alaska",womens-rowing,2023
-Amaya Bonn,Coxswain,So.,,,"Evanston, Ill.",womens-rowing,2023
-Katherine Figura,Rower,Sr.,,,"Wilmette, Ill.",womens-rowing,2023
-Leah Carrier,Rower,Fy.,,,,womens-rowing,2023
-Elizabeth Burgess,Rower,Fy.,,,,womens-rowing,2023
-Audrey Craighead,Rower,Sr.,,,"South Salem, N.Y.",womens-rowing,2023
-Lily Chabica,Rower,So.,,,"Maple Grove, Minn.",womens-rowing,2023
-Mehar Bhasin,Rower,Fy.,,,,womens-rowing,2023
-Diana Bates,Rower,Sr.,,,"New York, N.Y.",womens-rowing,2023
-Olivia Hochberg,Rower,Fy.,,,"Brookline, Mass.",womens-rowing,2023
+Sonya Danchak,Rower,So.,,,"Westport, Conn.",womens-rowing,2022
+Annabelle Hermey,Rower,Fy.,,,"Boonton Township, N.J.",womens-rowing,2022
+Lucy Handy,Rower,Sr.,,,"Providence, R.I.",womens-rowing,2022
+Lillian Leimkuhler,Rower,Jr.,,,"Haddonfield, N.J.",womens-rowing,2022
+Diana Bates,Rower,Jr.,,,"New York, N.Y.",womens-rowing,2022
+Maia Crichlow,Rower,So.,,,"Brooklyn, N.Y.",womens-rowing,2022
+Christine Wu,Rower,Jr.,,,"Basking Ridge, N.J.",womens-rowing,2022
+Marlene Lauter,Rower,Fy.,,,"Kleinmachnow, Germany",womens-rowing,2022
+Georgia Alexander,Rower,Sr.,,,"Victoria, British Columbia",womens-rowing,2022
+Amaya Bonn,Coxswain,Fy.,,,"Evanston, Ill.",womens-rowing,2022
+Áine Ley,Rower,Fy.,,,"Wayland, Mass.",womens-rowing,2022
+Annika Colberg,Rower,Fy.,,,"Anchorage, Alaska",womens-rowing,2022
+Jenna Martin,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2022
+Claire Labovitz,Rower,Fy.,,,"Rye, N.Y.",womens-rowing,2022
+Madeleine Grussing,Rower,Sr.,,,"London, England",womens-rowing,2022
+Lauren Yam,Rower,Fy.,,,"New York, N.Y.",womens-rowing,2022
+Lily Chabica,Rower,Fy.,,,"Maple Grove, Minn.",womens-rowing,2022
+Morgan Kendall,Rower,So.,,,"Dover, Mass.",womens-rowing,2022
+Katherine Figura,Rower,Jr.,,,"Wilmette, Ill.",womens-rowing,2022
+Audrey Craighead,Rower,Jr.,,,"South Salem, N.Y.",womens-rowing,2022
+Sophie Inkster,Rower,Sr.,,,"Healdsburg, Calif.",womens-rowing,2022
+Jessie Duckworth,Rower,Sr.,,,"Manhattan Beach, Calif.",womens-rowing,2022
+Hanna Davis,Rower,Sr.,,,"Summit, N.J.",womens-rowing,2022
+Marin Clare Hadley,Coxswain,Fy.,,,"Milton, Ga.",womens-rowing,2022
+Carly McAleer,Rower,So.,,,"Park City, Utah",womens-rowing,2023
 Alex Ba,Rower,Fy.,,,"Los Angeles, Calif.",womens-rowing,2023
-Maya Alpert,Rower,Fy.,,,"San Anselmo, Calif.",womens-rowing,2023
-Marlene Lauter,Rower,So.,,,"Kleinmachnow, Germany",womens-rowing,2023
-Maia Crichlow,Rower,Jr.,,,"Brooklyn, N.Y.",womens-rowing,2023
-Marin Clare Hadley,Coxswain,So.,,,"Milton, Ga.",womens-rowing,2023
-Morgan Kendall,Rower,Jr.,,,"Dover, Mass.",womens-rowing,2023
-Aarushi Jain,Coxswain,Jr.,,,"Hicksville, N.Y.",womens-rowing,2023
-Sasha Anderson,Rower,Fy.,,,"Halifax, Nova Scotia",womens-rowing,2023
-Emma Hochberg,Rower,Jr.,,,"Scarsdale, N.Y.",womens-rowing,2023
-Elizabeth Kendrick,Rower,Fy.,,,,womens-rowing,2023
-Sonya Danchak,Rower,Jr.,,,"Westport, Conn.",womens-rowing,2023
-Isabella Ginsburg,Rower,Fy.,,,"Hong Kong, China",womens-rowing,2023
 Olivia Chin,Coxswain,Jr.,,,"Montvale, N.J.",womens-rowing,2023
-Daisy Dundas,Rower,Jr.,,,"Salt Point, N.Y.",womens-rowing,2023
 Jinny Diop,Rower,Fy.,,,"Carbondale, Colo.",womens-rowing,2023
 Hailey King,Rower,Fy.,,,,womens-rowing,2023
-Annabelle Hermey,Rower,So.,,,"Boonton Township, N.J.",womens-rowing,2023
-Claire Labovitz,Rower,So.,,,"Rye, N.Y.",womens-rowing,2023
-Emma Borchers,Rower,So.,,,"Basalt, Colo.",womens-rowing,2023
 Lillian Leimkuhler,Rower,Sr.,,,"Haddonfield, N.J.",womens-rowing,2023
-Carly McAleer,Rower,So.,,,"Park City, Utah",womens-rowing,2023
-Jillian Martin,Rower,So.,,,"Wayland, Mass.",womens-rowing,2023
-Sofia Tyler,Rower,Fy.,,,"London, England",womens-rowing,2023
-Chelsea Ott,Rower,Fy.,,,,womens-rowing,2023
-Grace McInerney,Coxswain,Jr.,,,"La Jolla, Calif.",womens-rowing,2023
 Caroline Phipps,Rower,Fy.,,,"Woodside, Calif.",womens-rowing,2023
+Emma Borchers,Rower,So.,,,"Basalt, Colo.",womens-rowing,2023
+Grace McInerney,Coxswain,Jr.,,,"La Jolla, Calif.",womens-rowing,2023
+Jillian Martin,Rower,So.,,,"Wayland, Mass.",womens-rowing,2023
+Katherine Figura,Rower,Sr.,,,"Wilmette, Ill.",womens-rowing,2023
+Lily Chabica,Rower,So.,,,"Maple Grove, Minn.",womens-rowing,2023
+Elizabeth Kendrick,Rower,Fy.,,,,womens-rowing,2023
+Leah Carrier,Rower,Fy.,,,,womens-rowing,2023
+Sonya Danchak,Rower,Jr.,,,"Westport, Conn.",womens-rowing,2023
 Samantha Paisley,Rower,Jr.,,,"Salt Late City, Utah",womens-rowing,2023
+Audrey Craighead,Rower,Sr.,,,"South Salem, N.Y.",womens-rowing,2023
 Jenna Martin,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2023
-Lis Madigan,Rower,Fy.,,,"Rye, N.Y.",womens-rowing,2023
-Arianna Stamatoyannopoulos,Rower,Jr.,,,"Seattle, Wash.",womens-rowing,2023
-Kat Lynch,Rower,Jr.,,,"Ridgefield, Conn.",womens-rowing,2023
-Cece Plass,Rower,Jr.,,,"Sarasota, Fla.",womens-rowing,2023
-Haley Leversedge,Rower,5th,,,"Durham, N.C.",womens-rowing,2023
-Mack Pawlus,Rower,Fy.,,,"Andover, Mass.",womens-rowing,2023
-Jolynn Tripi,Rower,Fy.,,,,womens-rowing,2023
-Neha Rishi,Rower,Fy.,,,"Palo Alto, Calif.",womens-rowing,2023
-Maja Tellander,Rower,Jr.,,,"Wellesley, Mass.",womens-rowing,2023
-Kendall Yoon,Rower,Fy.,,,,womens-rowing,2023
-Christine Wu,Rower,Sr.,,,"Basking Ridge, N.J.",womens-rowing,2023
-Dora Parivodic,Rower,Fy.,,,"Belgrade, Serbia",womens-rowing,2023
-Emma Troost,Rower,Sr.,,,"Detroit, Mich.",womens-rowing,2023
-John Graves,,,,,,womens-rowing,2023
-Alexa Schlembach,Rower,So.,,,"Ocean View, N.J.",womens-rowing,2023
-Shrishti Tandon,Rower,Fy.,,,"Esher, England",womens-rowing,2023
-Áine Ley,Rower,So.,,,"Wayland, Mass.",womens-rowing,2023
+Claire Labovitz,Rower,So.,,,"Rye, N.Y.",womens-rowing,2023
+Sasha Anderson,Rower,Fy.,,,"Halifax, Nova Scotia",womens-rowing,2023
+Isabella Ginsburg,Rower,Fy.,,,"Hong Kong, China",womens-rowing,2023
+Sofia Tyler,Rower,Fy.,,,"London, England",womens-rowing,2023
+Amaya Bonn,Coxswain,So.,,,"Evanston, Ill.",womens-rowing,2023
+Elizabeth Burgess,Rower,Fy.,,,,womens-rowing,2023
+Annika Colberg,Rower,So.,,,"Anchorage, Alaska",womens-rowing,2023
+Emma Hochberg,Rower,Jr.,,,"Scarsdale, N.Y.",womens-rowing,2023
+Annabelle Hermey,Rower,So.,,,"Boonton Township, N.J.",womens-rowing,2023
+Daisy Dundas,Rower,Jr.,,,"Salt Point, N.Y.",womens-rowing,2023
+Chelsea Ott,Rower,Fy.,,,,womens-rowing,2023
 Madi Shaer,Coxswain,Fy.,,,"Needham, Mass.",womens-rowing,2023
+Marin Clare Hadley,Coxswain,So.,,,"Milton, Ga.",womens-rowing,2023
 Anjali Serrano,Rower,Fy.,,,,womens-rowing,2023
+Mack Pawlus,Rower,Fy.,,,"Andover, Mass.",womens-rowing,2023
+Maia Crichlow,Rower,Jr.,,,"Brooklyn, N.Y.",womens-rowing,2023
+Morgan Kendall,Rower,Jr.,,,"Dover, Mass.",womens-rowing,2023
+Aarushi Jain,Coxswain,Jr.,,,"Hicksville, N.Y.",womens-rowing,2023
+Diana Bates,Rower,Sr.,,,"New York, N.Y.",womens-rowing,2023
+Lis Madigan,Rower,Fy.,,,"Rye, N.Y.",womens-rowing,2023
+Marlene Lauter,Rower,So.,,,"Kleinmachnow, Germany",womens-rowing,2023
+Arianna Stamatoyannopoulos,Rower,Jr.,,,"Seattle, Wash.",womens-rowing,2023
+Christine Wu,Rower,Sr.,,,"Basking Ridge, N.J.",womens-rowing,2023
+Maya Alpert,Rower,Fy.,,,"San Anselmo, Calif.",womens-rowing,2023
+Haley Leversedge,Rower,5th,,,"Durham, N.C.",womens-rowing,2023
+Áine Ley,Rower,So.,,,"Wayland, Mass.",womens-rowing,2023
+Kat Lynch,Rower,Jr.,,,"Ridgefield, Conn.",womens-rowing,2023
+Alexa Schlembach,Rower,So.,,,"Ocean View, N.J.",womens-rowing,2023
+John Graves,,,,,,womens-rowing,2023
+Olivia Hochberg,Rower,Fy.,,,"Brookline, Mass.",womens-rowing,2023
+Maja Tellander,Rower,Jr.,,,"Wellesley, Mass.",womens-rowing,2023
+Emma Troost,Rower,Sr.,,,"Detroit, Mich.",womens-rowing,2023
+Kendall Yoon,Rower,Fy.,,,,womens-rowing,2023
 Charlotte Pulkkinen,Rower,So.,,,"Bronxville, N.Y.",womens-rowing,2023
-Annika Colberg,Rower,Jr.,,,"Anchorage, Alaska",womens-rowing,2024
-Alex Ba,Rower,So.,,,"Los Angeles, Calif.",womens-rowing,2024
-Emma Hochberg,Rower,Sr.,,,"Scarsdale, N.Y.",womens-rowing,2024
-Hannah Clemens,,Fy.,,,"Westport, Conn.",womens-rowing,2024
-Emma Borchers,Rower,Jr.,,,"Basalt, Colo.",womens-rowing,2024
-Danika Branddorff,Rower,Fy.,,,"Anchorage, Alaska",womens-rowing,2024
-Sasha Anderson,Rower,So.,,,"Halifax, Nova Scotia",womens-rowing,2024
-Sonya Danchak,Rower,Sr.,,,"Westport, Conn.",womens-rowing,2024
-Lily Chabica,Rower,Jr.,,,"Maple Grove, Minn.",womens-rowing,2024
-Daisy Dundas,Rower,Sr.,,,"Salt Point, N.Y.",womens-rowing,2024
-Leah Cho-Carrier,,Fy.,,,"Washington, D.C.",womens-rowing,2024
-Maya Alpert,Rower,So.,,,"San Anselmo, Calif.",womens-rowing,2024
-Olivia Hochberg,Rower,So.,,,"Brookline, Mass.",womens-rowing,2024
-Taj Delaet-Jagerson,,Fy.,,,"Portola Valley, Calif.",womens-rowing,2024
-Lis Madigan,Rower,So.,,,"Rye, N.Y.",womens-rowing,2024
-Jinny Diop,Rower,So.,,,"Carbondale, Colo.",womens-rowing,2024
-Aarushi Jain,Coxswain,Sr.,,,"Hicksville, N.Y.",womens-rowing,2024
-Annabelle Hermey,Rower,Jr.,,,"Boonton Township, N.J.",womens-rowing,2024
-Marin Clare Hadley,Coxswain,Jr.,,,"Milton, Ga.",womens-rowing,2024
-Sydney Grogean,Rower,Fy.,,,"Woodbury, Conn.",womens-rowing,2024
-Isabella Ginsburg,Rower,So.,,,"Hong Kong, China",womens-rowing,2024
-Ella Dowley,Rower,Fy.,,,"McLean, Va.",womens-rowing,2024
-Nina Kieserman,Rower,Fy.,,,"Seattle, Wash.",womens-rowing,2024
-Morgan Kendall,Rower,Sr.,,,"Dover, Mass.",womens-rowing,2024
-Grace McInerney,Coxswain,Sr.,,,"La Jolla, Calif.",womens-rowing,2024
-Claire Labovitz,Rower,Jr.,,,"Rye, N.Y.",womens-rowing,2024
-Caroline Krantz,Rower,Fy.,,,"Darien, Conn.",womens-rowing,2024
-Áine Ley,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2024
-Marlene Lauter,Rower,Jr.,,,"Kleinmachnow, Germany",womens-rowing,2024
-Olivia Chin,Coxswain,Sr.,,,"Montvale, N.J.",womens-rowing,2024
-Kat Lynch,Rower,Sr.,,,"Ridgefield, Conn.",womens-rowing,2024
-Madi Shaer,Coxswain,So.,,,"Needham, Mass.",womens-rowing,2024
+Mehar Bhasin,Rower,Fy.,,,,womens-rowing,2023
+Jolynn Tripi,Rower,Fy.,,,,womens-rowing,2023
+Dora Parivodic,Rower,Fy.,,,"Belgrade, Serbia",womens-rowing,2023
+Cece Plass,Rower,Jr.,,,"Sarasota, Fla.",womens-rowing,2023
+Neha Rishi,Rower,Fy.,,,"Palo Alto, Calif.",womens-rowing,2023
+Shrishti Tandon,Rower,Fy.,,,"Esher, England",womens-rowing,2023
+Mack Pawlus,Rower,So.,,,"Andover, Mass.",womens-rowing,2024
+Carly McAleer,Rower,Jr.,,,"Park City, Utah",womens-rowing,2024
+Dimitra Papaioannou,Rower,Fy.,,,"Ioannina, Greece",womens-rowing,2024
+Maja Tellander,Rower,Sr.,,,"Wellesley, Mass.",womens-rowing,2024
 Samantha Paisley,Rower,Sr.,,,"Salt Late City, Utah",womens-rowing,2024
 Jenna Martin,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2024
-Jillian Martin,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2024
-Dora Parivodic,Rower,So.,,,"Belgrade, Serbia",womens-rowing,2024
-Carly McAleer,Rower,Jr.,,,"Park City, Utah",womens-rowing,2024
-Maja Tellander,Rower,Sr.,,,"Wellesley, Mass.",womens-rowing,2024
-Annika Nelson,Rower,Fy.,,,"Darien, Conn.",womens-rowing,2024
-Mack Pawlus,Rower,So.,,,"Andover, Mass.",womens-rowing,2024
 Ashley Rohloff,Rower,Fy.,,,"Robbinsville, N.J.",womens-rowing,2024
-Dimitra Papaioannou,Rower,Fy.,,,"Ioannina, Greece",womens-rowing,2024
+Jillian Martin,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2024
+Kat Lynch,Rower,Sr.,,,"Ridgefield, Conn.",womens-rowing,2024
+Dora Parivodic,Rower,So.,,,"Belgrade, Serbia",womens-rowing,2024
+Olivia Chin,Coxswain,Sr.,,,"Montvale, N.J.",womens-rowing,2024
+Arianna Stamatoyannopoulos,Rower,Sr.,,,"Seattle, Wash.",womens-rowing,2024
+John Graves,,,,,,womens-rowing,2024
+Amaya Bonn,Coxswain,Jr.,,,"Evanston, Ill.",womens-rowing,2024
+Caroline Phipps,Rower,So.,,,"Woodside, Calif.",womens-rowing,2024
+Claire Labovitz,Rower,Jr.,,,"Rye, N.Y.",womens-rowing,2024
+Alexa Schlembach,Rower,Jr.,,,"Ocean View, N.J.",womens-rowing,2024
+Áine Ley,Rower,Jr.,,,"Wayland, Mass.",womens-rowing,2024
+Charlotte Pulkkinen,Rower,Jr.,,,"Bronxville, N.Y.",womens-rowing,2024
+Madi Shaer,Coxswain,So.,,,"Needham, Mass.",womens-rowing,2024
 Phelan Bryant,Rower,Fy.,,,"Greenwich, Conn.",womens-rowing,2024
 Cece Plass,Rower,Sr.,,,"Sarasota, Fla.",womens-rowing,2024
-Amaya Bonn,Coxswain,Jr.,,,"Evanston, Ill.",womens-rowing,2024
-Charlotte Pulkkinen,Rower,Jr.,,,"Bronxville, N.Y.",womens-rowing,2024
-John Graves,,,,,,womens-rowing,2024
-Shrishti Tandon,Rower,So.,,,"Esher, England",womens-rowing,2024
+Nina Kieserman,Rower,Fy.,,,"Seattle, Wash.",womens-rowing,2024
 Sofia Tyler,Rower,So.,,,"London, England",womens-rowing,2024
-Alice Stapley,Rower,Fy.,,,"Oxford, England",womens-rowing,2024
-Arianna Stamatoyannopoulos,Rower,Sr.,,,"Seattle, Wash.",womens-rowing,2024
-Alexa Schlembach,Rower,Jr.,,,"Ocean View, N.J.",womens-rowing,2024
-Neha Rishi,Rower,So.,,,"Palo Alto, Calif.",womens-rowing,2024
-Caroline Phipps,Rower,So.,,,"Woodside, Calif.",womens-rowing,2024
+Marin Clare Hadley,Coxswain,Jr.,,,"Milton, Ga.",womens-rowing,2024
+Annika Nelson,Rower,Fy.,,,"Darien, Conn.",womens-rowing,2024
+Sydney Grogean,Rower,Fy.,,,"Woodbury, Conn.",womens-rowing,2024
+Marlene Lauter,Rower,Jr.,,,"Kleinmachnow, Germany",womens-rowing,2024
+Annika Colberg,Rower,Jr.,,,"Anchorage, Alaska",womens-rowing,2024
 Frances Lewis,Rower,Fy.,,,"Chicago, Ill.",womens-rowing,2024
+Emma Hochberg,Rower,Sr.,,,"Scarsdale, N.Y.",womens-rowing,2024
+Danika Branddorff,Rower,Fy.,,,"Anchorage, Alaska",womens-rowing,2024
+Olivia Hochberg,Rower,So.,,,"Brookline, Mass.",womens-rowing,2024
+Emma Borchers,Rower,Jr.,,,"Basalt, Colo.",womens-rowing,2024
+Sasha Anderson,Rower,So.,,,"Halifax, Nova Scotia",womens-rowing,2024
+Lis Madigan,Rower,So.,,,"Rye, N.Y.",womens-rowing,2024
+Sonya Danchak,Rower,Sr.,,,"Westport, Conn.",womens-rowing,2024
+Daisy Dundas,Rower,Sr.,,,"Salt Point, N.Y.",womens-rowing,2024
+Maya Alpert,Rower,So.,,,"San Anselmo, Calif.",womens-rowing,2024
+Morgan Kendall,Rower,Sr.,,,"Dover, Mass.",womens-rowing,2024
+Taj Delaet-Jagerson,,Fy.,,,"Portola Valley, Calif.",womens-rowing,2024
+Leah Cho-Carrier,,Fy.,,,"Washington, D.C.",womens-rowing,2024
+Jinny Diop,Rower,So.,,,"Carbondale, Colo.",womens-rowing,2024
+Caroline Krantz,Rower,Fy.,,,"Darien, Conn.",womens-rowing,2024
+Shrishti Tandon,Rower,So.,,,"Esher, England",womens-rowing,2024
+Grace McInerney,Coxswain,Sr.,,,"La Jolla, Calif.",womens-rowing,2024
+Alice Stapley,Rower,Fy.,,,"Oxford, England",womens-rowing,2024
+Annabelle Hermey,Rower,Jr.,,,"Boonton Township, N.J.",womens-rowing,2024
+Aarushi Jain,Coxswain,Sr.,,,"Hicksville, N.Y.",womens-rowing,2024
+Hannah Clemens,,Fy.,,,"Westport, Conn.",womens-rowing,2024
+Alex Ba,Rower,So.,,,"Los Angeles, Calif.",womens-rowing,2024
+Ella Dowley,Rower,Fy.,,,"McLean, Va.",womens-rowing,2024
+Neha Rishi,Rower,So.,,,"Palo Alto, Calif.",womens-rowing,2024
+Isabella Ginsburg,Rower,So.,,,"Hong Kong, China",womens-rowing,2024
+Lily Chabica,Rower,Jr.,,,"Maple Grove, Minn.",womens-rowing,2024
+Caroline Phipps,Rower,Jr.,,,"Woodside, Calif.",womens-rowing,2025
 Annabelle Hermey,Rower,Sr.,,,"Boonton Township, N.J.",womens-rowing,2025
-Danika Branddorff,Rower,So.,,,"Anchorage, Alaska",womens-rowing,2025
+Cate Hamilton,Rower,Fy.,,,"Newton, Mass.",womens-rowing,2025
+Rachel Rampat,,Jr.,,,"San Antonio, Texas",womens-rowing,2025
+Áine Ley,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2025
+Carly McAleer,Rower,Sr.,,,"Park City, Utah",womens-rowing,2025
+Caitlin Wain,Rower,Fy.,,,"Tauranga, New Zealand",womens-rowing,2025
+Tatum Lowe,Starboard/Port,Fy.,,,"Pacific Palisades, Calif.",womens-rowing,2025
+Sasha Anderson,Rower,Jr.,,,"Halifax, Nova Scotia",womens-rowing,2025
+Nina Kieserman,Rower,So.,,,"Seattle, Wash.",womens-rowing,2025
+Frances Lewis,Rower,So.,,,"Chicago, Ill.",womens-rowing,2025
+Jillian Martin,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2025
+Leah Cho-Carrier,,So.,,,"Washington, D.C.",womens-rowing,2025
+Mary Smith-Montross,,So.,,,"Barrington, R.I.",womens-rowing,2025
+Shelby Feikes,,Fy.,,,"Las Vegas, Nev.",womens-rowing,2025
+Claire Labovitz,Rower,Sr.,,,"Rye, N.Y.",womens-rowing,2025
+Sydney Grogean,Rower,So.,,,"Woodbury, Conn.",womens-rowing,2025
+Polina Kontorovich,,Fy.,,,"Newton, Mass.",womens-rowing,2025
+Taj Delaet-Jagerson,,So.,,,"Portola Valley, Calif.",womens-rowing,2025
+Olivia Hochberg,Rower,Jr.,,,"Brookline, Mass.",womens-rowing,2025
+Lis Madigan,Rower,Jr.,,,"Rye, N.Y.",womens-rowing,2025
+Caroline Krantz,Rower,So.,,,"Darien, Conn.",womens-rowing,2025
+Dimitra Papaioannou,Rower,So.,,,"Ioannina, Greece",womens-rowing,2025
+Neve Gelatt,Rower,Fy.,,,"Kenmore, Wash.",womens-rowing,2025
+Mack Pawlus,Rower,Jr.,,,"Andover, Mass.",womens-rowing,2025
+Annika Nelson,Starboard,So.,,,"Darien, Conn.",womens-rowing,2025
+Murphy Hoefer,Rower,Fy.,,,"Fort Worth, Texas",womens-rowing,2025
+Madi Shaer,Coxswain,Jr.,,,"Needham, Mass.",womens-rowing,2025
+Sofia Tyler,Rower,Jr.,,,"London, England",womens-rowing,2025
+John Graves,,,,,,womens-rowing,2025
+Alice Stapley,Rower,So.,,,"Oxford, England",womens-rowing,2025
+Maya Torres-Panzer,Rower,Fy.,,,"Rochester, N.Y.",womens-rowing,2025
 Annika Colberg,Rower,Sr.,,,"Anchorage, Alaska",womens-rowing,2025
 Lily Chabica,Rower,Sr.,,,"Maple Grove, Minn.",womens-rowing,2025
 Alex Ba,Rower,Jr.,,,"Los Angeles, Calif.",womens-rowing,2025
 Phelan Bryant,Rower,So.,,,"Greenwich, Conn.",womens-rowing,2025
 Hannah Clemens,,So.,,,"Westport, Conn.",womens-rowing,2025
-Emma Borchers,Rower,Sr.,,,"Basalt, Colo.",womens-rowing,2025
-Isabella Ginsburg,Rower,Jr.,,,"Hong Kong, China",womens-rowing,2025
+Isabella Janczewski,,Fy.,,,"Toronto, Ont.",womens-rowing,2025
+Alexa Schlembach,Rower,Sr.,,,"Ocean View, N.J.",womens-rowing,2025
 Olivia Cabrera,Cox,Fy.,,,"Rye, N.Y.",womens-rowing,2025
-Amaya Bonn,Coxswain,Sr.,,,"Evanston, Ill.",womens-rowing,2025
+Isabella Ginsburg,Rower,Jr.,,,"Hong Kong, China",womens-rowing,2025
+Neha Rishi,Rower,Jr.,,,"Palo Alto, Calif.",womens-rowing,2025
 Jinny Diop,Rower,Jr.,,,"Carbondale, Colo.",womens-rowing,2025
 Ella Dowley,Rower,So.,,,"McLean, Va.",womens-rowing,2025
-Isabella Janczewski,,Fy.,,,"Toronto, Ont.",womens-rowing,2025
-Kate Greene,Rower,Fy.,,,"Chicago, Ill.",womens-rowing,2025
-Taj Delaet-Jagerson,,So.,,,"Portola Valley, Calif.",womens-rowing,2025
-Shelby Feikes,,Fy.,,,"Las Vegas, Nev.",womens-rowing,2025
-Murphy Hoefer,Rower,Fy.,,,"Fort Worth, Texas",womens-rowing,2025
-Marin Clare Hadley,Coxswain,Sr.,,,"Milton, Ga.",womens-rowing,2025
-Sydney Grogean,Rower,So.,,,"Woodbury, Conn.",womens-rowing,2025
-Neve Gelatt,Rower,Fy.,,,"Kenmore, Wash.",womens-rowing,2025
-Nina Kieserman,Rower,So.,,,"Seattle, Wash.",womens-rowing,2025
-Caroline Krantz,Rower,So.,,,"Darien, Conn.",womens-rowing,2025
-Sasha Anderson,Rower,Jr.,,,"Halifax, Nova Scotia",womens-rowing,2025
-Olivia Hochberg,Rower,Jr.,,,"Brookline, Mass.",womens-rowing,2025
-Cate Hamilton,Rower,Fy.,,,"Newton, Mass.",womens-rowing,2025
-Polina Kontorovich,,Fy.,,,"Newton, Mass.",womens-rowing,2025
-Leah Cho-Carrier,,So.,,,"Washington, D.C.",womens-rowing,2025
-Claire Labovitz,Rower,Sr.,,,"Rye, N.Y.",womens-rowing,2025
-Dimitra Papaioannou,Rower,So.,,,"Ioannina, Greece",womens-rowing,2025
-Lis Madigan,Rower,Jr.,,,"Rye, N.Y.",womens-rowing,2025
-Caroline Phipps,Rower,Jr.,,,"Woodside, Calif.",womens-rowing,2025
-Annika Nelson,Starboard,So.,,,"Darien, Conn.",womens-rowing,2025
-Frances Lewis,Rower,So.,,,"Chicago, Ill.",womens-rowing,2025
-Jillian Martin,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2025
-Mack Pawlus,Rower,Jr.,,,"Andover, Mass.",womens-rowing,2025
-Tatum Lowe,Starboard/Port,Fy.,,,"Pacific Palisades, Calif.",womens-rowing,2025
-Caitlin Wain,Rower,Fy.,,,"Tauranga, New Zealand",womens-rowing,2025
-Carly McAleer,Rower,Sr.,,,"Park City, Utah",womens-rowing,2025
-Áine Ley,Rower,Sr.,,,"Wayland, Mass.",womens-rowing,2025
-Rachel Rampat,,Jr.,,,"San Antonio, Texas",womens-rowing,2025
-Madi Shaer,Coxswain,Jr.,,,"Needham, Mass.",womens-rowing,2025
-Mary Smith-Montross,,So.,,,"Barrington, R.I.",womens-rowing,2025
-Sofia Tyler,Rower,Jr.,,,"London, England",womens-rowing,2025
-John Graves,,,,,,womens-rowing,2025
-Alice Stapley,Rower,So.,,,"Oxford, England",womens-rowing,2025
+Amaya Bonn,Coxswain,Sr.,,,"Evanston, Ill.",womens-rowing,2025
+Emma Borchers,Rower,Sr.,,,"Basalt, Colo.",womens-rowing,2025
 Jane Rathbun,,Fy.,,,"Rocky River, Ohio",womens-rowing,2025
-Ashley Rohloff,Rower,So.,,,"Robbinsville, N.J.",womens-rowing,2025
-Neha Rishi,Rower,Jr.,,,"Palo Alto, Calif.",womens-rowing,2025
-Marlene Lauter,Rower,Sr.,,,"Kleinmachnow, Germany",womens-rowing,2025
-Maya Torres-Panzer,Rower,Fy.,,,"Rochester, N.Y.",womens-rowing,2025
-Shrishti Tandon,Rower,Jr.,,,"Esher, England",womens-rowing,2025
-Alexa Schlembach,Rower,Sr.,,,"Ocean View, N.J.",womens-rowing,2025
+Marin Clare Hadley,Coxswain,Sr.,,,"Milton, Ga.",womens-rowing,2025
 Kate Rice,,Fy.,,,"Cambridge, Mass.",womens-rowing,2025
-Charlotte Pulkkinen,Rower,Sr.,,,"Bronxville, N.Y.",womens-rowing,2025
+Danika Branddorff,Rower,So.,,,"Anchorage, Alaska",womens-rowing,2025
+Shrishti Tandon,Rower,Jr.,,,"Esher, England",womens-rowing,2025
+Kate Greene,Rower,Fy.,,,"Chicago, Ill.",womens-rowing,2025
+Marlene Lauter,Rower,Sr.,,,"Kleinmachnow, Germany",womens-rowing,2025
 Sora Yu,,Fy.,,,"Westport, Conn.",womens-rowing,2025
+Ashley Rohloff,Rower,So.,,,"Robbinsville, N.J.",womens-rowing,2025
+Charlotte Pulkkinen,Rower,Sr.,,,"Bronxville, N.Y.",womens-rowing,2025
 Jane Rathbun,,So.,,,"Rocky River, Ohio",womens-rowing,2026
 Caroline Phipps,Rower,Sr.,,,"Woodside, Calif.",womens-rowing,2026
 Mack Pawlus,Rower,Sr.,,,"Andover, Mass.",womens-rowing,2026

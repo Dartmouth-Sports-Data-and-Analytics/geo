@@ -1,112 +1,245 @@
 name,position,class,height,weight,hometown,sport,year
+Mason Wegener,DISTANCE,Fy.,,,"Eugene, Ore.",mens-cross-country,2016
+Dominic Carrese,DISTANCE,So.,,,"Colorado Springs, Colo.",mens-cross-country,2016
+Pat Gregory,DISTANCE,Jr.,,,"Louisville, Ky.",mens-cross-country,2016
+Quinn Cooney,DISTANCE,So.,,,"Chelmsford, Mass.",mens-cross-country,2016
+Sean Laverty,DISTANCE,Fy.,,,"Cumberland, R.I.",mens-cross-country,2016
+Nat Adams,DISTANCE,Sr.,,,"Lexington, Mass.",mens-cross-country,2016
+Miles Irish,DISTANCE,Jr.,,,"Palos Verdes Estates, Calif.",mens-cross-country,2016
+Kyle Dotterrer,DISTANCE,Jr.,,,"Traverse City, Mich.",mens-cross-country,2016
+Everest Crawford,DISTANCE,So.,,,"Gloucester, Mass.",mens-cross-country,2016
+Julian Heninger,DISTANCE,Sr.,,,"Lake Oswego, Ore.",mens-cross-country,2016
+Connor Clark,DISTANCE,Sr.,,,"Mill Valley, Calif.",mens-cross-country,2016
+Sander Kushen,DISTANCE,So.,,,"Coto de Caza, Calif.",mens-cross-country,2016
+Reed Horton,DISTANCE,So.,,,"San Francisco, Calif.",mens-cross-country,2016
+Alex Montague,DISTANCE,Fy.,,,"Newton, Mass.",mens-cross-country,2016
+Benjamin Szuhaj,DISTANCE,So.,,,"Glenside, Pa.",mens-cross-country,2016
+Matt Herzig,DISTANCE,Sr.,,,"Weston, Mass.",mens-cross-country,2016
+Michael Schlichting,DISTANCE,Jr.,,,"Newton, Mass.",mens-cross-country,2016
+Daniel Salas,DISTANCE,Sr.,,,"Winter Park, Fla.",mens-cross-country,2016
+Marco Pompilj,DISTANCE,So.,,,"New York, N.Y.",mens-cross-country,2016
+Ryan Painter,DISTANCE,Fy.,,,"Stevenson Ranch, Calif.",mens-cross-country,2016
+Scott Phelps,,,,,,mens-cross-country,2016
+Ben Roberts,DISTANCE,Fy.,,,"Davis, Calif.",mens-cross-country,2016
+Will Shafer,DISTANCE,Jr.,,,"New Gloucester, Maine",mens-cross-country,2016
+Dom Repucci,DISTANCE,Fy.,,,"Hopkinton, N.H.",mens-cross-country,2016
+Henry Raymond,DISTANCE,Fy.,,,"Fort Collins, Colo.",mens-cross-country,2016
+Tim Zepf,DISTANCE,Fy.,,,"Londonderry, N.H.",mens-cross-country,2017
+Dom Repucci,DISTANCE,So.,,,"Hopkinton, N.H.",mens-cross-country,2017
+Marco Pompilj,DISTANCE,Jr.,,,"New York, N.Y.",mens-cross-country,2017
+Henry Raymond,DISTANCE,So.,,,"Fort Collins, Colo.",mens-cross-country,2017
+Benjamin Szuhaj,DISTANCE,Jr.,,,"Glenside, Pa.",mens-cross-country,2017
+Will Shafer,DISTANCE,Sr.,,,"New Gloucester, Maine",mens-cross-country,2017
+Samuel Morton,DISTANCE,Fy.,,,"Larchmont, N.Y.",mens-cross-country,2017
+Griffin Mackey,DISTANCE,Fy.,,,"Sewickley, Pa.",mens-cross-country,2017
+William Phinney,MD,Fy.,,,"Basking Ridge, N.J.",mens-cross-country,2017
+Benjamin Matejka,DISTANCE,Fy.,,,"Wellesley, Mass.",mens-cross-country,2017
+Patrick O'Brien,DISTANCE,Fy.,,,"Durham, N.H.",mens-cross-country,2017
+Michael Thurston,DISTANCE,So.,,,"Ridgewood, N.J.",mens-cross-country,2017
+Owen Ritz,DISTANCE,Fy.,,,"Meadowbrook, Pa.",mens-cross-country,2017
+Miles Irish,DISTANCE,Sr.,,,"Palos Verdes Estates, Calif.",mens-cross-country,2017
+Barry Harwick,,,,,,mens-cross-country,2017
+Alex Montague,DISTANCE,So.,,,"Newton, Mass.",mens-cross-country,2017
+Gregory Crowley,DISTANCE,Fy.,,,"Scarsdale, N.Y.",mens-cross-country,2017
+Nicholas Feffer,DISTANCE,Fy.,,,"Boalsburg, Pa.",mens-cross-country,2017
+Kyle Dotterrer,DISTANCE,Sr.,,,"Traverse City, Mich.",mens-cross-country,2017
+Quinn Cooney,DISTANCE,Jr.,,,"Chelmsford, Mass.",mens-cross-country,2017
+Sean Laverty,DISTANCE,So.,,,"Cumberland, R.I.",mens-cross-country,2017
+Reed Horton,DISTANCE,Jr.,,,"San Francisco, Calif.",mens-cross-country,2017
+Dominic Carrese,DISTANCE,Jr.,,,"Colorado Springs, Colo.",mens-cross-country,2017
+Pat Gregory,DISTANCE,Sr.,,,"Louisville, Ky.",mens-cross-country,2017
+Brian Mass,DISTANCE,Fy.,,,"Perkasie, Pa.",mens-cross-country,2017
+Sander Kushen,DISTANCE,Jr.,,,"Coto de Caza, Calif.",mens-cross-country,2017
+Gregory Crowley,Distance,So.,,,"Scarsdale, N.Y.",mens-cross-country,2018
+Quinn Cooney,Distance,Sr.,,,"Chelmsford, Mass.",mens-cross-country,2018
+Nicholas Feffer,Distance,So.,,,"Boalsburg, Pa.",mens-cross-country,2018
+William Eaton,Distance,Fy.,,,"Portland, Ore.",mens-cross-country,2018
+Marco Pompilj,Distance,Sr.,,,"New York, N.Y.",mens-cross-country,2018
+Thomas Lingard,Distance,Fy.,,,"Cambridge, Mass.",mens-cross-country,2018
+Reed Horton,Distance,Sr.,,,"San Francisco, Calif.",mens-cross-country,2018
+Liam Jamieson,Distance,Fy.,,,"Santa Monica, Calif.",mens-cross-country,2018
+Julien Hinz,Distance,Fy.,,,"New York, N.Y.",mens-cross-country,2018
+Sean Laverty,Distance,Jr.,,,"Cumberland, R.I.",mens-cross-country,2018
+Sander Kushen,Distance,Sr.,,,"Coto de Caza, Calif.",mens-cross-country,2018
+Griffin Mackey,Distance,So.,,,"Sewickley, Pa.",mens-cross-country,2018
+Brian Mass,Distance,So.,,,"Perkasie, Pa.",mens-cross-country,2018
+Patrick O'Brien,Distance,So.,,,"Durham, N.H.",mens-cross-country,2018
+Christian Myers,Distance,Fy.,,,"Westport, Conn.",mens-cross-country,2018
+Henry Raymond,Distance,Jr.,,,"Fort Collins, Colo.",mens-cross-country,2018
+Samuel Morton,Distance,So.,,,"Larchmont, N.Y.",mens-cross-country,2018
+Benjamin Matejka,Distance,So.,,,"Wellesley, Mass.",mens-cross-country,2018
+Jason Wang,Distance,Fy.,,,"Honolulu, Hawaii",mens-cross-country,2018
+Owen Ritz,Distance,So.,,,"Meadowbrook, Pa.",mens-cross-country,2018
+Dom Repucci,Distance,Jr.,,,"Hopkinton, N.H.",mens-cross-country,2018
+Andrew Thompson,Distance,Fy.,,,"Trumbull, Conn.",mens-cross-country,2018
+Benjamin Szuhaj,Distance,Sr.,,,"Glenside, Pa.",mens-cross-country,2018
+John Simons,,,,,,mens-cross-country,2018
+Christian Myers,Distance,So.,,,"Westport, Conn.",mens-cross-country,2019
+Julien Hinz,Distance,So.,,,"New York, N.Y.",mens-cross-country,2019
+Henry Raymond,Distance,Sr.,,,"Fort Collins, Colo.",mens-cross-country,2019
+John Simons,,,,,,mens-cross-country,2019
+Jacob Winslow,Distance,Fy.,,,"Stratham, N.H.",mens-cross-country,2019
+Owen Ritz,Distance,Jr.,,,"Meadowbrook, Pa.",mens-cross-country,2019
+Samuel Morton,Distance,Jr.,,,"Larchmont, N.Y.",mens-cross-country,2019
+Jason Wang,Distance,So.,,,"Honolulu, Hawaii",mens-cross-country,2019
+Andrew Thompson,Distance,So.,,,"Trumbull, Conn.",mens-cross-country,2019
+Jonathan Reid,Distance,Fy.,,,"Bradenton, Fla.",mens-cross-country,2019
+Dom Repucci,Distance,Sr.,,,"Hopkinton, N.H.",mens-cross-country,2019
+Isaac Weber,Distance,So.,,,"Indianapolis, Ind.",mens-cross-country,2019
+Benjamin Matejka,Distance,Jr.,,,"Wellesley, Mass.",mens-cross-country,2019
+Eric Gibson,Distance,Fy.,,,"Annapolis, Md.",mens-cross-country,2019
+Thomas Lingard,Distance,So.,,,"Cambridge, Mass.",mens-cross-country,2019
+Brian Mass,Distance,Jr.,,,"Perkasie, Pa.",mens-cross-country,2019
+Nicholas Feffer,Distance,Jr.,,,"Boalsburg, Pa.",mens-cross-country,2019
+William Eaton,Distance,So.,,,"Portland, Ore.",mens-cross-country,2019
+Gregory Crowley,Distance,Jr.,,,"Scarsdale, N.Y.",mens-cross-country,2019
+Trey Cormier,Distance,Fy.,,,"West Hartford, Conn.",mens-cross-country,2019
+Quinn Cooney,Distance,Sr.,,,"Chelmsford, Mass.",mens-cross-country,2019
+Patrick O'Brien,Distance,Jr.,,,"Durham, N.H.",mens-cross-country,2019
+James Lawrence,Distance,Fy.,,,"Wayne, Pa.",mens-cross-country,2019
+Will Baginski,Distance,Fy.,,,"Ridgewood, N.J.",mens-cross-country,2019
+Reed Horton,Distance,Sr.,,,"San Francisco, Calif.",mens-cross-country,2019
+Liam Jamieson,Distance,So.,,,"Santa Monica, Calif.",mens-cross-country,2019
+Brendan Balthis,Distance,Fy.,,,"Newark, Del.",mens-cross-country,2019
+Sean Laverty,Distance,Sr.,,,"Cumberland, R.I.",mens-cross-country,2019
+Aidan Robinson,Mid-Dist./XC,Fy.,,,"Onalaska, Wis.",mens-cross-country,2020
+Jason Wang,Distance,Jr.,,,"Honolulu, Hawaii",mens-cross-country,2020
+Jacob Winslow,Distance,So.,,,"Stratham, N.H.",mens-cross-country,2020
+Owen Ritz,Distance(C),Sr.,,,"Meadowbrook, Pa.",mens-cross-country,2020
+Patrick O'Brien,Distance,Sr.,,,"Durham, N.H.",mens-cross-country,2020
+Isaac Weber,Distance,Jr.,,,"Indianapolis, Ind.",mens-cross-country,2020
+Declan O'Scannlain,Dist./XC,Fy.,5' 8'',,"Portland, Ore.",mens-cross-country,2020
+Christian Myers,Distance,Jr.,,,"Westport, Conn.",mens-cross-country,2020
+Porscha Dobson Harnden,,,,,,mens-cross-country,2020
+Jonathan Reid,Distance,So.,,,"Bradenton, Fla.",mens-cross-country,2020
+Andrew Thompson,Distance,Jr.,,,"Trumbull, Conn.",mens-cross-country,2020
+Samuel Morton,Distance,Sr.,,,"Larchmont, N.Y.",mens-cross-country,2020
+Thomas Lingard,Distance,Jr.,,,"Cambridge, Mass.",mens-cross-country,2020
+David Moore,Dist./XC,Fy.,5' 11'',,"Auckland, New Zealand",mens-cross-country,2020
+Jason Norris,Dist./XC,Fy.,6' 2'',,"Wellesley, Mass.",mens-cross-country,2020
+Brian Mass,Distance,Sr.,,,"Perkasie, Pa.",mens-cross-country,2020
+William Eaton,Distance,Jr.,,,"Portland, Ore.",mens-cross-country,2020
+Brendan Balthis,Distance,So.,,,"Newark, Del.",mens-cross-country,2020
+Benjamin Matejka,Distance(C),Sr.,,,"Wellesley, Mass.",mens-cross-country,2020
+Liam Jamieson,Distance,Jr.,,,"Santa Monica, Calif.",mens-cross-country,2020
+Trey Cormier,Distance,So.,,,"West Hartford, Conn.",mens-cross-country,2020
+Julien Hinz,Distance,Jr.,,,"New York, N.Y.",mens-cross-country,2020
+Gregory Crowley,Distance,Sr.,,,"Scarsdale, N.Y.",mens-cross-country,2020
+Will Baginski,Distance,So.,,,"Ridgewood, N.J.",mens-cross-country,2020
+Nicholas Feffer,Distance,Sr.,,,"Boalsburg, Pa.",mens-cross-country,2020
+Will Daley,Dist./XC,Fy.,6' 1'',,"Denver, Colo.",mens-cross-country,2020
+Eric Gibson,Distance,So.,,,"Annapolis, Md.",mens-cross-country,2020
+Colin Donnelly,Dist./XC,Fy.,6' 1'',,"Hampton, N.H.",mens-cross-country,2020
+Will Chaffin,Dist./XC,Fy.,5' 9'',,"Carlisle, Mass.",mens-cross-country,2020
+James Lawrence,Distance,So.,,,"Wayne, Pa.",mens-cross-country,2020
+Albert Velikonja,Dist.,Fy.,,,"Montreal, Quebec",mens-cross-country,2021
 Will Chaffin,Dist./XC,So.,5' 9'',,"Carlisle, Mass.",mens-cross-country,2021
-Eric Gibson,Distance,Jr.,,,"Annapolis, Md.",mens-cross-country,2021
-William Eaton,Distance,Sr.,,,"Portland, Ore.",mens-cross-country,2021
-Jake Lotreck,Dist.,Fy.,,,"Rockville, Conn.",mens-cross-country,2021
-Thomas Lingard,Distance,Sr.,,,"Cambridge, Mass.",mens-cross-country,2021
-Liam Jamieson,Distance,Sr.,,,"Santa Monica, Calif.",mens-cross-country,2021
-Trey Cormier,Distance,Jr.,,,"West Hartford, Conn.",mens-cross-country,2021
-Will Daley,Dist./XC,So.,6' 1'',,"Denver, Colo.",mens-cross-country,2021
-Alexander Craig,Dist.,Fy.,,,"Mattapoisett, Mass.",mens-cross-country,2021
-Samuel Morton,Distance,Gr.,,,"Larchmont, N.Y.",mens-cross-country,2021
-Maclean Hadden,Dist.,Fy.,,,"Boston, Mass.",mens-cross-country,2021
-David Moore,Dist./XC,So.,5' 11'',,"Auckland, New Zealand",mens-cross-country,2021
-Colin Donnelly,Dist./XC,So.,6' 1'',,"Hampton, N.H.",mens-cross-country,2021
-Christian Myers,Distance,Sr.,,,"Westport, Conn.",mens-cross-country,2021
-Alejandro Rincon,Dist.,Fy.,,,"Glastonbury, Conn.",mens-cross-country,2021
-Andrew Thompson,Distance,Sr.,,,"Trumbull, Conn.",mens-cross-country,2021
-Jacob Winslow,Distance,Jr.,,,"Stratham, N.H.",mens-cross-country,2021
-Ben Williams,,Fy.,,,"Jackson, Wyo.",mens-cross-country,2021
-Seth Weprin,,Jr.,,,"Dallas, Texas",mens-cross-country,2021
 Porscha Dobson Harnden,,,,,,mens-cross-country,2021
 Jonathan Reid,Distance,Jr.,,,"Bradenton, Fla.",mens-cross-country,2021
-Declan O'Scannlain,Dist./XC,So.,5' 8'',,"Portland, Ore.",mens-cross-country,2021
-Jason Norris,Dist./XC,So.,6' 2'',,"Wellesley, Mass.",mens-cross-country,2021
+Seth Weprin,,Jr.,,,"Dallas, Texas",mens-cross-country,2021
 Jason Wang,Distance,Sr.,,,"Honolulu, Hawaii",mens-cross-country,2021
-Albert Velikonja,Dist.,Fy.,,,"Montreal, Quebec",mens-cross-country,2021
-Alexander Craig,Dist.,So.,,,"Mattapoisett, Mass.",mens-cross-country,2022
+Thomas Lingard,Distance,Sr.,,,"Cambridge, Mass.",mens-cross-country,2021
+Jake Lotreck,Dist.,Fy.,,,"Rockville, Conn.",mens-cross-country,2021
+Ben Williams,,Fy.,,,"Jackson, Wyo.",mens-cross-country,2021
+William Eaton,Distance,Sr.,,,"Portland, Ore.",mens-cross-country,2021
+Colin Donnelly,Dist./XC,So.,6' 1'',,"Hampton, N.H.",mens-cross-country,2021
+Christian Myers,Distance,Sr.,,,"Westport, Conn.",mens-cross-country,2021
+Maclean Hadden,Dist.,Fy.,,,"Boston, Mass.",mens-cross-country,2021
+Jacob Winslow,Distance,Jr.,,,"Stratham, N.H.",mens-cross-country,2021
+Andrew Thompson,Distance,Sr.,,,"Trumbull, Conn.",mens-cross-country,2021
+Liam Jamieson,Distance,Sr.,,,"Santa Monica, Calif.",mens-cross-country,2021
+Samuel Morton,Distance,Gr.,,,"Larchmont, N.Y.",mens-cross-country,2021
+Alexander Craig,Dist.,Fy.,,,"Mattapoisett, Mass.",mens-cross-country,2021
+Will Daley,Dist./XC,So.,6' 1'',,"Denver, Colo.",mens-cross-country,2021
+Trey Cormier,Distance,Jr.,,,"West Hartford, Conn.",mens-cross-country,2021
+Alejandro Rincon,Dist.,Fy.,,,"Glastonbury, Conn.",mens-cross-country,2021
+Jason Norris,Dist./XC,So.,6' 2'',,"Wellesley, Mass.",mens-cross-country,2021
+David Moore,Dist./XC,So.,5' 11'',,"Auckland, New Zealand",mens-cross-country,2021
+Declan O'Scannlain,Dist./XC,So.,5' 8'',,"Portland, Ore.",mens-cross-country,2021
+Eric Gibson,Distance,Jr.,,,"Annapolis, Md.",mens-cross-country,2021
 Jake Lotreck,Dist.,So.,,,"Rockville, Conn.",mens-cross-country,2022
-James Lawrence,Distance,Sr.,,,"Wayne, Pa.",mens-cross-country,2022
-Trey Cormier,Distance,Sr.,,,"West Hartford, Conn.",mens-cross-country,2022
-Eric Gibson,Distance,Sr.,,,"Annapolis, Md.",mens-cross-country,2022
-David Moore,Dist./XC,Jr.,5' 11'',,"Auckland, New Zealand",mens-cross-country,2022
-Will Daley,Dist./XC,Jr.,6' 1'',,"Denver, Colo.",mens-cross-country,2022
-Liam Jamieson,Distance,5th,,,"Santa Monica, Calif.",mens-cross-country,2022
-Evan Bork,Dist.,Fy.,,,"Lakewood, Ohio",mens-cross-country,2022
-Colin Donnelly,Dist./XC,Jr.,6' 1'',,"Hampton, N.H.",mens-cross-country,2022
-Maclean Hadden,Dist.,So.,,,"Boston, Mass.",mens-cross-country,2022
-Will Chaffin,Dist./XC,Jr.,5' 9'',,"Carlisle, Mass.",mens-cross-country,2022
-Declan O'Scannlain,Dist./XC,Jr.,5' 8'',,"Portland, Ore.",mens-cross-country,2022
-Eric Sankey,Dist.,Fy.,,,"Boulder, Colo.",mens-cross-country,2022
-Albert Velikonja,Dist.,So.,,,"Montreal, Quebec",mens-cross-country,2022
-Kendra Foley Andrews,,,,,,mens-cross-country,2022
-Jonathan Reid,Distance,Sr.,,,"Bradenton, Fla.",mens-cross-country,2022
-Jason Wang,Distance,5th,,,"Honolulu, Hawaii",mens-cross-country,2022
-Ben Williams,Dist.,So.,,,"Jackson, Wyo.",mens-cross-country,2022
-Andrew Thompson,Distance,5th,,,"Trumbull, Conn.",mens-cross-country,2022
 Christian Myers,Distance,5th,,,"Westport, Conn.",mens-cross-country,2022
+Jonathan Reid,Distance,Sr.,,,"Bradenton, Fla.",mens-cross-country,2022
 Jacob Winslow,Distance,Sr.,,,"Stratham, N.H.",mens-cross-country,2022
-Jason Norris,Dist./XC,Jr.,6' 2'',,"Wellesley, Mass.",mens-cross-country,2022
+Andrew Thompson,Distance,5th,,,"Trumbull, Conn.",mens-cross-country,2022
+Colin Donnelly,Dist./XC,Jr.,6' 1'',,"Hampton, N.H.",mens-cross-country,2022
+Eric Sankey,Dist.,Fy.,,,"Boulder, Colo.",mens-cross-country,2022
+Jason Wang,Distance,5th,,,"Honolulu, Hawaii",mens-cross-country,2022
+Declan O'Scannlain,Dist./XC,Jr.,5' 8'',,"Portland, Ore.",mens-cross-country,2022
+Kendra Foley Andrews,,,,,,mens-cross-country,2022
+Maclean Hadden,Dist.,So.,,,"Boston, Mass.",mens-cross-country,2022
+Albert Velikonja,Dist.,So.,,,"Montreal, Quebec",mens-cross-country,2022
+Evan Bork,Dist.,Fy.,,,"Lakewood, Ohio",mens-cross-country,2022
+Will Daley,Dist./XC,Jr.,6' 1'',,"Denver, Colo.",mens-cross-country,2022
 Seth Weprin,Dist.,Sr.,,,"Dallas, Texas",mens-cross-country,2022
-Patrick Dowd,Dist.,Fy.,,,"New Orleans, La.",mens-cross-country,2023
+David Moore,Dist./XC,Jr.,5' 11'',,"Auckland, New Zealand",mens-cross-country,2022
+Eric Gibson,Distance,Sr.,,,"Annapolis, Md.",mens-cross-country,2022
+Trey Cormier,Distance,Sr.,,,"West Hartford, Conn.",mens-cross-country,2022
+Ben Williams,Dist.,So.,,,"Jackson, Wyo.",mens-cross-country,2022
+Jason Norris,Dist./XC,Jr.,6' 2'',,"Wellesley, Mass.",mens-cross-country,2022
+Alexander Craig,Dist.,So.,,,"Mattapoisett, Mass.",mens-cross-country,2022
+Will Chaffin,Dist./XC,Jr.,5' 9'',,"Carlisle, Mass.",mens-cross-country,2022
+James Lawrence,Distance,Sr.,,,"Wayne, Pa.",mens-cross-country,2022
+Liam Jamieson,Distance,5th,,,"Santa Monica, Calif.",mens-cross-country,2022
+Albert Velikonja,Dist.,Jr.,,,"Montreal, Quebec",mens-cross-country,2023
 Will Daley,Dist./XC,Sr.,6' 1'',,"Denver, Colo.",mens-cross-country,2023
 Maclean Hadden,Dist.,Jr.,,,"Boston, Mass.",mens-cross-country,2023
-Ashton Bange,Dist.,Fy.,,,"Corning, N.Y.",mens-cross-country,2023
-David Appleton,Dist.,Sr.,,,"Mattapoisett, Mass.",mens-cross-country,2023
-Alexander Craig,Dist.,Jr.,,,"Mattapoisett, Mass.",mens-cross-country,2023
-James Lawrence,Dist.,5th,,,"Wayne, Pa.",mens-cross-country,2023
-Declan O'Scannlain,Dist./XC,Sr.,5' 8'',,"Portland, Ore.",mens-cross-country,2023
-Albert Velikonja,Dist.,Jr.,,,"Montreal, Quebec",mens-cross-country,2023
-Porscha Dobson Harnden,,,,,,mens-cross-country,2023
-Ben Williams,Dist.,Jr.,,,"Jackson, Wyo.",mens-cross-country,2023
-Eric Sankey,Dist.,So.,,,"Boulder, Colo.",mens-cross-country,2023
-Tyler Schill,Dist.,Fy.,,,"Cinnaminson, N.J.",mens-cross-country,2023
 Ayush Saran,Dist.,Fy.,,,"Princeton, N.J.",mens-cross-country,2023
-Ashton Bange,Dist.,So.,,,"Corning, N.Y.",mens-cross-country,2024
-Maclean Hadden,Dist.,Sr.,,,"Boston, Mass.",mens-cross-country,2024
-Keion Grieve,Dist.,Fy.,,,"Jefferson City, Mo.",mens-cross-country,2024
-Patrick Dowd,Dist.,So.,,,"New Orleans, La.",mens-cross-country,2024
-Connor Foley,Dist.,Fy.,,,"Kingston, United Kingdom",mens-cross-country,2024
-Alexander Craig,Dist.,Sr.,,,"Mattapoisett, Mass.",mens-cross-country,2024
-Asher Beck,Dist.,Fy.,,,"Cos Cob, CT",mens-cross-country,2024
-David Jiang,Dist.,Fy.,,,"Toronto, Canada",mens-cross-country,2024
-Noe Kemper,Dist.,Fy.,,,"Boise, Ida.",mens-cross-country,2024
-DJ Matusz,,Jr.,,,"Scarsdale, N.Y.",mens-cross-country,2024
-Max Miller,Dist.,Fy.,,,"Prosper, Tex.",mens-cross-country,2024
-Ben Williams,Dist.,Sr.,,,"Jackson, Wyo.",mens-cross-country,2024
-Albert Velikonja,Dist.,Sr.,,,"Montreal, Quebec",mens-cross-country,2024
+Tyler Schill,Dist.,Fy.,,,"Cinnaminson, N.J.",mens-cross-country,2023
+Eric Sankey,Dist.,So.,,,"Boulder, Colo.",mens-cross-country,2023
+Porscha Dobson Harnden,,,,,,mens-cross-country,2023
+Alexander Craig,Dist.,Jr.,,,"Mattapoisett, Mass.",mens-cross-country,2023
+Ben Williams,Dist.,Jr.,,,"Jackson, Wyo.",mens-cross-country,2023
+David Appleton,Dist.,Sr.,,,"Mattapoisett, Mass.",mens-cross-country,2023
+Ashton Bange,Dist.,Fy.,,,"Corning, N.Y.",mens-cross-country,2023
+Patrick Dowd,Dist.,Fy.,,,"New Orleans, La.",mens-cross-country,2023
+Declan O'Scannlain,Dist./XC,Sr.,5' 8'',,"Portland, Ore.",mens-cross-country,2023
+James Lawrence,Dist.,5th,,,"Wayne, Pa.",mens-cross-country,2023
 Ayush Saran,Dist.,So.,,,"Princeton, N.J.",mens-cross-country,2024
-Tyler Schill,Dist.,So.,,,"Cinnaminson, N.J.",mens-cross-country,2024
-Eric Sankey,Dist.,Jr.,,,"Boulder, Colo.",mens-cross-country,2024
-Baker Pashea,,Jr.,,,"St. Louis, Mo.",mens-cross-country,2024
+Albert Velikonja,Dist.,Sr.,,,"Montreal, Quebec",mens-cross-country,2024
+David Jiang,Dist.,Fy.,,,"Toronto, Canada",mens-cross-country,2024
+Ben Williams,Dist.,Sr.,,,"Jackson, Wyo.",mens-cross-country,2024
 Mike Nelson,,,,,,mens-cross-country,2024
-Eli Engelman,Dist.,Fy.,5' 11'',,"Bryn Mawr, Pa.",mens-cross-country,2025
-Asher Beck,Dist.,So.,,,"Cos Cob, CT",mens-cross-country,2025
-Callahan Fielder,Dist.,Fy.,5' 11'',,"Nashville, Tenn.",mens-cross-country,2025
-Andrew Burr,Dist.,Fy.,6' 0'',,"El Dorado Hills, Calif.",mens-cross-country,2025
-Connor Foley,Dist.,So.,,,"Kingston, United Kingdom",mens-cross-country,2025
-Ashton Bange,Dist.,Jr.,,,"Corning, N.Y.",mens-cross-country,2025
-Evan Bork,Dist.,So.,,,"Lakewood, Ohio",mens-cross-country,2025
-Patrick Dowd,Dist.,Jr.,,,"New Orleans, La.",mens-cross-country,2025
-Rory Gaan,Dist.,Fy.,5' 8'',,"Hoffman Estates, Ill.",mens-cross-country,2025
-David Jiang,Dist.,So.,,,"Toronto, Canada",mens-cross-country,2025
-Max Miller,Dist.,So.,,,"Prosper, Tex.",mens-cross-country,2025
-Baker Pashea,Dist.,Sr.,,,"St. Louis, Mo.",mens-cross-country,2025
-Eric Sankey,Dist.,Sr.,,,"Boulder, Colo.",mens-cross-country,2025
-Noe Kemper,Dist.,So.,,,"Boise, Ida.",mens-cross-country,2025
-Matthew Kmecz,Dist.,Fy.,5' 10'',,"Toronto, Ontario, Canada",mens-cross-country,2025
-David Raymond,,Fy.,,,,mens-cross-country,2025
-Foster Laird,Dist.,Fy.,6' 1'',,"Homewood, Ala.",mens-cross-country,2025
+Baker Pashea,,Jr.,,,"St. Louis, Mo.",mens-cross-country,2024
+Tyler Schill,Dist.,So.,,,"Cinnaminson, N.J.",mens-cross-country,2024
+Max Miller,Dist.,Fy.,,,"Prosper, Tex.",mens-cross-country,2024
+Eric Sankey,Dist.,Jr.,,,"Boulder, Colo.",mens-cross-country,2024
+Noe Kemper,Dist.,Fy.,,,"Boise, Ida.",mens-cross-country,2024
+Keion Grieve,Dist.,Fy.,,,"Jefferson City, Mo.",mens-cross-country,2024
+Ashton Bange,Dist.,So.,,,"Corning, N.Y.",mens-cross-country,2024
+DJ Matusz,,Jr.,,,"Scarsdale, N.Y.",mens-cross-country,2024
+Asher Beck,Dist.,Fy.,,,"Cos Cob, CT",mens-cross-country,2024
+Patrick Dowd,Dist.,So.,,,"New Orleans, La.",mens-cross-country,2024
+Alexander Craig,Dist.,Sr.,,,"Mattapoisett, Mass.",mens-cross-country,2024
+Connor Foley,Dist.,Fy.,,,"Kingston, United Kingdom",mens-cross-country,2024
+Maclean Hadden,Dist.,Sr.,,,"Boston, Mass.",mens-cross-country,2024
 Mike Nelson,,,,,,mens-cross-country,2025
+Eli Engelman,Dist.,Fy.,5' 11'',,"Bryn Mawr, Pa.",mens-cross-country,2025
+Foster Laird,Dist.,Fy.,6' 1'',,"Homewood, Ala.",mens-cross-country,2025
+David Raymond,,Fy.,,,,mens-cross-country,2025
+Noe Kemper,Dist.,So.,,,"Boise, Ida.",mens-cross-country,2025
+Eric Sankey,Dist.,Sr.,,,"Boulder, Colo.",mens-cross-country,2025
+Baker Pashea,Dist.,Sr.,,,"St. Louis, Mo.",mens-cross-country,2025
+Max Miller,Dist.,So.,,,"Prosper, Tex.",mens-cross-country,2025
+David Jiang,Dist.,So.,,,"Toronto, Canada",mens-cross-country,2025
+Matthew Kmecz,Dist.,Fy.,5' 10'',,"Toronto, Ontario, Canada",mens-cross-country,2025
+Patrick Dowd,Dist.,Jr.,,,"New Orleans, La.",mens-cross-country,2025
+Evan Bork,Dist.,So.,,,"Lakewood, Ohio",mens-cross-country,2025
+Ashton Bange,Dist.,Jr.,,,"Corning, N.Y.",mens-cross-country,2025
+Connor Foley,Dist.,So.,,,"Kingston, United Kingdom",mens-cross-country,2025
+Andrew Burr,Dist.,Fy.,6' 0'',,"El Dorado Hills, Calif.",mens-cross-country,2025
+Callahan Fielder,Dist.,Fy.,5' 11'',,"Nashville, Tenn.",mens-cross-country,2025
+Asher Beck,Dist.,So.,,,"Cos Cob, CT",mens-cross-country,2025
+Rory Gaan,Dist.,Fy.,5' 8'',,"Hoffman Estates, Ill.",mens-cross-country,2025
 Greg McGrath,Dist.,Fy.,5' 9'',,"Boston, Mass.",mens-cross-country,2026
 Sam Laverdiere,Dist.,Fy.,5' 10'',,"Litchfield, Maine",mens-cross-country,2026
 Noe Kemper,Dist.,Jr.,,,"Boise, Ida.",mens-cross-country,2026
 James Gurley,Dist.,Fy.,6' 3'',,"Louisville, Ky.",mens-cross-country,2026
 Rory Gaan,Dist.,So.,5' 8'',,"Hoffman Estates, Ill.",mens-cross-country,2026
-Victor Delgado,Dist.,Fy.,5' 10'',,"Cortlandt Manor, NY",mens-cross-country,2026
+Andrew Burr,Dist.,So.,6' 0'',,"El Dorado Hills, Calif.",mens-cross-country,2026
 Callahan Fielder,Dist.,So.,5' 11'',,"Nashville, Tenn.",mens-cross-country,2026
 Eli Engelman,Dist.,So.,5' 11'',,"Bryn Mawr, Pa.",mens-cross-country,2026
-Andrew Burr,Dist.,So.,6' 0'',,"El Dorado Hills, Calif.",mens-cross-country,2026
+Victor Delgado,Dist.,Fy.,5' 10'',,"Cortlandt Manor, NY",mens-cross-country,2026
 Ashton Bange,Dist.,Sr.,,,"Corning, N.Y.",mens-cross-country,2026
 David Raymond,,So.,,,,mens-cross-country,2026
 Connor Foley,Dist.,Jr.,,,"Kingston, United Kingdom",mens-cross-country,2026

@@ -10,7 +10,7 @@ An interactive map of where Ivy League varsity athletes come from. A Python pipe
 - Filter by school, season, sport and region, and search by name.
 - A separate **State heat maps** page shows all eight schools at once, each a US map shaded by players per state; hover a state for its player count and sports.
 - A person on two teams (for example coed and women's sailing) is one dot with both listed.
-- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport. Seasons run from 2016–17 to the current one; 2020–21 is thin or missing at many schools because of COVID.
+- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport. Seasons run from 2016–17 to the current one; 2020–21 is thin or missing at many schools because of COVID. Both pages open on the latest five seasons, with Latest 5 and Latest 10 buttons for quick changes.
 
 ## Structure
 
@@ -35,6 +35,7 @@ docs/       The website, published by GitHub Pages
 | `pipeline/prepare_states.py` | One-time: downloads US state outlines and fixes them for the heat maps |
 | `requirements.txt` | Python packages the pipeline needs |
 | `pipeline/stamp_versions.py` | Updates the cache-busting version suffixes in `docs/` from file hashes |
+| `pipeline/probe_year.py` | Compares the two roster URL forms across seasons for one team (to debug a missing or copied season) |
 | `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
 | `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
 | `data/hometown_fixes.csv` | Hand-edited corrections for misspelled hometowns |
@@ -59,6 +60,8 @@ python geocode_rosters.py --retry-failed       # retry hometowns with no match
 python run_pipeline.py --verbose               # also print every skipped sport and fetched page
 python pull_rosters.py --retry-empty           # ask again for past seasons that had no roster last time
 python audit_rosters.py                        # checks, including roster rows per school and season
+python probe_year.py Yale mens-soccer 2016-2020  # compare both URL forms across seasons for one team
+python probe_year.py Yale volleyball 2016-2019 --slug womens-volleyball  # try another URL spelling
 python build_data_json.py --check-regions      # list hometowns that fell into International / Other
 
 cd ../docs

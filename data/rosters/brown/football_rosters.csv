@@ -1,568 +1,1079 @@
 name,position,class,height,weight,hometown,sport,year
-Josh Ofili,DB,Jr.,6' 2'',190 lbs,"Katy, Texas",football,2021
-Christopher Maron,K,Fr.,5' 10'',175 lbs,"Weston, Fla.",football,2021
-Isaiah Gamble,ILB,So.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2021
-Kaleb Ross,LB,Fr.,6' 0'',225 lbs,"Lakeland, Fla.",football,2021
-Joseph Shell,DB,Jr.,6' 1'',190 lbs,"Frederick, Md.",football,2021
-Samuel Baddoo,WR,Fr.,5' 10'',185 lbs,"Providence, R.I.",football,2021
-Jalen Fisher,CB,Jr.,6' 0'',190 lbs,"Los Angeles, Calif.",football,2021
-Jake Willcox,QB,So.,6' 2'',195 lbs,"Everett, Mass.",football,2021
-Treyvon Hobbs,CB,So.,5' 11'',170 lbs,"Jacksonville, Fla.",football,2021
-EJ Perry,QB(C),Sr.,6' 2'',210 lbs,"Andover, Mass.",football,2021
-Nate Lussier,QB,So.,6' 3'',200 lbs,"North Providence, R.I.",football,2021
-Harrison Ochs,CB,Jr.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2021
-Obi Ifediora,WR,Gr.,5' 10'',175 lbs,"Verona, Wis.",football,2021
-Kris Diallo,WR,Jr.,6' 2'',200 lbs,"Chicago, Ill.",football,2021
-Griffin McGovern,DB,Jr.,6' 1'',190 lbs,"Emerson, N.J.",football,2021
-Cortland Dicks,QB,Fr.,6' 2'',200 lbs,"Bridgeport, Conn.",football,2021
-Michael McGovern,QB,Sr.,6' 0'',195 lbs,"St. Louis, Mo.",football,2021
-Jordan McIntyre,WR,Fr.,6' 1'',185 lbs,"Chatsworth, Calif.",football,2021
-Junior Gafa,OLB,Jr.,5' 10'',200 lbs,"San Pedro, Calif.",football,2021
-Aidan Gilman,QB,Jr.,6' 2'',210 lbs,"Westfield, N.J.",football,2021
-Chris Boyle,TE,Jr.,6' 4'',245 lbs,"Columbus, Ohio",football,2021
-Clayton Perrin,DB,Sr.,6' 1'',200 lbs,"Pflugerville, Texas",football,2021
-Will Jarvis,QB,Fr.,6' 1'',205 lbs,"Walpole, Mass.",football,2021
-Isaiah Reed,DB,Fr.,6' 0'',165 lbs,"Tampa, Fla.",football,2021
-Mac Franklin,OLB,So.,6' 2'',190 lbs,"Scottsdale, Ariz.",football,2021
-Ethan Royer,ILB,Jr.,6' 2'',230 lbs,"Hilliard, Ohio",football,2021
-Graeme Davis,TE,Sr.,6' 1'',225 lbs,"Winchester, Mass.",football,2021
-Kenyon Graham,RB,Fr.,5' 11'',190 lbs,"San Rafael, Calif.",football,2021
-Malcolm Brunson,ILB,Jr.,6' 0'',220 lbs,"Plainfield, N.J.",football,2021
-Jacob Kopeld,K,Jr.,6' 1'',195 lbs,"Morristown, N.J.",football,2021
-Tim Malo,DB,Fr.,6' 0'',195 lbs,"Bellingham, Wash.",football,2021
-Hayes Sutton,WR,Jr.,6' 0'',200 lbs,"Norcross, Ga.",football,2021
-Cooper DeVeau,CB,Jr.,5' 11'',180 lbs,"Foxboro, Mass.",football,2021
-Uriel Richardson,DB,Fr.,5' 11'',185 lbs,"Jacksonville, Fla.",football,2021
-Charlie Dallape,CB,Sr.,6' 3'',205 lbs,"San Francisco, Calif.",football,2021
-Zachary Targoff,WR,Jr.,6' 0'',180 lbs,"New York, N.Y.",football,2021
-Allan Houston III,WR,Jr.,6' 0'',185 lbs,"Greenwich, Conn.",football,2021
-Dylan Duchene,OLB,So.,6' 2'',200 lbs,"Stuart, Fla.",football,2021
-Jordan DeLucia,RB,Fr.,5' 11'',210 lbs,"Bellmore, N.Y.",football,2021
-Mashod Harrison,RB,So.,6' 0'',200 lbs,"Livingston, N.J.",football,2021
-Cameron Impemba,WR,So.,6' 2'',180 lbs,"Burlington, Mass.",football,2021
-Aubrey Parker,CB,So.,5' 10'',185 lbs,"Belleville, Ill.",football,2021
-Stockton Owen,RB,Fr.,6' 1'',205 lbs,"Cookeville, Tenn.",football,2021
-Jack Whitten,DB,Fr.,6' 1'',190 lbs,"Scottsdale, Ariz.",football,2021
-William Such,RB,Sr.,6' 2'',225 lbs,"Cranston, R.I.",football,2021
-Sami Miller,DB,Fr.,5' 10'',170 lbs,"Orlando, Fla.",football,2021
-Austin Alley,K,Fr.,5' 10'',165 lbs,"Fort Myers, Fla.",football,2021
-Shane Prevot,CB,So.,6' 0'',190 lbs,"New Milford, N.J.",football,2021
-Xavier Silva,LB,Fr.,5' 10'',220 lbs,"St. Louis, Mo.",football,2021
-Triston McDonald,OLB,Fr.,5' 9'',180 lbs,"Arlington, Texas",football,2021
-Ian Franzoni,RB,So.,5' 11'',190 lbs,"Robbinsville, N.J.",football,2021
-Sidney Schwartz,RB,Sr.,6' 1'',200 lbs,"Calabasas, Calif.",football,2021
-Declan Boyle,P,So.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2021
-Michael Walsh,QB,Jr.,6' 2'',195 lbs,"East Greenwich, R.I.",football,2021
-Graham Walker,WR,So.,6' 3'',200 lbs,"Hinesburg, Vt.",football,2021
-Allen Smith,RB(C),Sr.,5' 10'',200 lbs,"Westerville, Ohio",football,2021
-Noble Cooper III,WR,Fr.,5' 11'',190 lbs,"Blythewood, S.C.",football,2021
-Jason Medeiros,ILB,Sr.,6' 0'',220 lbs,"Rehoboth, Mass.",football,2021
-Auzzy Joseph,OL,So.,6' 4'',250 lbs,"Corona, N.Y.",football,2021
-Nicholas Messina,CB,Sr.,6' 0'',175 lbs,"East Setauket, N.Y.",football,2021
-Sean Kelly,DE,Jr.,6' 2'',245 lbs,"Clarendon Hills, Ill.",football,2021
-Addison Matevia,ILB,So.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2021
-Anthony Mastroni,DT,Sr.,6' 3'',260 lbs,"Monroe, Conn.",football,2021
-Joseph Gulla,DE,Sr.,6' 2'',225 lbs,"Orlando, Fla.",football,2021
-Michael Davidson,LS,So.,6' 2'',215 lbs,"Stone Oak, Texas",football,2021
-Donovan Allen,OL,Jr.,6' 5'',285 lbs,"Douglasville, Ga.",football,2021
-CJ Hankins,LB,Fr.,5' 11'',220 lbs,"Cleveland, Ohio",football,2021
-Caleb Moorhead,LB,Fr.,6' 3'',200 lbs,"Glen Ellyn, Ill.",football,2021
-Griffin Sturtz,OL,Jr.,6' 5'',240 lbs,"Naperville, Ill.",football,2021
+Isaac Whitney,WR,Jr.,5' 9'',175 lbs,"Venice, FL",football,2016
+Bruce Hall,OL,Sr.,6' 4'',270 lbs,"Leslie, MI",football,2016
+Adrian Caesar,ILB,Jr.,5' 11'',185 lbs,"Miami, FL",football,2016
+Nicholas Allsop,OL,Fr.,6' 3'',285 lbs,"North Easton, Mass.",football,2016
+Austin Vincent,OL,So.,6' 3'',265 lbs,"Mahomet, IL",football,2016
+Austin Werkheiser,OL,Jr.,6' 1'',275 lbs,"Roswell, GA",football,2016
+Jared Shimberg,OL,Jr.,6' 5'',250 lbs,"Tampa, FL",football,2016
+Grant Varner,DL,So.,6' 2'',240 lbs,"Grandview Heights, OH",football,2016
+Christian Montano,OL,Jr.,6' 4'',270 lbs,"Orange, CT",football,2016
+Jacob Wilner,P/K,Jr.,6' 2'',200 lbs,"Dallas, TX",football,2016
+James Carnevale,OL,Fr.,6' 4'',275 lbs,"North Andover, MA",football,2016
+Matthew Girard,OL,Sr.,6' 2'',275 lbs,"Holyoke, MA",football,2016
+Zachary Marti,OL,Jr.,6' 2'',275 lbs,"Miami, FL",football,2016
+Kenari Drayton,ILB,So.,6' 2'',210 lbs,"Santa Ana, CA",football,2016
+Phil Lynch,OL,Fr.,6' 6'',295 lbs,"Milton, MA",football,2016
+Rory Tait,OL,Fr.,6' 5'',285 lbs,"New Canaan, CT",football,2016
+Brett Kahn,OL,So.,6' 4'',265 lbs,"Plantation, FL",football,2016
+Nicholas Kane,ILB,Fr.,6' 2'',225 lbs,"Alamo, Calif.",football,2016
+Sanoj Allen,DE,Jr.,6' 3'',235 lbs,"Sharpsburg, GA",football,2016
+Alexander Hughes,DE,Fr.,6' 3'',240 lbs,"Long Valley, NJ",football,2016
+Carter Dillon,ILB,Fr.,6' 1'',225 lbs,"Meredith, NH",football,2016
+James Fadule,S,Fr.,5' 11'',200 lbs,"Wellesley, MA",football,2016
+Richard Jarvis,DE,Sr.,6' 2'',220 lbs,"Watertown, MA",football,2016
+Josh Weisberg,DE,So.,6' 3'',225 lbs,"Johns Creek, GA",football,2016
+Jared Cutlip,S,Fr.,6' 0'',200 lbs,"Sterling Heights, MI",football,2016
+Brendan Pyne,LB,Fr.,6' 0'',220 lbs,"Bradenton, FL",football,2016
+Elijah Pierre,DT,Fr.,6' 1'',270 lbs,"Rockland, MA",football,2016
+Logan Winders,OL,So.,6' 5'',295 lbs,"Springfield, IL",football,2016
+Jack Neary,OL,So.,6' 4'',245 lbs,"Darien, CT",football,2016
+Robert Hughes,DE,Sr.,6' 3'',240 lbs,"Long Valley, NJ",football,2016
+Daryle Banfield,DL,So.,6' 4'',235 lbs,"Bronx, NY",football,2016
+Thomas Kutschke,DL,Sr.,6' 5'',250 lbs,"Lake Forest, IL",football,2016
+Jacob Mackay,DE,Sr.,6' 5'',245 lbs,"Bronx, NY",football,2016
+Jake Whalen,DL,Sr.,6' 1'',240 lbs,"Durham, CT",football,2016
+Brian Mercer,DE,Fr.,6' 5'',220 lbs,"Melrose, Mass.",football,2016
+Michael Hoecht,DL,Fr.,6' 4'',260 lbs,"Oakwood, OH",football,2016
+John Simpson,DE,Sr.,6' 5'',250 lbs,"Murfreesboro, TN",football,2016
+Keegan O'Hern,DL,Jr.,6' 4'',225 lbs,"Syracuse, NY",football,2016
+Zach Genaway,DT,So.,6' 4'',260 lbs,"Medford, NY",football,2016
+Andrew Hauser,TE,So.,6' 4'',230 lbs,"Wilmette, IL",football,2016
+Garrett Swanky,WR,Sr.,6' 3'',200 lbs,"Los Angeles, CA",football,2016
+Streator Bates,TE/K,Fr.,6' 3'',225 lbs,"Scottsdale, AZ",football,2016
+Ryan Kopec,K/P,So.,6' 0'',170 lbs,"Alpharetta, GA",football,2016
+Erik Kromer,TE,Fr.,6' 4'',260 lbs,"Clifton Park, N.Y.",football,2016
+Jake Behrend,TE,So.,6' 3'',215 lbs,"Alpharetta, GA",football,2016
+Anton Casey,TE,So.,6' 3'',210 lbs,"Bethesda, MD",football,2016
+Jack Palmore,WR,Jr.,6' 2'',195 lbs,"Atlanta, GA",football,2016
+Troy Doles,WR,Sr.,5' 11'',190 lbs,"Saratoga, CA",football,2016
+Peter Honzik,TE,So.,6' 4'',220 lbs,"Dorchester, MA",football,2016
+Emerson Logie,TE,Fr.,6' 3'',230 lbs,"New Canaan, Conn.",football,2016
+Clayton Eubank,OL,Sr.,6' 3'',285 lbs,"Coto De Caza, CA",football,2016
+Jacob Wozniewski,OL,So.,6' 4'',245 lbs,"Dewitt, MI",football,2016
+Toby Okwara,OL,So.,6' 3'',290 lbs,"Charlotte, NC",football,2016
+Henry Flannery,OL,Fr.,6' 4'',290 lbs,"New Providence, NJ",football,2016
+William Twyman,ILB,Sr.,6' 1'',250 lbs,"Sudbury, MA",football,2016
+Max Tylki,ILB,Sr.,6' 1'',220 lbs,"Wethersfield, CT",football,2016
+Dakota Girard,OL,Sr.,6' 2'',270 lbs,"Wellfleet, MA",football,2016
+Bradley Morris,OLB,So.,6' 2'',190 lbs,"Pickerington, OH",football,2016
+Livingstone Harriott,WR,Fr.,6' 3'',195 lbs,"Central Islip, NY",football,2016
+Caleb Clarke,CB,Fr.,5' 10'',185 lbs,"Santa Clarita, CA",football,2016
+Michael Villapiano,QB,Sr.,6' 1'',210 lbs,"Rumson, NJ",football,2016
+A.J. Ikwechegh,CB,So.,5' 10'',180 lbs,"Winston-Salem, NC",football,2016
+Thomas Linta,QB,Jr.,6' 4'',220 lbs,"Branford, CT",football,2016
+Andrew Livingston,QB,So.,6' 0'',190 lbs,"Rye, NY",football,2016
+Jaelon Blandburg,WR,Fr.,6' 3'',195 lbs,"Orange County, Calif.",football,2016
+Kyle Moreno,QB,Sr.,6' 2'',215 lbs,"Pleasanton, CA",football,2016
+Ben Rosenblatt,K,Jr.,5' 10'',180 lbs,"Newton Center, Mass.",football,2016
+Nicholas Duncan,QB,So.,6' 0'',180 lbs,"St. Louis, Mo.",football,2016
+Westerband Lindor,TE,So.,6' 4'',190 lbs,"St. Louis, MO",football,2016
+Howard Strachan,WR,So.,5' 10'',175 lbs,"Mooresville, NC",football,2016
+George Schmelzle,FS,Fr.,6' 3'',205 lbs,"Naples, FL",football,2016
+Matthew Byer,WR,Jr.,6' 1'',190 lbs,"Oak Park, CA",football,2016
+Alexander Jette,WR,Sr.,6' 1'',190 lbs,"North Attleboro, MA",football,2016
+Jordan Ferguson,DB,Sr.,6' 1'',185 lbs,"Ladera Heights, CA",football,2016
+Cody Young,QB,Fr.,6' 3'',210 lbs,"Naples, FL",football,2016
+Brett Estes,P/K,Jr.,6' 2'',200 lbs,"East Greenwich, RI",football,2016
+Demitri Jackson,WR,Fr.,6' 2'',190 lbs,"Nashua, NH",football,2016
+Josh Greene,CB,So.,6' 0'',180 lbs,"Fayetteville, GA",football,2016
+Frank Tull,DB,Jr.,5' 10'',170 lbs,"Desoto, TX",football,2016
+Connor Coughlin,FS,Jr.,6' 0'',195 lbs,"Medford, NY",football,2016
+Jakob Prall,WR,Fr.,6' 0'',175 lbs,"Tipp City, OH",football,2016
+Jorquel Condomina,CB,So.,6' 0'',165 lbs,"Naples, Fla.",football,2016
+Daniel Aidman,ILB,So.,6' 2'',205 lbs,"Austin, TX",football,2016
+Alexander Lee,K,Fr.,6' 0'',190 lbs,"Los Angeles, CA",football,2016
+Ike Marchie,DB,So.,6' 3'',190 lbs,"Belleville, MI",football,2016
+Ryan Scotti,WR,Fr.,6' 1'',185 lbs,"Orange County, CA",football,2016
+Sebastian Dovi,FS,So.,6' 0'',175 lbs,"Newark, Del.",football,2016
+Brandon Davenport,ILB,Sr.,6' 1'',230 lbs,"Murfreesboro, TN",football,2016
+Jordan Anderson,OLB,So.,6' 3'',190 lbs,"Knoxville, TN",football,2016
+Jeffrey Biestek,TE,Sr.,6' 0'',250 lbs,"Yalesville, CT",football,2016
+Ryan O'Neill,ILB,So.,6' 3'',210 lbs,"Wayne, PA",football,2016
+Zachary Neill,OLB,Jr.,6' 0'',185 lbs,"Surprise, AZ",football,2016
+Isaiah Thompkins,ILB,So.,6' 2'',235 lbs,"Middletown, CT",football,2016
+Michael Ramirez,DB,Sr.,5' 8'',190 lbs,"Anaheim, CA",football,2016
+Andrew Bolton,RB,Fr.,5' 10'',190 lbs,"Troy, NY",football,2016
+James Martino,ILB,Jr.,6' 0'',225 lbs,"Woodbridge, CT",football,2016
+Jake Hall,RB,Jr.,6' 1'',220 lbs,"Tipp City, OH",football,2016
+Dawson Goepferich,K/P,Fr.,6' 1'',170 lbs,"Holt, Mo.",football,2016
+David Moodie,RB,So.,5' 11'',195 lbs,"Sanford, FL",football,2016
+Garrett Robinson,RB,So.,5' 8'',170 lbs,"Santa Clarita, CA",football,2016
+Johnny Pena,RB,Sr.,5' 9'',200 lbs,"Tucson, AZ",football,2016
+Jalen Broome,RB,Jr.,5' 10'',185 lbs,"University Park, MD",football,2016
+Cameron Webster,OLB,Fr.,6' 1'',200 lbs,"Newbury, NH",football,2016
+Nadir Pearson,CB,So.,6' 1'',165 lbs,"Clifton, NJ",football,2016
+Trey Page,RB,Fr.,6' 2'',205 lbs,"Orlando, FL",football,2016
+Terrell Smith,DB,Jr.,6' 0'',170 lbs,"Newtown Square, PA",football,2016
+Antonio Trapp,DB,Fr.,6' 0'',170 lbs,"Tyrone, GA",football,2016
+Victor Loolo,DB,Fr.,5' 11'',190 lbs,"Port Harcourt, Nigeria",football,2016
+Jay Williams,DB,Jr.,5' 8'',180 lbs,"Tucson, AZ",football,2016
+Spencer Hemmingway,WR,Fr.,6' 2'',190 lbs,"Roswell, GA",football,2016
+Gideon Dixon,FS,Jr.,6' 2'',180 lbs,"Syracuse, NY",football,2016
+Clayton Stehr,RB,Fr.,6' 0'',205 lbs,"Orinda, CA",football,2016
+Sam Russell,DB,Sr.,6' 1'',195 lbs,"Newton, MA",football,2016
+Jared Shimberg,OL,Sr.,6' 5'',265 lbs,"Tampa, FL",football,2017
+Grant Varner,DL,Jr.,6' 2'',250 lbs,"Grandview Heights, OH",football,2017
+Elijah Pierre,DT,So.,6' 2'',275 lbs,"Rockland, MA",football,2017
+Christian Montano,OL,Sr.,6' 4'',300 lbs,"Orange, CT",football,2017
+Austin Werkheiser,OL,Sr.,6' 1'',275 lbs,"Roswell, GA",football,2017
+Gardner Gendron,OL,Fr.,6' 4'',265 lbs,"Bedford, NH",football,2017
+Zachary Marti,OL,Sr.,6' 2'',300 lbs,"Miami, FL",football,2017
+Adrian Caesar,ILB,Sr.,6' 0'',200 lbs,"Miami, FL",football,2017
+Hayden Schmidt,OL,Fr.,6' 3'',280 lbs,"Lewis Center, OH",football,2017
+Chad Broome-Webster,DL,Fr.,6' 4'',240 lbs,"Orlando, Fla.",football,2017
+Jacob Wilner,P/K,Sr.,6' 2'',200 lbs,"Dallas, TX",football,2017
+Nicholas Allsop,OL,So.,6' 3'',295 lbs,"North Easton, Mass.",football,2017
+James Carnevale,OL,So.,6' 5'',295 lbs,"North Andover, MA",football,2017
+Caleb Hill,LB,Fr.,6' 0'',185 lbs,"Easley, S.C.",football,2017
+Kenari Drayton,ILB,Jr.,6' 2'',225 lbs,"Santa Ana, CA",football,2017
+Jared Cutlip,S,So.,6' 0'',200 lbs,"Sterling Heights, MI",football,2017
+Timothy Forster,OL,Fr.,6' 2'',275 lbs,"Oak Hill, Va.",football,2017
+Rory Tait,OL,So.,6' 5'',300 lbs,"New Canaan, CT",football,2017
+Brett Kahn,OL,Jr.,6' 3'',285 lbs,"Plantation, FL",football,2017
+James Babb,DL,Fr.,6' 4'',230 lbs,"Memphis, TN",football,2017
+Nicholas Kane,ILB,So.,6' 2'',210 lbs,"Alamo, Calif.",football,2017
+Sanoj Allen,DE,Sr.,6' 3'',235 lbs,"Sharpsburg, GA",football,2017
+Alexander Hughes,DE,So.,6' 3'',240 lbs,"Long Valley, NJ",football,2017
+Carter Dillon,ILB,So.,6' 1'',225 lbs,"Meredith, NH",football,2017
+Richard Jarvis,DE,Sr.,6' 2'',230 lbs,"Watertown, MA",football,2017
+Phil Lynch,OL,So.,6' 5'',310 lbs,"Milton, MA",football,2017
+Tucker Barnes,OL,Fr.,6' 3'',290 lbs,"Hahira, Ga.",football,2017
+Logan Winders,OL,Jr.,6' 4'',310 lbs,"Springfield, IL",football,2017
+Callum Flanders,DE,Fr.,6' 3'',245 lbs,"Braintree, Mass.",football,2017
+Henry Flannery,OL,So.,6' 3'',300 lbs,"New Providence, NJ",football,2017
+Josh Weisberg,DE,Jr.,6' 2'',240 lbs,"Johns Creek, GA",football,2017
+Phil Estes,,,,,,football,2017
+Daryle Banfield,DL,Jr.,6' 3'',300 lbs,"Bronx, NY",football,2017
+Thomas Kutschke,DL,Sr.,6' 7'',275 lbs,"Lake Forest, IL",football,2017
+Noah Sims,DE,Fr.,6' 1'',225 lbs,"Frisco, TX",football,2017
+Jarred Daul,DE,Fr.,6' 4'',235 lbs,"Portland, Ore.",football,2017
+Brian Mercer,DE,So.,6' 5'',240 lbs,"Melrose, Mass.",football,2017
+Michael Hoecht,DL,So.,6' 4'',260 lbs,"Oakwood, OH",football,2017
+Kingsley Ejiogu-Dike,ILB,Fr.,6' 0'',200 lbs,"Brockton, Mass.",football,2017
+Keegan O'Hern,DL,Sr.,6' 5'',230 lbs,"Syracuse, NY",football,2017
+Kieran Dowley,WR,Fr.,6' 3'',205 lbs,"Greenwich, Conn.",football,2017
+Zach Genaway,DT,Jr.,6' 3'',245 lbs,"Medford, NY",football,2017
+Andrew Hauser,TE,Jr.,6' 4'',240 lbs,"Wilmette, IL",football,2017
+Nathan Brown,DL,Fr.,5' 11'',235 lbs,"Fayetteville, Ga.",football,2017
+Sam Shadorf,TE,Fr.,6' 4'',230 lbs,"Belmont, CA",football,2017
+Ryan Kopec,K/P,Jr.,6' 1'',185 lbs,"Alpharetta, GA",football,2017
+Erik Kromer,TE,So.,6' 3'',270 lbs,"Clifton Park, N.Y.",football,2017
+Jake Behrend,TE,Jr.,6' 3'',215 lbs,"Alpharetta, GA",football,2017
+Anton Casey,TE,Jr.,6' 4'',235 lbs,"Bethesda, MD",football,2017
+Jack Palmore,WR,Sr.,6' 2'',195 lbs,"Atlanta, GA",football,2017
+Dan Gemmell,WR,Fr.,6' 0'',185 lbs,"Andover, Mass.",football,2017
+Peter Honzik,TE,Jr.,6' 4'',240 lbs,"Dorchester, MA",football,2017
+Scott Boylan,WR,Fr.,5' 10'',170 lbs,"Bakersfield, Calif.",football,2017
+Emerson Logie,TE,So.,6' 3'',245 lbs,"New Canaan, Conn.",football,2017
+Clayton Eubank,OL,Sr.,6' 4'',295 lbs,"Coto De Caza, CA",football,2017
+Jacob Wozniewski,OL,Jr.,6' 5'',270 lbs,"Dewitt, MI",football,2017
+Toby Okwara,OL,Jr.,6' 3'',310 lbs,"Charlotte, NC",football,2017
+Jack Neary,OL,Jr.,6' 5'',290 lbs,"Darien, CT",football,2017
+BJ Ubani,DB,Fr.,5' 11'',170 lbs,"West Covina, Calif.",football,2017
+Caleb Clarke,CB,So.,5' 9'',185 lbs,"Santa Clarita, CA",football,2017
+Zachary Neill,OLB,Sr.,6' 0'',185 lbs,"Surprise, AZ",football,2017
+Westerband Lindor,FS,Jr.,6' 5'',210 lbs,"St. Louis, MO",football,2017
+Livingstone Harriott,WR,So.,6' 3'',195 lbs,"Central Islip, NY",football,2017
+A.J. Ikwechegh,CB,Jr.,5' 10'',180 lbs,"Winston-Salem, NC",football,2017
+Thomas Linta,QB,Sr.,6' 4'',240 lbs,"Branford, CT",football,2017
+Ray Jackson,DB,Fr.,5' 10'',170 lbs,"Little Rock, AR",football,2017
+Andrew Livingston,QB,Jr.,6' 2'',205 lbs,"Rye, NY",football,2017
+Jaelon Blandburg,WR,So.,6' 3'',200 lbs,"Orange County, Calif.",football,2017
+James Fadule,S,So.,5' 10'',185 lbs,"Wellesley, MA",football,2017
+Nicholas Duncan,QB,Jr.,6' 1'',185 lbs,"St. Louis, Mo.",football,2017
+Ryan Scotti,WR,So.,6' 2'',175 lbs,"Orange County, CA",football,2017
+Michael McGovern,QB,Fr.,6' 0'',190 lbs,"St. Louis, Mo.",football,2017
+Robbie Felton,DB,Fr.,5' 9'',165 lbs,"Ann Arbor, MI",football,2017
+Ike Marchie,DB,Jr.,6' 3'',190 lbs,"Belleville, MI",football,2017
+Howard Strachan,WR,Jr.,5' 11'',185 lbs,"Mooresville, NC",football,2017
+Graeme Davis,OLB,Fr.,6' 1'',210 lbs,"Winchester, Mass.",football,2017
+Matthew Byer,WR,Sr.,6' 2'',205 lbs,"Oak Park, CA",football,2017
+Demitri Jackson,WR,So.,6' 2'',190 lbs,"Nashua, NH",football,2017
+Ben Rosenblatt,K,Sr.,5' 11'',195 lbs,"Newton Center, Mass.",football,2017
+Davis Bak,OLB,Fr.,6' 0'',195 lbs,"Tampa, Fla.",football,2017
+Chima Amushie,DB,Fr.,5' 10'',180 lbs,"Richmond, TX",football,2017
+Cody Young,QB,So.,6' 2'',205 lbs,"Naples, FL",football,2017
+Josh Greene,CB,Jr.,6' 0'',175 lbs,"Fayetteville, GA",football,2017
+Connor Coughlin,FS,Sr.,6' 1'',200 lbs,"Medford, NY",football,2017
+Mitchell Jonke,QB,Fr.,6' 0'',180 lbs,"Lucas, Texas",football,2017
+Jorquel Condomina,CB,Jr.,6' 0'',175 lbs,"Naples, Fla.",football,2017
+Isaac Whitney,WR,Sr.,5' 9'',190 lbs,"Venice, FL",football,2017
+Tristan Laskowski,DE,Fr.,6' 6'',230 lbs,"Venice, FL",football,2017
+Jakob Prall,WR,So.,6' 0'',185 lbs,"Tipp City, OH",football,2017
+Brett Estes,P/K,Sr.,6' 3'',225 lbs,"East Greenwich, RI",football,2017
+Frank Tull,DB,Sr.,5' 10'',195 lbs,"Desoto, TX",football,2017
+Sebastian Dovi,FS,Jr.,6' 1'',200 lbs,"Newark, Del.",football,2017
+Daniel Aidman,ILB,Jr.,6' 2'',230 lbs,"Austin, TX",football,2017
+Bradley Morris,OLB,Jr.,6' 2'',190 lbs,"Pickerington, OH",football,2017
+Ryan Putman,DE,Fr.,6' 3'',230 lbs,"Greenville, S.C.",football,2017
+Brendan Pyne,LB,So.,6' 0'',200 lbs,"Bradenton, FL",football,2017
+William Nero,ILB,Fr.,6' 3'',230 lbs,"Boca Raton, FL",football,2017
+Izayah Powell,DB,Fr.,6' 2'',175 lbs,"Bronx, N.Y.",football,2017
+Isaiah Thompkins,ILB,Jr.,6' 1'',225 lbs,"Middletown, CT",football,2017
+Andrew Bolton,RB,So.,5' 10'',200 lbs,"Troy, NY",football,2017
+George Schmelzle,FS,So.,6' 2'',195 lbs,"Naples, FL",football,2017
+James Martino,ILB,Sr.,6' 1'',230 lbs,"Woodbridge, CT",football,2017
+Jake Hall,RB,Sr.,6' 1'',220 lbs,"Tipp City, OH",football,2017
+Dawson Goepferich,K/P,So.,6' 2'',170 lbs,"Holt, Mo.",football,2017
+Jordan Anderson,OLB,Jr.,6' 2'',235 lbs,"Knoxville, TN",football,2017
+Garrett Robinson,RB,Jr.,5' 6'',170 lbs,"Santa Clarita, CA",football,2017
+David Moodie,RB,Jr.,5' 11'',200 lbs,"Sanford, FL",football,2017
+Gideon Dixon,FS,Sr.,6' 3'',200 lbs,"Syracuse, NY",football,2017
+Sam Russell,DB,Sr.,6' 2'',200 lbs,"Newton, MA",football,2017
+Jay Williams,DB,Sr.,5' 10'',180 lbs,"Tucson, AZ",football,2017
+Jalen Broome,RB,Sr.,5' 9'',205 lbs,"University Park, MD",football,2017
+Spencer Hemmingway,WR,So.,6' 2'',190 lbs,"Roswell, GA",football,2017
+Antonio Trapp,DB,So.,5' 11'',170 lbs,"Tyrone, GA",football,2017
+Terrell Smith,DB,Sr.,6' 1'',190 lbs,"Newtown Square, PA",football,2017
+Darius Daies,RB,Fr.,5' 10'',205 lbs,"St. Louis, MO",football,2017
+Cameron Webster,OLB,So.,6' 2'',200 lbs,"Newbury, NH",football,2017
+Clayton Stehr,RB,So.,6' 0'',205 lbs,"Orinda, CA",football,2017
+Victor Loolo,DB,So.,5' 11'',185 lbs,"Port Harcourt, Nigeria",football,2017
+Daniel Monaghan,OL,Fr.,6' 4'',245 lbs,"Medway, Mass.",football,2018
+Nicholas Messina,DB,Fr.,6' 0'',175 lbs,"East Setauket, N.Y.",football,2018
+Brian Mercer,DE,Jr.,6' 5'',250 lbs,"Melrose, Mass.",football,2018
+Jason Medeiros,LB,Fr.,6' 0'',220 lbs,"Rehoboth, Mass.",football,2018
+Michael McGovern,QB,So.,6' 0'',195 lbs,"St. Louis, Mo.",football,2018
+Anthony Mastroni,DL,Fr.,6' 3'',260 lbs,"Monroe, Conn.",football,2018
+Phil Lynch,OL,Jr.,6' 5'',300 lbs,"Milton, MA",football,2018
+Victor Loolo,DB,Jr.,5' 11'',200 lbs,"Port Harcourt, Nigeria",football,2018
+Emerson Logie,TE,Jr.,6' 3'',245 lbs,"New Canaan, Conn.",football,2018
+Demitri Jackson,WR,Jr.,6' 2'',195 lbs,"Nashua, NH",football,2018
+Erik Kromer,OL,Jr.,6' 3'',275 lbs,"Clifton Park, N.Y.",football,2018
+Ryan Kopec,K/P,Sr.,6' 1'',200 lbs,"Alpharetta, GA",football,2018
+Nicholas Kane,ILB,Jr.,6' 2'',225 lbs,"Alamo, Calif.",football,2018
+Mitchell Jonke,QB,So.,6' 0'',195 lbs,"Lucas, Texas",football,2018
+Alexander Hughes,LB,Jr.,6' 3'',220 lbs,"Long Valley, NJ",football,2018
+Peter Honzik,TE,Sr.,6' 4'',245 lbs,"Dorchester, MA",football,2018
+Michael Hoecht,DL,Jr.,6' 4'',310 lbs,"Oakwood, OH",football,2018
+Spencer Hemmingway,WR,Jr.,6' 2'',190 lbs,"Roswell, GA",football,2018
+Christian Montano,OL,Sr.,6' 4'',310 lbs,"Orange, CT",football,2018
+Andrew Livingston,QB,Sr.,6' 2'',205 lbs,"Rye, NY",football,2018
+Michael Neary,DL,Fr.,6' 3'',255 lbs,"Darien, Conn.",football,2018
+Maxwell Sweet,DL,Fr.,6' 3'',240 lbs,"Cypress, Texas",football,2018
+Toby Okwara,OL,Sr.,6' 3'',305 lbs,"Charlotte, NC",football,2018
+Zachary Harris,OL,Fr.,6' 4'',250 lbs,"Denham Springs, La.",football,2018
+Phil Estes,,,,,,football,2018
+Cody Young,QB,Jr.,6' 2'',195 lbs,"Naples, FL",football,2018
+Logan Winders,OL,Sr.,6' 4'',300 lbs,"Springfield, IL",football,2018
+Austin Whitsett,RB,Fr.,5' 10'',190 lbs,"San Clemente, CA",football,2018
+Grant Varner,DL,Sr.,6' 2'',270 lbs,"Grandview Heights, OH",football,2018
+BJ Ubani,DB,So.,5' 11'',180 lbs,"West Covina, Calif.",football,2018
+Brendan Talarczyk,DB,Fr.,6' 1'',180 lbs,"Oakwood, OH",football,2018
+William Such,LB,Fr.,6' 2'',225 lbs,"Cranston, R.I.",football,2018
+Allen Smith,RB,Fr.,5' 9'',185 lbs,"Westerville, Ohio",football,2018
+Hayden Schmidt,OL,So.,6' 3'',310 lbs,"Lewis Center, OH",football,2018
+Gabriel Sanchez,TE,Fr.,6' 5'',245 lbs,"Modesto, Calif.",football,2018
+Garrett Robinson,RB,Sr.,5' 6'',175 lbs,"Santa Clarita, CA",football,2018
+Brendan Pyne,LB,Jr.,6' 0'',205 lbs,"Bradenton, FL",football,2018
+Ryan Putman,DE,So.,6' 3'',230 lbs,"Greenville, S.C.",football,2018
+Jakob Prall,WR,Jr.,6' 0'',190 lbs,"Tipp City, OH",football,2018
+Izayah Powell,DB,So.,6' 2'',190 lbs,"Bronx, N.Y.",football,2018
+Elijah Pierre,DT,Jr.,6' 2'',275 lbs,"Rockland, MA",football,2018
+Clayton Perrin,S,Fr.,6' 1'',200 lbs,"Pflugerville, Texas",football,2018
+William Nero,ILB,So.,6' 3'',230 lbs,"Boca Raton, FL",football,2018
+Livingstone Harriott,WR,Jr.,6' 3'',200 lbs,"Central Islip, NY",football,2018
+Brett Kahn,OL,Sr.,6' 3'',270 lbs,"Plantation, FL",football,2018
+Dawson Goepferich,K/P,Jr.,6' 2'',200 lbs,"Holt, Mo.",football,2018
+Jorquel Condomina,CB,Sr.,6' 0'',180 lbs,"Naples, Fla.",football,2018
+Drew Clippert,QB,Fr.,6' 2'',190 lbs,"Saint Charles, IL",football,2018
+Caleb Clarke,CB,Jr.,5' 9'',185 lbs,"Santa Clarita, CA",football,2018
+Anton Casey,TE,Sr.,6' 4'',235 lbs,"Bethesda, MD",football,2018
+James Carnevale,OL,Jr.,6' 5'',295 lbs,"North Andover, MA",football,2018
+Nathan Brown,DL,So.,5' 11'',250 lbs,"Fayetteville, Ga.",football,2018
+Chad Broome-Webster,DL,So.,6' 4'',275 lbs,"Orlando, Fla.",football,2018
+Dylan Brady,K,Fr.,6' 2'',190 lbs,"Rancho Santa Margarita, CA",football,2018
+Scott Boylan,WR,So.,5' 10'',165 lbs,"Bakersfield, Calif.",football,2018
+Andrew Bolton,RB,Jr.,5' 10'',210 lbs,"Troy, NY",football,2018
+Jaelon Blandburg,WR,Jr.,6' 3'',200 lbs,"Orange County, Calif.",football,2018
+Max Beati,OL,Fr.,6' 8'',320 lbs,"Andover, MA",football,2018
+Tucker Barnes,OL,So.,6' 3'',295 lbs,"Hahira, Ga.",football,2018
+Daryle Banfield,DL,Sr.,6' 3'',300 lbs,"Bronx, NY",football,2018
+Davis Bak,OLB,So.,6' 0'',195 lbs,"Tampa, Fla.",football,2018
+James Babb,DL,So.,6' 4'',260 lbs,"Memphis, TN",football,2018
+Chima Amushie,DB,So.,5' 10'',185 lbs,"Richmond, TX",football,2018
+Nicholas Allsop,OL,Jr.,6' 3'',295 lbs,"North Easton, Mass.",football,2018
+Paxton Alexander,RB,Fr.,5' 11'',175 lbs,"Dallas, TX",football,2018
+Jared Cutlip,S,Jr.,6' 0'',220 lbs,"Sterling Heights, MI",football,2018
+Darius Daies,RB,So.,5' 10'',185 lbs,"St. Louis, MO",football,2018
+Daniel Aidman,ILB,Sr.,6' 2'',220 lbs,"Austin, TX",football,2018
+Jarred Daul,DE,So.,6' 4'',255 lbs,"Portland, Ore.",football,2018
+Charlie Dallape,DB,Fr.,6' 3'',185 lbs,"San Francisco, Calif.",football,2018
+Gardner Gendron,OL,So.,6' 4'',280 lbs,"Bedford, NH",football,2018
+Zach Genaway,DT,Sr.,6' 3'',260 lbs,"Medford, NY",football,2018
+Dan Gemmell,WR,So.,6' 0'',190 lbs,"Andover, Mass.",football,2018
+Camden Gagnon,DE,Fr.,6' 4'',245 lbs,"Goffstown, N.H.",football,2018
+Timothy Forster,OL,So.,6' 2'',280 lbs,"Oak Hill, Va.",football,2018
+Joseph Gulla,LB,Fr.,6' 2'',225 lbs,"Orlando, Fla.",football,2018
+Robbie Felton,DB,So.,5' 9'',175 lbs,"Ann Arbor, MI",football,2018
+Maximilian Faro,RB,Fr.,5' 8'',190 lbs,"Seabrook, NH",football,2018
+Callum Flanders,TE,So.,6' 3'',260 lbs,"Braintree, Mass.",football,2018
+William Eveld,QB,Fr.,6' 3'',185 lbs,"Seguin, TX",football,2018
+Kingsley Ejiogu-Dike,ILB,So.,6' 0'',265 lbs,"Brockton, Mass.",football,2018
+Nicholas Duncan,QB,Sr.,6' 1'',195 lbs,"St. Louis, Mo.",football,2018
+Graeme Davis,OLB,So.,6' 1'',225 lbs,"Winchester, Mass.",football,2018
+Kenari Drayton,ILB,Sr.,6' 2'',235 lbs,"Santa Ana, CA",football,2018
+Kieran Dowley,WR,So.,6' 3'',200 lbs,"Greenwich, Conn.",football,2018
+Sebastian Dovi,FS,Sr.,6' 1'',200 lbs,"Newark, Del.",football,2018
+Jack Doty,OL,Fr.,6' 7'',290 lbs,"Harrison, N.Y.",football,2018
+Carter Dillon,ILB,Jr.,6' 1'',225 lbs,"Meredith, NH",football,2018
+James Fadule,S,Jr.,5' 10'',190 lbs,"Wellesley, MA",football,2018
+Michael Neary,DL,So.,6' 3'',255 lbs,"Darien, Conn.",football,2019
+Harrison Ochs,DB,Fr.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2019
+Josh Ofili,DB,Fr.,6' 2'',190 lbs,"Katy, Texas",football,2019
+Elijah Pierre,DT,Sr.,6' 2'',275 lbs,"Rockland, MA",football,2019
+Clayton Perrin,S,So.,6' 1'',200 lbs,"Pflugerville, Texas",football,2019
+EJ Perry,QB,Jr.,6' 2'',210 lbs,"Andover, Mass.",football,2019
+Daniel Monaghan,TE,So.,6' 4'',245 lbs,"Medway, Mass.",football,2019
+Toby Okwara,OL,Sr.,6' 3'',305 lbs,"Charlotte, NC",football,2019
+Nicholas Messina,DB,So.,6' 0'',175 lbs,"East Setauket, N.Y.",football,2019
+Andrew Livingston,QB,Sr.,6' 2'',205 lbs,"Rye, NY",football,2019
+Jason Medeiros,LB,So.,6' 0'',220 lbs,"Rehoboth, Mass.",football,2019
+Michael McGovern,QB,Jr.,6' 0'',195 lbs,"St. Louis, Mo.",football,2019
+Griffin McGovern,S,Fr.,6' 1'',190 lbs,"Emerson, N.J.",football,2019
+Anthony Mastroni,DL,So.,6' 3'',260 lbs,"Monroe, Conn.",football,2019
+Tommy Maloney,DE,Fr.,6' 3'',240 lbs,"Newton, Mass.",football,2019
+Phil Lynch,OL,Sr.,6' 5'',300 lbs,"Milton, MA",football,2019
+Victor Loolo,DB,Sr.,5' 11'',200 lbs,"Port Harcourt, Nigeria",football,2019
+Emerson Logie,TE,Sr.,6' 3'',245 lbs,"New Canaan, Conn.",football,2019
+Izayah Powell,DB,Jr.,6' 2'',190 lbs,"Bronx, N.Y.",football,2019
+Brian Mercer,DE,Sr.,6' 5'',250 lbs,"Melrose, Mass.",football,2019
+Jakob Prall,WR,Sr.,6' 0'',190 lbs,"Tipp City, OH",football,2019
+William Such,RB,So.,6' 2'',225 lbs,"Cranston, R.I.",football,2019
+Brendan Pyne,LB,Sr.,6' 0'',205 lbs,"Bradenton, FL",football,2019
+Erik Kromer,OL,Sr.,6' 3'',275 lbs,"Clifton Park, N.Y.",football,2019
+James Perry '00,,,,,,football,2019
+Cody Young,QB,Sr.,6' 2'',195 lbs,"Naples, FL",football,2019
+John Williamson,OL,Fr.,6' 5'',255 lbs,"Gaithersburg, Md.",football,2019
+Fletcher Whalen,K/P,Fr.,5' 10'',175 lbs,"Toano, Va.",football,2019
+Michael Walsh,QB,Fr.,6' 2'',195 lbs,"East Greenwich, R.I.",football,2019
+Judson Utgard,OL,Fr.,6' 3'',280 lbs,"Columbus, Ohio",football,2019
+BJ Ubani,DB,Jr.,5' 11'',180 lbs,"West Covina, Calif.",football,2019
+Nicholas Turbyfill,OL,Fr.,6' 6'',315 lbs,"Ashburn, Va.",football,2019
+Zachary Targoff,WR,Fr.,6' 0'',180 lbs,"New York, N.Y.",football,2019
+Maxwell Sweet,DL,So.,6' 3'',240 lbs,"Cypress, Texas",football,2019
+Hayes Sutton,WR,Fr.,6' 0'',200 lbs,"Norcross, Ga.",football,2019
+Griffin Sturtz,DE,Fr.,6' 5'',240 lbs,"Naperville, Ill.",football,2019
+Eric Stoeckel,DT,Fr.,6' 1'',250 lbs,"Totowa, N.J.",football,2019
+Allen Smith,RB,So.,5' 9'',185 lbs,"Westerville, Ohio",football,2019
+Joseph Shell,S,Fr.,6' 1'',190 lbs,"Frederick, Md.",football,2019
+Gabriel Sanchez,TE,So.,6' 5'',245 lbs,"Modesto, Calif.",football,2019
+Ethan Royer,LB,Fr.,6' 2'',220 lbs,"Hilliard, Ohio",football,2019
+Wes Rockett,WR,Fr.,6' 0'',175 lbs,"Marblehead, Mass.",football,2019
+Ryan Putman,DE,Jr.,6' 3'',230 lbs,"Greenville, S.C.",football,2019
+Jack Kosar,LB,Fr.,6' 3'',235 lbs,"Chagrin Falls, Ohio",football,2019
+Terrence Lane II,DE,Fr.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2019
+Hunter Keneley,OL,Fr.,6' 6'',305 lbs,"San Clemente, Calif.",football,2019
+Kingsley Ejiogu-Dike,ILB,Jr.,6' 0'',265 lbs,"Brockton, Mass.",football,2019
+Kieran Dowley,DB,Jr.,6' 3'',200 lbs,"Greenwich, Conn.",football,2019
+Kris Diallo,WR,Fr.,6' 2'',200 lbs,"Chicago, Ill.",football,2019
+Cooper DeVeau,DB,Fr.,5' 11'',180 lbs,"Foxboro, Mass.",football,2019
+Graeme Davis,WR,Jr.,6' 1'',225 lbs,"Winchester, Mass.",football,2019
+Jarred Daul,DE,Jr.,6' 4'',255 lbs,"Portland, Ore.",football,2019
+Charlie Dallape,DB,So.,6' 3'',205 lbs,"San Francisco, Calif.",football,2019
+Jared Cutlip,LB,Sr.,6' 0'',220 lbs,"Sterling Heights, MI",football,2019
+James Carnevale,OL,Sr.,6' 5'',295 lbs,"North Andover, MA",football,2019
+James Fadule,S,Sr.,5' 10'',190 lbs,"Wellesley, MA",football,2019
+Nathan Brown,DL,Jr.,5' 11'',250 lbs,"Fayetteville, Ga.",football,2019
+Chris Boyle,TE,Fr.,6' 4'',215 lbs,"Columbus, Ohio",football,2019
+Scott Boylan,WR,Jr.,5' 10'',165 lbs,"Bakersfield, Calif.",football,2019
+Andrew Bolton,RB,Sr.,5' 10'',210 lbs,"Troy, NY",football,2019
+Jaelon Blandburg,WR,Sr.,6' 3'',200 lbs,"Orange County, Calif.",football,2019
+Tucker Barnes,OL,Jr.,6' 3'',295 lbs,"Hahira, Ga.",football,2019
+Davis Bak,OLB,Jr.,6' 0'',195 lbs,"Tampa, Fla.",football,2019
+Nicholas Allsop,OL,Sr.,6' 3'',295 lbs,"North Easton, Mass.",football,2019
+Donovan Allen,OL,Fr.,6' 5'',285 lbs,"Douglasville, Ga.",football,2019
+Jacob Kopeld,DB/K,Fr.,6' 1'',195 lbs,"Morristown, N.J.",football,2019
+Chad Broome-Webster,OL,Jr.,6' 4'',275 lbs,"Orlando, Fla.",football,2019
+Lucas Ferraro,OL,Fr.,6' 2'',260 lbs,"Newton, Mass.",football,2019
+Malcolm Brunson,LB,Fr.,6' 0'',220 lbs,"Plainfield, N.J.",football,2019
+Callum Flanders,DL,Jr.,6' 3'',260 lbs,"Braintree, Mass.",football,2019
+Sean Kelly,DE,Fr.,6' 2'',225 lbs,"Clarendon Hills, Ill.",football,2019
+Jalen Fisher,DB,Fr.,5' 11'',185 lbs,"Los Angeles, Calif.",football,2019
+Nicholas Kane,ILB,Sr.,6' 2'',225 lbs,"Alamo, Calif.",football,2019
+Mitchell Jonke,QB,Jr.,6' 0'',195 lbs,"Lucas, Texas",football,2019
+Brooks Jones,DL,Fr.,6' 2'',290 lbs,"Wayland, Mass.",football,2019
+Demitri Jackson,WR,Sr.,6' 2'',195 lbs,"Nashua, NH",football,2019
+Alexander Hughes,LB,Sr.,6' 3'',220 lbs,"Long Valley, NJ",football,2019
+Allan Houston III,WR,Fr.,6' 0'',185 lbs,"Greenwich, Conn.",football,2019
+Michael Hoecht,DL,Sr.,6' 4'',310 lbs,"Oakwood, OH",football,2019
+Spencer Hemmingway,WR,Sr.,6' 2'',190 lbs,"Roswell, GA",football,2019
+Obi Ifediora,WR,Jr.,5' 10'',175 lbs,"Verona, Wis.",football,2019
+Zachary Harris,OL,So.,6' 4'',250 lbs,"Denham Springs, La.",football,2019
+Livingstone Harriott,WR,Sr.,6' 3'',200 lbs,"Central Islip, NY",football,2019
+Joseph Gulla,LB,So.,6' 2'',225 lbs,"Orlando, Fla.",football,2019
+Dawson Goepferich,K/P,Sr.,6' 2'',200 lbs,"Holt, Mo.",football,2019
+Aidan Gilman,QB,Fr.,6' 2'',210 lbs,"Westfield, N.J.",football,2019
+Dan Gemmell,WR,Jr.,6' 0'',190 lbs,"Andover, Mass.",football,2019
+Camden Gagnon,DE,So.,6' 4'',245 lbs,"Goffstown, N.H.",football,2019
+Junior Gafa,OLB,Fr.,5' 10'',200 lbs,"San Pedro, Calif.",football,2019
+Timothy Forster,OL,Jr.,6' 2'',280 lbs,"Oak Hill, Va.",football,2019
+John Williamson,OL,So.,6' 5'',255 lbs,"Gaithersburg, Md.",football,2020
+Chad Broome-Webster,OL,Sr.,6' 4'',275 lbs,"Orlando, Fla.",football,2020
+Nicholas Turbyfill,OL,So.,6' 6'',315 lbs,"Ashburn, Va.",football,2020
+Gavin Miller,OL,Fr.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2020
+Hunter Keneley,OL,So.,6' 6'',305 lbs,"San Clemente, Calif.",football,2020
+Michael Neary,DT,Jr.,6' 3'',255 lbs,"Darien, Conn.",football,2020
+Jack Connolly,OL,Fr.,6' 4'',290 lbs,"Canton, Mass.",football,2020
+Auzzy Joseph,OL,Fr.,6' 4'',250 lbs,"Corona, N.Y.",football,2020
+Zachary Harris,OL,Jr.,6' 4'',250 lbs,"Denham Springs, La.",football,2020
+Lucas Ferraro,OL,So.,6' 2'',260 lbs,"Newton, Mass.",football,2020
+Judson Utgard,OL,So.,6' 3'',280 lbs,"Columbus, Ohio",football,2020
+Donovan Allen,OL,So.,6' 5'',285 lbs,"Douglasville, Ga.",football,2020
+Alexander Harris,OL,Fr.,6' 5'',295 lbs,"Denham Springs, La.",football,2020
+Tucker Barnes,OL,Sr.,6' 3'',295 lbs,"Hahira, Ga.",football,2020
+Terrence Lane II,DE,So.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2020
+Timothy Forster,OL,Sr.,6' 2'',280 lbs,"Oak Hill, Va.",football,2020
+Jack Kosar,ILB,So.,6' 3'',235 lbs,"Chagrin Falls, Ohio",football,2020
+Nicholas Kane,ILB,Sr.,6' 2'',225 lbs,"Alamo, Calif.",football,2020
+Kevin Coss,DL,Fr.,6' 2'',240 lbs,"Charlotte, N.C.",football,2020
+Michael Davidson,LS,Fr.,6' 2'',215 lbs,"Stone Oak, Texas",football,2020
+Jacob Kopeld,K,So.,6' 1'',195 lbs,"Morristown, N.J.",football,2020
+Gabriel Sanchez,TE,Jr.,6' 5'',245 lbs,"Modesto, Calif.",football,2020
+Jordan Reed,OL,Fr.,6' 3'',295 lbs,"Portland, Ore.",football,2020
+Daniel Monaghan,TE,Jr.,6' 4'',245 lbs,"Medway, Mass.",football,2020
+John Holmes,DE,Fr.,6' 3'',230 lbs,"East Grand Rapids, Mich.",football,2020
+Kris Diallo,WR,So.,6' 2'',200 lbs,"Chicago, Ill.",football,2020
+Joseph Gulla,DL,Jr.,6' 2'',225 lbs,"Orlando, Fla.",football,2020
+Jake Willcox,QB,Fr.,6' 2'',195 lbs,"Everett, Mass.",football,2020
+Colton Vardell,DE,Fr.,6' 5'',220 lbs,"Pleasanton, Calif.",football,2020
+Hunter Folsom,OL,Jr.,6' 3'',275 lbs,"Ocala, Fla.",football,2020
+Sidney Schwartz,RB,Jr.,6' 1'',200 lbs,"Calabasas, Calif.",football,2020
+Callum Flanders,DE,Sr.,6' 3'',260 lbs,"Braintree, Mass.",football,2020
+Tommy Maloney,DE,So.,6' 3'',240 lbs,"Newton, Mass.",football,2020
+Camden Gagnon,DE,Jr.,6' 4'',245 lbs,"Goffstown, N.H.",football,2020
+Brooks Jones,DE,So.,6' 2'',290 lbs,"Wayland, Mass.",football,2020
+Jarred Daul,DE,Sr.,6' 4'',255 lbs,"Portland, Ore.",football,2020
+Dan Gemmell,WR,Sr.,6' 0'',190 lbs,"Andover, Mass.",football,2020
+Justin Anagonye,DE,Fr.,6' 3'',240 lbs,"Southfield, Mich.",football,2020
+Kingsley Ejiogu-Dike,ILB,Sr.,6' 0'',265 lbs,"Brockton, Mass.",football,2020
+Maxwell Sweet,DT,Jr.,6' 3'',240 lbs,"Cypress, Texas",football,2020
+Matthew Littlejohn,DE,Fr.,6' 4'',220 lbs,"New Braunfels, Texas",football,2020
+Nathan Brown,DE,Sr.,5' 11'',250 lbs,"Fayetteville, Ga.",football,2020
+Mark Mahoney,WR,Fr.,6' 5'',210 lbs,"Cohasset, Mass.",football,2020
+Jack Foster,TE,Fr.,6' 6'',225 lbs,"Mankato, Minn.",football,2020
+Garrett Valentine,WR,Fr.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2020
+Hayes Sutton,WR,So.,6' 0'',200 lbs,"Norcross, Ga.",football,2020
+John Parsons,TE,Fr.,6' 5'',235 lbs,"Hanover, N.H.",football,2020
+Wes Rockett,WR,So.,6' 0'',175 lbs,"Marblehead, Mass.",football,2020
+James Perry '00,,,,,,football,2020
+Davis Bak,OLB,Sr.,6' 0'',195 lbs,"Tampa, Fla.",football,2020
+Michael McGovern,QB,Sr.,6' 0'',195 lbs,"St. Louis, Mo.",football,2020
+Addison Matevia,LB,Fr.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2020
+Cameron Impemba,WR,Fr.,6' 2'',180 lbs,"Burlington, Mass.",football,2020
+Isaiah Gamble,LB,Fr.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2020
+Graham Walker,WR,Fr.,6' 3'',200 lbs,"Hinesburg, Vt.",football,2020
+Michael Walsh,QB,So.,6' 2'',195 lbs,"East Greenwich, R.I.",football,2020
+Mac Franklin,LB,Fr.,6' 2'',190 lbs,"Scottsdale, Ariz.",football,2020
+Jalen Fisher,CB,So.,5' 11'',185 lbs,"Los Angeles, Calif.",football,2020
+Jaelon Blandburg,WR,Sr.,6' 3'',200 lbs,"Orange County, Calif.",football,2020
+Chris Boyle,TE,So.,6' 4'',215 lbs,"Columbus, Ohio",football,2020
+Aidan Gilman,QB,So.,6' 2'',210 lbs,"Westfield, N.J.",football,2020
+Junior Gafa,OLB,So.,5' 10'',200 lbs,"San Pedro, Calif.",football,2020
+Kieran Dowley,TE,Sr.,6' 3'',200 lbs,"Greenwich, Conn.",football,2020
+Scott Boylan,WR,Sr.,5' 10'',185 lbs,"Bakersfield, Calif.",football,2020
+Malcolm Brunson,ILB,So.,6' 0'',220 lbs,"Plainfield, N.J.",football,2020
+Emerson Logie,TE,Sr.,6' 3'',245 lbs,"New Canaan, Conn.",football,2020
+Nate Lussier,QB,Fr.,6' 3'',200 lbs,"North Providence, R.I.",football,2020
+Harrison Ochs,CB,So.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2020
+Treyvon Hobbs,CB,Fr.,5' 11'',170 lbs,"Jacksonville, Fla.",football,2020
+EJ Perry,QB,Sr.,6' 2'',210 lbs,"Andover, Mass.",football,2020
+Izayah Powell,ILB,Sr.,6' 2'',190 lbs,"Bronx, N.Y.",football,2020
+Mitchell Jonke,QB,Sr.,6' 0'',195 lbs,"Lucas, Texas",football,2020
+BJ Ubani,CB,Sr.,5' 11'',180 lbs,"West Covina, Calif.",football,2020
+Anthony Mastroni,DT,Jr.,6' 3'',260 lbs,"Monroe, Conn.",football,2020
+Graeme Davis,TE,Sr.,6' 1'',225 lbs,"Winchester, Mass.",football,2020
+Allan Houston III,WR,So.,6' 0'',185 lbs,"Greenwich, Conn.",football,2020
+Obi Ifediora,WR,Sr.,5' 10'',175 lbs,"Verona, Wis.",football,2020
+Clayton Perrin,S,Jr.,6' 1'',200 lbs,"Pflugerville, Texas",football,2020
+Sean Kelly,DE,So.,6' 2'',225 lbs,"Clarendon Hills, Ill.",football,2020
+Charlie Dallape,CB,Jr.,6' 3'',205 lbs,"San Francisco, Calif.",football,2020
+Nicholas Messina,DB,Jr.,6' 0'',175 lbs,"East Setauket, N.Y.",football,2020
+Ryan Putman,DE,Sr.,6' 3'',230 lbs,"Greenville, S.C.",football,2020
+Jason Medeiros,ILB,Jr.,6' 0'',220 lbs,"Rehoboth, Mass.",football,2020
+Christian Thomas,S,Fr.,6' 1'',175 lbs,"Richmond, Va.",football,2020
+Allen Smith,RB,Jr.,5' 10'',200 lbs,"Westerville, Ohio",football,2020
+Ethan Royer,ILB,So.,6' 2'',220 lbs,"Hilliard, Ohio",football,2020
+Declan Boyle,P,Fr.,6' 2'',215 lbs,"Kennett Square, Pa.",football,2020
+Ian Franzoni,RB,Fr.,5' 11'',190 lbs,"Robbinsville, N.J.",football,2020
+Joseph Shell,S,So.,6' 1'',190 lbs,"Frederick, Md.",football,2020
+Curt McGhee,S,Fr.,6' 2'',185 lbs,"Wheeling, W.Va.",football,2020
+Shane Prevot,CB,Fr.,6' 0'',190 lbs,"New Milford, N.J.",football,2020
+Griffin Sturtz,OL,So.,6' 5'',240 lbs,"Naperville, Ill.",football,2020
+Griffin McGovern,S,So.,6' 1'',190 lbs,"Emerson, N.J.",football,2020
+Aubrey Parker,CB,Fr.,5' 10'',185 lbs,"Belleville, Ill.",football,2020
+Josh Ofili,S,So.,6' 2'',190 lbs,"Katy, Texas",football,2020
+William Such,RB,Jr.,6' 2'',225 lbs,"Cranston, R.I.",football,2020
+Dylan Duchene,S,Fr.,6' 2'',200 lbs,"Stuart, Fla.",football,2020
+Cooper DeVeau,CB,So.,5' 11'',180 lbs,"Foxboro, Mass.",football,2020
+Fletcher Whalen,K,So.,5' 10'',175 lbs,"Toano, Va.",football,2020
+Zachary Targoff,WR,So.,6' 0'',180 lbs,"New York, N.Y.",football,2020
+Mashod Harrison,RB,Fr.,6' 0'',200 lbs,"Livingston, N.J.",football,2020
 Timothy Forster,OL,Sr.,6' 2'',280 lbs,"Oak Hill, Va.",football,2021
-Kevin Coss,DT,So.,6' 2'',240 lbs,"Charlotte, N.C.",football,2021
 Tucker Barnes,OL,Sr.,6' 3'',295 lbs,"Hahira, Ga.",football,2021
 Jordan Reed,OL,So.,6' 3'',295 lbs,"Portland, Ore.",football,2021
 Hunter Folsom,OL,Sr.,6' 3'',275 lbs,"Ocala, Fla.",football,2021
 Judson Utgard,OL,Jr.,6' 3'',280 lbs,"Columbus, Ohio",football,2021
-AJ Heidtke,OL,Fr.,6' 4'',290 lbs,"Andover, Mass.",football,2021
-Chad Broome-Webster,OL,Sr.,6' 4'',275 lbs,"Orlando, Fla.",football,2021
-Nicholas Turbyfill,OL,Jr.,6' 6'',315 lbs,"Ashburn, Va.",football,2021
 Gavin Miller,OL,So.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2021
-Lucas Ferraro,OL,Jr.,6' 2'',260 lbs,"Newton, Mass.",football,2021
-Hunter Keneley,OL,Jr.,6' 6'',305 lbs,"San Clemente, Calif.",football,2021
-Jack Connolly,OL,So.,6' 4'',290 lbs,"Canton, Mass.",football,2021
-Michael Bumpus,DL,Fr.,6' 4'',255 lbs,"Ponte Vedra Beach, Fla.",football,2021
-Ivan Macksyine,DL,Fr.,6' 1'',260 lbs,"Cape Coral, Fla.",football,2021
-Winston Jordan,DL,Fr.,6' 3'',265 lbs,"Blackwood, N.J.",football,2021
-Osagie Noruwa,OL,Fr.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2021
-Ryan Putman,OLB,Sr.,6' 3'',230 lbs,"Greenville, S.C.",football,2021
+Nicholas Turbyfill,OL,Jr.,6' 6'',315 lbs,"Ashburn, Va.",football,2021
 Kevin Rohde,OL,Fr.,6' 4'',275 lbs,"Purchase, N.Y.",football,2021
+Lucas Ferraro,OL,Jr.,6' 2'',260 lbs,"Newton, Mass.",football,2021
+Griffin Sturtz,OL,Jr.,6' 5'',240 lbs,"Naperville, Ill.",football,2021
+AJ Heidtke,OL,Fr.,6' 4'',290 lbs,"Andover, Mass.",football,2021
+Osagie Noruwa,OL,Fr.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2021
+Sean Kelly,DE,Jr.,6' 2'',245 lbs,"Clarendon Hills, Ill.",football,2021
+Ivan Macksyine,DL,Fr.,6' 1'',260 lbs,"Cape Coral, Fla.",football,2021
+Kevin Coss,DT,So.,6' 2'',240 lbs,"Charlotte, N.C.",football,2021
+Caleb Moorhead,LB,Fr.,6' 3'',200 lbs,"Glen Ellyn, Ill.",football,2021
+CJ Hankins,LB,Fr.,5' 11'',220 lbs,"Cleveland, Ohio",football,2021
+Donovan Allen,OL,Jr.,6' 5'',285 lbs,"Douglasville, Ga.",football,2021
+Michael Davidson,LS,So.,6' 2'',215 lbs,"Stone Oak, Texas",football,2021
+Joseph Gulla,DE,Sr.,6' 2'',225 lbs,"Orlando, Fla.",football,2021
+Anthony Mastroni,DT,Sr.,6' 3'',260 lbs,"Monroe, Conn.",football,2021
+Addison Matevia,ILB,So.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2021
+Nicholas Messina,CB,Sr.,6' 0'',175 lbs,"East Setauket, N.Y.",football,2021
+Ryan Putman,OLB,Sr.,6' 3'',230 lbs,"Greenville, S.C.",football,2021
+Hunter Keneley,OL,Jr.,6' 6'',305 lbs,"San Clemente, Calif.",football,2021
 Jack Kosar,ILB,Jr.,6' 3'',235 lbs,"Chagrin Falls, Ohio",football,2021
-Gabriel Sanchez,TE,Sr.,6' 5'',245 lbs,"Modesto, Calif.",football,2021
-Daniel Monaghan,TE,Sr.,6' 4'',245 lbs,"Medway, Mass.",football,2021
-Quincy Eutsay,DE,Fr.,6' 2'',215 lbs,"Roxbury, Mass.",football,2021
-Ben Moseley,WR,Fr.,6' 2'',175 lbs,"Houston, Texas",football,2021
-Kyle Philbin,DL,Fr.,6' 4'',260 lbs,"Fitchburg, Mass.",football,2021
-Jackson Caputo,WR,Sr.,6' 4'',225 lbs,"Riverside, Conn.",football,2021
-Carlos Ponce de Leon,DE,Fr.,6' 2'',225 lbs,"Puebla, Mexico",football,2021
-Jack Foster,TE,So.,6' 6'',225 lbs,"Mankato, Minn.",football,2021
-Mark Mahoney,WR,So.,6' 5'',210 lbs,"Cohasset, Mass.",football,2021
-Wes Rockett,WR,Jr.,6' 0'',175 lbs,"Marblehead, Mass.",football,2021
-John Parsons,TE,So.,6' 5'',235 lbs,"Hanover, N.H.",football,2021
-Garrett Valentine,WR,So.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2021
-James Perry '00,,,,,,football,2021
-Nic Jones,TE,Fr.,6' 5'',250 lbs,"Raleigh, N.C.",football,2021
-Brooks Jones,DT,Jr.,6' 2'',290 lbs,"Wayland, Mass.",football,2021
-Nathan Brown,DE,Sr.,5' 11'',250 lbs,"Fayetteville, Ga.",football,2021
+Auzzy Joseph,OL,So.,6' 4'',250 lbs,"Corona, N.Y.",football,2021
 Tommy Maloney,DE,Jr.,6' 3'',240 lbs,"Newton, Mass.",football,2021
-Colton Vardell,DE,Fr.,6' 5'',220 lbs,"Pleasanton, Calif.",football,2021
+Winston Jordan,DL,Fr.,6' 3'',265 lbs,"Blackwood, N.J.",football,2021
+Jason Medeiros,ILB,Sr.,6' 0'',220 lbs,"Rehoboth, Mass.",football,2021
+James Perry '00,,,,,,football,2021
+Callum Flanders,DE,Sr.,6' 3'',260 lbs,"Braintree, Mass.",football,2021
 Camden Gagnon,DE,Sr.,6' 4'',245 lbs,"Goffstown, N.H.",football,2021
+Matthew Littlejohn,DE,So.,6' 4'',220 lbs,"New Braunfels, Texas",football,2021
+Nic Jones,TE,Fr.,6' 5'',250 lbs,"Raleigh, N.C.",football,2021
+Jarred Daul,DE,Sr.,6' 4'',255 lbs,"Portland, Ore.",football,2021
+Colton Vardell,DE,Fr.,6' 5'',220 lbs,"Pleasanton, Calif.",football,2021
 Justin Anagonye,DT,So.,6' 3'',240 lbs,"Southfield, Mich.",football,2021
 Maxwell Sweet,DT,Sr.,6' 3'',240 lbs,"Cypress, Texas",football,2021
-Callum Flanders,DE,Sr.,6' 3'',260 lbs,"Braintree, Mass.",football,2021
-Jarred Daul,DE,Sr.,6' 4'',255 lbs,"Portland, Ore.",football,2021
-Matthew Littlejohn,DE,So.,6' 4'',220 lbs,"New Braunfels, Texas",football,2021
-Nate Lussier,QB,Jr.,6' 3'',220 lbs,"North Providence, R.I.",football,2022
-Joseph Shell,DB,Sr.,6' 1'',205 lbs,"Frederick, Md.",football,2022
-Kris Diallo,DB,Sr.,6' 2'',210 lbs,"Chicago, Ill.",football,2022
-Harrison Ochs,CB,Sr.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2022
-Sean Kelly,DL,Sr.,6' 2'',245 lbs,"Clarendon Hills, Ill.",football,2022
-Griffin Sturtz,OL,Sr.,6' 5'',290 lbs,"Naperville, Ill.",football,2022
-Josh Ofili,DB,Sr.,6' 2'',205 lbs,"Katy, Texas",football,2022
-Jordan McIntyre,WR,So.,6' 1'',195 lbs,"Chatsworth, Calif.",football,2022
-Aaden Bessette,Team IMPACT,,,,,football,2022
-Jalen Fisher,DB,Sr.,6' 0'',195 lbs,"Los Angeles, Calif.",football,2022
-Everett Skillern,DB,Fr.,5' 10'',185 lbs,"Houston, Texas",football,2022
-Cortland Dicks,QB,So.,6' 2'',205 lbs,"Bridgeport, Conn.",football,2022
-Noble Cooper III,WR,So.,5' 11'',190 lbs,"Blythewood, S.C.",football,2022
-Cooper DeVeau,CB,Sr.,6' 0'',190 lbs,"Foxboro, Mass.",football,2022
-Ethan Royer,ILB,Sr.,6' 2'',240 lbs,"Hilliard, Ohio",football,2022
-Will Jarvis,QB,So.,6' 1'',205 lbs,"Walpole, Mass.",football,2022
-Mac Franklin,OLB,Jr.,6' 2'',225 lbs,"Scottsdale, Ariz.",football,2022
-Junior Gafa,OLB(C),Sr.,5' 10'',220 lbs,"San Pedro, Calif.",football,2022
-Aidan Gilman,QB,Sr.,6' 3'',220 lbs,"Westfield, N.J.",football,2022
-Chris Boyle,TE,Sr.,6' 4'',245 lbs,"Columbus, Ohio",football,2022
-Isaiah Reed,DB,So.,6' 0'',180 lbs,"Tampa, Fla.",football,2022
-Ty Holtz,QB,Fr.,5' 11'',190 lbs,"DeWitt, Mich.",football,2022
-Michael Walsh,QB,Sr.,6' 2'',215 lbs,"East Greenwich, R.I.",football,2022
-Graham Walker,WR,Jr.,6' 3'',215 lbs,"Hinesburg, Vt.",football,2022
-Griffin McGovern,DB,Sr.,6' 1'',205 lbs,"Emerson, N.J.",football,2022
-Hayes Sutton,WR,Sr.,6' 1'',200 lbs,"Norcross, Ga.",football,2022
-Shane Prevot,CB,Jr.,6' 0'',190 lbs,"New Milford, N.J.",football,2022
-Jack Whitten,DB,So.,6' 1'',195 lbs,"Scottsdale, Ariz.",football,2022
-Christopher Maron,K,So.,5' 10'',175 lbs,"Weston, Fla.",football,2022
-Cameron Impemba,WR,Jr.,6' 2'',190 lbs,"Burlington, Mass.",football,2022
-Stockton Owen,RB,So.,6' 1'',210 lbs,"Cookeville, Tenn.",football,2022
-Austin Alley,K,So.,5' 10'',165 lbs,"Fort Myers, Fla.",football,2022
-Sami Miller,DB,So.,5' 10'',170 lbs,"Orlando, Fla.",football,2022
-Dylan Duchene,RB,Jr.,6' 2'',225 lbs,"Stuart, Fla.",football,2022
-Zachary Targoff,WR,Sr.,6' 0'',190 lbs,"New York, N.Y.",football,2022
-Jordan DeLucia,RB,So.,5' 11'',215 lbs,"Bellmore, N.Y.",football,2022
-Treyvon Hobbs,DB,Jr.,6' 0'',180 lbs,"Jacksonville, Fla.",football,2022
-Uriel Richardson,DB,So.,5' 11'',190 lbs,"Jacksonville, Fla.",football,2022
-Tim Malo,DB,So.,6' 0'',200 lbs,"Bellingham, Wash.",football,2022
-Mashod Harrison,RB,Jr.,6' 1'',210 lbs,"Livingston, N.J.",football,2022
-Jacob Kopeld,WR,Sr.,6' 1'',195 lbs,"Morristown, N.J.",football,2022
-Samuel Baddoo,WR,So.,5' 10'',185 lbs,"Providence, R.I.",football,2022
-Jake Willcox,QB,Jr.,6' 2'',195 lbs,"Everett, Mass.",football,2022
-Qwentin Brown,RB,Fr.,6' 0'',200 lbs,"Santa Cruz, Calif.",football,2022
-Xavier Silva,LB,So.,5' 10'',220 lbs,"St. Louis, Mo.",football,2022
-Allan Houston III,WR,Sr.,6' 0'',190 lbs,"Greenwich, Conn.",football,2022
-Dillon Golden,TE,Fr.,6' 4'',235 lbs,"San Jose, Calif.",football,2022
-Declan Boyle,P,Jr.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2022
-Evan Faiella,TE,Fr.,6' 4'',240 lbs,"Middlefield, Conn.",football,2022
-Nevaeh Gattis,DB,Fr.,6' 1'',190 lbs,"Graham, N.C.",football,2022
-Allen Smith,RB(C),Sr.,5' 11'',205 lbs,"Westerville, Ohio",football,2022
-Elias Archie,DB,Fr.,5' 10'',165 lbs,"Cerritos, Calif.",football,2022
-Kaleb Ross,LB,So.,6' 0'',225 lbs,"Lakeland, Fla.",football,2022
-Triston McDonald,OLB,So.,5' 9'',205 lbs,"Arlington, Texas",football,2022
-Jade Arroyo,TE,Fr.,6' 3'',225 lbs,"Highlands Ranch, Colo.",football,2022
-Ian Franzoni,RB,Jr.,5' 11'',210 lbs,"Robbinsville, N.J.",football,2022
-Tyler Baskett,DB,Fr.,6' 0'',180 lbs,"Chesapeake Beach, Md.",football,2022
-Osagie Noruwa,OL,So.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2022
-Nick Hudson,DB,Fr.,5' 10'',175 lbs,"Houston, Texas",football,2022
-Owen Clarke,DL,Fr.,6' 3'',230 lbs,"Westport, Conn.",football,2022
-Nolan Clark,DL,Fr.,6' 2'',275 lbs,"Glen Rock, N.J.",football,2022
-Curt McGhee,DB,Jr.,6' 2'',200 lbs,"Wheeling, W.Va.",football,2022
-PJ McManus,WR,So.,6' 0'',165 lbs,"Sharon, Mass.",football,2022
-Lydell Dyer,WR,Fr.,6' 2'',170 lbs,"Bonn, Germany",football,2022
-Michael Davidson,LS,Jr.,6' 2'',215 lbs,"Stone Oak, Texas",football,2022
-Donovan Allen,OL,Sr.,6' 5'',285 lbs,"Douglasville, Ga.",football,2022
-Ryan Haley,LB,Fr.,5' 11'',210 lbs,"Mankato, Minn.",football,2022
-Caleb Moorhead,LB,So.,6' 4'',230 lbs,"Glen Ellyn, Ill.",football,2022
-Kevin Coss,DL,Jr.,6' 2'',240 lbs,"Charlotte, N.C.",football,2022
-Tommy Maloney,DL,Sr.,6' 4'',260 lbs,"Newton, Mass.",football,2022
-Jack Kosar,DL,Sr.,6' 3'',250 lbs,"Chagrin Falls, Ohio",football,2022
-Garrett Valentine,WR,Jr.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2022
-James Perry '00,,,,,,football,2022
-John Perdue,LB,Fr.,6' 1'',220 lbs,"Houston, Texas",football,2022
-Nick Manley,DL,Fr.,6' 3'',270 lbs,"Medina, Ohio",football,2022
-Pat O'Neill,DL,Fr.,6' 4'',250 lbs,"Barnstable, Mass.",football,2022
-Sam Smith,LB,Fr.,6' 0'',225 lbs,"Avon, Conn.",football,2022
-Nic Jones,TE,So.,6' 5'',250 lbs,"Raleigh, N.C.",football,2022
-Judson Utgard,OL,Sr.,6' 3'',280 lbs,"Columbus, Ohio",football,2022
-Isaiah Gamble,ILB,Jr.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2022
-Aubrey Parker,DB,Jr.,5' 10'',185 lbs,"Belleville, Ill.",football,2022
-John Starman,DL,Fr.,6' 3'',265 lbs,"Miami, Fla.",football,2022
-Terrence Lane II,DL,Jr.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2022
-Jordan Reed,OL,Jr.,6' 3'',295 lbs,"Portland, Ore.",football,2022
-Malcolm Brunson,ILB,Sr.,6' 1'',225 lbs,"Plainfield, N.J.",football,2022
-Addison Matevia,ILB,Jr.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2022
-Ben Moseley,WR,So.,6' 2'',190 lbs,"Houston, Texas",football,2022
+Brooks Jones,DT,Jr.,6' 2'',290 lbs,"Wayland, Mass.",football,2021
+Nathan Brown,DE,Sr.,5' 11'',250 lbs,"Fayetteville, Ga.",football,2021
+Mark Mahoney,WR,So.,6' 5'',210 lbs,"Cohasset, Mass.",football,2021
+Jack Foster,TE,So.,6' 6'',225 lbs,"Mankato, Minn.",football,2021
+Carlos Ponce de Leon,DE,Fr.,6' 2'',225 lbs,"Puebla, Mexico",football,2021
+Garrett Valentine,WR,So.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2021
+John Parsons,TE,So.,6' 5'',235 lbs,"Hanover, N.H.",football,2021
+Wes Rockett,WR,Jr.,6' 0'',175 lbs,"Marblehead, Mass.",football,2021
+Jackson Caputo,WR,Sr.,6' 4'',225 lbs,"Riverside, Conn.",football,2021
+Kyle Philbin,DL,Fr.,6' 4'',260 lbs,"Fitchburg, Mass.",football,2021
+Ben Moseley,WR,Fr.,6' 2'',175 lbs,"Houston, Texas",football,2021
+Quincy Eutsay,DE,Fr.,6' 2'',215 lbs,"Roxbury, Mass.",football,2021
+Daniel Monaghan,TE,Sr.,6' 4'',245 lbs,"Medway, Mass.",football,2021
+Gabriel Sanchez,TE,Sr.,6' 5'',245 lbs,"Modesto, Calif.",football,2021
+Michael Bumpus,DL,Fr.,6' 4'',255 lbs,"Ponte Vedra Beach, Fla.",football,2021
+Jack Connolly,OL,So.,6' 4'',290 lbs,"Canton, Mass.",football,2021
+Kaleb Ross,LB,Fr.,6' 0'',225 lbs,"Lakeland, Fla.",football,2021
+Chad Broome-Webster,OL,Sr.,6' 4'',275 lbs,"Orlando, Fla.",football,2021
+Kenyon Graham,RB,Fr.,5' 11'',190 lbs,"San Rafael, Calif.",football,2021
+Michael Walsh,QB,Jr.,6' 2'',195 lbs,"East Greenwich, R.I.",football,2021
+Mac Franklin,OLB,So.,6' 2'',190 lbs,"Scottsdale, Ariz.",football,2021
+Isaiah Reed,DB,Fr.,6' 0'',165 lbs,"Tampa, Fla.",football,2021
+Will Jarvis,QB,Fr.,6' 1'',205 lbs,"Walpole, Mass.",football,2021
+Clayton Perrin,DB,Sr.,6' 1'',200 lbs,"Pflugerville, Texas",football,2021
+Chris Boyle,TE,Jr.,6' 4'',245 lbs,"Columbus, Ohio",football,2021
+Aidan Gilman,QB,Jr.,6' 2'',210 lbs,"Westfield, N.J.",football,2021
+Junior Gafa,OLB,Jr.,5' 10'',200 lbs,"San Pedro, Calif.",football,2021
+Jordan McIntyre,WR,Fr.,6' 1'',185 lbs,"Chatsworth, Calif.",football,2021
+Michael McGovern,QB,Sr.,6' 0'',195 lbs,"St. Louis, Mo.",football,2021
+Ethan Royer,ILB,Jr.,6' 2'',230 lbs,"Hilliard, Ohio",football,2021
+Graeme Davis,TE,Sr.,6' 1'',225 lbs,"Winchester, Mass.",football,2021
+Malcolm Brunson,ILB,Jr.,6' 0'',220 lbs,"Plainfield, N.J.",football,2021
+Cortland Dicks,QB,Fr.,6' 2'',200 lbs,"Bridgeport, Conn.",football,2021
+Griffin McGovern,DB,Jr.,6' 1'',190 lbs,"Emerson, N.J.",football,2021
+Kris Diallo,WR,Jr.,6' 2'',200 lbs,"Chicago, Ill.",football,2021
+Harrison Ochs,CB,Jr.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2021
+Nate Lussier,QB,So.,6' 3'',200 lbs,"North Providence, R.I.",football,2021
+EJ Perry,QB(C),Sr.,6' 2'',210 lbs,"Andover, Mass.",football,2021
+Treyvon Hobbs,CB,So.,5' 11'',170 lbs,"Jacksonville, Fla.",football,2021
+Jake Willcox,QB,So.,6' 2'',195 lbs,"Everett, Mass.",football,2021
+Jalen Fisher,CB,Jr.,6' 0'',190 lbs,"Los Angeles, Calif.",football,2021
+Samuel Baddoo,WR,Fr.,5' 10'',185 lbs,"Providence, R.I.",football,2021
+Joseph Shell,DB,Jr.,6' 1'',190 lbs,"Frederick, Md.",football,2021
+Josh Ofili,DB,Jr.,6' 2'',190 lbs,"Katy, Texas",football,2021
+Graham Walker,WR,So.,6' 3'',200 lbs,"Hinesburg, Vt.",football,2021
+Isaiah Gamble,ILB,So.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2021
+Obi Ifediora,WR,Gr.,5' 10'',175 lbs,"Verona, Wis.",football,2021
+Cameron Impemba,WR,So.,6' 2'',180 lbs,"Burlington, Mass.",football,2021
+Noble Cooper III,WR,Fr.,5' 11'',190 lbs,"Blythewood, S.C.",football,2021
+Declan Boyle,P,So.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2021
+Sidney Schwartz,RB,Sr.,6' 1'',200 lbs,"Calabasas, Calif.",football,2021
+Ian Franzoni,RB,So.,5' 11'',190 lbs,"Robbinsville, N.J.",football,2021
+Triston McDonald,OLB,Fr.,5' 9'',180 lbs,"Arlington, Texas",football,2021
+Xavier Silva,LB,Fr.,5' 10'',220 lbs,"St. Louis, Mo.",football,2021
+Shane Prevot,CB,So.,6' 0'',190 lbs,"New Milford, N.J.",football,2021
+Jack Whitten,DB,Fr.,6' 1'',190 lbs,"Scottsdale, Ariz.",football,2021
+Stockton Owen,RB,Fr.,6' 1'',205 lbs,"Cookeville, Tenn.",football,2021
+Aubrey Parker,CB,So.,5' 10'',185 lbs,"Belleville, Ill.",football,2021
+Austin Alley,K,Fr.,5' 10'',165 lbs,"Fort Myers, Fla.",football,2021
+Sami Miller,DB,Fr.,5' 10'',170 lbs,"Orlando, Fla.",football,2021
+William Such,RB,Sr.,6' 2'',225 lbs,"Cranston, R.I.",football,2021
+Christopher Maron,K,Fr.,5' 10'',175 lbs,"Weston, Fla.",football,2021
+Allen Smith,RB(C),Sr.,5' 10'',200 lbs,"Westerville, Ohio",football,2021
+Jordan DeLucia,RB,Fr.,5' 11'',210 lbs,"Bellmore, N.Y.",football,2021
+Cooper DeVeau,CB,Jr.,5' 11'',180 lbs,"Foxboro, Mass.",football,2021
+Uriel Richardson,DB,Fr.,5' 11'',185 lbs,"Jacksonville, Fla.",football,2021
+Zachary Targoff,WR,Jr.,6' 0'',180 lbs,"New York, N.Y.",football,2021
+Tim Malo,DB,Fr.,6' 0'',195 lbs,"Bellingham, Wash.",football,2021
+Mashod Harrison,RB,So.,6' 0'',200 lbs,"Livingston, N.J.",football,2021
+Jacob Kopeld,K,Jr.,6' 1'',195 lbs,"Morristown, N.J.",football,2021
+Dylan Duchene,OLB,So.,6' 2'',200 lbs,"Stuart, Fla.",football,2021
+Charlie Dallape,CB,Sr.,6' 3'',205 lbs,"San Francisco, Calif.",football,2021
+Allan Houston III,WR,Jr.,6' 0'',185 lbs,"Greenwich, Conn.",football,2021
+Hayes Sutton,WR,Jr.,6' 0'',200 lbs,"Norcross, Ga.",football,2021
 Mike Renoit,DL,Fr.,6' 3'',225 lbs,"Lauderhill, Fla.",football,2022
-Kevin Rohde,OL,So.,6' 4'',275 lbs,"Purchase, N.Y.",football,2022
-Michael Bumpus,DL,So.,6' 4'',270 lbs,"Ponte Vedra Beach, Fla.",football,2022
-Solomon Miller,WR,Fr.,5' 11'',180 lbs,"Orlando, Fla.",football,2022
-Jackson Delaney,WR,Fr.,6' 2'',200 lbs,"Topsfield, Mass.",football,2022
-Nicholas Turbyfill,OL,Sr.,6' 6'',315 lbs,"Ashburn, Va.",football,2022
-Hayden Bozich,OL,Fr.,6' 6'',300 lbs,"Steubenville, Ohio",football,2022
-Gavin Miller,OL,Jr.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2022
-Lucas Ferraro,OL(C),Sr.,6' 2'',285 lbs,"Newton, Mass.",football,2022
-Marco Monteiro,OL,Fr.,6' 5'',295 lbs,"Milford, Mass.",football,2022
-Auzzy Joseph,OL,Jr.,6' 4'',250 lbs,"Corona, N.Y.",football,2022
-Liam Halligan,OL,Fr.,6' 5'',290 lbs,"Pittsburgh, Pa.",football,2022
-Jack Connolly,OL,Jr.,6' 4'',290 lbs,"Canton, Mass.",football,2022
-Quincy Eutsay,DL,So.,6' 2'',215 lbs,"Roxbury, Mass.",football,2022
-Winston Jordan,DL,So.,6' 3'',265 lbs,"Blackwood, N.J.",football,2022
+Nolan Clark,DL,Fr.,6' 2'',275 lbs,"Glen Rock, N.J.",football,2022
+Terrence Lane II,DL,Jr.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2022
+John Starman,DL,Fr.,6' 3'',265 lbs,"Miami, Fla.",football,2022
+Jack Doty,OL,So.,6' 7'',315 lbs,"Harrison, N.Y.",football,2022
+Nick Manley,DL,Fr.,6' 3'',270 lbs,"Medina, Ohio",football,2022
+Jordan Reed,OL,Jr.,6' 3'',295 lbs,"Portland, Ore.",football,2022
 Hunter Folsom,OL,Sr.,6' 3'',295 lbs,"Ocala, Fla.",football,2022
+Judson Utgard,OL,Sr.,6' 3'',280 lbs,"Columbus, Ohio",football,2022
+Nic Jones,TE,So.,6' 5'',250 lbs,"Raleigh, N.C.",football,2022
+Sam Smith,LB,Fr.,6' 0'',225 lbs,"Avon, Conn.",football,2022
+Pat O'Neill,DL,Fr.,6' 4'',250 lbs,"Barnstable, Mass.",football,2022
+John Perdue,LB,Fr.,6' 1'',220 lbs,"Houston, Texas",football,2022
+Caleb Moorhead,LB,So.,6' 4'',230 lbs,"Glen Ellyn, Ill.",football,2022
+Osagie Noruwa,OL,So.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2022
+Jack Kosar,DL,Sr.,6' 3'',250 lbs,"Chagrin Falls, Ohio",football,2022
+Tommy Maloney,DL,Sr.,6' 4'',260 lbs,"Newton, Mass.",football,2022
+Kevin Coss,DL,Jr.,6' 2'',240 lbs,"Charlotte, N.C.",football,2022
+Ryan Haley,LB,Fr.,5' 11'',210 lbs,"Mankato, Minn.",football,2022
+Donovan Allen,OL,Sr.,6' 5'',285 lbs,"Douglasville, Ga.",football,2022
+Michael Davidson,LS,Jr.,6' 2'',215 lbs,"Stone Oak, Texas",football,2022
+Lydell Dyer,WR,Fr.,6' 2'',170 lbs,"Bonn, Germany",football,2022
+PJ McManus,WR,So.,6' 0'',165 lbs,"Sharon, Mass.",football,2022
+Curt McGhee,DB,Jr.,6' 2'',200 lbs,"Wheeling, W.Va.",football,2022
+Addison Matevia,ILB,Jr.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2022
+Griffin Sturtz,OL,Sr.,6' 5'',290 lbs,"Naperville, Ill.",football,2022
+Owen Clarke,DL,Fr.,6' 3'',230 lbs,"Westport, Conn.",football,2022
+James Perry '00,,,,,,football,2022
+Liam Halligan,OL,Fr.,6' 5'',290 lbs,"Pittsburgh, Pa.",football,2022
+Sean Kelly,DL,Sr.,6' 2'',245 lbs,"Clarendon Hills, Ill.",football,2022
 Camden Gagnon,DL,Sr.,6' 4'',265 lbs,"Goffstown, N.H.",football,2022
 Matthew Littlejohn,TE,Jr.,6' 4'',220 lbs,"New Braunfels, Texas",football,2022
 Justin Anagonye,DL,Jr.,6' 3'',290 lbs,"Southfield, Mich.",football,2022
 Maxwell Sweet,DL,Sr.,6' 3'',280 lbs,"Cypress, Texas",football,2022
-Jack Doty,OL,So.,6' 7'',315 lbs,"Harrison, N.Y.",football,2022
-Mark Mahoney,WR,Jr.,6' 5'',240 lbs,"Cohasset, Mass.",football,2022
 Brooks Jones,DL(C),Sr.,6' 2'',290 lbs,"Wayland, Mass.",football,2022
+Mark Mahoney,WR,Jr.,6' 5'',240 lbs,"Cohasset, Mass.",football,2022
+Garrett Valentine,WR,Jr.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2022
 Ty Pezza,WR,Fr.,6' 4'',210 lbs,"North Kingstown, R.I.",football,2022
 Wes Rockett,WR,Sr.,6' 0'',185 lbs,"Marblehead, Mass.",football,2022
 Chason Barber,WR,Fr.,6' 4'',205 lbs,"Old Greenwich, Conn.",football,2022
 Kyle Philbin,DL,So.,6' 4'',285 lbs,"Fitchburg, Mass.",football,2022
 AJ Heidtke,OL,So.,6' 4'',290 lbs,"Andover, Mass.",football,2022
-Addison Matevia,ILB,Sr.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2023
-Maximilian Ciovacco,TE,Fr.,6' 1'',205 lbs,"Boise, Idaho",football,2023
+Ben Moseley,WR,So.,6' 2'',190 lbs,"Houston, Texas",football,2022
+Quincy Eutsay,DL,So.,6' 2'',215 lbs,"Roxbury, Mass.",football,2022
+Solomon Miller,WR,Fr.,5' 11'',180 lbs,"Orlando, Fla.",football,2022
+Michael Bumpus,DL,So.,6' 4'',270 lbs,"Ponte Vedra Beach, Fla.",football,2022
+Winston Jordan,DL,So.,6' 3'',265 lbs,"Blackwood, N.J.",football,2022
+Jack Connolly,OL,Jr.,6' 4'',290 lbs,"Canton, Mass.",football,2022
+Auzzy Joseph,OL,Jr.,6' 4'',250 lbs,"Corona, N.Y.",football,2022
+Marco Monteiro,OL,Fr.,6' 5'',295 lbs,"Milford, Mass.",football,2022
+Kevin Rohde,OL,So.,6' 4'',275 lbs,"Purchase, N.Y.",football,2022
+Lucas Ferraro,OL(C),Sr.,6' 2'',285 lbs,"Newton, Mass.",football,2022
+Gavin Miller,OL,Jr.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2022
+Hayden Bozich,OL,Fr.,6' 6'',300 lbs,"Steubenville, Ohio",football,2022
+Nicholas Turbyfill,OL,Sr.,6' 6'',315 lbs,"Ashburn, Va.",football,2022
+Jackson Delaney,WR,Fr.,6' 2'',200 lbs,"Topsfield, Mass.",football,2022
+Everett Skillern,DB,Fr.,5' 10'',185 lbs,"Houston, Texas",football,2022
+Nick Hudson,DB,Fr.,5' 10'',175 lbs,"Houston, Texas",football,2022
+Ethan Royer,ILB,Sr.,6' 2'',240 lbs,"Hilliard, Ohio",football,2022
+Isaiah Gamble,ILB,Jr.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2022
+Noble Cooper III,WR,So.,5' 11'',190 lbs,"Blythewood, S.C.",football,2022
+Graham Walker,WR,Jr.,6' 3'',215 lbs,"Hinesburg, Vt.",football,2022
+Ty Holtz,QB,Fr.,5' 11'',190 lbs,"DeWitt, Mich.",football,2022
+Isaiah Reed,DB,So.,6' 0'',180 lbs,"Tampa, Fla.",football,2022
+Chris Boyle,TE,Sr.,6' 4'',245 lbs,"Columbus, Ohio",football,2022
+Aidan Gilman,QB,Sr.,6' 3'',220 lbs,"Westfield, N.J.",football,2022
+Junior Gafa,OLB(C),Sr.,5' 10'',220 lbs,"San Pedro, Calif.",football,2022
+Mac Franklin,OLB,Jr.,6' 2'',225 lbs,"Scottsdale, Ariz.",football,2022
+Will Jarvis,QB,So.,6' 1'',205 lbs,"Walpole, Mass.",football,2022
+Malcolm Brunson,ILB,Sr.,6' 1'',225 lbs,"Plainfield, N.J.",football,2022
+Griffin McGovern,DB,Sr.,6' 1'',205 lbs,"Emerson, N.J.",football,2022
+Cortland Dicks,QB,So.,6' 2'',205 lbs,"Bridgeport, Conn.",football,2022
+Aaden Bessette,Team IMPACT,,,,,football,2022
+Kris Diallo,DB,Sr.,6' 2'',210 lbs,"Chicago, Ill.",football,2022
+Harrison Ochs,CB,Sr.,5' 11'',175 lbs,"Indianapolis, Ind.",football,2022
+Nate Lussier,QB,Jr.,6' 3'',220 lbs,"North Providence, R.I.",football,2022
+Jake Willcox,QB,Jr.,6' 2'',195 lbs,"Everett, Mass.",football,2022
+Jalen Fisher,DB,Sr.,6' 0'',195 lbs,"Los Angeles, Calif.",football,2022
+Joseph Shell,DB,Sr.,6' 1'',205 lbs,"Frederick, Md.",football,2022
+Samuel Baddoo,WR,So.,5' 10'',185 lbs,"Providence, R.I.",football,2022
+Josh Ofili,DB,Sr.,6' 2'',205 lbs,"Katy, Texas",football,2022
+Jordan McIntyre,WR,So.,6' 1'',195 lbs,"Chatsworth, Calif.",football,2022
+Treyvon Hobbs,DB,Jr.,6' 0'',180 lbs,"Jacksonville, Fla.",football,2022
+Tyler Baskett,DB,Fr.,6' 0'',180 lbs,"Chesapeake Beach, Md.",football,2022
+Cameron Impemba,WR,Jr.,6' 2'',190 lbs,"Burlington, Mass.",football,2022
+Hayes Sutton,WR,Sr.,6' 1'',200 lbs,"Norcross, Ga.",football,2022
+Michael Walsh,QB,Sr.,6' 2'',215 lbs,"East Greenwich, R.I.",football,2022
+Aubrey Parker,DB,Jr.,5' 10'',185 lbs,"Belleville, Ill.",football,2022
+Kaleb Ross,LB,So.,6' 0'',225 lbs,"Lakeland, Fla.",football,2022
+Elias Archie,DB,Fr.,5' 10'',165 lbs,"Cerritos, Calif.",football,2022
+Allen Smith,RB(C),Sr.,5' 11'',205 lbs,"Westerville, Ohio",football,2022
+Nevaeh Gattis,DB,Fr.,6' 1'',190 lbs,"Graham, N.C.",football,2022
+Evan Faiella,TE,Fr.,6' 4'',240 lbs,"Middlefield, Conn.",football,2022
+Christopher Maron,K,So.,5' 10'',175 lbs,"Weston, Fla.",football,2022
+Declan Boyle,P,Jr.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2022
+Dillon Golden,TE,Fr.,6' 4'',235 lbs,"San Jose, Calif.",football,2022
+Allan Houston III,WR,Sr.,6' 0'',190 lbs,"Greenwich, Conn.",football,2022
+Ian Franzoni,RB,Jr.,5' 11'',210 lbs,"Robbinsville, N.J.",football,2022
+Jade Arroyo,TE,Fr.,6' 3'',225 lbs,"Highlands Ranch, Colo.",football,2022
+Triston McDonald,OLB,So.,5' 9'',205 lbs,"Arlington, Texas",football,2022
+Qwentin Brown,RB,Fr.,6' 0'',200 lbs,"Santa Cruz, Calif.",football,2022
+Shane Prevot,CB,Jr.,6' 0'',190 lbs,"New Milford, N.J.",football,2022
+Xavier Silva,LB,So.,5' 10'',220 lbs,"St. Louis, Mo.",football,2022
+Jacob Kopeld,WR,Sr.,6' 1'',195 lbs,"Morristown, N.J.",football,2022
+Stockton Owen,RB,So.,6' 1'',210 lbs,"Cookeville, Tenn.",football,2022
+Austin Alley,K,So.,5' 10'',165 lbs,"Fort Myers, Fla.",football,2022
+Sami Miller,DB,So.,5' 10'',170 lbs,"Orlando, Fla.",football,2022
+Dylan Duchene,RB,Jr.,6' 2'',225 lbs,"Stuart, Fla.",football,2022
+Cooper DeVeau,CB,Sr.,6' 0'',190 lbs,"Foxboro, Mass.",football,2022
+Jordan DeLucia,RB,So.,5' 11'',215 lbs,"Bellmore, N.Y.",football,2022
+Zachary Targoff,WR,Sr.,6' 0'',190 lbs,"New York, N.Y.",football,2022
+Uriel Richardson,DB,So.,5' 11'',190 lbs,"Jacksonville, Fla.",football,2022
+Tim Malo,DB,So.,6' 0'',200 lbs,"Bellingham, Wash.",football,2022
+Mashod Harrison,RB,Jr.,6' 1'',210 lbs,"Livingston, N.J.",football,2022
+Jack Whitten,DB,So.,6' 1'',195 lbs,"Scottsdale, Ariz.",football,2022
+Mike Renoit,DL,So.,6' 3'',225 lbs,"Lauderhill, Fla.",football,2023
+John Starman,DL,So.,6' 3'',265 lbs,"Miami, Fla.",football,2023
+Pat O'Neill,DL,So.,6' 4'',250 lbs,"Barnstable, Mass.",football,2023
+Jack Doty,OL,Jr.,6' 7'',315 lbs,"Harrison, N.Y.",football,2023
+Kai Faucher,OL,Fr.,6' 5'',265 lbs,"Los Angeles, Calif.",football,2023
+Nick Manley,DL,So.,6' 3'',270 lbs,"Medina, Ohio",football,2023
+Charlie Pe'a-Shropshire,OL,Fr.,6' 3'',265 lbs,"San Diego, Calif.",football,2023
+Ike Odimegwu,DL,Fr.,6' 3'',215 lbs,"Coppell, Texas",football,2023
+Nic Jones,OL,Jr.,6' 5'',250 lbs,"Raleigh, N.C.",football,2023
+Michael Reddick,DL,Fr.,6' 2'',230 lbs,"Meriden, Conn.",football,2023
+Stefano Montella,LB,Fr.,6' 0'',215 lbs,"Long Valley, N.J.",football,2023
+Nico Bossi,DL,Fr.,6' 3'',220 lbs,"Clarks Summit, Pa.",football,2023
+Sam Smith,LB,So.,6' 0'',225 lbs,"Avon, Conn.",football,2023
+Luke Sidwell,LS,Fr.,5' 9'',170 lbs,"Franklin, Mass.",football,2023
+Malachi Marshall-Harris,LB,Fr.,6' 2'',190 lbs,"Fort Lauderdale, Fla.",football,2023
+Griffin Sturtz,OL,Sr.,6' 5'',290 lbs,"Naperville, Ill.",football,2023
+Max Malo,LB,Fr.,6' 2'',220 lbs,"Bellingham, Wash.",football,2023
+Osagie Noruwa,OL,Jr.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2023
+Justin Anagonye,OL,Sr.,6' 3'',290 lbs,"Southfield, Mich.",football,2023
+Kevin Coss,DL,Sr.,6' 2'',240 lbs,"Charlotte, N.C.",football,2023
+Caleb Moorhead,LB,Jr.,6' 4'',230 lbs,"Glen Ellyn, Ill.",football,2023
+Ryan Haley,LB,So.,5' 11'',210 lbs,"Mankato, Minn.",football,2023
+Tommy Dunn,LB,Fr.,6' 3'',210 lbs,"Shaker Heights, Ohio",football,2023
+Michael Davidson,LS,Sr.,6' 2'',215 lbs,"Stone Oak, Texas",football,2023
+Nathaniel Marko,WR,Fr.,5' 11'',175 lbs,"Los Angeles, Calif.",football,2023
+Nolan Clark,DL,So.,6' 2'',275 lbs,"Glen Rock, N.J.",football,2023
+John Perdue,LB,So.,6' 1'',220 lbs,"Houston, Texas",football,2023
+AJ Heidtke,OL,Jr.,6' 4'',290 lbs,"Andover, Mass.",football,2023
+James Perry '00,,,,,,football,2023
+Liam Halligan,OL,So.,6' 5'',290 lbs,"Pittsburgh, Pa.",football,2023
+Tommy Maloney,DL,Sr.,6' 4'',260 lbs,"Newton, Mass.",football,2023
+Quincy Eutsay,DL,Jr.,6' 2'',215 lbs,"Roxbury, Mass.",football,2023
+Matthew Littlejohn,TE,Sr.,6' 4'',220 lbs,"New Braunfels, Texas",football,2023
+Michael Bumpus,DL,Jr.,6' 4'',270 lbs,"Ponte Vedra Beach, Fla.",football,2023
+Winston Jordan,DL,Jr.,6' 3'',265 lbs,"Blackwood, N.J.",football,2023
+Owen Clarke,DL,So.,6' 3'',230 lbs,"Westport, Conn.",football,2023
+Kyle Philbin,DL,Jr.,6' 4'',285 lbs,"Fitchburg, Mass.",football,2023
+Caden Harman,DL,So.,6' 4'',255 lbs,"Chatsworth, Calif.",football,2023
+Najih Rahman,WR,Fr.,5' 11'',195 lbs,"Old Bridge, N.J.",football,2023
+Mark Mahoney,WR,Sr.,6' 5'',240 lbs,"Cohasset, Mass.",football,2023
+Lydell Dyer,WR,So.,6' 2'',180 lbs,"Bonn, Germany",football,2023
+Garrett Valentine,WR,Sr.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2023
+Karl Schmalz,DL,Fr.,6' 4'',245 lbs,"Carol Stream, Ill.",football,2023
+Dillon Golden,TE,So.,6' 4'',235 lbs,"San Jose, Calif.",football,2023
+Chason Barber,WR,So.,6' 4'',205 lbs,"Old Greenwich, Conn.",football,2023
+Michael Nesbit,WR,Fr.,6' 4'',185 lbs,"Charlotte, N.C.",football,2023
+Jackson Delaney,WR,So.,6' 2'',200 lbs,"Topsfield, Mass.",football,2023
+Kyai Cook,WR,Fr.,6' 0'',195 lbs,"Duncan, S.C.",football,2023
+Danny Thompson,OL,Fr.,6' 4'',295 lbs,"Scituate, Mass.",football,2023
+Jack Connolly,OL,Sr.,6' 4'',290 lbs,"Canton, Mass.",football,2023
+Auzzy Joseph,OL,Sr.,6' 4'',250 lbs,"Corona, N.Y.",football,2023
+Marco Monteiro,OL,So.,6' 5'',295 lbs,"Milford, Mass.",football,2023
+Charlie Pietrosante,OL,Fr.,6' 5'',275 lbs,"Bloomfield Hills, Mich.",football,2023
+Gavin Miller,OL,Sr.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2023
+Hayden Bozich,OL,So.,6' 6'',300 lbs,"Steubenville, Ohio",football,2023
+Tyson Holloway,OL,Fr.,6' 3'',275 lbs,"Rockingham, N.C.",football,2023
+Wes Rockett,WR(C),Sr.,6' 0'',185 lbs,"Marblehead, Mass.",football,2023
+Wyatt Feltner,DB,Fr.,6' 0'',,"Colonial Beach, Va.",football,2023
+Treyvon Hobbs,DB,Sr.,6' 0'',180 lbs,"Jacksonville, Fla.",football,2023
+Curt McGhee,DB,Sr.,6' 2'',200 lbs,"Wheeling, W.Va.",football,2023
+Ty Pezza,WR,So.,6' 4'',210 lbs,"North Kingstown, R.I.",football,2023
+Ben Moseley,WR,Jr.,6' 2'',190 lbs,"Houston, Texas",football,2023
+Cameron Impemba,WR,Sr.,6' 2'',190 lbs,"Burlington, Mass.",football,2023
+Isaiah Gamble,ILB,Sr.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2023
+Noble Cooper III,WR,Jr.,5' 11'',190 lbs,"Blythewood, S.C.",football,2023
+Graham Walker,WR,Sr.,6' 3'',215 lbs,"Hinesburg, Vt.",football,2023
+James Murphy,QB,Fr.,6' 4'',190 lbs,"Reading, Mass.",football,2023
+Isaiah Reed,DB(C),Jr.,6' 0'',180 lbs,"Tampa, Fla.",football,2023
+Ty Holtz,QB,So.,5' 11'',190 lbs,"DeWitt, Mich.",football,2023
+Elias Archie,DB,So.,5' 10'',165 lbs,"Cerritos, Calif.",football,2023
+Mac Franklin,OLB,Sr.,6' 2'',225 lbs,"Scottsdale, Ariz.",football,2023
+Will Jarvis,QB,Jr.,6' 1'',205 lbs,"Walpole, Mass.",football,2023
+Ethan Royer,ILB(C),Sr.,6' 2'',240 lbs,"Hilliard, Ohio",football,2023
+Solomon Miller,WR,So.,5' 11'',180 lbs,"Orlando, Fla.",football,2023
+Terrence Lane II,DL,Sr.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2023
 Aubrey Parker,DB,Sr.,5' 10'',185 lbs,"Belleville, Ill.",football,2023
 Cortland Dicks,QB,Jr.,6' 2'',205 lbs,"Bridgeport, Conn.",football,2023
 Stockton Owen,RB,Jr.,6' 1'',210 lbs,"Cookeville, Tenn.",football,2023
-Solomon Miller,WR,So.,5' 11'',180 lbs,"Orlando, Fla.",football,2023
-Ethan Royer,ILB(C),Sr.,6' 2'',240 lbs,"Hilliard, Ohio",football,2023
+Aaden Bessette,Team IMPACT,,,,,football,2023
+Nate Lussier,QB,Sr.,6' 3'',220 lbs,"North Providence, R.I.",football,2023
 Jordan DeLucia,RB,Jr.,5' 11'',215 lbs,"Bellmore, N.Y.",football,2023
 Jake Willcox,QB(C),Sr.,6' 2'',195 lbs,"Everett, Mass.",football,2023
 Samuel Baddoo,WR,Jr.,5' 10'',185 lbs,"Providence, R.I.",football,2023
-Ian Franzoni,RB,Sr.,5' 11'',210 lbs,"Robbinsville, N.J.",football,2023
-Ty Pezza,WR,So.,6' 4'',210 lbs,"North Kingstown, R.I.",football,2023
-Nate Lussier,QB,Sr.,6' 3'',220 lbs,"North Providence, R.I.",football,2023
-Isaiah Gamble,ILB,Sr.,6' 2'',230 lbs,"Palm Bay, Fla.",football,2023
-Ben Moseley,WR,Jr.,6' 2'',190 lbs,"Houston, Texas",football,2023
-Will Jarvis,QB,Jr.,6' 1'',205 lbs,"Walpole, Mass.",football,2023
+Jordan McIntyre,WR,Jr.,6' 1'',195 lbs,"Chatsworth, Calif.",football,2023
+Maximilian Ciovacco,TE,Fr.,6' 1'',205 lbs,"Boise, Idaho",football,2023
 Jackson Bennett,RB,Fr.,6' 0'',205 lbs,"Orlando, Fla.",football,2023
-Mac Franklin,OLB,Sr.,6' 2'',225 lbs,"Scottsdale, Ariz.",football,2023
-Brady Dever,QB,Fr.,6' 2'',185 lbs,"Houston, Texas",football,2023
-Elias Archie,DB,So.,5' 10'',165 lbs,"Cerritos, Calif.",football,2023
-Ty Holtz,QB,So.,5' 11'',190 lbs,"DeWitt, Mich.",football,2023
-Isaiah Reed,DB(C),Jr.,6' 0'',180 lbs,"Tampa, Fla.",football,2023
-James Murphy,QB,Fr.,6' 4'',190 lbs,"Reading, Mass.",football,2023
-Graham Walker,WR,Sr.,6' 3'',215 lbs,"Hinesburg, Vt.",football,2023
-Noble Cooper III,WR,Jr.,5' 11'',190 lbs,"Blythewood, S.C.",football,2023
-Aaden Bessette,Team IMPACT,,,,,football,2023
-Cameron Impemba,WR,Sr.,6' 2'',190 lbs,"Burlington, Mass.",football,2023
 Tyler Emans,RB,Fr.,5' 11'',200 lbs,"Montgomery, N.Y.",football,2023
-Declan Boyle,P,Sr.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2023
+Brady Dever,QB,Fr.,6' 2'',185 lbs,"Houston, Texas",football,2023
 Tim Malo,DB,Jr.,6' 1'',200 lbs,"Bellingham, Wash.",football,2023
+Michael McGhee,RB,Fr.,5' 11'',190 lbs,"Greenwich, Conn.",football,2023
+Nick Hudson,DB,So.,5' 10'',175 lbs,"Houston, Texas",football,2023
+Everett Skillern,DB,So.,5' 11'',200 lbs,"Houston, Texas",football,2023
+Tyler Baskett,DB,So.,6' 0'',180 lbs,"Chesapeake Beach, Md.",football,2023
+Camryn Williams-Dalton,DB,Fr.,5' 11'',170 lbs,"Angier, N.C.",football,2023
+Benjamin Taylor,TE,Fr.,6' 4'',230 lbs,"Lake Oswego, Ore.",football,2023
+Nevaeh Gattis,DB,So.,6' 1'',190 lbs,"Graham, N.C.",football,2023
+Evan Faiella,TE,So.,6' 4'',240 lbs,"Middlefield, Conn.",football,2023
+Christopher Maron,K,Jr.,5' 10'',175 lbs,"Weston, Fla.",football,2023
+Declan Boyle,P,Sr.,6' 2'',245 lbs,"Kennett Square, Pa.",football,2023
+Levi Linowes,TE,Fr.,6' 3'',210 lbs,"Atlanta, Ga.",football,2023
+Xavier Silva,LB,Jr.,5' 10'',220 lbs,"St. Louis, Mo.",football,2023
+Brock Owen,DB,Fr.,6' 1'',190 lbs,"Cookeville, Tenn.",football,2023
+Addison Matevia,ILB,Sr.,6' 1'',200 lbs,"Palm Beach Gardens, Fla.",football,2023
+Triston McDonald,OLB,Jr.,5' 10'',205 lbs,"Arlington, Texas",football,2023
+Ian Franzoni,RB,Sr.,5' 11'',210 lbs,"Robbinsville, N.J.",football,2023
+Cooper DeVeau,CB,Sr.,6' 0'',190 lbs,"Foxboro, Mass.",football,2023
+Dylan Duchene,RB,Sr.,6' 2'',225 lbs,"Stuart, Fla.",football,2023
 Cap Davis,DB,Fr.,5' 10'',170 lbs,"Cincinnati, Ohio",football,2023
+Sami Miller,DB,Jr.,5' 10'',170 lbs,"Orlando, Fla.",football,2023
 Austin Alley,K/P,Sr.,5' 10'',165 lbs,"Fort Myers, Fla.",football,2023
-Jamari Myers,DB,Fr.,6' 1'',185 lbs,"Allen, Texas",football,2023
-Qwentin Brown,RB,So.,6' 0'',200 lbs,"Santa Cruz, Calif.",football,2023
+Uriel Richardson,DB,Jr.,5' 11'',190 lbs,"Jacksonville, Fla.",football,2023
 Jack Whitten,DB,Jr.,6' 1'',195 lbs,"Scottsdale, Ariz.",football,2023
 Pierce Leverett,TE,Fr.,6' 4'',230 lbs,"Houston, Texas",football,2023
-Dylan Duchene,RB,Sr.,6' 2'',225 lbs,"Stuart, Fla.",football,2023
-Sami Miller,DB,Jr.,5' 10'',170 lbs,"Orlando, Fla.",football,2023
-Cooper DeVeau,CB,Sr.,6' 0'',190 lbs,"Foxboro, Mass.",football,2023
-Uriel Richardson,DB,Jr.,5' 11'',190 lbs,"Jacksonville, Fla.",football,2023
+Qwentin Brown,RB,So.,6' 0'',200 lbs,"Santa Cruz, Calif.",football,2023
+Jamari Myers,DB,Fr.,6' 1'',185 lbs,"Allen, Texas",football,2023
 Kalyl Lindsey,DB,Fr.,5' 11'',185 lbs,"Framingham, Mass.",football,2023
-Triston McDonald,OLB,Jr.,5' 10'',205 lbs,"Arlington, Texas",football,2023
-Terrence Lane II,DL,Sr.,6' 3'',240 lbs,"Grosse Pointe, Mich.",football,2023
-Brock Owen,DB,Fr.,6' 1'',190 lbs,"Cookeville, Tenn.",football,2023
-Christopher Maron,K,Jr.,5' 10'',175 lbs,"Weston, Fla.",football,2023
-Evan Faiella,TE,So.,6' 4'',240 lbs,"Middlefield, Conn.",football,2023
-Nevaeh Gattis,DB,So.,6' 1'',190 lbs,"Graham, N.C.",football,2023
-Benjamin Taylor,TE,Fr.,6' 4'',230 lbs,"Lake Oswego, Ore.",football,2023
-Camryn Williams-Dalton,DB,Fr.,5' 11'',170 lbs,"Angier, N.C.",football,2023
-Tyler Baskett,DB,So.,6' 0'',180 lbs,"Chesapeake Beach, Md.",football,2023
-Everett Skillern,DB,So.,5' 11'',200 lbs,"Houston, Texas",football,2023
-Nick Hudson,DB,So.,5' 10'',175 lbs,"Houston, Texas",football,2023
-Michael McGhee,RB,Fr.,5' 11'',190 lbs,"Greenwich, Conn.",football,2023
-Xavier Silva,LB,Jr.,5' 10'',220 lbs,"St. Louis, Mo.",football,2023
-Levi Linowes,TE,Fr.,6' 3'',210 lbs,"Atlanta, Ga.",football,2023
-Treyvon Hobbs,DB,Sr.,6' 0'',180 lbs,"Jacksonville, Fla.",football,2023
-Curt McGhee,DB,Sr.,6' 2'',200 lbs,"Wheeling, W.Va.",football,2023
-Jordan McIntyre,WR,Jr.,6' 1'',195 lbs,"Chatsworth, Calif.",football,2023
-Wyatt Feltner,DB,Fr.,6' 0'',,"Colonial Beach, Va.",football,2023
-Nico Bossi,DL,Fr.,6' 3'',220 lbs,"Clarks Summit, Pa.",football,2023
-Ryan Haley,LB,So.,5' 11'',210 lbs,"Mankato, Minn.",football,2023
-Caleb Moorhead,LB,Jr.,6' 4'',230 lbs,"Glen Ellyn, Ill.",football,2023
-Kevin Coss,DL,Sr.,6' 2'',240 lbs,"Charlotte, N.C.",football,2023
-Justin Anagonye,OL,Sr.,6' 3'',290 lbs,"Southfield, Mich.",football,2023
-Osagie Noruwa,OL,Jr.,6' 3'',300 lbs,"Staten Island, N.Y.",football,2023
-Max Malo,LB,Fr.,6' 2'',220 lbs,"Bellingham, Wash.",football,2023
-Griffin Sturtz,OL,Sr.,6' 5'',290 lbs,"Naperville, Ill.",football,2023
-Malachi Marshall-Harris,LB,Fr.,6' 2'',190 lbs,"Fort Lauderdale, Fla.",football,2023
-John Perdue,LB,So.,6' 1'',220 lbs,"Houston, Texas",football,2023
-Sam Smith,LB,So.,6' 0'',225 lbs,"Avon, Conn.",football,2023
-Nathaniel Marko,WR,Fr.,5' 11'',175 lbs,"Los Angeles, Calif.",football,2023
-Michael Davidson,LS,Sr.,6' 2'',215 lbs,"Stone Oak, Texas",football,2023
-Tommy Dunn,LB,Fr.,6' 3'',210 lbs,"Shaker Heights, Ohio",football,2023
-Luke Sidwell,LS,Fr.,5' 9'',170 lbs,"Franklin, Mass.",football,2023
-Caden Harman,DL,So.,6' 4'',255 lbs,"Chatsworth, Calif.",football,2023
-Michael Reddick,DL,Fr.,6' 2'',230 lbs,"Meriden, Conn.",football,2023
-Nic Jones,OL,Jr.,6' 5'',250 lbs,"Raleigh, N.C.",football,2023
-Karl Schmalz,DL,Fr.,6' 4'',245 lbs,"Carol Stream, Ill.",football,2023
-Ike Odimegwu,DL,Fr.,6' 3'',215 lbs,"Coppell, Texas",football,2023
-Nolan Clark,DL,So.,6' 2'',275 lbs,"Glen Rock, N.J.",football,2023
-Stefano Montella,LB,Fr.,6' 0'',215 lbs,"Long Valley, N.J.",football,2023
-Kai Faucher,OL,Fr.,6' 5'',265 lbs,"Los Angeles, Calif.",football,2023
-Mike Renoit,DL,So.,6' 3'',225 lbs,"Lauderhill, Fla.",football,2023
-Jack Doty,OL,Jr.,6' 7'',315 lbs,"Harrison, N.Y.",football,2023
-Dillon Golden,TE,So.,6' 4'',235 lbs,"San Jose, Calif.",football,2023
-Charlie Pe'a-Shropshire,OL,Fr.,6' 3'',265 lbs,"San Diego, Calif.",football,2023
-AJ Heidtke,OL,Jr.,6' 4'',290 lbs,"Andover, Mass.",football,2023
-Pat O'Neill,DL,So.,6' 4'',250 lbs,"Barnstable, Mass.",football,2023
-Liam Halligan,OL,So.,6' 5'',290 lbs,"Pittsburgh, Pa.",football,2023
-Jackson Delaney,WR,So.,6' 2'',200 lbs,"Topsfield, Mass.",football,2023
-Michael Nesbit,WR,Fr.,6' 4'',185 lbs,"Charlotte, N.C.",football,2023
-Chason Barber,WR,So.,6' 4'',205 lbs,"Old Greenwich, Conn.",football,2023
-Tyson Holloway,OL,Fr.,6' 3'',275 lbs,"Rockingham, N.C.",football,2023
-Hayden Bozich,OL,So.,6' 6'',300 lbs,"Steubenville, Ohio",football,2023
-Gavin Miller,OL,Sr.,6' 5'',290 lbs,"Bay Shore, N.Y.",football,2023
-Charlie Pietrosante,OL,Fr.,6' 5'',275 lbs,"Bloomfield Hills, Mich.",football,2023
-Marco Monteiro,OL,So.,6' 5'',295 lbs,"Milford, Mass.",football,2023
-Auzzy Joseph,OL,Sr.,6' 4'',250 lbs,"Corona, N.Y.",football,2023
-Jack Connolly,OL,Sr.,6' 4'',290 lbs,"Canton, Mass.",football,2023
-Danny Thompson,OL,Fr.,6' 4'',295 lbs,"Scituate, Mass.",football,2023
-Kyai Cook,WR,Fr.,6' 0'',195 lbs,"Duncan, S.C.",football,2023
-Wes Rockett,WR(C),Sr.,6' 0'',185 lbs,"Marblehead, Mass.",football,2023
-Nick Manley,DL,So.,6' 3'',270 lbs,"Medina, Ohio",football,2023
-Garrett Valentine,WR,Sr.,5' 11'',160 lbs,"Winter Garden, Fla.",football,2023
-Owen Clarke,DL,So.,6' 3'',230 lbs,"Westport, Conn.",football,2023
-James Perry '00,,,,,,football,2023
-Tommy Maloney,DL,Sr.,6' 4'',260 lbs,"Newton, Mass.",football,2023
-John Starman,DL,So.,6' 3'',265 lbs,"Miami, Fla.",football,2023
-Michael Bumpus,DL,Jr.,6' 4'',270 lbs,"Ponte Vedra Beach, Fla.",football,2023
-Quincy Eutsay,DL,Jr.,6' 2'',215 lbs,"Roxbury, Mass.",football,2023
-Najih Rahman,WR,Fr.,5' 11'',195 lbs,"Old Bridge, N.J.",football,2023
-Kyle Philbin,DL,Jr.,6' 4'',285 lbs,"Fitchburg, Mass.",football,2023
-Mark Mahoney,WR,Sr.,6' 5'',240 lbs,"Cohasset, Mass.",football,2023
-Lydell Dyer,WR,So.,6' 2'',180 lbs,"Bonn, Germany",football,2023
-Winston Jordan,DL,Jr.,6' 3'',265 lbs,"Blackwood, N.J.",football,2023
-Matthew Littlejohn,TE,Sr.,6' 4'',220 lbs,"New Braunfels, Texas",football,2023
-Ben Moseley,WR,Sr.,6' 2'',210 lbs,"Houston, Texas",football,2024
-Caleb Yates,OL,Fr.,6' 4'',300 lbs,"Moundsville, W.Va.",football,2024
-Cortland Dicks,QB,Sr.,6' 2'',200 lbs,"Bridgeport, Conn.",football,2024
-Stockton Owen,RB,Sr.,6' 1'',215 lbs,"Cookeville, Tenn.",football,2024
-Michael McGhee,RB,So.,5' 11'',200 lbs,"Greenwich, Conn.",football,2024
-Tim Malo,DB,Sr.,6' 1'',200 lbs,"Bellingham, Wash.",football,2024
-Jordan DeLucia,RB,Sr.,5' 11'',215 lbs,"Bellmore, N.Y.",football,2024
-Jake Willcox,QB(C),5th,6' 2'',215 lbs,"Everett, Mass.",football,2024
-Charlie Pietrosante,OL,So.,6' 5'',290 lbs,"Bloomfield Hills, Mich.",football,2024
-Will Jarvis,QB,Sr.,6' 1'',195 lbs,"Walpole, Mass.",football,2024
-Nevaeh Gattis,DB,Jr.,6' 1'',205 lbs,"Graham, N.C.",football,2024
-Nate Lussier,LB,5th,6' 3'',235 lbs,"North Providence, R.I.",football,2024
-Elias Archie,DB,Jr.,5' 10'',180 lbs,"Cerritos, Calif.",football,2024
-Nolan Lazor,QB,Fr.,6' 5'',210 lbs,"Vernon Hills, Ill.",football,2024
-Ty Holtz,QB,Jr.,5' 11'',200 lbs,"DeWitt, Mich.",football,2024
-Brady Dever,QB,So.,6' 3'',195 lbs,"Houston, Texas",football,2024
-Nick Hudson,DB,Jr.,5' 10'',175 lbs,"Houston, Texas",football,2024
-Isaiah Reed,DB(C),Sr.,6' 0'',185 lbs,"Tampa, Fla.",football,2024
-James Murphy,QB,So.,6' 5'',220 lbs,"Reading, Mass.",football,2024
-Pearson Hill,WR,Fr.,5' 8'',175 lbs,"West Haven, Conn.",football,2024
-Noble Cooper III,DB,Sr.,6' 0'',195 lbs,"Blythewood, S.C.",football,2024
-Will Currid,QB,Fr.,6' 2'',185 lbs,"Cross River, N.Y.",football,2024
-Ty Pezza,WR,Jr.,6' 4'',225 lbs,"North Kingstown, R.I.",football,2024
-Solomon Miller,WR,Jr.,5' 11'',185 lbs,"Orlando, Fla.",football,2024
-Samuel Baddoo,WR,Sr.,5' 10'',200 lbs,"Providence, R.I.",football,2024
-Aaden Bessette,Team IMPACT,,,,,football,2024
-Nathaniel Marko,WR,So.,6' 0'',180 lbs,"Los Angeles, Calif.",football,2024
-Evan Faiella,TE,Jr.,6' 4'',245 lbs,"Middlefield, Conn.",football,2024
-Maximilian Ciovacco,TE,So.,6' 2'',220 lbs,"Boise, Idaho",football,2024
-Camryn Williams-Dalton,DB,So.,6' 0'',185 lbs,"Angier, N.C.",football,2024
-Kalyl Lindsey,DB,So.,5' 11'',200 lbs,"Framingham, Mass.",football,2024
-Griffin Schutte,TE,Fr.,6' 5'',240 lbs,"Hopkinton, Mass.",football,2024
-Matt Childs,RB,Fr.,6' 0'',200 lbs,"Medway, Mass.",football,2024
-Malcolm Flynn,P,Fr.,6' 0'',190 lbs,"Tempe, Ariz.",football,2024
-Brock Owen,DB,So.,6' 1'',205 lbs,"Cookeville, Tenn.",football,2024
-Qwentin Brown,RB,Jr.,6' 0'',220 lbs,"Santa Cruz, Calif.",football,2024
-Austin Alley,K/P,5th,5' 10'',180 lbs,"Fort Myers, Fla.",football,2024
-Jack Whitten,DB,Sr.,6' 1'',205 lbs,"Scottsdale, Ariz.",football,2024
-Sami Miller,DB,Sr.,5' 10'',170 lbs,"Orlando, Fla.",football,2024
-Triston McDonald,OLB,Sr.,5' 10'',190 lbs,"Arlington, Texas",football,2024
-Tyler Baskett,DB,Jr.,6' 0'',195 lbs,"Chesapeake Beach, Md.",football,2024
-Jackson Bennett,RB,So.,6' 0'',225 lbs,"Orlando, Fla.",football,2024
-Cap Davis,DB,So.,5' 10'',175 lbs,"Cincinnati, Ohio",football,2024
-Jadon Garza-Pender,TE,Fr.,6' 4'',235 lbs,"Houston, Texas",football,2024
-Xavier Silva,LB,Sr.,5' 11'',240 lbs,"St. Louis, Mo.",football,2024
-Luke Weltens,DB,Fr.,6' 0'',180 lbs,"Bryan, Texas",football,2024
-Christopher Maron,K,Sr.,5' 10'',180 lbs,"Weston, Fla.",football,2024
-Nas McLean,DB,Fr.,5' 10'',160 lbs,"Allentown, Pa.",football,2024
-Benjamin Taylor,TE,So.,6' 5'',240 lbs,"Lake Oswego, Ore.",football,2024
-Uriel Richardson,DB,Sr.,6' 0'',185 lbs,"Jacksonville, Fla.",football,2024
-Kaleb Ross,LB,Sr.,6' 0'',215 lbs,"Lakeland, Fla.",football,2024
-Alejandro Bello,DB,Fr.,5' 11'',180 lbs,"Orlando, Fla.",football,2024
-Ollie Brown,RB,Fr.,5' 7'',175 lbs,"Williamston, Mich.",football,2024
-Michael Pedrotti,LS,Fr.,6' 1'',200 lbs,"San Carlos, Calif.",football,2024
-Jeff Bandy,DB,Fr.,5' 10'',160 lbs,"Miami, Fla.",football,2024
-Wyatt Feltner,DB,So.,6' 0'',175 lbs,"Colonial Beach, Va.",football,2024
-Beau Smith,OL,Fr.,6' 4'',260 lbs,"Brentwood, Tenn.",football,2024
-Michael Davidson,LS,5th,6' 2'',195 lbs,"Stone Oak, Texas",football,2024
-Liam Halligan,OL,Jr.,6' 5'',305 lbs,"Pittsburgh, Pa.",football,2024
 Braden Ewing,DL,Fr.,6' 0'',270 lbs,"Tyrone, Pa.",football,2024
-Caleb Moorhead,LB(C),Sr.,6' 4'',245 lbs,"Glen Ellyn, Ill.",football,2024
-Kevin Coss,DL,5th,6' 2'',260 lbs,"Charlotte, N.C.",football,2024
-Shay O'Kelly,LB,So.,6' 2'',205 lbs,"Woodside, Calif.",football,2024
-Max Malo,LB,So.,6' 2'',225 lbs,"Bellingham, Wash.",football,2024
-Marco Monteiro,OL,Jr.,6' 5'',280 lbs,"Milford, Mass.",football,2024
-John Perdue,LB,Jr.,6' 0'',240 lbs,"Houston, Texas",football,2024
-William Finke,OL,Sr.,6' 0'',285 lbs,"Weston, Mo.",football,2024
-Mason Baldic,DL,Fr.,6' 2'',255 lbs,"Milford, Mass.",football,2024
-Sam Smith,LB,Jr.,6' 0'',230 lbs,"Avon, Conn.",football,2024
-Stefano Montella,LB,So.,6' 0'',225 lbs,"Long Valley, N.J.",football,2024
-Nathan Marsh,DL,Fr.,5' 11'',245 lbs,"Allen, Texas",football,2024
-Teo Casares,DE,Fr.,6' 1'',225 lbs,"Woodside, Calif.",football,2024
-Marcus Sukkar,DL,Fr.,6' 5'',255 lbs,"Warwick, R.I.",football,2024
-Liam Fitzgerald,DL,Fr.,6' 2'',270 lbs,"Kenilworth, Ill.",football,2024
-Nathan Kunickis,LB,Fr.,6' 3'',215 lbs,"Lemont, Ill.",football,2024
-Will Schmitz,DE,Fr.,6' 4'',210 lbs,"Greenwich, Conn.",football,2024
-Nick Manley,OL,Jr.,6' 3'',280 lbs,"Medina, Ohio",football,2024
-Kai Faucher,OL,So.,6' 5'',285 lbs,"Los Angeles, Calif.",football,2024
-AJ Heidtke,OL,Sr.,6' 4'',290 lbs,"Andover, Mass.",football,2024
-Holden Lee,DL,Fr.,6' 5'',250 lbs,"Pasadena, Calif.",football,2024
 Charlie Pe'a-Shropshire,OL,So.,6' 3'',290 lbs,"San Diego, Calif.",football,2024
-John Starman,DL,Jr.,6' 3'',285 lbs,"Miami, Fla.",football,2024
-Billy Wheless,OL,Fr.,6' 4'',300 lbs,"Houston, Texas",football,2024
+Holden Lee,DL,Fr.,6' 5'',250 lbs,"Pasadena, Calif.",football,2024
+AJ Heidtke,OL,Sr.,6' 4'',290 lbs,"Andover, Mass.",football,2024
 Nic Jones,OL,Sr.,6' 5'',300 lbs,"Raleigh, N.C.",football,2024
+Nick Manley,OL,Jr.,6' 3'',280 lbs,"Medina, Ohio",football,2024
+Will Schmitz,DE,Fr.,6' 4'',210 lbs,"Greenwich, Conn.",football,2024
 Nolan Clark,DL,Jr.,6' 2'',295 lbs,"Glen Rock, N.J.",football,2024
-Chris Rossetti,LB,Fr.,6' 1'',210 lbs,"Westfield, N.J.",football,2024
+Marcus Sukkar,DL,Fr.,6' 5'',255 lbs,"Warwick, R.I.",football,2024
+Kai Faucher,OL,So.,6' 5'',285 lbs,"Los Angeles, Calif.",football,2024
+Teo Casares,DE,Fr.,6' 1'',225 lbs,"Woodside, Calif.",football,2024
+Liam Fitzgerald,DL,Fr.,6' 2'',270 lbs,"Kenilworth, Ill.",football,2024
+John Perdue,LB,Jr.,6' 0'',240 lbs,"Houston, Texas",football,2024
+Mason Baldic,DL,Fr.,6' 2'',255 lbs,"Milford, Mass.",football,2024
+William Finke,OL,Sr.,6' 0'',285 lbs,"Weston, Mo.",football,2024
+Nathan Marsh,DL,Fr.,5' 11'',245 lbs,"Allen, Texas",football,2024
+Stefano Montella,LB,So.,6' 0'',225 lbs,"Long Valley, N.J.",football,2024
+Sam Smith,LB,Jr.,6' 0'',230 lbs,"Avon, Conn.",football,2024
+Marco Monteiro,OL,Jr.,6' 5'',280 lbs,"Milford, Mass.",football,2024
+Max Malo,LB,So.,6' 2'',225 lbs,"Bellingham, Wash.",football,2024
+Shay O'Kelly,LB,So.,6' 2'',205 lbs,"Woodside, Calif.",football,2024
+Kevin Coss,DL,5th,6' 2'',260 lbs,"Charlotte, N.C.",football,2024
+Caleb Moorhead,LB(C),Sr.,6' 4'',245 lbs,"Glen Ellyn, Ill.",football,2024
+Ryan Haley,LB,Jr.,5' 11'',215 lbs,"Mankato, Minn.",football,2024
+Karl Schmalz,DL,So.,6' 4'',265 lbs,"Carol Stream, Ill.",football,2024
+Billy Wheless,OL,Fr.,6' 4'',300 lbs,"Houston, Texas",football,2024
+Liam Halligan,OL,Jr.,6' 5'',305 lbs,"Pittsburgh, Pa.",football,2024
+Tommy Dunn,LB,So.,6' 3'',220 lbs,"Shaker Heights, Ohio",football,2024
 Hayden Bozich,OL,Jr.,6' 7'',315 lbs,"Steubenville, Ohio",football,2024
-Mark Banbury,OL,Fr.,6' 2'',270 lbs,"Pittsburgh, Pa.",football,2024
-Demetri Toliver,OL,Fr.,6' 4'',300 lbs,"Troutville, Va.",football,2024
-Joey Pietrosante,OL,Fr.,6' 4'',270 lbs,"Bloomfield Hills, Mich.",football,2024
-Jack Connolly,OL(C),5th,6' 4'',315 lbs,"Canton, Mass.",football,2024
-Danny Thompson,OL,So.,6' 4'',310 lbs,"Scituate, Mass.",football,2024
-Trevor Foley,WR,Fr.,6' 3'',210 lbs,"Mansfield, Mass.",football,2024
-Kyai Cook,WR,So.,6' 0'',210 lbs,"Duncan, S.C.",football,2024
-Jackson Delaney,WR,Jr.,6' 2'',220 lbs,"Topsfield, Mass.",football,2024
-Chason Barber,WR,Jr.,6' 5'',215 lbs,"Old Greenwich, Conn.",football,2024
-Dillon Golden,TE,Jr.,6' 4'',255 lbs,"San Jose, Calif.",football,2024
+Pat O'Neill,DL,Jr.,6' 4'',270 lbs,"Barnstable, Mass.",football,2024
+Quincy Eutsay,DL,Sr.,6' 2'',240 lbs,"Roxbury, Mass.",football,2024
+Michael Bumpus,DL,Sr.,6' 4'',275 lbs,"Ponte Vedra Beach, Fla.",football,2024
+Winston Jordan,DL,Sr.,6' 3'',275 lbs,"Blackwood, N.J.",football,2024
+Owen Clarke,DL,Jr.,6' 3'',245 lbs,"Westport, Conn.",football,2024
+Kyle Philbin,DL,Sr.,6' 4'',295 lbs,"Fitchburg, Mass.",football,2024
+Caden Harman,DL,Jr.,6' 3'',260 lbs,"Chatsworth, Calif.",football,2024
+Najih Rahman,WR,So.,5' 11'',200 lbs,"Old Bridge, N.J.",football,2024
+Mark Mahoney,WR,5th,6' 5'',240 lbs,"Cohasset, Mass.",football,2024
 Pierce Leverett,TE,So.,6' 4'',255 lbs,"Houston, Texas",football,2024
 Levi Linowes,TE,So.,6' 3'',235 lbs,"Atlanta, Ga.",football,2024
+Dillon Golden,TE,Jr.,6' 4'',255 lbs,"San Jose, Calif.",football,2024
+Trevor Foley,WR,Fr.,6' 3'',210 lbs,"Mansfield, Mass.",football,2024
+Chason Barber,WR,Jr.,6' 5'',215 lbs,"Old Greenwich, Conn.",football,2024
 Michael Nesbit,WR,So.,6' 4'',200 lbs,"Charlotte, N.C.",football,2024
-Tommy Dunn,LB,So.,6' 3'',220 lbs,"Shaker Heights, Ohio",football,2024
-Karl Schmalz,DL,So.,6' 4'',265 lbs,"Carol Stream, Ill.",football,2024
-Ryan Haley,LB,Jr.,5' 11'',215 lbs,"Mankato, Minn.",football,2024
-Kyle Philbin,DL,Sr.,6' 4'',295 lbs,"Fitchburg, Mass.",football,2024
+Jackson Delaney,WR,Jr.,6' 2'',220 lbs,"Topsfield, Mass.",football,2024
+Kyai Cook,WR,So.,6' 0'',210 lbs,"Duncan, S.C.",football,2024
+Danny Thompson,OL,So.,6' 4'',310 lbs,"Scituate, Mass.",football,2024
+Jack Connolly,OL(C),5th,6' 4'',315 lbs,"Canton, Mass.",football,2024
 Michael Reddick,DL,So.,6' 2'',245 lbs,"Meriden, Conn.",football,2024
-Michael Bumpus,DL,Sr.,6' 4'',275 lbs,"Ponte Vedra Beach, Fla.",football,2024
-Pat O'Neill,DL,Jr.,6' 4'',270 lbs,"Barnstable, Mass.",football,2024
-Owen Clarke,DL,Jr.,6' 3'',245 lbs,"Westport, Conn.",football,2024
-Najih Rahman,WR,So.,5' 11'',200 lbs,"Old Bridge, N.J.",football,2024
-Caden Harman,DL,Jr.,6' 3'',260 lbs,"Chatsworth, Calif.",football,2024
-Mark Mahoney,WR,5th,6' 5'',240 lbs,"Cohasset, Mass.",football,2024
-Winston Jordan,DL,Sr.,6' 3'',275 lbs,"Blackwood, N.J.",football,2024
-Quincy Eutsay,DL,Sr.,6' 2'',240 lbs,"Roxbury, Mass.",football,2024
-Kalyl Lindsey,DB,Jr.,5' 11'',200 lbs,"Framingham, Mass.",football,2025
-Brock Owen,DB,Jr.,6' 1'',215 lbs,"Cookeville, Tenn.",football,2025
-Solomon Miller,WR,Sr.,5' 11'',185 lbs,"Orlando, Fla.",football,2025
-Ty Holtz,QB,Sr.,5' 11'',200 lbs,"DeWitt, Mich.",football,2025
-Brady Dever,QB,Jr.,6' 3'',210 lbs,"Houston, Texas",football,2025
-Jackson Bennett,RB,Jr.,6' 0'',215 lbs,"Orlando, Fla.",football,2025
-Qwentin Brown,RB,Sr.,6' 0'',220 lbs,"Santa Cruz, Calif.",football,2025
-Nevaeh Gattis,DB,Sr.,6' 1'',210 lbs,"Graham, N.C.",football,2025
-Matt Childs,RB,So.,6' 0'',200 lbs,"Medway, Mass.",football,2025
-Nick Hudson,DB,Sr.,5' 10'',175 lbs,"Houston, Texas",football,2025
-Michael McGhee,RB,Jr.,5' 11'',200 lbs,"Greenwich, Conn.",football,2025
-Luke Weltens,DB,So.,6' 0'',180 lbs,"Bryan, Texas",football,2025
-Camryn Williams-Dalton,DB,Jr.,6' 0'',185 lbs,"Angier, N.C.",football,2025
-Miles Brophy,DB,Jr.,6' 1'',205 lbs,"Austin, Texas",football,2025
+Joey Pietrosante,OL,Fr.,6' 4'',270 lbs,"Bloomfield Hills, Mich.",football,2024
+Demetri Toliver,OL,Fr.,6' 4'',300 lbs,"Troutville, Va.",football,2024
+Beau Smith,OL,Fr.,6' 4'',260 lbs,"Brentwood, Tenn.",football,2024
+Charlie Pietrosante,OL,So.,6' 5'',290 lbs,"Bloomfield Hills, Mich.",football,2024
+Caleb Yates,OL,Fr.,6' 4'',300 lbs,"Moundsville, W.Va.",football,2024
+Mark Banbury,OL,Fr.,6' 2'',270 lbs,"Pittsburgh, Pa.",football,2024
+Michael Davidson,LS,5th,6' 2'',195 lbs,"Stone Oak, Texas",football,2024
+Pearson Hill,WR,Fr.,5' 8'',175 lbs,"West Haven, Conn.",football,2024
+Wyatt Feltner,DB,So.,6' 0'',175 lbs,"Colonial Beach, Va.",football,2024
+Michael McGhee,RB,So.,5' 11'',200 lbs,"Greenwich, Conn.",football,2024
+Tyler Baskett,DB,Jr.,6' 0'',195 lbs,"Chesapeake Beach, Md.",football,2024
+Jackson Bennett,RB,So.,6' 0'',225 lbs,"Orlando, Fla.",football,2024
+Ty Pezza,WR,Jr.,6' 4'',225 lbs,"North Kingstown, R.I.",football,2024
+Will Currid,QB,Fr.,6' 2'',185 lbs,"Cross River, N.Y.",football,2024
+Noble Cooper III,DB,Sr.,6' 0'',195 lbs,"Blythewood, S.C.",football,2024
+James Murphy,QB,So.,6' 5'',220 lbs,"Reading, Mass.",football,2024
+Isaiah Reed,DB(C),Sr.,6' 0'',185 lbs,"Tampa, Fla.",football,2024
+Ty Holtz,QB,Jr.,5' 11'',200 lbs,"DeWitt, Mich.",football,2024
+Nolan Lazor,QB,Fr.,6' 5'',210 lbs,"Vernon Hills, Ill.",football,2024
+Elias Archie,DB,Jr.,5' 10'',180 lbs,"Cerritos, Calif.",football,2024
+Nick Hudson,DB,Jr.,5' 10'',175 lbs,"Houston, Texas",football,2024
+Brady Dever,QB,So.,6' 3'',195 lbs,"Houston, Texas",football,2024
+Ben Moseley,WR,Sr.,6' 2'',210 lbs,"Houston, Texas",football,2024
+Will Jarvis,QB,Sr.,6' 1'',195 lbs,"Walpole, Mass.",football,2024
+Tim Malo,DB,Sr.,6' 1'',200 lbs,"Bellingham, Wash.",football,2024
+Solomon Miller,WR,Jr.,5' 11'',185 lbs,"Orlando, Fla.",football,2024
+Cortland Dicks,QB,Sr.,6' 2'',200 lbs,"Bridgeport, Conn.",football,2024
+Stockton Owen,RB,Sr.,6' 1'',215 lbs,"Cookeville, Tenn.",football,2024
+Aaden Bessette,Team IMPACT,,,,,football,2024
+Nate Lussier,LB,5th,6' 3'',235 lbs,"North Providence, R.I.",football,2024
+Jordan DeLucia,RB,Sr.,5' 11'',215 lbs,"Bellmore, N.Y.",football,2024
+Jake Willcox,QB(C),5th,6' 2'',215 lbs,"Everett, Mass.",football,2024
+Samuel Baddoo,WR,Sr.,5' 10'',200 lbs,"Providence, R.I.",football,2024
+Nathaniel Marko,WR,So.,6' 0'',180 lbs,"Los Angeles, Calif.",football,2024
+Camryn Williams-Dalton,DB,So.,6' 0'',185 lbs,"Angier, N.C.",football,2024
+Uriel Richardson,DB,Sr.,6' 0'',185 lbs,"Jacksonville, Fla.",football,2024
+Nevaeh Gattis,DB,Jr.,6' 1'',205 lbs,"Graham, N.C.",football,2024
+Cap Davis,DB,So.,5' 10'',175 lbs,"Cincinnati, Ohio",football,2024
+Maximilian Ciovacco,TE,So.,6' 2'',220 lbs,"Boise, Idaho",football,2024
+Chris Rossetti,LB,Fr.,6' 1'',210 lbs,"Westfield, N.J.",football,2024
+Nathan Kunickis,LB,Fr.,6' 3'',215 lbs,"Lemont, Ill.",football,2024
+John Starman,DL,Jr.,6' 3'',285 lbs,"Miami, Fla.",football,2024
+Michael Pedrotti,LS,Fr.,6' 1'',200 lbs,"San Carlos, Calif.",football,2024
+Ollie Brown,RB,Fr.,5' 7'',175 lbs,"Williamston, Mich.",football,2024
+Alejandro Bello,DB,Fr.,5' 11'',180 lbs,"Orlando, Fla.",football,2024
+Jeff Bandy,DB,Fr.,5' 10'',160 lbs,"Miami, Fla.",football,2024
+Benjamin Taylor,TE,So.,6' 5'',240 lbs,"Lake Oswego, Ore.",football,2024
+Nas McLean,DB,Fr.,5' 10'',160 lbs,"Allentown, Pa.",football,2024
+Evan Faiella,TE,Jr.,6' 4'',245 lbs,"Middlefield, Conn.",football,2024
+Christopher Maron,K,Sr.,5' 10'',180 lbs,"Weston, Fla.",football,2024
+Kaleb Ross,LB,Sr.,6' 0'',215 lbs,"Lakeland, Fla.",football,2024
+Jadon Garza-Pender,TE,Fr.,6' 4'',235 lbs,"Houston, Texas",football,2024
+Luke Weltens,DB,Fr.,6' 0'',180 lbs,"Bryan, Texas",football,2024
+Austin Alley,K/P,5th,5' 10'',180 lbs,"Fort Myers, Fla.",football,2024
+Kalyl Lindsey,DB,So.,5' 11'',200 lbs,"Framingham, Mass.",football,2024
+Jack Whitten,DB,Sr.,6' 1'',205 lbs,"Scottsdale, Ariz.",football,2024
+Griffin Schutte,TE,Fr.,6' 5'',240 lbs,"Hopkinton, Mass.",football,2024
+Sami Miller,DB,Sr.,5' 10'',170 lbs,"Orlando, Fla.",football,2024
+Triston McDonald,OLB,Sr.,5' 10'',190 lbs,"Arlington, Texas",football,2024
+Malcolm Flynn,P,Fr.,6' 0'',190 lbs,"Tempe, Ariz.",football,2024
+Brock Owen,DB,So.,6' 1'',205 lbs,"Cookeville, Tenn.",football,2024
+Matt Childs,RB,Fr.,6' 0'',200 lbs,"Medway, Mass.",football,2024
+Xavier Silva,LB,Sr.,5' 11'',240 lbs,"St. Louis, Mo.",football,2024
+Qwentin Brown,RB,Jr.,6' 0'',220 lbs,"Santa Cruz, Calif.",football,2024
+Karl Schmalz,OL,Jr.,6' 4'',275 lbs,"Carol Stream, Ill.",football,2025
+Liam Halligan,OL,Sr.,6' 5'',305 lbs,"Pittsburgh, Pa.",football,2025
+Sam Brackney,OL,Fr.,6' 2'',275 lbs,"Sewickley, Pa.",football,2025
+Mitch Mooney,DL,Fr.,6' 2'',235 lbs,"Pasadena, Calif.",football,2025
+Will Schmitz,DE,So.,6' 4'',220 lbs,"Greenwich, Conn.",football,2025
+Nick Manley,OL,Sr.,6' 3'',280 lbs,"Medina, Ohio",football,2025
+Teo Casares,DE,So.,6' 1'',235 lbs,"Woodside, Calif.",football,2025
+Mark Banbury,OL,So.,6' 2'',280 lbs,"Pittsburgh, Pa.",football,2025
+Nolan Daly,DL,Fr.,6' 4'',230 lbs,"Plainfield, Ill.",football,2025
+Kai Faucher,OL,Jr.,6' 5'',285 lbs,"Los Angeles, Calif.",football,2025
+Evan Tarozzi,LB,Fr.,6' 3'',225 lbs,"New York, N.Y.",football,2025
+Billy Wheless,OL,So.,6' 4'',300 lbs,"Houston, Texas",football,2025
+Jack Morse,ILB,Fr.,6' 1'',215 lbs,"Dallas, Texas",football,2025
+B. Hawk Okpokwasili IV,LB,Fr.,6' 1'',225 lbs,"Jersey City, N.J.",football,2025
+Sam Smith,LB,Sr.,6' 0'',230 lbs,"Avon, Conn.",football,2025
+John Perdue,LB(C),Sr.,6' 0'',230 lbs,"Houston, Texas",football,2025
+Marco Monteiro,OL,Sr.,6' 5'',275 lbs,"Milford, Mass.",football,2025
+Ike Odimegwu,DL,Jr.,6' 3'',235 lbs,"Coppell, Texas",football,2025
+Shay O'Kelly,LB,Jr.,6' 2'',210 lbs,"Woodside, Calif.",football,2025
 Maximilian Ciovacco,TE,Jr.,6' 2'',240 lbs,"Boise, Idaho",football,2025
 Marcus Sukkar,OL,So.,6' 5'',270 lbs,"Warwick, R.I.",football,2025
-Colby Isabelle,RB,Jr.,5' 9'',190 lbs,"Rollinsford, N.H.",football,2025
-Elias Archie,DB,Sr.,5' 10'',180 lbs,"Cerritos, Calif.",football,2025
-Jayden Vega,QB,Fr.,6' 1'',215 lbs,"Port St. Lucie, Fla.",football,2025
-Michael Nesbit,WR,Jr.,6' 3'',200 lbs,"Charlotte, N.C.",football,2025
-James Murphy,QB(C),Jr.,6' 5'',230 lbs,"Reading, Mass.",football,2025
-Pearson Hill,WR,So.,5' 8'',180 lbs,"West Haven, Conn.",football,2025
-Drew Crabtree,K,Fr.,6' 0'',185 lbs,"Brentwood, Tenn.",football,2025
-Najih Rahman,WR,Jr.,5' 11'',200 lbs,"Old Bridge, N.J.",football,2025
-Tommy Dunn,LB,Jr.,6' 3'',230 lbs,"Shaker Heights, Ohio",football,2025
-Nas McLean,DB,So.,5' 11'',155 lbs,"Allentown, Pa.",football,2025
-Alejandro Bello,DB,So.,5' 11'',180 lbs,"Orlando, Fla.",football,2025
-Nolan Lazor,QB,So.,6' 5'',220 lbs,"Vernon Hills, Ill.",football,2025
-Cap Davis,DB,Jr.,5' 10'',175 lbs,"Cincinnati, Ohio",football,2025
-Sami Miller,DB,5th,5' 10'',170 lbs,"Orlando, Fla.",football,2025
-Airiz Coleman Bey,DB,Fr.,5' 10'',165 lbs,"Warren, Ohio",football,2025
-Garrett Nichols,DB,Fr.,6' 0'',200 lbs,"Naperville, Ill.",football,2025
-Elijah Jones,RB,Fr.,5' 11'',190 lbs,"Grand Rapids, Mich.",football,2025
-Stefano Montella,LB,Jr.,6' 0'',225 lbs,"Long Valley, N.J.",football,2025
-Tayden Ferguson,WR,Fr.,6' 3'',200 lbs,"Eau Claire, Wisc.",football,2025
-Wyatt Feltner,DB,Jr.,6' 0'',190 lbs,"Colonial Beach, Va.",football,2025
-Malcolm Flynn,P,So.,6' 0'',190 lbs,"Tempe, Ariz.",football,2025
-Chase Judge,DB,Fr.,6' 1'',185 lbs,"Cambridge, Ont.",football,2025
-Max Malo,LB,Jr.,6' 2'',225 lbs,"Bellingham, Wash.",football,2025
-Tyler Baskett,DB,Sr.,6' 0'',195 lbs,"Chesapeake Beach, Md.",football,2025
-Benjamin Taylor,TE,Jr.,6' 5'',245 lbs,"Lake Oswego, Ore.",football,2025
-Nathan Marsh,DL,So.,5' 11'',250 lbs,"Allen, Texas",football,2025
-Sean Connell,ATH,Fr.,6' 2'',190 lbs,"Honolulu, Hawaii",football,2025
-Landon Heard,DB,Jr.,6' 0'',200 lbs,"Los Gatos, Calif.",football,2025
-Carter Vaughn,OLB,Fr.,6' 0'',210 lbs,"Saratoga Springs, N.Y.",football,2025
-John Starman,DL,Sr.,6' 3'',285 lbs,"Miami, Fla.",football,2025
-Henry Hurd,TE,Fr.,6' 5'',230 lbs,"Aspen, Colo.",football,2025
-Efe Elaiho,DB,Fr.,5' 10'',165 lbs,"Seattle, Wash.",football,2025
-Jeff Bandy,DB,So.,5' 10'',170 lbs,"Miami, Fla.",football,2025
-Nathan Kunickis,LB,So.,6' 3'',220 lbs,"Lemont, Ill.",football,2025
-Chris Rossetti,LB,So.,6' 1'',215 lbs,"Westfield, N.J.",football,2025
-Zach Pryor,WR,Sr.,5' 8'',160 lbs,"Austin, Texas",football,2025
-Ian Browne,DB,Fr.,5' 11'',190 lbs,"Del Mar, Calif.",football,2025
-Shay O'Kelly,LB,Jr.,6' 2'',210 lbs,"Woodside, Calif.",football,2025
+Ryan Haley,LB,Sr.,5' 11'',210 lbs,"Mankato, Minn.",football,2025
+Caleb Yates,OL,So.,6' 5'',285 lbs,"Moundsville, W.Va.",football,2025
+Nick Chao,DL,Fr.,6' 2'',290 lbs,"Marietta, Ga.",football,2025
+Charlie Pietrosante,OL,Jr.,6' 5'',290 lbs,"Bloomfield Hills, Mich.",football,2025
+Pierce Leverett,TE,Jr.,6' 4'',255 lbs,"Houston, Texas",football,2025
+Eddie Battista,OL,Fr.,6' 4'',285 lbs,"Fulton, Md.",football,2025
 Michael Pedrotti,LS,So.,6' 1'',205 lbs,"San Carlos, Calif.",football,2025
-Will Schmitz,DE,So.,6' 4'',220 lbs,"Greenwich, Conn.",football,2025
+James Perry '00,,,,,,football,2025
+Michael Reddick,DL,Jr.,6' 2'',240 lbs,"Meriden, Conn.",football,2025
+Pat O'Neill,DL,Sr.,6' 4'',270 lbs,"Barnstable, Mass.",football,2025
+Nate Hohlfeld,DL,Fr.,6' 3'',240 lbs,"Lithia, Fla.",football,2025
+Mason Baldic,DL,So.,6' 2'',265 lbs,"Milford, Mass.",football,2025
+Nolan Clark,DL,Sr.,6' 2'',295 lbs,"Glen Rock, N.J.",football,2025
+Liam Fitzgerald,DL,So.,6' 2'',280 lbs,"Kenilworth, Ill.",football,2025
+EJ Perez,DL,Fr.,6' 2'',280 lbs,"Greenwich, Conn.",football,2025
+Owen Clarke,DL,Sr.,6' 3'',245 lbs,"Westport, Conn.",football,2025
+Jack Middleton,DE,So.,6' 3'',245 lbs,"Austin, Texas",football,2025
+Beau Smith,OL,So.,6' 5'',285 lbs,"Brentwood, Tenn.",football,2025
+Caden Harman,DL,Sr.,6' 3'',250 lbs,"Chatsworth, Calif.",football,2025
+Jadon Garza-Pender,TE,So.,6' 4'',245 lbs,"Houston, Texas",football,2025
 Levi Linowes,TE,Jr.,6' 3'',240 lbs,"Atlanta, Ga.",football,2025
-Ike Odimegwu,DL,Jr.,6' 3'',235 lbs,"Coppell, Texas",football,2025
-Marco Monteiro,OL,Sr.,6' 5'',275 lbs,"Milford, Mass.",football,2025
-John Perdue,LB(C),Sr.,6' 0'',230 lbs,"Houston, Texas",football,2025
-Sam Smith,LB,Sr.,6' 0'',230 lbs,"Avon, Conn.",football,2025
-B. Hawk Okpokwasili IV,LB,Fr.,6' 1'',225 lbs,"Jersey City, N.J.",football,2025
+Dillon Golden,TE,Sr.,6' 4'',255 lbs,"San Jose, Calif.",football,2025
+Trevor Foley,WR,So.,6' 3'',210 lbs,"Mansfield, Mass.",football,2025
+Chason Barber,WR,Sr.,6' 5'',215 lbs,"Old Greenwich, Conn.",football,2025
+Carson Hill,WR,Fr.,6' 0'',180 lbs,"West Haven, Conn.",football,2025
+Jackson Delaney,WR,Sr.,6' 3'',215 lbs,"Topsfield, Mass.",football,2025
+Kyai Cook,WR,Jr.,6' 0'',210 lbs,"Duncan, S.C.",football,2025
+Danny Thompson,OL,Jr.,6' 5'',315 lbs,"Scituate, Mass.",football,2025
+John Green,OL,Fr.,5' 9'',210 lbs,"LaCygne, Kan.",football,2025
+Joey Pietrosante,OL,So.,6' 5'',285 lbs,"Bloomfield Hills, Mich.",football,2025
+Xavier Hazard,WR,Fr.,6' 2'',190 lbs,"East Providence, R.I.",football,2025
+Colby Isabelle,RB,Jr.,5' 9'',190 lbs,"Rollinsford, N.H.",football,2025
+Aiden Smith,OL,Fr.,6' 3'',285 lbs,"Bel Air, Md.",football,2025
+Zach Pryor,WR,Sr.,5' 8'',160 lbs,"Austin, Texas",football,2025
+Miles Brophy,DB,Jr.,6' 1'',205 lbs,"Austin, Texas",football,2025
 Ty Pezza,WR,Sr.,6' 4'',225 lbs,"North Kingstown, R.I.",football,2025
 Will Currid,QB,So.,6' 2'',190 lbs,"Cross River, N.Y.",football,2025
 Evan Faiella,TE,Sr.,6' 4'',245 lbs,"Middlefield, Conn.",football,2025
-Caleb Yates,OL,So.,6' 5'',285 lbs,"Moundsville, W.Va.",football,2025
-Pierce Leverett,TE,Jr.,6' 4'',255 lbs,"Houston, Texas",football,2025
-Aiden Smith,OL,Fr.,6' 3'',285 lbs,"Bel Air, Md.",football,2025
-Charlie Pietrosante,OL,Jr.,6' 5'',290 lbs,"Bloomfield Hills, Mich.",football,2025
-Sam Brackney,OL,Fr.,6' 2'',275 lbs,"Sewickley, Pa.",football,2025
-Karl Schmalz,OL,Jr.,6' 4'',275 lbs,"Carol Stream, Ill.",football,2025
-Liam Halligan,OL,Sr.,6' 5'',305 lbs,"Pittsburgh, Pa.",football,2025
-Mitch Mooney,DL,Fr.,6' 2'',235 lbs,"Pasadena, Calif.",football,2025
-Jack Morse,ILB,Fr.,6' 1'',215 lbs,"Dallas, Texas",football,2025
-Nick Manley,OL,Sr.,6' 3'',280 lbs,"Medina, Ohio",football,2025
-Nolan Daly,DL,Fr.,6' 4'',230 lbs,"Plainfield, Ill.",football,2025
-Teo Casares,DE,So.,6' 1'',235 lbs,"Woodside, Calif.",football,2025
-Mark Banbury,OL,So.,6' 2'',280 lbs,"Pittsburgh, Pa.",football,2025
-Billy Wheless,OL,So.,6' 4'',300 lbs,"Houston, Texas",football,2025
-Dillon Golden,TE,Sr.,6' 4'',255 lbs,"San Jose, Calif.",football,2025
-Ryan Haley,LB,Sr.,5' 11'',210 lbs,"Mankato, Minn.",football,2025
-Kai Faucher,OL,Jr.,6' 5'',285 lbs,"Los Angeles, Calif.",football,2025
-Eddie Battista,OL,Fr.,6' 4'',285 lbs,"Fulton, Md.",football,2025
-Joey Pietrosante,OL,So.,6' 5'',285 lbs,"Bloomfield Hills, Mich.",football,2025
-John Green,OL,Fr.,5' 9'',210 lbs,"LaCygne, Kan.",football,2025
-Beau Smith,OL,So.,6' 5'',285 lbs,"Brentwood, Tenn.",football,2025
-Xavier Hazard,WR,Fr.,6' 2'',190 lbs,"East Providence, R.I.",football,2025
-James Perry '00,,,,,,football,2025
-Danny Thompson,OL,Jr.,6' 5'',315 lbs,"Scituate, Mass.",football,2025
-Kyai Cook,WR,Jr.,6' 0'',210 lbs,"Duncan, S.C.",football,2025
-Jackson Delaney,WR,Sr.,6' 3'',215 lbs,"Topsfield, Mass.",football,2025
-Carson Hill,WR,Fr.,6' 0'',180 lbs,"West Haven, Conn.",football,2025
-Chason Barber,WR,Sr.,6' 5'',215 lbs,"Old Greenwich, Conn.",football,2025
-Trevor Foley,WR,So.,6' 3'',210 lbs,"Mansfield, Mass.",football,2025
-Jadon Garza-Pender,TE,So.,6' 4'',245 lbs,"Houston, Texas",football,2025
-Nick Chao,DL,Fr.,6' 2'',290 lbs,"Marietta, Ga.",football,2025
-Caden Harman,DL,Sr.,6' 3'',250 lbs,"Chatsworth, Calif.",football,2025
-Jack Middleton,DE,So.,6' 3'',245 lbs,"Austin, Texas",football,2025
-Owen Clarke,DL,Sr.,6' 3'',245 lbs,"Westport, Conn.",football,2025
-EJ Perez,DL,Fr.,6' 2'',280 lbs,"Greenwich, Conn.",football,2025
-Liam Fitzgerald,DL,So.,6' 2'',280 lbs,"Kenilworth, Ill.",football,2025
-Nolan Clark,DL,Sr.,6' 2'',295 lbs,"Glen Rock, N.J.",football,2025
-Mason Baldic,DL,So.,6' 2'',265 lbs,"Milford, Mass.",football,2025
-Nate Hohlfeld,DL,Fr.,6' 3'',240 lbs,"Lithia, Fla.",football,2025
-Pat O'Neill,DL,Sr.,6' 4'',270 lbs,"Barnstable, Mass.",football,2025
-Michael Reddick,DL,Jr.,6' 2'',240 lbs,"Meriden, Conn.",football,2025
-Evan Tarozzi,LB,Fr.,6' 3'',225 lbs,"New York, N.Y.",football,2025
+Pearson Hill,WR,So.,5' 8'',180 lbs,"West Haven, Conn.",football,2025
+James Murphy,QB(C),Jr.,6' 5'',230 lbs,"Reading, Mass.",football,2025
+Michael Nesbit,WR,Jr.,6' 3'',200 lbs,"Charlotte, N.C.",football,2025
+Jayden Vega,QB,Fr.,6' 1'',215 lbs,"Port St. Lucie, Fla.",football,2025
+Elias Archie,DB,Sr.,5' 10'',180 lbs,"Cerritos, Calif.",football,2025
+Ian Browne,DB,Fr.,5' 11'',190 lbs,"Del Mar, Calif.",football,2025
+Brady Dever,QB,Jr.,6' 3'',210 lbs,"Houston, Texas",football,2025
+Tommy Dunn,LB,Jr.,6' 3'',230 lbs,"Shaker Heights, Ohio",football,2025
+Max Malo,LB,Jr.,6' 2'',225 lbs,"Bellingham, Wash.",football,2025
+Nolan Lazor,QB,So.,6' 5'',220 lbs,"Vernon Hills, Ill.",football,2025
+Solomon Miller,WR,Sr.,5' 11'',185 lbs,"Orlando, Fla.",football,2025
+Kalyl Lindsey,DB,Jr.,5' 11'',200 lbs,"Framingham, Mass.",football,2025
+Brock Owen,DB,Jr.,6' 1'',215 lbs,"Cookeville, Tenn.",football,2025
+Ty Holtz,QB,Sr.,5' 11'',200 lbs,"DeWitt, Mich.",football,2025
+Najih Rahman,WR,Jr.,5' 11'',200 lbs,"Old Bridge, N.J.",football,2025
+Jackson Bennett,RB,Jr.,6' 0'',215 lbs,"Orlando, Fla.",football,2025
+Matt Childs,RB,So.,6' 0'',200 lbs,"Medway, Mass.",football,2025
+Qwentin Brown,RB,Sr.,6' 0'',220 lbs,"Santa Cruz, Calif.",football,2025
+Nevaeh Gattis,DB,Sr.,6' 1'',210 lbs,"Graham, N.C.",football,2025
+Tyler Baskett,DB,Sr.,6' 0'',195 lbs,"Chesapeake Beach, Md.",football,2025
+Michael McGhee,RB,Jr.,5' 11'',200 lbs,"Greenwich, Conn.",football,2025
+Nick Hudson,DB,Sr.,5' 10'',175 lbs,"Houston, Texas",football,2025
+Alejandro Bello,DB,So.,5' 11'',180 lbs,"Orlando, Fla.",football,2025
+Camryn Williams-Dalton,DB,Jr.,6' 0'',185 lbs,"Angier, N.C.",football,2025
+Nathan Kunickis,LB,So.,6' 3'',220 lbs,"Lemont, Ill.",football,2025
+John Starman,DL,Sr.,6' 3'',285 lbs,"Miami, Fla.",football,2025
+Carter Vaughn,OLB,Fr.,6' 0'',210 lbs,"Saratoga Springs, N.Y.",football,2025
+Landon Heard,DB,Jr.,6' 0'',200 lbs,"Los Gatos, Calif.",football,2025
+Sean Connell,ATH,Fr.,6' 2'',190 lbs,"Honolulu, Hawaii",football,2025
+Nathan Marsh,DL,So.,5' 11'',250 lbs,"Allen, Texas",football,2025
+Benjamin Taylor,TE,Jr.,6' 5'',245 lbs,"Lake Oswego, Ore.",football,2025
+Nas McLean,DB,So.,5' 11'',155 lbs,"Allentown, Pa.",football,2025
+Drew Crabtree,K,Fr.,6' 0'',185 lbs,"Brentwood, Tenn.",football,2025
+Luke Weltens,DB,So.,6' 0'',180 lbs,"Bryan, Texas",football,2025
+Henry Hurd,TE,Fr.,6' 5'',230 lbs,"Aspen, Colo.",football,2025
+Chris Rossetti,LB,So.,6' 1'',215 lbs,"Westfield, N.J.",football,2025
+Chase Judge,DB,Fr.,6' 1'',185 lbs,"Cambridge, Ont.",football,2025
+Malcolm Flynn,P,So.,6' 0'',190 lbs,"Tempe, Ariz.",football,2025
+Wyatt Feltner,DB,Jr.,6' 0'',190 lbs,"Colonial Beach, Va.",football,2025
+Tayden Ferguson,WR,Fr.,6' 3'',200 lbs,"Eau Claire, Wisc.",football,2025
+Stefano Montella,LB,Jr.,6' 0'',225 lbs,"Long Valley, N.J.",football,2025
+Elijah Jones,RB,Fr.,5' 11'',190 lbs,"Grand Rapids, Mich.",football,2025
+Garrett Nichols,DB,Fr.,6' 0'',200 lbs,"Naperville, Ill.",football,2025
+Airiz Coleman Bey,DB,Fr.,5' 10'',165 lbs,"Warren, Ohio",football,2025
+Sami Miller,DB,5th,5' 10'',170 lbs,"Orlando, Fla.",football,2025
+Cap Davis,DB,Jr.,5' 10'',175 lbs,"Cincinnati, Ohio",football,2025
+Jeff Bandy,DB,So.,5' 10'',170 lbs,"Miami, Fla.",football,2025
+Efe Elaiho,DB,Fr.,5' 10'',165 lbs,"Seattle, Wash.",football,2025
 John Luke Minner,DL,Fr.,6' 3'',220 lbs,"Lexington, Ky.",football,2026
 Colin Overy,OL,Fr.,6' 4'',270 lbs,"Boulder, Colo.",football,2026
 Charlie Pe'a-Shropshire,OL,Sr.,6' 3'',315 lbs,"San Diego, Calif.",football,2026

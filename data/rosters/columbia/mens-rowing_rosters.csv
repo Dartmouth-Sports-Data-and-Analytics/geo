@@ -1,158 +1,275 @@
 name,position,class,height,weight,hometown,sport,year
+Caroline Ellwood,COX,Jr.,,,"Greenville Junction, Mass.",mens-rowing,2016
+Colin Keane,,Sr.,5' 8'',,"Redwood City, Calif.",mens-rowing,2016
+Connor Coughlin,,Sr.,6' 3'',,"New Rochelle, N.Y.",mens-rowing,2016
+Peter Kiernan,,Sr.,5' 11'',,"New York, N.Y.",mens-rowing,2016
+Kirill Buskirk,,FY,6' 5'',,"Mukilteo, Wash.",mens-rowing,2016
+Alex Hedge,,So.,6' 6'',,"Morristown, N.J.",mens-rowing,2016
+Nick Edwards,,So.,6' 1'',,"Sarasota, Fla.",mens-rowing,2016
+Patrick Dyroff,,FY,6' 4'',,"Hanover, N.H.",mens-rowing,2016
+Robert Alfieri,,So.,6' 5'',,"New York, N.Y.",mens-rowing,2016
+Alastair Clements,,Sr.,6' 5'',,"Lyme, Conn.",mens-rowing,2016
+Hugh Cecil,,So.,6' 9'',,"Asheville, N.C.",mens-rowing,2016
+Tucker Klutey,,Sr.,,,"Ridgefield, Conn.",mens-rowing,2016
+Mihir Gulati,COX,Jr.,,,"Weston, Mass.",mens-rowing,2016
+Caroline Hurley,COX,So.,5' 4'',,Saint Ignitus,mens-rowing,2016
+Andrew Bair,,Sr.,6' 5'',,"Rydal, Pa.",mens-rowing,2016
+Gregory Klumpp,,Sr.,,,"Rochester, N.Y.",mens-rowing,2016
+Stuart Buck,,So.,6' 2'',,"Kent, Wash.",mens-rowing,2016
+Alexander Kutner,,FY,6' 3'',,"New Canaan, Conn.",mens-rowing,2016
+Aris Togias,,Jr.,,,"Washington, D.C.",mens-rowing,2016
+Scott Alwin,,,,,,mens-rowing,2016
+Ivan Perdomo,,FY,6' 1'',,"Miami, Fla.",mens-rowing,2016
+Peter Richards,,Jr.,6' 5'',,"Washington, D.C.",mens-rowing,2016
+Ben Tilden,,So.,6' 3'',,"Carrollton, Texas",mens-rowing,2016
+Josef Starc,,Jr.,6' 2'',,"Oakland, Calif.",mens-rowing,2016
+Zachary Skypeck,,FY,,,"Melbourne, Fla.",mens-rowing,2016
+Maxim Zwarycz,,Jr.,,,"Morristown, N.J.",mens-rowing,2016
+Eitan Rothman,,Sr.,,,"Los Angeles, Calif.",mens-rowing,2016
+Noah Ross,,Jr.,,,"Port Washington, N.Y.",mens-rowing,2016
+Tristan Orlofski,,So.,6' 5'',,"Mountain Lakes, N.J.",mens-rowing,2016
+Will Taylor,,Jr.,6' 1'',,"Breadalbane, Australia",mens-rowing,2016
+Robert Marsh,,FY,6' 5'',,"Darien, Conn.",mens-rowing,2016
+Matt Ryan,,Jr.,,,"Boston, Mass.",mens-rowing,2016
+Madeline Nece,COX,FY,5' 4'',,"Moorestown, N.J.",mens-rowing,2016
+Kirill Buskirk,,So.,6' 5'',,"Mukilteo, Wash.",mens-rowing,2017
+Ryan Lee,,FY,6' 4'',,"Knoxville, Tenn.",mens-rowing,2017
+Claire Hall-Tipping,COX,So.,,,"Norwalk, Conn.",mens-rowing,2017
+Alex Hedge,,Jr.,6' 6'',,"Morristown, N.J.",mens-rowing,2017
+Nick Edwards,,Jr.,6' 1'',,"Sarasota, Fla.",mens-rowing,2017
+Caroline Hurley,COX,Jr.,5' 4'',,Saint Ignitus,mens-rowing,2017
+Stuart Buck,,Jr.,6' 2'',,"Kent, Wash.",mens-rowing,2017
+Robert Marsh,,So.,6' 5'',,"Darien, Conn.",mens-rowing,2017
+Madeline Nece,COX,So.,5' 4'',,"Moorestown, N.J.",mens-rowing,2017
+Mihir Gulati,COX,Sr.,,,"Weston, Mass.",mens-rowing,2017
+Frank Baring,,FY,6' 4'',,"London, England",mens-rowing,2017
+Alexander Kutner,,So.,6' 3'',,"New Canaan, Conn.",mens-rowing,2017
+Scott Alwin,,,,,,mens-rowing,2017
+Aris Togias,,Sr.,,,"Washington, D.C.",mens-rowing,2017
+Niko Savas,,Jr.,6' 1'',,"Ramsey, N.J.",mens-rowing,2017
+Ivan Perdomo,,So.,6' 1'',,"Miami, Fla.",mens-rowing,2017
+Ben Tilden,,Jr.,6' 3'',,"Carrollton, Texas",mens-rowing,2017
+Maxim Zwarycz,,Sr.,,,"Morristown, N.J.",mens-rowing,2017
+Josef Starc,,Sr.,6' 2'',,"Oakland, Calif.",mens-rowing,2017
+Noah Ross,,Sr.,,,"Port Washington, N.Y.",mens-rowing,2017
+Matt Ryan,,Sr.,,,"Boston, Mass.",mens-rowing,2017
+Peter Richards,,Sr.,6' 5'',,"Washington, D.C.",mens-rowing,2017
+Will Taylor,,Sr.,6' 1'',,"Breadalbane, Australia",mens-rowing,2017
+Tristan Orlofski,,Jr.,6' 5'',,"Mountain Lakes, N.J.",mens-rowing,2017
+Caroline Hurley,COX,Sr.,5' 4'',,Saint Ignitus,mens-rowing,2018
+Oliver Babb,,FY,6' 2'',,"Atlanta, Ga.",mens-rowing,2018
+Stuart Buck,,Sr.,6' 2'',,"Kent, Wash.",mens-rowing,2018
+Nick Edwards,,Sr.,6' 1'',,"Sarasota, Fla.",mens-rowing,2018
+Alex Hedge,,Sr.,6' 6'',,"Morristown, N.J.",mens-rowing,2018
+Ryan Lee,,So.,6' 4'',,"Knoxville, Tenn.",mens-rowing,2018
+Tristan Orlofski,,Sr.,6' 5'',,"Mountain Lakes, N.J.",mens-rowing,2018
+Niko Savas,,Sr.,6' 1'',,"Ramsey, N.J.",mens-rowing,2018
+Ben Tilden,,Sr.,6' 3'',,"Carrollton, Texas",mens-rowing,2018
+Scott Alwin,,,,,,mens-rowing,2018
+Sean Aral,,Jr.,6' 4'',,"Glen Cove, N.Y.",mens-rowing,2019
+Oliver Babb,,So.,6' 2'',,"Atlanta, Ga.",mens-rowing,2019
+John Baert,,Sr.,6' 1'',,"Bronx, N.Y.",mens-rowing,2019
+Lauren Cohen,COX,So.,5' 8'',,"La Jolla, Calif.",mens-rowing,2019
+Kyle Fram,,Sr.,6' 2'',,"Lawrenceville, N.J.",mens-rowing,2019
+Alex Herron,COX,Sr.,5' 6'',,"Port Washington, N.Y.",mens-rowing,2019
+Tristan Jamidar,,FY,,,"Guilford, Conn",mens-rowing,2019
+Neil Kennedy,,So.,6' 0'',,"Fronthill, Ontario",mens-rowing,2019
+James Hilton,,FY,6' 3'',,"Darien, Conn.",mens-rowing,2019
+Kevin Kearney,,So.,6' 5'',,"Roslyn Heights, N.Y.",mens-rowing,2019
+Quin Koether,,Jr.,6' 7'',,"Fairfield, Conn.",mens-rowing,2019
+Ryan Hardenbrook,,So.,6' 3'',,"Hopkinton, Mass.",mens-rowing,2019
+Austin Cox,,Jr.,6' 2'',,"Spring, Texas",mens-rowing,2019
+Michael Lee,,FY,6' 5'',,"Vienna, Va. | Oakton",mens-rowing,2019
+Robert Doyle,,So.,6' 2'',,"Irvington, N.Y.",mens-rowing,2019
+Maya Esberg,COX,So.,5' 2'',,"Philadelphia, Penn.",mens-rowing,2019
+Isabel Guerrero,COX,So.,5' 1'',,"Princeton, N.J.",mens-rowing,2019
+Bennett Slibeck,,Jr.,6' 4'',,New York City,mens-rowing,2019
+Henry Quinn-Pasin,,So.,6' 5'',,"Oak Park, Ill.",mens-rowing,2019
+Ian Low,,Sr.,6' 3'',,"San Francisco, Calif.",mens-rowing,2019
+Chris Magnani,,Jr.,6' 4'',,"Bronxville, N.Y.",mens-rowing,2019
+Tom Mortimer,,Jr.,6' 4'',,"Reading, England",mens-rowing,2019
+Cameron Nelson,,FY,6' 7'',,"Needham, Mass",mens-rowing,2019
+John Stankard,,FY,6' 4'',,"Westwood, Mass.",mens-rowing,2019
+John Tanguay,,Sr.,6' 3'',,"Pennington, N.J.",mens-rowing,2019
+Clay Watson,,Jr.,6' 6'',,"Palo Alto, Calif.",mens-rowing,2019
+William Randolph,,Sr.,6' 3'',,"Great Falls, Va.",mens-rowing,2019
+John Theodore,,FY,6' 3'',,"Baltimore, Md",mens-rowing,2019
+Punisa Lekovic,,FY,6' 4'',,"San Marino, Calif",mens-rowing,2019
+Scott Alwin,,,,,,mens-rowing,2019
+William Ryan,,Jr.,5' 10'',,"Winchester, Mass.",mens-rowing,2019
+Archer Staunton,,FY,,,"Fairfield, Conn",mens-rowing,2019
+Elizabeth Neuhauser,COX,So.,5' 2'',,"Minneapolis, Minn.",mens-rowing,2019
+Ryan Lee,,Jr.,6' 4'',,"Knoxville, Tenn.",mens-rowing,2019
+Oliver Babb,,Jr.,6' 2'',,"Atlanta, Ga.",mens-rowing,2020
+Ryan Lee,,Sr.,6' 4'',,"Knoxville, Tenn.",mens-rowing,2020
+Michael Lee,,So.,6' 5'',,"Vienna, Va. | Oakton",mens-rowing,2020
+Cameron Nelson,,So.,6' 7'',,"Needham, Mass",mens-rowing,2020
+Hayden McGuinness,,FY,6' 2'',,"Little Compton, R.I.",mens-rowing,2020
+Jacob Page,,FY,6' 4'',,"Granger, Ind.",mens-rowing,2020
+Katie Ryan,COX,FY,5' 4'',,"New Albany, Ohio",mens-rowing,2020
+Chong Hong,,FY,6' 5'',,"Cambridge, Mass.",mens-rowing,2020
+Milo Walshe,,FY,6' 4'',,"New York, N.Y.",mens-rowing,2020
+Scott Alwin,,,,,,mens-rowing,2020
+Dylan Rose,,FY,6' 0'',,"Chicago, Ill.",mens-rowing,2020
+Jonas Passante,,FY,6' 3'',,"New Rochelle, N.Y.",mens-rowing,2020
+John Stankard,,So.,6' 4'',,"Westwood, Mass.",mens-rowing,2020
+Anthony Rostek,,FY,6' 4'',,"Blauvelt, N.Y.",mens-rowing,2020
+John Theodore,,So.,6' 3'',,"Baltimore, Md",mens-rowing,2020
+Archer Staunton,,So.,,,"Fairfield, Conn",mens-rowing,2020
+Mads Sroat,,FY,6' 5'',,"Burlingame, Calif.",mens-rowing,2021
+Ben Shakespeare,,FY,6' 3'',,"Wiltshire, England",mens-rowing,2021
+Hayden McGuinness,,So.,6' 2'',,"Little Compton, R.I.",mens-rowing,2021
+Oliver Babb,,Sr.,6' 2'',,"Atlanta, Ga.",mens-rowing,2021
+Katie Ryan,COX,So.,5' 4'',,"New Albany, Ohio",mens-rowing,2021
 Brooke Nieder,COX,FY,5' 5'',,"Miami Beach, Fla.",mens-rowing,2021
-Graham Gallagher,,FY,6' 3'',,"Lake Forest Park, Wash.",mens-rowing,2021
 Ryan Lee,,Gr.,6' 4'',,"Knoxville, Tenn.",mens-rowing,2021
 Michael Lee,,Jr.,6' 5'',,"Vienna, Va. | Oakton",mens-rowing,2021
-Zeke Johnson,,FY,6' 0'',,"Larkspur, Calif.",mens-rowing,2021
-Nick Hazard,,FY,6' 4'',,"Boston, Mass.",mens-rowing,2021
-Oliver Babb,,Sr.,6' 2'',,"Atlanta, Ga.",mens-rowing,2021
-Adrian Foley,,FY,6' 0'',,"Point Pleasant, N.J.",mens-rowing,2021
-Rasa Audejaitis,COX,FY,5' 5'',,"Seattle, Wash.",mens-rowing,2021
-Katie Ryan,COX,So.,5' 4'',,"New Albany, Ohio",mens-rowing,2021
-Hayden McGuinness,,So.,6' 2'',,"Little Compton, R.I.",mens-rowing,2021
-Luke Filor,,FY,6' 6'',,"Rye, N.Y.",mens-rowing,2021
-Punisa Lekovic,,So.,6' 4'',,"San Marino, Calif",mens-rowing,2021
 James Hilton,,So.,6' 3'',,"Darien, Conn.",mens-rowing,2021
-David McMillan,,FY,6' 5'',,"Barrington, R.I.",mens-rowing,2021
-John Theodore,,Jr.,6' 3'',,"Baltimore, Md",mens-rowing,2021
-Mads Sroat,,FY,6' 5'',,"Burlingame, Calif.",mens-rowing,2021
-Tom Terhaar,,,,,,mens-rowing,2021
-Mattias Yotopoulos,,FY,6' 3'',,"Palo Alto, Calif.",mens-rowing,2021
-Archer Staunton,,Jr.,,,"Fairfield, Conn",mens-rowing,2021
-Anthony Rostek,,So.,6' 4'',,"Blauvelt, N.Y.",mens-rowing,2021
-Milo Walshe,,So.,6' 4'',,"New York, N.Y.",mens-rowing,2021
-Ben Shakespeare,,FY,6' 3'',,"Wiltshire, England",mens-rowing,2021
+Nick Hazard,,FY,6' 4'',,"Boston, Mass.",mens-rowing,2021
+Graham Gallagher,,FY,6' 3'',,"Lake Forest Park, Wash.",mens-rowing,2021
+Zeke Johnson,,FY,6' 0'',,"Larkspur, Calif.",mens-rowing,2021
+Punisa Lekovic,,So.,6' 4'',,"San Marino, Calif",mens-rowing,2021
 Dylan Rose,,So.,6' 0'',,"Chicago, Ill.",mens-rowing,2021
+David McMillan,,FY,6' 5'',,"Barrington, R.I.",mens-rowing,2021
+Rasa Audejaitis,COX,FY,5' 5'',,"Seattle, Wash.",mens-rowing,2021
+Adrian Foley,,FY,6' 0'',,"Point Pleasant, N.J.",mens-rowing,2021
+Luke Filor,,FY,6' 6'',,"Rye, N.Y.",mens-rowing,2021
+Anthony Rostek,,So.,6' 4'',,"Blauvelt, N.Y.",mens-rowing,2021
 Jonas Passante,,So.,6' 3'',,"New Rochelle, N.Y.",mens-rowing,2021
 Eric Morais,,FY,6' 6'',,"College Station, Texas",mens-rowing,2021
+Milo Walshe,,So.,6' 4'',,"New York, N.Y.",mens-rowing,2021
+Archer Staunton,,Jr.,,,"Fairfield, Conn",mens-rowing,2021
 John Stankard,,Jr.,6' 4'',,"Westwood, Mass.",mens-rowing,2021
-Samuel Count,,FY,,,"Chantilly, Va.",mens-rowing,2022
+Tom Terhaar,,,,,,mens-rowing,2021
+John Theodore,,Jr.,6' 3'',,"Baltimore, Md",mens-rowing,2021
+Mattias Yotopoulos,,FY,6' 3'',,"Palo Alto, Calif.",mens-rowing,2021
+Caroline Kay,COX,FY,5' 3'',,"Stanhope, N.J.",mens-rowing,2022
 Charles Cartisser,,FY,6' 2'',,"London, England",mens-rowing,2022
-Ria Raheja,,FY,5' 0'',,"Roswell, Ga.",mens-rowing,2022
-Tristan Atreides,,FY,6' 4'',,"Great Neck, N.Y.",mens-rowing,2022
-Rasa Audejaitis,COX,So.,5' 5'',,"Seattle, Wash.",mens-rowing,2022
+Samuel Count,,FY,,,"Chantilly, Va.",mens-rowing,2022
 Brooke Nieder,COX,So.,5' 5'',,"Miami Beach, Fla.",mens-rowing,2022
-Archer Staunton,,Sr.,,,"Fairfield, Conn",mens-rowing,2022
+Adrian Foley,,So.,6' 0'',,"Point Pleasant, N.J.",mens-rowing,2022
 Chong Hong,,Jr.,6' 5'',,"Cambridge, Mass.",mens-rowing,2022
-Alessandro Lee,,FY,,,"Long Valley, N.J.",mens-rowing,2022
-Tom Terhaar,,,,,,mens-rowing,2022
-Zeke Johnson,,So.,6' 0'',,"Larkspur, Calif.",mens-rowing,2022
 Michael Lee,,Sr.,6' 5'',,"Vienna, Va. | Oakton",mens-rowing,2022
-David McMillan,,So.,6' 5'',,"Barrington, R.I.",mens-rowing,2022
-Jace White,,FY,,,"Collegeville, Pa.",mens-rowing,2022
+Ria Raheja,,FY,5' 0'',,"Roswell, Ga.",mens-rowing,2022
+John Theodore,,Sr.,6' 3'',,"Baltimore, Md",mens-rowing,2022
+Tristan Atreides,,FY,6' 4'',,"Great Neck, N.Y.",mens-rowing,2022
+Eric Morais,,So.,6' 6'',,"College Station, Texas",mens-rowing,2022
+Rasa Audejaitis,COX,So.,5' 5'',,"Seattle, Wash.",mens-rowing,2022
+Peter Woodville,,So.,6' 1'',,"Devon, Pa.",mens-rowing,2022
 Zander Meyer,,FY,,,"Santa Barbara, Calif.",mens-rowing,2022
+Milo Walshe,,Jr.,6' 4'',,"New York, N.Y.",mens-rowing,2022
 Adam Pushner,,FY,,,"Fairfield, Conn.",mens-rowing,2022
 Ben Shakespeare,,So.,6' 3'',,"Wiltshire, England",mens-rowing,2022
-Daniel Robbins,,FY,,,"Calabasas, Calif.",mens-rowing,2022
-Lucy Roberts,COX,FY,5' 4'',,"Dallas, Texas",mens-rowing,2022
-Dylan Rose,,Jr.,6' 0'',,"Chicago, Ill.",mens-rowing,2022
-Benjamin Stein,,So.,6' 4'',,"Palo Alto, Calif.",mens-rowing,2022
-Eric Morais,,So.,6' 6'',,"College Station, Texas",mens-rowing,2022
 John Stankard,,Sr.,6' 4'',,"Westwood, Mass.",mens-rowing,2022
-John Theodore,,Sr.,6' 3'',,"Baltimore, Md",mens-rowing,2022
+Benjamin Stein,,So.,6' 4'',,"Palo Alto, Calif.",mens-rowing,2022
+Archer Staunton,,Sr.,,,"Fairfield, Conn",mens-rowing,2022
+Tom Terhaar,,,,,,mens-rowing,2022
+Jace White,,FY,,,"Collegeville, Pa.",mens-rowing,2022
 David Vyhnal,,FY,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2022
-Peter Woodville,,So.,6' 1'',,"Devon, Pa.",mens-rowing,2022
-Caroline Kay,COX,FY,5' 3'',,"Stanhope, N.J.",mens-rowing,2022
-Milo Walshe,,Jr.,6' 4'',,"New York, N.Y.",mens-rowing,2022
-Adrian Foley,,So.,6' 0'',,"Point Pleasant, N.J.",mens-rowing,2022
-Samuel Count,,So.,,,"Chantilly, Va.",mens-rowing,2023
-Colton Millar,,FY,6' 3'',,"Sarasota, Fla.",mens-rowing,2023
-Grant McCurdy,,FY,6' 0'',,"Sarasota, Fla.",mens-rowing,2023
-Caroline Kay,COX,So.,5' 3'',,"Stanhope, N.J.",mens-rowing,2023
-Charles Cartisser,,So.,6' 2'',,"London, England",mens-rowing,2023
-Alessandro Lee,,So.,,,"Long Valley, N.J.",mens-rowing,2023
-Henry Blakemore,,FY,6' 6'',,"London, England",mens-rowing,2023
-Harry Halper,,FY,6' 1'',,"Brigantine, N.J.",mens-rowing,2023
-Taeshic Chung,,So.,6' 7'',,"Greenwich, Conn.",mens-rowing,2023
+David McMillan,,So.,6' 5'',,"Barrington, R.I.",mens-rowing,2022
+Lucy Roberts,COX,FY,5' 4'',,"Dallas, Texas",mens-rowing,2022
+Zeke Johnson,,So.,6' 0'',,"Larkspur, Calif.",mens-rowing,2022
+Dylan Rose,,Jr.,6' 0'',,"Chicago, Ill.",mens-rowing,2022
+Alessandro Lee,,FY,,,"Long Valley, N.J.",mens-rowing,2022
+Daniel Robbins,,FY,,,"Calabasas, Calif.",mens-rowing,2022
 Ria Raheja,,So.,5' 0'',,"Roswell, Ga.",mens-rowing,2023
-Zeke Johnson,,Jr.,6' 0'',,"Larkspur, Calif.",mens-rowing,2023
-August Michels,,FY,6' 5'',,"Pittsburg, Pa",mens-rowing,2023
-David McMillan,,Jr.,6' 5'',,"Barrington, R.I.",mens-rowing,2023
+Henry Blakemore,,FY,6' 6'',,"London, England",mens-rowing,2023
+Charles Cartisser,,So.,6' 2'',,"London, England",mens-rowing,2023
+Taeshic Chung,,So.,6' 7'',,"Greenwich, Conn.",mens-rowing,2023
+Samuel Count,,So.,,,"Chantilly, Va.",mens-rowing,2023
 Nick Gonzalez,,FY,6' 1'',,"Long Beach, Calif",mens-rowing,2023
-Tom Terhaar,,,,,,mens-rowing,2023
-Victor Popovic,,FY,6' 0'',,"Belgrade, Serbia",mens-rowing,2023
-Conor Parks,,FY,6' 7'',,"Tiburon, California",mens-rowing,2023
-Dylan Rose,,Sr.,6' 0'',,"Chicago, Ill.",mens-rowing,2023
+August Michels,,FY,6' 5'',,"Pittsburg, Pa",mens-rowing,2023
+Harry Halper,,FY,6' 1'',,"Brigantine, N.J.",mens-rowing,2023
+Alessandro Lee,,So.,,,"Long Valley, N.J.",mens-rowing,2023
+Zeke Johnson,,Jr.,6' 0'',,"Larkspur, Calif.",mens-rowing,2023
+David McMillan,,Jr.,6' 5'',,"Barrington, R.I.",mens-rowing,2023
+Caroline Kay,COX,So.,5' 3'',,"Stanhope, N.J.",mens-rowing,2023
+Grant McCurdy,,FY,6' 0'',,"Sarasota, Fla.",mens-rowing,2023
+Colton Millar,,FY,6' 3'',,"Sarasota, Fla.",mens-rowing,2023
 Eric Morais,,Jr.,6' 6'',,"College Station, Texas",mens-rowing,2023
-Milo Walshe,,Sr.,6' 4'',,"New York, N.Y.",mens-rowing,2023
-Barney Russell,,FY,6' 3'',,"London, England",mens-rowing,2023
-Peter Woodville,,So.,6' 1'',,"Devon, Pa.",mens-rowing,2023
-Daniel Robbins,,So.,,,"Calabasas, Calif.",mens-rowing,2023
-Cornelia Streeter,,FY,5' 2'',,"Madison, Connecticut",mens-rowing,2023
-Lucy Roberts,COX,So.,5' 4'',,"Dallas, Texas",mens-rowing,2023
-Adam Pushner,,So.,,,"Fairfield, Conn.",mens-rowing,2023
-David Vyhnal,,So.,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2023
 Jace White,,So.,,,"Collegeville, Pa.",mens-rowing,2023
-Colton Millar,,So.,6' 3'',,"Sarasota, Fla.",mens-rowing,2024
-Henry Blakemore,,So.,6' 6'',,"London, England",mens-rowing,2024
-Lucy Roberts,COX,Jr.,5' 4'',,"Dallas, Texas",mens-rowing,2024
-Charles Cartisser,,Jr.,6' 2'',,"London, England",mens-rowing,2024
-Alex Castellini,,FY,5' 9'',,"Cincinnati, Ohio",mens-rowing,2024
-Conor Parks,,So.,6' 7'',,"Tiburon, California",mens-rowing,2024
-Nick Gonzalez,,So.,6' 1'',,"Long Beach, Calif",mens-rowing,2024
-Alessandro Lee,,Jr.,,,"Long Valley, N.J.",mens-rowing,2024
-Grant McCurdy,,So.,6' 0'',,"Sarasota, Fla.",mens-rowing,2024
-Kyle Grose,,FY,6' 6'',,"Broomall, Pa.",mens-rowing,2024
-Harry Halper,,So.,6' 1'',,"Brigantine, N.J.",mens-rowing,2024
-Charles Boldt,,FY,6' 0'',,"Carmel, Ind.",mens-rowing,2024
+Victor Popovic,,FY,6' 0'',,"Belgrade, Serbia",mens-rowing,2023
+Adam Pushner,,So.,,,"Fairfield, Conn.",mens-rowing,2023
+Daniel Robbins,,So.,,,"Calabasas, Calif.",mens-rowing,2023
+Lucy Roberts,COX,So.,5' 4'',,"Dallas, Texas",mens-rowing,2023
+Dylan Rose,,Sr.,6' 0'',,"Chicago, Ill.",mens-rowing,2023
+Barney Russell,,FY,6' 3'',,"London, England",mens-rowing,2023
+Tom Terhaar,,,,,,mens-rowing,2023
+Milo Walshe,,Sr.,6' 4'',,"New York, N.Y.",mens-rowing,2023
+Cornelia Streeter,,FY,5' 2'',,"Madison, Connecticut",mens-rowing,2023
+Peter Woodville,,So.,6' 1'',,"Devon, Pa.",mens-rowing,2023
+David Vyhnal,,So.,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2023
+Conor Parks,,FY,6' 7'',,"Tiburon, California",mens-rowing,2023
 Caroline Kay,COX,Jr.,5' 3'',,"Stanhope, N.J.",mens-rowing,2024
+Kyle Grose,,FY,6' 6'',,"Broomall, Pa.",mens-rowing,2024
+Nick Gonzalez,,So.,6' 1'',,"Long Beach, Calif",mens-rowing,2024
+Charles Boldt,,FY,6' 0'',,"Carmel, Ind.",mens-rowing,2024
+Henry Blakemore,,So.,6' 6'',,"London, England",mens-rowing,2024
+Nathanael Abrials,,FY,6' 3'',,"Alexandria, Va.",mens-rowing,2024
+Will Mathes,,FY,6' 3'',,"Sarasota, Fla.",mens-rowing,2024
+Colton Millar,,So.,6' 3'',,"Sarasota, Fla.",mens-rowing,2024
+Harry Halper,,So.,6' 1'',,"Brigantine, N.J.",mens-rowing,2024
+Tai Renner,,FY,6' 2'',,"Lower Hutt, New Zealand",mens-rowing,2024
+Alessandro Lee,,Jr.,,,"Long Valley, N.J.",mens-rowing,2024
+Daniel Robbins,,Jr.,,,"Calabasas, Calif.",mens-rowing,2024
+Grant McCurdy,,So.,6' 0'',,"Sarasota, Fla.",mens-rowing,2024
 August Michels,,So.,6' 5'',,"Pittsburg, Pa",mens-rowing,2024
 Barney Russell,,So.,6' 3'',,"London, England",mens-rowing,2024
 Mateja Mitrovic,,FY,6' 2'',,"Belgrade, Serbia",mens-rowing,2024
+Taeshic Chung,,Jr.,6' 7'',,"Greenwich, Conn.",mens-rowing,2024
+Cornelia Streeter,,So.,5' 2'',,"Madison, Connecticut",mens-rowing,2024
+Tom Terhaar,,,,,,mens-rowing,2024
 Adam Pushner,,Jr.,6' 1'',,"Fairfield, Conn.",mens-rowing,2024
 Victor Popovic,,So.,6' 0'',,"Belgrade, Serbia",mens-rowing,2024
-Taeshic Chung,,Jr.,6' 7'',,"Greenwich, Conn.",mens-rowing,2024
-Tai Renner,,FY,6' 2'',,"Lower Hutt, New Zealand",mens-rowing,2024
-Daniel Robbins,,Jr.,,,"Calabasas, Calif.",mens-rowing,2024
-Will Mathes,,FY,6' 3'',,"Sarasota, Fla.",mens-rowing,2024
-Nathanael Abrials,,FY,6' 3'',,"Alexandria, Va.",mens-rowing,2024
 David Vyhnal,,Jr.,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2024
-Peter Woodville,,Jr.,6' 1'',,"Devon, Pa.",mens-rowing,2024
+Lucy Roberts,COX,Jr.,5' 4'',,"Dallas, Texas",mens-rowing,2024
 Nick Smyth,,FY,6' 7'',,"Cincinnati, Ohio",mens-rowing,2024
-Cornelia Streeter,,So.,5' 2'',,"Madison, Connecticut",mens-rowing,2024
+Charles Cartisser,,Jr.,6' 2'',,"London, England",mens-rowing,2024
 Michael Tzitzikakis,,FY,6' 1'',,"London, England",mens-rowing,2024
-Tom Terhaar,,,,,,mens-rowing,2024
-Corbin Vassil,,FY,6' 7'',,"Cincinnati, OH",mens-rowing,2025
-Liam Bauchspies,,FY,6' 2'',,"Warrenton, VA",mens-rowing,2025
+Alex Castellini,,FY,5' 9'',,"Cincinnati, Ohio",mens-rowing,2024
+Peter Woodville,,Jr.,6' 1'',,"Devon, Pa.",mens-rowing,2024
+Conor Parks,,So.,6' 7'',,"Tiburon, California",mens-rowing,2024
+August Michels,,Jr.,6' 5'',,"Pittsburg, Pa",mens-rowing,2025
+Kyle Grose,,So.,6' 6'',,"Broomall, Pa.",mens-rowing,2025
 Henry Beer,,Jr.,6' 3'',,"Oxford, UK",mens-rowing,2025
-Matias Bliss-Carrascosa,,FY,6' 3'',,"San Carlos, CA.",mens-rowing,2025
-Charles Boldt,,So.,6' 0'',,"Carmel, Ind.",mens-rowing,2025
-Michael Botti,,FY,6' 5'',,"Vancouver, Canada",mens-rowing,2025
 Charles Cartisser,,Sr.,6' 2'',,"London, England",mens-rowing,2025
 Alex Castellini,,So.,5' 9'',,"Cincinnati, Ohio",mens-rowing,2025
 Taeshic Chung,,Sr.,6' 7'',,"Greenwich, Conn.",mens-rowing,2025
-Nick Gonzalez,,Jr.,6' 1'',,"Long Beach, Calif",mens-rowing,2025
-Alessandro Lee,,Sr.,,,"Long Valley, N.J.",mens-rowing,2025
-Will Mathes,,So.,6' 3'',,"Sarasota, Fla.",mens-rowing,2025
-Mateja Mitrovic,,So.,6' 2'',,"Belgrade, Serbia",mens-rowing,2025
 Nathanael Abrials,,So.,6' 3'',,"Alexandria, Va.",mens-rowing,2025
-Aleks Nikolov,,FY,6' 5'',,"Danville, CA.",mens-rowing,2025
-Grant McCurdy,,Jr.,6' 0'',,"Sarasota, Fla.",mens-rowing,2025
-August Michels,,Jr.,6' 5'',,"Pittsburg, Pa",mens-rowing,2025
-Colton Millar,,Jr.,6' 3'',,"Sarasota, Fla.",mens-rowing,2025
-Michael Tzitzikakis,,So.,6' 1'',,"London, England",mens-rowing,2025
-David Vyhnal,,Sr.,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2025
+Liam Bauchspies,,FY,6' 2'',,"Warrenton, VA",mens-rowing,2025
+Nick Gonzalez,,Jr.,6' 1'',,"Long Beach, Calif",mens-rowing,2025
 Harry Halper,,Jr.,6' 1'',,"Brigantine, N.J.",mens-rowing,2025
-James Palanca,,FY,5' 6'',,"St Louis, MO.",mens-rowing,2025
+Mateja Mitrovic,,So.,6' 2'',,"Belgrade, Serbia",mens-rowing,2025
+Colton Millar,,Jr.,6' 3'',,"Sarasota, Fla.",mens-rowing,2025
 Tim Gutsev,,FY,6' 2'',,"London, U.K.",mens-rowing,2025
-Victor Popovic,,Jr.,6' 0'',,"Belgrade, Serbia",mens-rowing,2025
-Adam Pushner,,Sr.,6' 1'',,"Fairfield, Conn.",mens-rowing,2025
+James Palanca,,FY,5' 6'',,"St Louis, MO.",mens-rowing,2025
+Alessandro Lee,,Sr.,,,"Long Valley, N.J.",mens-rowing,2025
 Tai Renner,,So.,6' 2'',,"Lower Hutt, New Zealand",mens-rowing,2025
+Will Mathes,,So.,6' 3'',,"Sarasota, Fla.",mens-rowing,2025
 Daniel Robbins,,Sr.,,,"Calabasas, Calif.",mens-rowing,2025
+Grant McCurdy,,Jr.,6' 0'',,"Sarasota, Fla.",mens-rowing,2025
+Aleks Nikolov,,FY,6' 5'',,"Danville, CA.",mens-rowing,2025
 Lucy Roberts,COX,Sr.,5' 4'',,"Dallas, Texas",mens-rowing,2025
+Conor Parks,,Jr.,6' 7'',,"Tiburon, California",mens-rowing,2025
+Michael Botti,,FY,6' 5'',,"Vancouver, Canada",mens-rowing,2025
+Christopher Zermeno,,FY,6' 3'',,CA,mens-rowing,2025
+Adam Pushner,,Sr.,6' 1'',,"Fairfield, Conn.",mens-rowing,2025
 Barney Russell,,Jr.,6' 3'',,"London, England",mens-rowing,2025
 Nick Smyth,,So.,6' 7'',,"Cincinnati, Ohio",mens-rowing,2025
-Cornelia Streeter,,Jr.,5' 2'',,"Madison, Connecticut",mens-rowing,2025
-Kyle Grose,,So.,6' 6'',,"Broomall, Pa.",mens-rowing,2025
-Archie White,,FY,6' 4'',,"High Wycombe, U.K.",mens-rowing,2025
-Sam Wilson,,Jr.,6' 4'',,"Cos Cob, Conn.",mens-rowing,2025
-Conor Parks,,Jr.,6' 7'',,"Tiburon, California",mens-rowing,2025
 David Thompson,,FY,6' 3'',,"New Canaan, CT",mens-rowing,2025
-Nemanja Petrovic,,FY,6' 3'',,"Belgrade, Serbia",mens-rowing,2025
+Victor Popovic,,Jr.,6' 0'',,"Belgrade, Serbia",mens-rowing,2025
+Cornelia Streeter,,Jr.,5' 2'',,"Madison, Connecticut",mens-rowing,2025
+Corbin Vassil,,FY,6' 7'',,"Cincinnati, OH",mens-rowing,2025
 Thomas Woodgate,,FY,6' 3'',,"Christchurch, N.Z.",mens-rowing,2025
 Peter Woodville,,Sr.,6' 1'',,"Devon, Pa.",mens-rowing,2025
-Christopher Zermeno,,FY,6' 3'',,CA,mens-rowing,2025
+Michael Tzitzikakis,,So.,6' 1'',,"London, England",mens-rowing,2025
+Nemanja Petrovic,,FY,6' 3'',,"Belgrade, Serbia",mens-rowing,2025
+David Vyhnal,,Sr.,6' 3'',,"Velke Popovice, Czech Republic",mens-rowing,2025
+Matias Bliss-Carrascosa,,FY,6' 3'',,"San Carlos, CA.",mens-rowing,2025
+Archie White,,FY,6' 4'',,"High Wycombe, U.K.",mens-rowing,2025
+Charles Boldt,,So.,6' 0'',,"Carmel, Ind.",mens-rowing,2025
 Tom Terhaar,,,,,,mens-rowing,2025
+Sam Wilson,,Jr.,6' 4'',,"Cos Cob, Conn.",mens-rowing,2025
 Conor Parks,,Sr.,6' 7'',,"Tiburon, California",mens-rowing,2026
 Nemanja Petrovic,,So.,6' 3'',,"Belgrade, Serbia",mens-rowing,2026
 Victor Popovic,,Sr.,6' 0'',,"Belgrade, Serbia",mens-rowing,2026

@@ -1,20 +1,53 @@
 name,position,class,height,weight,hometown,sport,year
+Catherine McClenahan,,Sr.,5' 9'',,"Buffalo, N.Y.",sailing,2020
+Charlotte Costikyan,,Fr.,5' 6'',,"Norwalk, Conn.",sailing,2020
+John Mollicone,,,,,,sailing,2020
+Olivia Belda,,Jr.,5' 4'',,"Sao Paulo, Brazil",sailing,2020
+Sirine Benali,,So.,5' 4'',,"Manchester-by-the-Sea, Mass.",sailing,2020
+Sierra Bornheim,,Fr.,5' 2'',,"Rochester, N.Y.",sailing,2020
+Isabel Cox,,So.,5' 4'',,"Wilmette, Ill.",sailing,2020
+Leona Hariharan,,So.,5' 0'',,"San Diego, Calif.",sailing,2020
+Severin Gramm,,So.,5' 11'',,"Delray Beach, Fla.",sailing,2020
+Annabelle Hutchinson,,Sr.,5' 6'',,"Annapolis, Md.",sailing,2020
+Sloane Kratzman,,Jr.,5' 5'',,"Greenwich, Conn.",sailing,2020
+Mo Liu,,Jr.,5' 4'',,"Beijing, China",sailing,2020
+William George,,So.,5' 10'',,"Greenwich, Conn.",sailing,2020
+Hannah Gross,,So.,5' 5'',,"Berlin, Germany",sailing,2020
+Connor Macken,,Fr.,5' 9'',,"Wellesley, Mass.",sailing,2020
+Justin Chiang,,Sr.,5' 6'',,"New York, N.Y.",sailing,2020
+Madeleine McGrath,,Jr.,5' 4'',,"San Diego, Calif.",sailing,2020
+Nora Ong,,So.,5' 7'',,"Saunderstown, R.I.",sailing,2020
+Elizabeth Rolfes,,Sr.,5' 5'',,"Bainbridge Island, Wash.",sailing,2020
+Madeleine Montagner,,Jr.,5' 6'',,"Boston, Mass.",sailing,2020
+Emma Montgomery,,Jr.,5' 7'',,"Winthrop, Mass.",sailing,2020
+Catherine Morrissette,,Fr.,5' 9'',,"Falmouth, Maine",sailing,2020
+Jack Papetti,,Sr.,5' 8'',,"Westwood, Mass.",sailing,2020
+Tucker Weed,,Jr.,6' 0'',,"Miami, Fla.",sailing,2020
+Jack Murphy,,Jr.,5' 10'',,"Arlington, Mass.",sailing,2020
+Lily Shore,,Fr.,5' 6'',,"Greenwich, Conn.",sailing,2020
+Brielle Willoughby,,Fr.,5' 2'',,"Surf City, N.J.",sailing,2020
+Hunter Zonnenberg,,So.,5' 11'',,"Marblehead, Mass.",sailing,2020
+Caroline Bayless,,So.,5' 6'',,"Annapolis, Md.",sailing,2020
+Jacqui Rice,,Fr.,5' 5'',,"San Francisco, Calif.",sailing,2020
+Tommy Styron,,Fr.,6' 3'',,"Hamden, Conn.",sailing,2020
 Caroline Bayless,,Jr.,5' 6'',,"Annapolis, Md.",sailing,2021
+Connor Nelson,,So.,,,"Tampa, Fla.",sailing,2021
+Emi Ruth,,Jr.,5' 4'',,"Yarmouth, Maine",sailing,2021
 Janelle Li,,Fr.,5' 6'',,"Sharon, Mass.",sailing,2021
 Francesca Edmands,,Fr.,5' 9'',,"New York, N.Y.",sailing,2021
 William George,,Jr.,5' 10'',,"Greenwich, Conn.",sailing,2021
 Madeleine McGrath,,Sr.,5' 4'',,"San Diego, Calif.",sailing,2021
-Blaire McCarthy,,Jr.,5' 3'',,"St. Petersburg, Fla.",sailing,2021
+Olivia Belda,,Sr.,5' 4'',,"Sao Paulo, Brazil",sailing,2021
 Connor Macken,,So.,5' 9'',,"Wellesley, Mass.",sailing,2021
 Menasha Leport,,Fr.,5' 3'',,"Aquinnah, Mass.",sailing,2021
 Leyton Borcherding,,Fr.,6' 2'',,"Greenwich, Conn.",sailing,2021
 Sierra Bornheim,,So.,5' 2'',,"Rochester, N.Y.",sailing,2021
 Jed Bell,,Jr.,5' 8'',,"Hull, Mass.",sailing,2021
-Olivia Belda,,Sr.,5' 4'',,"Sao Paulo, Brazil",sailing,2021
 Madeleine Montagner,,Sr.,5' 6'',,"Boston, Mass.",sailing,2021
+Blaire McCarthy,,Jr.,5' 3'',,"St. Petersburg, Fla.",sailing,2021
+Brielle Willoughby,,So.,5' 2'',,"Surf City, N.J.",sailing,2021
 Charlotte Costikyan,,So.,5' 6'',,"Norwalk, Conn.",sailing,2021
-Helen Horangic,,Fr.,5' 8'',,"Palo Alto, Calif.",sailing,2021
-Olivia Miller,,Fr.,,,"Newton, Mass.",sailing,2021
+Mason Stang,,Fr.,5' 7'',,"Atherton, Calif.",sailing,2021
 Isabel Cox,,Jr.,5' 4'',,"Wilmette, Ill.",sailing,2021
 Emma Montgomery,,Sr.,5' 7'',,"Winthrop, Mass.",sailing,2021
 Julia Reynolds,,Sr.,5' 3'',,"Southport, Conn.",sailing,2021
@@ -22,173 +55,172 @@ Tommy Styron,,So.,6' 3'',,"Hamden, Conn.",sailing,2021
 Jacqui Rice,,So.,5' 5'',,"San Francisco, Calif.",sailing,2021
 John Mollicone,,,,,,sailing,2021
 Hunter Zonnenberg,,Jr.,5' 11'',,"Marblehead, Mass.",sailing,2021
-Brielle Willoughby,,So.,5' 2'',,"Surf City, N.J.",sailing,2021
-Mason Stang,,Fr.,5' 7'',,"Atherton, Calif.",sailing,2021
+Helen Horangic,,Fr.,5' 8'',,"Palo Alto, Calif.",sailing,2021
+Lily Shore,,So.,5' 6'',,"Greenwich, Conn.",sailing,2021
 Savannah Young,,Fr.,5' 6'',,"St. John, U.S. Virgin Islands",sailing,2021
 Nora Ong,,Jr.,5' 7'',,"Saunderstown, R.I.",sailing,2021
 Jack Murphy,,Sr.,5' 10'',,"Arlington, Mass.",sailing,2021
 Emily Mueller,,Fr.,5' 0'',,"Guildford, England",sailing,2021
 Catherine Morrissette,,So.,5' 9'',,"Falmouth, Maine",sailing,2021
-Emi Ruth,,Jr.,5' 4'',,"Yarmouth, Maine",sailing,2021
-Lily Shore,,So.,5' 6'',,"Greenwich, Conn.",sailing,2021
-Connor Nelson,,So.,,,"Tampa, Fla.",sailing,2021
-William George,,Sr.,5' 10'',,"Greenwich, Conn.",sailing,2022
-Sierra Bornheim,,Jr.,5' 2'',,"Rochester, N.Y.",sailing,2022
-Guthrie Braun,,Fr.,,,"St. Petersburg, Fla.",sailing,2022
-Charlotte Costikyan,,Jr.,5' 6'',,"Norwalk, Conn.",sailing,2022
-Jed Bell,,Sr.,5' 8'',,"Hull, Mass.",sailing,2022
-Leyton Borcherding,,So.,6' 2'',,"Greenwich, Conn.",sailing,2022
-Isabel Cox,,Sr.,5' 4'',,"Wilmette, Ill.",sailing,2022
-Katharine Doble,,Fr.,,,"Pacific Palisades, Calif.",sailing,2022
-Helen Horangic,,So.,5' 8'',,"Palo Alto, Calif.",sailing,2022
-Caroline Keeffe-Jones,,Fr.,,,"Orleans, Mass.",sailing,2022
-Menasha Leport,,So.,5' 3'',,"Aquinnah, Mass.",sailing,2022
-Talia Levine,,Fr.,,,"Providence, R.I.",sailing,2022
-Janelle Li,,So.,5' 6'',,"Sharon, Mass.",sailing,2022
-Caroline Bayless,,Sr.,5' 6'',,"Annapolis, Md.",sailing,2022
-Connor Macken,,Jr.,5' 9'',,"Wellesley, Mass.",sailing,2022
-Francesca Edmands,,So.,5' 9'',,"New York, N.Y.",sailing,2022
-Kaitlyn Hamilton,,Fr.,,,"Fort Lauderdale, Fla.",sailing,2022
-Tommy Styron,,Jr.,6' 3'',,"Hamden, Conn.",sailing,2022
-Blaire McCarthy,,Sr.,5' 3'',,"St. Petersburg, Fla.",sailing,2022
-Mason Stang,,So.,5' 7'',,"Atherton, Calif.",sailing,2022
-Liam O'Keefe,,Fr.,,,"Miami, Fla.",sailing,2022
+Olivia Miller,,Fr.,,,"Newton, Mass.",sailing,2021
 Nora Ong,,Sr.,5' 7'',,"Saunderstown, R.I.",sailing,2022
-Brianna Ross,,Fr.,,,"Miami, Fla.",sailing,2022
-Emily Mueller,,So.,5' 0'',,"Guildford, England",sailing,2022
-Connor Nelson,,Jr.,,,"Tampa, Fla.",sailing,2022
-Emi Ruth,,Sr.,5' 4'',,"Yarmouth, Maine",sailing,2022
-Lily Shore,,Jr.,5' 6'',,"Greenwich, Conn.",sailing,2022
-Brielle Willoughby,,Jr.,5' 2'',,"Surf City, N.J.",sailing,2022
-Savannah Young,,So.,5' 6'',,"St. John, U.S. Virgin Islands",sailing,2022
 Hunter Zonnenberg,,Sr.,5' 11'',,"Marblehead, Mass.",sailing,2022
-Katherine McNamara,,Fr.,,,"Darien, Conn.",sailing,2022
-Hannah Sellers,,Fr.,,,"Larkspur, Calif.",sailing,2022
+Liam O'Keefe,,Fr.,,,"Miami, Fla.",sailing,2022
+Savannah Young,,So.,5' 6'',,"St. John, U.S. Virgin Islands",sailing,2022
+Tommy Styron,,Jr.,6' 3'',,"Hamden, Conn.",sailing,2022
+Mason Stang,,So.,5' 7'',,"Atherton, Calif.",sailing,2022
 Catherine Morrissette,,Jr.,5' 9'',,"Falmouth, Maine",sailing,2022
 John Mollicone,,,,,,sailing,2022
+Brielle Willoughby,,Jr.,5' 2'',,"Surf City, N.J.",sailing,2022
+Blaire McCarthy,,Sr.,5' 3'',,"St. Petersburg, Fla.",sailing,2022
+Katherine McNamara,,Fr.,,,"Darien, Conn.",sailing,2022
+Emi Ruth,,Sr.,5' 4'',,"Yarmouth, Maine",sailing,2022
+Connor Nelson,,Jr.,,,"Tampa, Fla.",sailing,2022
+Lily Shore,,Jr.,5' 6'',,"Greenwich, Conn.",sailing,2022
+Brianna Ross,,Fr.,,,"Miami, Fla.",sailing,2022
+William George,,Sr.,5' 10'',,"Greenwich, Conn.",sailing,2022
+Emily Mueller,,So.,5' 0'',,"Guildford, England",sailing,2022
+Jed Bell,,Sr.,5' 8'',,"Hull, Mass.",sailing,2022
+Charlotte Costikyan,,Jr.,5' 6'',,"Norwalk, Conn.",sailing,2022
+Talia Levine,,Fr.,,,"Providence, R.I.",sailing,2022
+Guthrie Braun,,Fr.,,,"St. Petersburg, Fla.",sailing,2022
+Menasha Leport,,So.,5' 3'',,"Aquinnah, Mass.",sailing,2022
+Hannah Sellers,,Fr.,,,"Larkspur, Calif.",sailing,2022
+Kaitlyn Hamilton,,Fr.,,,"Fort Lauderdale, Fla.",sailing,2022
+Francesca Edmands,,So.,5' 9'',,"New York, N.Y.",sailing,2022
+Caroline Bayless,,Sr.,5' 6'',,"Annapolis, Md.",sailing,2022
+Caroline Keeffe-Jones,,Fr.,,,"Orleans, Mass.",sailing,2022
+Helen Horangic,,So.,5' 8'',,"Palo Alto, Calif.",sailing,2022
+Connor Macken,,Jr.,5' 9'',,"Wellesley, Mass.",sailing,2022
+Katharine Doble,,Fr.,,,"Pacific Palisades, Calif.",sailing,2022
+Isabel Cox,,Sr.,5' 4'',,"Wilmette, Ill.",sailing,2022
+Leyton Borcherding,,So.,6' 2'',,"Greenwich, Conn.",sailing,2022
+Sierra Bornheim,,Jr.,5' 2'',,"Rochester, N.Y.",sailing,2022
+Janelle Li,,So.,5' 6'',,"Sharon, Mass.",sailing,2022
+Brianna Ross,,So.,,,"Miami, Fla.",sailing,2023
+Tommy Styron,,Sr.,6' 3'',,"Hamden, Conn.",sailing,2023
 Guthrie Braun,,So.,,,"St. Petersburg, Fla.",sailing,2023
 Camren Spriggs,,Fr.,,,"San Diego, Calif.",sailing,2023
-Charlotte Costikyan,,Sr.,5' 6'',,"Norwalk, Conn.",sailing,2023
 John Mollicone,,,,,,sailing,2023
 Talia Levine,,So.,,,"Providence, R.I.",sailing,2023
+Charlotte Costikyan,,Sr.,5' 6'',,"Norwalk, Conn.",sailing,2023
 Vera Allen,,Fr.,,,"Costa Mesa, Calif.",sailing,2023
-Blake Behrens,,Fr.,,,"Santa Barbara, Calif.",sailing,2023
 Leyton Borcherding,,Jr.,6' 2'',,"Greenwich, Conn.",sailing,2023
 Janelle Li,,Jr.,5' 6'',,"Sharon, Mass.",sailing,2023
 Martin Atilla,,Fr.,,,"Riga, Latvia",sailing,2023
 Laura Hamilton,,Fr.,,,"Fort Lauderdale, Fla.",sailing,2023
 Corinne Harrison,,Fr.,,,"Gig Harbor, Wash.",sailing,2023
 Caroline Keeffe-Jones,,So.,,,"Orleans, Mass.",sailing,2023
+Blake Behrens,,Fr.,,,"Santa Barbara, Calif.",sailing,2023
+Lily Shore,,Sr.,5' 6'',,"Greenwich, Conn.",sailing,2023
 Menasha Leport,,Jr.,5' 3'',,"Aquinnah, Mass.",sailing,2023
 Sierra Bornheim,,Sr.,5' 2'',,"Rochester, N.Y.",sailing,2023
-Lily Shore,,Sr.,5' 6'',,"Greenwich, Conn.",sailing,2023
 Francesca Edmands,,Jr.,5' 9'',,"New York, N.Y.",sailing,2023
 Emily Mueller,,Jr.,5' 0'',,"Guildford, England",sailing,2023
 Kaitlyn Hamilton,,So.,,,"Fort Lauderdale, Fla.",sailing,2023
 Connor Nelson,,Sr.,,,"Tampa, Fla.",sailing,2023
-Katharine Doble,,So.,,,"Pacific Palisades, Calif.",sailing,2023
 Liam O'Keefe,,So.,,,"Miami, Fla.",sailing,2023
-Katherine Majette,,Fr.,,,"St. John, U.S. Virgin Islands",sailing,2023
 Olivia Miller,,Jr.,,,"Newton, Mass.",sailing,2023
-Sidney Moyer,,Fr.,,,"St. Petersburg, Fla.",sailing,2023
+Katherine Majette,,Fr.,,,"St. John, U.S. Virgin Islands",sailing,2023
+Katharine Doble,,So.,,,"Pacific Palisades, Calif.",sailing,2023
 Connor Macken,,Sr.,5' 9'',,"Wellesley, Mass.",sailing,2023
 Katherine McNamara,,So.,,,"Darien, Conn.",sailing,2023
 Catherine Morrissette,,Sr.,5' 9'',,"Falmouth, Maine",sailing,2023
 Mason Stang,,Jr.,5' 7'',,"Atherton, Calif.",sailing,2023
-Tommy Styron,,Sr.,6' 3'',,"Hamden, Conn.",sailing,2023
 Brielle Willoughby,,Sr.,5' 2'',,"Surf City, N.J.",sailing,2023
 Savannah Young,,Jr.,5' 6'',,"St. John, U.S. Virgin Islands",sailing,2023
-Brianna Ross,,So.,,,"Miami, Fla.",sailing,2023
-Francesca Edmands,,Sr.,5' 9'',,"New York, N.Y.",sailing,2024
-Guthrie Braun,,Jr.,,,"St. Petersburg, Fla.",sailing,2024
-James Brock,,Fr.,,,"Austin, Texas",sailing,2024
-Gabriela Collins,,Fr.,,,"Larchmont, N.Y.",sailing,2024
-Reese Corckran,,Fr.,,,"Annapolis, Md.",sailing,2024
-Martin Atilla,,So.,,,"Riga, Latvia",sailing,2024
-Blake Behrens,,So.,,,"Santa Barbara, Calif.",sailing,2024
-Leyton Borcherding,,Sr.,6' 2'',,"Greenwich, Conn.",sailing,2024
-Sasha Gordon,,Fr.,,,"San Mateo, Calif.",sailing,2024
-Kaitlyn Hamilton,,Jr.,,,"Fort Lauderdale, Fla.",sailing,2024
-Laura Hamilton,,So.,,,"Fort Lauderdale, Fla.",sailing,2024
-Vera Allen,,So.,,,"Costa Mesa, Calif.",sailing,2024
-Katharine Doble,,Jr.,,,"Pacific Palisades, Calif.",sailing,2024
-Julian Dahiya,,Fr.,,,"Bethesda, Md.",sailing,2024
-Charlie Gish,,Fr.,,,"Lake Forest, Ill.",sailing,2024
+Sidney Moyer,,Fr.,,,"St. Petersburg, Fla.",sailing,2023
+Violet Martin,,Fr.,,,"Miami, Fla.",sailing,2024
+Mason Stang,,Sr.,5' 7'',,"Atherton, Calif.",sailing,2024
+Marin Soderberg,,Fr.,,,"Virginia Beach, Va.",sailing,2024
+Menasha Leport,,Sr.,5' 3'',,"Aquinnah, Mass.",sailing,2024
+John Mollicone,,,,,,sailing,2024
 Robert Diemar,,Fr.,,,,sailing,2024
-Phoebe Hackett,,Fr.,,,"Bridgehampton, N.Y.",sailing,2024
-Corinne Harrison,,So.,,,"Gig Harbor, Wash.",sailing,2024
-Helen Horangic,,Sr.,,,"Palo Alto, Calif.",sailing,2024
-Grace Ivancich,,Fr.,,,,sailing,2024
-Emily Mueller,,Sr.,5' 0'',,"Guildford, England",sailing,2024
+Katherine McNamara,,Jr.,,,"Darien, Conn.",sailing,2024
+Talia Levine,,Jr.,,,"Providence, R.I.",sailing,2024
 Janelle Li,,Sr.,5' 6'',,"Sharon, Mass.",sailing,2024
 Katherine Majette,,So.,,,"St. John, U.S. Virgin Islands",sailing,2024
-Violet Martin,,Fr.,,,"Miami, Fla.",sailing,2024
-Olivia Miller,,Sr.,,,"Newton, Mass.",sailing,2024
 Tyler Lamm,,Fr.,,,"Palm Beach, Fla.",sailing,2024
-Menasha Leport,,Sr.,5' 3'',,"Aquinnah, Mass.",sailing,2024
-Marin Soderberg,,Fr.,,,"Virginia Beach, Va.",sailing,2024
-Talia Levine,,Jr.,,,"Providence, R.I.",sailing,2024
+Emily Mueller,,Sr.,5' 0'',,"Guildford, England",sailing,2024
+Grace Ivancich,,Fr.,,,,sailing,2024
+Olivia Miller,,Sr.,,,"Newton, Mass.",sailing,2024
+Helen Horangic,,Sr.,,,"Palo Alto, Calif.",sailing,2024
+Brianna Ross,,Jr.,,,"Miami, Fla.",sailing,2024
+Camren Spriggs,,So.,,,"San Diego, Calif.",sailing,2024
+Phoebe Hackett,,Fr.,,,"Bridgehampton, N.Y.",sailing,2024
 Savannah Young,,Sr.,5' 6'',,"St. John, U.S. Virgin Islands",sailing,2024
+Charlie Gish,,Fr.,,,"Lake Forest, Ill.",sailing,2024
+Gabriela Collins,,Fr.,,,"Larchmont, N.Y.",sailing,2024
+Vera Allen,,So.,,,"Costa Mesa, Calif.",sailing,2024
+Blake Behrens,,So.,,,"Santa Barbara, Calif.",sailing,2024
+Reese Corckran,,Fr.,,,"Annapolis, Md.",sailing,2024
+Laura Hamilton,,So.,,,"Fort Lauderdale, Fla.",sailing,2024
+Kaitlyn Hamilton,,Jr.,,,"Fort Lauderdale, Fla.",sailing,2024
+Sasha Gordon,,Fr.,,,"San Mateo, Calif.",sailing,2024
+Guthrie Braun,,Jr.,,,"St. Petersburg, Fla.",sailing,2024
+Leyton Borcherding,,Sr.,6' 2'',,"Greenwich, Conn.",sailing,2024
+Martin Atilla,,So.,,,"Riga, Latvia",sailing,2024
+Francesca Edmands,,Sr.,5' 9'',,"New York, N.Y.",sailing,2024
+Julian Dahiya,,Fr.,,,"Bethesda, Md.",sailing,2024
+Corinne Harrison,,So.,,,"Gig Harbor, Wash.",sailing,2024
 Caroline Keeffe-Jones,,Jr.,,,"Orleans, Mass.",sailing,2024
 Sidney Moyer,,So.,,,"St. Petersburg, Fla.",sailing,2024
-Katherine McNamara,,Jr.,,,"Darien, Conn.",sailing,2024
-Brianna Ross,,Jr.,,,"Miami, Fla.",sailing,2024
-John Mollicone,,,,,,sailing,2024
-Camren Spriggs,,So.,,,"San Diego, Calif.",sailing,2024
-Mason Stang,,Sr.,5' 7'',,"Atherton, Calif.",sailing,2024
+James Brock,,Fr.,,,"Austin, Texas",sailing,2024
+Katharine Doble,,Jr.,,,"Pacific Palisades, Calif.",sailing,2024
+Gabriela Collins,,So.,,,"Larchmont, N.Y.",sailing,2025
+Kaitlyn Hamilton,,Sr.,,,"Fort Lauderdale, Fla.",sailing,2025
+Guthrie Braun,,Sr.,,,"St. Petersburg, Fla.",sailing,2025
 Vera Allen,,Jr.,,,"Costa Mesa, Calif.",sailing,2025
 William Baker,,Fr.,,,"Houston, Texas",sailing,2025
-Blake Behrens,,Jr.,,,"Santa Barbara, Calif.",sailing,2025
-Guthrie Braun,,Sr.,,,"St. Petersburg, Fla.",sailing,2025
-Kaitlyn Hamilton,,Sr.,,,"Fort Lauderdale, Fla.",sailing,2025
-Gabriela Collins,,So.,,,"Larchmont, N.Y.",sailing,2025
-Dominic Ciccimaro,,Fr.,,,"San Diego, Calif.",sailing,2025
+Brianna Ross,,Sr.,,,"Miami, Fla.",sailing,2025
+Marin Soderberg,,So.,,,"Virginia Beach, Va.",sailing,2025
 Charlie Gish,,So.,,,"Lake Forest, Ill.",sailing,2025
-Katharine Doble,,Sr.,,,"Pacific Palisades, Calif.",sailing,2025
+Dominic Ciccimaro,,Fr.,,,"San Diego, Calif.",sailing,2025
 Phoebe Fogarty,,Fr.,,,"New York, N.Y.",sailing,2025
-Sasha Gordon,,So.,,,"San Mateo, Calif.",sailing,2025
+Katharine Doble,,Sr.,,,"Pacific Palisades, Calif.",sailing,2025
 Phoebe Hackett,,So.,,,"Bridgehampton, N.Y.",sailing,2025
-Julian Dahiya,,So.,,,"Bethesda, Md.",sailing,2025
+Sasha Gordon,,So.,,,"San Mateo, Calif.",sailing,2025
 Robert Diemar,,So.,,,,sailing,2025
+Julian Dahiya,,So.,,,"Bethesda, Md.",sailing,2025
+Blake Behrens,,Jr.,,,"Santa Barbara, Calif.",sailing,2025
 Reese Corckran,,So.,,,"Annapolis, Md.",sailing,2025
 James Brock,,So.,,,"Austin, Texas",sailing,2025
-Katherine McNamara,,Sr.,,,"Darien, Conn.",sailing,2025
-John Mollicone,,,,,,sailing,2025
-Caroline Keeffe-Jones,,Sr.,,,"Orleans, Mass.",sailing,2025
-Tyler Lamm,,So.,,,"Palm Beach, Fla.",sailing,2025
-Talia Levine,,Sr.,,,"Providence, R.I.",sailing,2025
-Katherine Majette,,Jr.,,,"St. John, U.S. Virgin Islands",sailing,2025
+Sidney Moyer,,Jr.,,,"St. Petersburg, Fla.",sailing,2025
 Laura Hamilton,,Jr.,,,"Fort Lauderdale, Fla.",sailing,2025
 Leila Pfrang,,Fr.,,,"Suffolk, Va.",sailing,2025
-Sidney Moyer,,Jr.,,,"St. Petersburg, Fla.",sailing,2025
+Elena Sun,,Fr.,,,"Portsmouth, R.I.",sailing,2025
 Camren Spriggs,,Jr.,,,"San Diego, Calif.",sailing,2025
 Noah Stapleton,,Fr.,,,"Long Beach, Calif.",sailing,2025
 Kyoko Tonkin,,Fr.,,,"Honolulu, Hawaii",sailing,2025
+Katherine Majette,,Jr.,,,"St. John, U.S. Virgin Islands",sailing,2025
+Caroline Keeffe-Jones,,Sr.,,,"Orleans, Mass.",sailing,2025
+Tyler Lamm,,So.,,,"Palm Beach, Fla.",sailing,2025
+Katherine McNamara,,Sr.,,,"Darien, Conn.",sailing,2025
+John Mollicone,,,,,,sailing,2025
 Michelle Kaneti,,Fr.,,,"Mamaroneck, N.Y.",sailing,2025
-Brianna Ross,,Sr.,,,"Miami, Fla.",sailing,2025
-Marin Soderberg,,So.,,,"Virginia Beach, Va.",sailing,2025
-Elena Sun,,Fr.,,,"Portsmouth, R.I.",sailing,2025
+Talia Levine,,Sr.,,,"Providence, R.I.",sailing,2025
+James Pine,,Fr.,,,"Charleston, N.C.",sailing,2026
 Madison Mansour,,Fr.,,,"Long Beach, Calif.",sailing,2026
 Alexandra McIntyre,,Sr.,,,"Manhasset, N.Y.",sailing,2026
 Sidney Moyer,,Sr.,,,"St. Petersburg, Fla.",sailing,2026
 Leila Pfrang,,So.,,,"Suffolk, Va.",sailing,2026
-James Pine,,Fr.,,,"Charleston, N.C.",sailing,2026
-Elena Sun,,So.,,,"Portsmouth, R.I.",sailing,2026
-Katlia Sherman,,Fr.,,,"Los Angeles, Calif.",sailing,2026
+Nathan Pine,,Fr.,,,"Mt. Pleasant, S.C.",sailing,2026
+Katherine Majette,,Sr.,,,"St. John, U.S. Virgin Islands",sailing,2026
 Emily Shull,,So.,,,"Greenwich, Conn.",sailing,2026
 Marin Soderberg,,Jr.,,,"Virginia Beach, Va.",sailing,2026
 Camren Spriggs,,Sr.,,,"San Diego, Calif.",sailing,2026
 Noah Stapleton,,So.,,,"Long Beach, Calif.",sailing,2026
-Katherine Majette,,Sr.,,,"St. John, U.S. Virgin Islands",sailing,2026
-Nathan Pine,,Fr.,,,"Mt. Pleasant, S.C.",sailing,2026
+Elena Sun,,So.,,,"Portsmouth, R.I.",sailing,2026
+Katlia Sherman,,Fr.,,,"Los Angeles, Calif.",sailing,2026
 Tyler Lamm,,Jr.,,,"Palm Beach, Fla.",sailing,2026
-Julian Dahiya,,Jr.,,,"Bethesda, Md.",sailing,2026
+Kyoko Tonkin,,So.,,,"Honolulu, Hawaii",sailing,2026
 Michelle Kaneti,,So.,,,"Mamaroneck, N.Y.",sailing,2026
 Laura Hamilton,,Sr.,,,"Fort Lauderdale, Fla.",sailing,2026
 Phoebe Hackett,,Jr.,,,"Bridgehampton, N.Y.",sailing,2026
 Charlie Gish,,Jr.,,,"Lake Forest, Ill.",sailing,2026
 Julia Getter,,Fr.,,,"Newport Beach, Calif.",sailing,2026
 Phoebe Fogarty,,So.,,,"New York, N.Y.",sailing,2026
+Julian Dahiya,,Jr.,,,"Bethesda, Md.",sailing,2026
 Reese Corckran,,Jr.,,,"Annapolis, Md.",sailing,2026
 Gabriela Collins,,Jr.,,,"Larchmont, N.Y.",sailing,2026
 Dominic Ciccimaro,,So.,,,"San Diego, Calif.",sailing,2026
@@ -196,6 +228,5 @@ Helena Borcherding,,Fr.,,,"Greenwich, Conn.",sailing,2026
 Blake Behrens,,Sr.,,,"Santa Barbara, Calif.",sailing,2026
 William Baker,,So.,,,"Houston, Texas",sailing,2026
 Vera Allen,,Sr.,,,"Costa Mesa, Calif.",sailing,2026
-Kyoko Tonkin,,So.,,,"Honolulu, Hawaii",sailing,2026
 Andrew Lamm,,Fr.,,,"Palm Beach, Fla.",sailing,2026
 John Mollicone,,,,,,sailing,2026

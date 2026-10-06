@@ -61,7 +61,8 @@ def save_hometown_cache_file(hometown_cache):
 _TRAILING_FIXES = {
     "wisc": "Wisconsin", "penn": "Pennsylvania", "vir": "Virginia", "ida": "Idaho", "ari": "Arizona",
     "wva": "West Virginia", "c.t": "Connecticut", "calf": "California",
-    "aus": "Australia", "n.z": "New Zealand", "u.k": "United Kingdom", "great britain": "United Kingdom",
+    "aus": "Australia", "aust": "Australia", "n.z": "New Zealand", "u.k": "United Kingdom", "uk": "United Kingdom",
+    "great britain": "United Kingdom", "ger": "Germany", "ire": "Ireland", "haw": "Hawaii",
 }
 
 

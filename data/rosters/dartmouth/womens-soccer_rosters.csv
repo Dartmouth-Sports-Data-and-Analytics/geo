@@ -1,147 +1,283 @@
 name,position,class,height,weight,hometown,sport,year
+Ellen Pattinson,MF/D,So.,5' 7'',,"Seattle, Wash.",womens-soccer,2016
+Chloe Conacher,D,So.,5' 11'',,"Ross, Calif.",womens-soccer,2016
+Sally Sandoval,F,So.,5' 4'',,"Simsbury, Conn.",womens-soccer,2016
+Piper Curtis,D,Sr.,5' 6'',,"Andover, Mass.",womens-soccer,2016
+Alyssa Neuberger,MF,Fy.,5' 5'',,"Germantown, Tenn.",womens-soccer,2016
+Zoe Boocock,MF,Fy.,5' 4'',,"Alexandria, Va.",womens-soccer,2016
+Lorna McElrath,GK,Fy.,5' 9'',,"Oakland, Calif.",womens-soccer,2016
+Remy Borinsky,MF,So.,5' 8'',,"Warren, N.J.",womens-soccer,2016
+Charlotte Esty,F,Fy.,5' 4'',,"Newbury, Mass.",womens-soccer,2016
+Gia Parker,MF,Jr.,5' 5'',,"Amherst, Mass.",womens-soccer,2016
+Jaclyn Engel,MF,So.,5' 7'',,"Macomb, Mich.",womens-soccer,2016
+Hayley Snyder,MF/D,Sr.,5' 8'',,"Montclair, N.J.",womens-soccer,2016
+Ron Rainey,,,,,,womens-soccer,2016
+Lauren Lucas,MF/F,So.,5' 4'',,"East Charlotte, N.C.",womens-soccer,2016
+Zoe Enright,F,Fy.,5' 6'',,"Hillsborough, Calif.",womens-soccer,2016
+Hayley Soriano,MF/F,Fy.,5' 7'',,"Bridgewater, N.J.",womens-soccer,2016
+Sherine Collins,D,Jr.,5' 4'',,"Clovis, Calif.",womens-soccer,2016
+Zainab Bakrin,F,Jr.,5' 4'',,"Rochester, N.Y.",womens-soccer,2016
+Lindsay Knutson,MF/D,Jr.,5' 6'',,"Wilton, Conn.",womens-soccer,2016
+Mollie McGorisk,F,Fy.,5' 5'',,"Wixom, Mich.",womens-soccer,2016
+Holly Patterson,MF,Sr.,5' 7'',,"Hamilton, New Zealand",womens-soccer,2016
+Meredith Gurnee,MF/D,Sr.,5' 4'',,"Orlando, Fla.",womens-soccer,2016
+Casey Cousineau,GK,Sr.,5' 7'',,"Altadena, Calif.",womens-soccer,2016
+Lillian Raffetto,D,So.,5' 7'',,"San Diego, Calif.",womens-soccer,2016
+Brittany Champagne,MF/D,Jr.,5' 7'',,"Suffield, Conn.",womens-soccer,2016
+Bianca Ribi,F,Jr.,5' 8'',,"Calgary, Alberta",womens-soccer,2016
+Julia Fissore-O'Leary,D,So.,5' 7'',,"Amherst, Mass.",womens-soccer,2016
+Jessica Lukas,F/D,Sr.,5' 6'',,"Commack, N.Y.",womens-soccer,2016
+Hayley Soriano,MF/F,So.,5' 7'',,"Bridgewater, N.J.",womens-soccer,2017
+Lorna McElrath,GK,So.,5' 9'',,"Oakland, Calif.",womens-soccer,2017
+Ron Rainey,,,,,,womens-soccer,2017
+Alyssa Neuberger,MF,So.,5' 5'',,"Germantown, Tenn.",womens-soccer,2017
+Claire Trop,D,Fy.,5' 6'',,"Seattle, Wash.",womens-soccer,2017
+Bianca Ribi,F,Sr.,5' 8'',,"Calgary, Alberta",womens-soccer,2017
+Zainab Bakrin,F,Sr.,5' 4'',,"Rochester, N.Y.",womens-soccer,2017
+Remy Borinsky,MF,Jr.,5' 8'',,"Warren, N.J.",womens-soccer,2017
+Zoe Enright,F,So.,5' 6'',,"Hillsborough, Calif.",womens-soccer,2017
+Charlotte Esty,F,So.,5' 4'',,"Newbury, Mass.",womens-soccer,2017
+Gia Parker,MF,Sr.,5' 5'',,"Amherst, Mass.",womens-soccer,2017
+Zoe Boocock,MF,So.,5' 4'',,"Alexandria, Va.",womens-soccer,2017
+Chloe Conacher,D,Jr.,5' 11'',,"Ross, Calif.",womens-soccer,2017
+Ellen Pattinson,MF/D,Jr.,5' 7'',,"Seattle, Wash.",womens-soccer,2017
+Bonnie Shea,D,Fy.,5' 7'',,"Atlanta, Ga.",womens-soccer,2017
+Brittany Champagne,MF/D,Sr.,5' 7'',,"Suffield, Conn.",womens-soccer,2017
+Mariel Gordon,GK,Fy.,5' 7'',,"Dallas, Texas",womens-soccer,2017
+Sally Sandoval,F,Jr.,5' 4'',,"Simsbury, Conn.",womens-soccer,2017
+Lauren Lucas,MF/F,Jr.,5' 4'',,"East Charlotte, N.C.",womens-soccer,2017
+Avery Schuldt,F,Fy.,5' 7'',,"Wilmette, Ill.",womens-soccer,2017
+Lindsay Knutson,MF/D,Sr.,5' 6'',,"Wilton, Conn.",womens-soccer,2017
+Erin Kawakami,MF,Fy.,5' 0'',,"Palos Verdes Estates, Calif.",womens-soccer,2017
+Lorna MacFarlane,MF,Fy.,5' 8'',,"Wynnewood, Pa.",womens-soccer,2017
+Taylor Olson,MF,Fy.,5' 6'',,"Kirkland, Wash.",womens-soccer,2017
+Mollie McGorisk,F,So.,5' 5'',,"Wixom, Mich.",womens-soccer,2017
+Jaclyn Engel,MF,Jr.,5' 7'',,"Macomb, Mich.",womens-soccer,2017
+Kat Grgic,D,Fy.,5' 4'',,"Mississauga, Ontario",womens-soccer,2018
+Ellen Pattinson,MF/D,Sr.,5' 7'',,"Seattle, Wash.",womens-soccer,2018
+Mollie McGorisk,F,Jr.,5' 5'',,"Wixom, Mich.",womens-soccer,2018
+Lorna MacFarlane,MF,So.,5' 8'',,"Wynnewood, Pa.",womens-soccer,2018
+Alyssa Neuberger,MF,Jr.,5' 5'',,"Germantown, Tenn.",womens-soccer,2018
+Zoe Boocock,MF,Jr.,5' 4'',,"Alexandria, Va.",womens-soccer,2018
+Mariel Gordon,GK,So.,5' 7'',,"Dallas, Texas",womens-soccer,2018
+Hayley Soriano,MF/F,Jr.,5' 7'',,"Bridgewater, N.J.",womens-soccer,2018
+Michael Guptill,MF/F,Fy.,5' 5'',,"Huntington Beach, Calif.",womens-soccer,2018
+Erin Kawakami,MF,So.,5' 0'',,"Palos Verdes Estates, Calif.",womens-soccer,2018
+Sally Sandoval,F,Sr.,5' 4'',,"Simsbury, Conn.",womens-soccer,2018
+Lauren Lucas,MF/F,Sr.,5' 4'',,"East Charlotte, N.C.",womens-soccer,2018
+Remy Borinsky,MF,Sr.,5' 8'',,"Warren, N.J.",womens-soccer,2018
+Avery Schuldt,F,So.,5' 7'',,"Wilmette, Ill.",womens-soccer,2018
+Zoe Enright,F,Jr.,5' 6'',,"Hillsborough, Calif.",womens-soccer,2018
+Ron Rainey,,,,,,womens-soccer,2018
+Lorna McElrath,GK,Jr.,5' 9'',,"Oakland, Calif.",womens-soccer,2018
+Grace Rorke,MF/D,Fy.,5' 10'',,"Philadelphia, Pa.",womens-soccer,2018
+Maddie Mills,MF/F,Fy.,5' 4'',,"Milton, Mass.",womens-soccer,2018
+Taylor Olson,MF,So.,5' 6'',,"Kirkland, Wash.",womens-soccer,2018
+Mist Grönvold,D/M,Fy.,5' 8'',,"Reykjavik, Iceland",womens-soccer,2018
+Charlotte Esty,F,Jr.,5' 4'',,"Newbury, Mass.",womens-soccer,2018
+Tracey Mills,MF/F,Fy.,5' 7'',,"Vienna, Va.",womens-soccer,2018
+Bonnie Shea,D,So.,5' 7'',,"Atlanta, Ga.",womens-soccer,2018
+Chloe Conacher,D,Sr.,5' 11'',,"Ross, Calif.",womens-soccer,2018
+Izzy Glennon,F,Fy.,5' 7'',,"Sea Cliff, N.Y.",womens-soccer,2018
+Jaclyn Engel,MF,Sr.,5' 7'',,"Macomb, Mich.",womens-soccer,2018
+Zoe Enright,F,Sr.,5' 6'',,"Hillsborough, Calif.",womens-soccer,2019
+Isabella Villaflor,MF,Fy.,5' 9'',,"Mississauga, Ontario",womens-soccer,2019
+Zoe Boocock,MF,Sr.,5' 4'',,"Alexandria, Va.",womens-soccer,2019
+Alyssa Neuberger,MF,Sr.,5' 5'',,"Germantown, Tenn.",womens-soccer,2019
+Izzy Glennon,F,So.,5' 7'',,"Sea Cliff, N.Y.",womens-soccer,2019
+Bonnie Shea,D,Jr.,5' 7'',,"Atlanta, Ga.",womens-soccer,2019
+Mist Grönvold,D/MF,So.,5' 8'',,"Reykjavik, Iceland",womens-soccer,2019
+Charlotte Cyr,GK,Fy.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2019
+Tracey Mills,MF/F,So.,5' 7'',,"Vienna, Va.",womens-soccer,2019
+Kat Grgic,D,So.,5' 4'',,"Mississauga, Ontario",womens-soccer,2019
+Charlotte Esty,F,Sr.,5' 4'',,"Newbury, Mass.",womens-soccer,2019
+Grace Rorke,MF/D,So.,5' 10'',,"Philadelphia, Pa.",womens-soccer,2019
+Ellie Geier,F,Fy.,5' 7'',,"Hinsdale, Ill.",womens-soccer,2019
+Lorna McElrath,GK,Sr.,5' 9'',,"Oakland, Calif.",womens-soccer,2019
+Ron Rainey,,,,,,womens-soccer,2019
+Hayley Soriano,MF/F,Sr.,5' 7'',,"Bridgewater, N.J.",womens-soccer,2019
+Erin Kawakami,MF,Jr.,5' 0'',,"Palos Verdes Estates, Calif.",womens-soccer,2019
+Lorna MacFarlane,MF,Jr.,5' 8'',,"Wynnewood, Pa.",womens-soccer,2019
+Mollie McGorisk,F,Sr.,5' 5'',,"Wixom, Mich.",womens-soccer,2019
+Maddie Mills,MF/F,So.,5' 4'',,"Milton, Mass.",womens-soccer,2019
+Mariel Gordon,GK,Jr.,5' 7'',,"Dallas, Texas",womens-soccer,2019
+Sophie Pinnie,D,Fy.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2019
+Avery Schuldt,F,Jr.,5' 7'',,"Wilmette, Ill.",womens-soccer,2019
+Michael Guptill,MF/F,So.,5' 5'',,"Huntington Beach, Calif.",womens-soccer,2019
+Juliet Moncho,F,Fy.,5' 7'',,"Edmond, Okla.",womens-soccer,2019
+Allie Winstanley,F,Fy.,5' 7'',,"Concord, Mass.",womens-soccer,2019
+Taylor Olson,MF,Jr.,5' 6'',,"Kirkland, Wash.",womens-soccer,2019
+Relly Ladner,D,Fy.,5' 4'',,"Wayne, Pa.",womens-soccer,2019
+Emily Hardy,GK,Fy.,5' 8'',,"Boxford, Mass.",womens-soccer,2020
+Charlotte Cyr,GK,So.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2020
+Grace Rorke,MF/D,Jr.,5' 10'',,"Philadelphia, Pa.",womens-soccer,2020
+Ellie Geier,F,So.,5' 7'',,"Hinsdale, Ill.",womens-soccer,2020
+Ron Rainey,,,,,,womens-soccer,2020
+Kat Grgic,D,Jr.,5' 4'',,"Mississauga, Ontario",womens-soccer,2020
+Carly Retterer,F,Fy.,5' 3'',,"Menlo Park, Calif.",womens-soccer,2020
+Tracey Mills,MF/F,Jr.,5' 7'',,"Vienna, Va.",womens-soccer,2020
+Isabella Villaflor,MF,So.,5' 9'',,"Mississauga, Ontario",womens-soccer,2020
+Izzy Glennon,F,Jr.,5' 7'',,"Sea Cliff, N.Y.",womens-soccer,2020
+Aspen Anderson,F/MF,Fy.,5' 5'',,"Boulder, Colo.",womens-soccer,2020
+Taylor Olson,MF,Sr.,5' 6'',,"Kirkland, Wash.",womens-soccer,2020
+Grace Faulkner,D,Fy.,5' 8'',,"Barrington, R.I.",womens-soccer,2020
+Daisy Granholm,F/MF,Fy.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2020
+Taylor Williams,D,Fy.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2020
+Mariel Gordon,GK,Sr.,5' 7'',,"Dallas, Texas",womens-soccer,2020
+Allie Winstanley,F,So.,5' 7'',,"Concord, Mass.",womens-soccer,2020
+Relly Ladner,D,So.,5' 4'',,"Wayne, Pa.",womens-soccer,2020
+Lorna MacFarlane,MF,Sr.,5' 8'',,"Wynnewood, Pa.",womens-soccer,2020
+Juliet Moncho,F,So.,5' 7'',,"Edmond, Okla.",womens-soccer,2020
+Michael Guptill,MF/F,Jr.,5' 5'',,"Huntington Beach, Calif.",womens-soccer,2020
+Erin Kawakami,MF,Sr.,5' 0'',,"Palos Verdes Estates, Calif.",womens-soccer,2020
+Mist Grönvold,D/MF,Jr.,5' 8'',,"Reykjavik, Iceland",womens-soccer,2020
+Avery Schuldt,F,Sr.,5' 7'',,"Wilmette, Ill.",womens-soccer,2020
+Sophie Pinnie,D,So.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2020
+Maddie Mills,MF/F,Jr.,5' 4'',,"Milton, Mass.",womens-soccer,2020
+Bonnie Shea,D,Sr.,5' 7'',,"Atlanta, Ga.",womens-soccer,2020
+Dasa Hase,F,Fy.,5' 6'',,"Manchester, Mass.",womens-soccer,2021
+Carly Retterer,F,So.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2021
 Ally Connors,GK,Fy.,5' 9'',,"Bethesda, Md.",womens-soccer,2021
+Aspen Anderson,F/MF,So.,5' 5'',,"Boulder, Colo.",womens-soccer,2021
+Ella Russ,MF/F,Fy.,5' 5'',,"Auckland, New Zealand",womens-soccer,2021
+Hannah Curtin,F,Fy.,5' 6'',,"Winchester, Mass.",womens-soccer,2021
 Danielle Burke,MF/F,Fy.,5' 3'',,"Arlington, Va.",womens-soccer,2021
 Sydney Brown,MF,Fy.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2021
+Ron Rainey,,,,,,womens-soccer,2021
 Taylor Williams,D,So.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2021
+Charlotte Cyr,GK,Jr.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2021
+Emily Hardy,GK,So.,5' 8'',,"Boxford, Mass.",womens-soccer,2021
+Isabella Villaflor,MF,Jr.,5' 9'',,"Mississauga, Ontario",womens-soccer,2021
 Maddie Mills,MF/F,Sr.,5' 4'',,"Milton, Mass.",womens-soccer,2021
-Sophie Pinnie,D,Jr.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2021
-Kellie Sutton,MF,Fy.,5' 5'',,"Leesburg, Va.",womens-soccer,2021
-Michael Guptill,MF/F,Sr.,5' 5'',,"Huntington Beach, Calif.",womens-soccer,2021
-Juliet Moncho,F,Jr.,5' 7'',,"Edmond, Okla.",womens-soccer,2021
-Relly Ladner,D,Jr.,5' 4'',,"Wayne, Pa.",womens-soccer,2021
-Allie Winstanley,F,Jr.,5' 7'',,"Concord, Mass.",womens-soccer,2021
-Daisy Granholm,F/MF,So.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2021
+Grace Faulkner,D,So.,5' 8'',,"Barrington, R.I.",womens-soccer,2021
+Izzy Glennon,F,Sr.,5' 7'',,"Sea Cliff, N.Y.",womens-soccer,2021
 Aleena Seales,MF,Fy.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2021
 Mist Grönvold,D/MF,Sr.,5' 8'',,"Reykjavik, Iceland",womens-soccer,2021
+Sophie Pinnie,D,Jr.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2021
+Michael Guptill,MF/F,Sr.,5' 5'',,"Huntington Beach, Calif.",womens-soccer,2021
+Juliet Moncho,F,Jr.,5' 7'',,"Edmond, Okla.",womens-soccer,2021
 Erin Kawakami,MF,5th,5' 0'',,"Palos Verdes Estates, Calif.",womens-soccer,2021
-Dasa Hase,F,Fy.,5' 6'',,"Manchester, Mass.",womens-soccer,2021
-Izzy Glennon,F,Sr.,5' 7'',,"Sea Cliff, N.Y.",womens-soccer,2021
-Isabella Villaflor,MF,Jr.,5' 9'',,"Mississauga, Ontario",womens-soccer,2021
-Emily Hardy,GK,So.,5' 8'',,"Boxford, Mass.",womens-soccer,2021
-Charlotte Cyr,GK,Jr.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2021
-Carly Retterer,F,So.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2021
-Hannah Curtin,F,Fy.,5' 6'',,"Winchester, Mass.",womens-soccer,2021
-Ron Rainey,,,,,,womens-soccer,2021
-Ella Russ,MF/F,Fy.,5' 5'',,"Auckland, New Zealand",womens-soccer,2021
-Aspen Anderson,F/MF,So.,5' 5'',,"Boulder, Colo.",womens-soccer,2021
-Grace Faulkner,D,So.,5' 8'',,"Barrington, R.I.",womens-soccer,2021
-Tracey Mills,MF/F,Sr.,5' 7'',,"Vienna, Va.",womens-soccer,2021
+Allie Winstanley,F,Jr.,5' 7'',,"Concord, Mass.",womens-soccer,2021
+Kellie Sutton,MF,Fy.,5' 5'',,"Leesburg, Va.",womens-soccer,2021
 Grace Rorke,MF/D,Sr.,5' 10'',,"Philadelphia, Pa.",womens-soccer,2021
+Relly Ladner,D,Jr.,5' 4'',,"Wayne, Pa.",womens-soccer,2021
+Tracey Mills,MF/F,Sr.,5' 7'',,"Vienna, Va.",womens-soccer,2021
+Daisy Granholm,F/MF,So.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2021
 Kat Grgic,D,Sr.,5' 4'',,"Mississauga, Ontario",womens-soccer,2021
 Hannah Curtin,F,So.,5' 6'',,"Winchester, Mass.",womens-soccer,2022
 Grace Martin,D,Fy.,5' 8'',,"Flower Mound, Texas",womens-soccer,2022
-Allie Winstanley,F,Sr.,5' 7'',,"Concord, Mass.",womens-soccer,2022
-Relly Ladner,D,Sr.,5' 4'',,"Wayne, Pa.",womens-soccer,2022
-Jaidyn Curry,F,Fy.,5' 8'',,"Lorton, Va.",womens-soccer,2022
-Aleena Seales,M,So.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2022
-Juliet Moncho,F,Sr.,5' 7'',,"Edmond, Okla.",womens-soccer,2022
-Sophie Pinnie,D,Sr.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2022
-Carly Retterer,F,Jr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2022
-Ally Connors,GK,So.,5' 9'',,"Bethesda, Md.",womens-soccer,2022
-Taylor Williams,D,Jr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2022
-Hailey Rorick,M,Fy.,5' 6'',,"Chesapeake, Va.",womens-soccer,2022
-Charlotte Cyr,GK,Sr.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2022
-Kellie Sutton,M,So.,5' 5'',,"Leesburg, Va.",womens-soccer,2022
-Daisy Granholm,F/M,Jr.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2022
-Danielle Burke,M/F,So.,5' 3'',,"Arlington, Va.",womens-soccer,2022
-Grace Faulkner,D,Jr.,5' 8'',,"Barrington, R.I.",womens-soccer,2022
-Aspen Anderson,F/M,Jr.,5' 5'',,"Boulder, Colo.",womens-soccer,2022
-Audrey Marin,F,Fy.,5' 7'',,"Woodbridge, Conn.",womens-soccer,2022
-Isabella Villaflor,M,Sr.,5' 9'',,"Mississauga, Ontario",womens-soccer,2022
-Emily Hardy,GK,Jr.,5' 8'',,"Boxford, Mass.",womens-soccer,2022
-Sydney Brown,M,So.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2022
+Dasa Hase,F,So.,5' 6'',,"Manchester, Mass.",womens-soccer,2022
+Sonoma Adams,D,Fy.,5' 6'',,"Northport, N.Y.",womens-soccer,2022
 Mary Lundregan,M,Fy.,5' 3'',,"Fairfield, Conn.",womens-soccer,2022
 Ron Rainey,,,,,,womens-soccer,2022
-Dasa Hase,F,So.,5' 6'',,"Manchester, Mass.",womens-soccer,2022
+Aspen Anderson,F/M,Jr.,5' 5'',,"Boulder, Colo.",womens-soccer,2022
+Danielle Burke,M/F,So.,5' 3'',,"Arlington, Va.",womens-soccer,2022
+Carly Retterer,F,Jr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2022
 Ella Russ,M/F,So.,5' 5'',,"Auckland, New Zealand",womens-soccer,2022
-Sonoma Adams,D,Fy.,5' 6'',,"Northport, N.Y.",womens-soccer,2022
-Mary Lundregan,M,So.,5' 3'',,"Fairfield, Conn.",womens-soccer,2023
+Relly Ladner,D,Sr.,5' 4'',,"Wayne, Pa.",womens-soccer,2022
+Daisy Granholm,F/M,Jr.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2022
+Emily Hardy,GK,Jr.,5' 8'',,"Boxford, Mass.",womens-soccer,2022
+Jaidyn Curry,F,Fy.,5' 8'',,"Lorton, Va.",womens-soccer,2022
+Juliet Moncho,F,Sr.,5' 7'',,"Edmond, Okla.",womens-soccer,2022
+Sydney Brown,M,So.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2022
+Taylor Williams,D,Jr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2022
+Kellie Sutton,M,So.,5' 5'',,"Leesburg, Va.",womens-soccer,2022
+Ally Connors,GK,So.,5' 9'',,"Bethesda, Md.",womens-soccer,2022
+Charlotte Cyr,GK,Sr.,5' 9'',,"Wethersfield, Conn.",womens-soccer,2022
+Sophie Pinnie,D,Sr.,5' 5'',,"Glen Mills, Pa.",womens-soccer,2022
+Audrey Marin,F,Fy.,5' 7'',,"Woodbridge, Conn.",womens-soccer,2022
+Allie Winstanley,F,Sr.,5' 7'',,"Concord, Mass.",womens-soccer,2022
+Aleena Seales,M,So.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2022
+Isabella Villaflor,M,Sr.,5' 9'',,"Mississauga, Ontario",womens-soccer,2022
+Grace Faulkner,D,Jr.,5' 8'',,"Barrington, R.I.",womens-soccer,2022
+Hailey Rorick,M,Fy.,5' 6'',,"Chesapeake, Va.",womens-soccer,2022
 Sonoma Adams,D,So.,5' 6'',,"Northport, N.Y.",womens-soccer,2023
-Daisy Granholm,F/M,Sr.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2023
-Sydney Brown,M,Jr.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2023
-Juliet Moncho,D,5th,5' 7'',,"Edmond, Okla.",womens-soccer,2023
-Aleena Seales,M,Jr.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2023
-Kellie Sutton,M,Jr.,5' 5'',,"Leesburg, Va.",womens-soccer,2023
-Danielle Burke,M/F,Jr.,5' 3'',,"Arlington, Va.",womens-soccer,2023
-Gillian Doogan,F,Fy.,5' 7'',,"Carlsbad, Calif.",womens-soccer,2023
-Carly Retterer,F,Sr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2023
-Taylor Williams,D,Sr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2023
-Ally Connors,GK,Jr.,5' 9'',,"Bethesda, Md.",womens-soccer,2023
 Audrey Marin,F,So.,5' 7'',,"Woodbridge, Conn.",womens-soccer,2023
+Ally Connors,GK,Jr.,5' 9'',,"Bethesda, Md.",womens-soccer,2023
+Taylor Williams,D,Sr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2023
 Grace Martin,D,So.,5' 8'',,"Flower Mound, Texas",womens-soccer,2023
+Carly Retterer,F,Sr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2023
+Aleena Seales,M,Jr.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2023
+Juliet Moncho,D,5th,5' 7'',,"Edmond, Okla.",womens-soccer,2023
+Sydney Brown,M,Jr.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2023
+Mary Lundregan,M,So.,5' 3'',,"Fairfield, Conn.",womens-soccer,2023
+Daisy Granholm,F/M,Sr.,5' 10'',,"Southwest Harbor, Maine",womens-soccer,2023
+Kellie Sutton,M,Jr.,5' 5'',,"Leesburg, Va.",womens-soccer,2023
 Aspen Anderson,F/M,Sr.,5' 5'',,"Boulder, Colo.",womens-soccer,2023
+Gillian Doogan,F,Fy.,5' 7'',,"Carlsbad, Calif.",womens-soccer,2023
 Jaidyn Curry,F,So.,5' 8'',,"Lorton, Va.",womens-soccer,2023
-Frankie Valverde,M,Fy.,5' 3'',,"Grafton, Mass.",womens-soccer,2023
-Dasa Hase,F,Jr.,5' 6'',,"Manchester, Mass.",womens-soccer,2023
-Hailey Rorick,M,So.,5' 6'',,"Chesapeake, Va.",womens-soccer,2023
-Ella Russ,M/F,Jr.,5' 5'',,"Auckland, New Zealand",womens-soccer,2023
-Grace Faulkner,D,Sr.,5' 8'',,"Barrington, R.I.",womens-soccer,2023
-Hannah Curtin,F,Jr.,5' 6'',,"Winchester, Mass.",womens-soccer,2023
-Taylor Schram,,,,,,womens-soccer,2023
-Kate Ryan,D,Fy.,5' 7'',,"Dallas, Texas",womens-soccer,2023
 Ola Goebel,GK,Fy.,5' 7'',,"Evanston, Ill.",womens-soccer,2023
-Emily Hardy,GK,Sr.,5' 8'',,"Boxford, Mass.",womens-soccer,2023
+Dasa Hase,F,Jr.,5' 6'',,"Manchester, Mass.",womens-soccer,2023
+Frankie Valverde,M,Fy.,5' 3'',,"Grafton, Mass.",womens-soccer,2023
 Ellie Davidson,D,Fy.,5' 4'',,"San Diego, Calif.",womens-soccer,2023
-Daisy Granholm,F/M,Sr.,6' 0'',,"Southwest Harbor, Maine",womens-soccer,2024
-Mary Katherine Daly,GK,Fy.,5' 4'',,"Cary, N.C.",womens-soccer,2024
-Ally Connors,GK,Sr.,5' 9'',,"Bethesda, Md.",womens-soccer,2024
-Blake Fox,D,Fy.,5' 9'',,"Sarasota, Fla.",womens-soccer,2024
-Lourdes Lauterborn,M,Fy.,5' 8'',,"Phoenix, Ari.",womens-soccer,2024
-Jaidyn Curry,F,Jr.,5' 8'',,"Lorton, Va.",womens-soccer,2024
-Grace Martin,D,Jr.,5' 8'',,"Flower Mound, Texas",womens-soccer,2024
-Abby Reger,F,Fy.,5' 3'',,"Wayne, Penn.",womens-soccer,2024
-Gillian Doogan,F,So.,5' 7'',,"Carlsbad, Calif.",womens-soccer,2024
-Carly Retterer,F,Sr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2024
-Taylor Williams,D,Sr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2024
-Frankie Valverde,M,So.,5' 3'',,"Grafton, Mass.",womens-soccer,2024
-Danielle Burke,M/F,Sr.,5' 3'',,"Arlington, Va.",womens-soccer,2024
-Kellie Sutton,M,Sr.,5' 5'',,"Leesburg, Va.",womens-soccer,2024
-Aleena Seales,M,Sr.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2024
-Sydney Brown,M,Sr.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2024
-Mary Lundregan,M,Jr.,5' 3'',,"Fairfield, Conn.",womens-soccer,2024
-Kate Ryan,D,So.,5' 7'',,"Dallas, Texas",womens-soccer,2024
-Ella Russ,M/F,Sr.,5' 5'',,"Auckland, New Zealand",womens-soccer,2024
-Grace Faulkner,D,Sr.,5' 8'',,"Barrington, R.I.",womens-soccer,2024
-Audrey Marin,F,Jr.,5' 7'',,"Woodbridge, Conn.",womens-soccer,2024
-Emily Garrard,F,Fy.,5' 8'',,"Atlanta, Ga",womens-soccer,2024
-Hailey Rorick,M,Jr.,5' 6'',,"Chesapeake, Va.",womens-soccer,2024
+Danielle Burke,M/F,Jr.,5' 3'',,"Arlington, Va.",womens-soccer,2023
+Kate Ryan,D,Fy.,5' 7'',,"Dallas, Texas",womens-soccer,2023
+Grace Faulkner,D,Sr.,5' 8'',,"Barrington, R.I.",womens-soccer,2023
+Ella Russ,M/F,Jr.,5' 5'',,"Auckland, New Zealand",womens-soccer,2023
+Hailey Rorick,M,So.,5' 6'',,"Chesapeake, Va.",womens-soccer,2023
+Taylor Schram,,,,,,womens-soccer,2023
+Emily Hardy,GK,Sr.,5' 8'',,"Boxford, Mass.",womens-soccer,2023
+Hannah Curtin,F,Jr.,5' 6'',,"Winchester, Mass.",womens-soccer,2023
 Dasa Hase,F,Sr.,5' 6'',,"Manchester, Mass.",womens-soccer,2024
-Emmanuella Frimpomaa,F,Fy.,5' 1'',,"Techiman, Ghana",womens-soccer,2024
-Ola Goebel,GK,So.,5' 7'',,"Evanston, Ill.",womens-soccer,2024
-Sarah Shelburne,M,Fy.,5' 6'',,"Houston, Tex.",womens-soccer,2024
 Taylor Schram,,,,,,womens-soccer,2024
 Sonoma Adams,D,Jr.,5' 6'',,"Northport, N.Y.",womens-soccer,2024
+Ella Russ,M/F,Sr.,5' 5'',,"Auckland, New Zealand",womens-soccer,2024
+Hailey Rorick,M,Jr.,5' 6'',,"Chesapeake, Va.",womens-soccer,2024
+Danielle Burke,M/F,Sr.,5' 3'',,"Arlington, Va.",womens-soccer,2024
+Grace Faulkner,D,Sr.,5' 8'',,"Barrington, R.I.",womens-soccer,2024
+Emily Garrard,F,Fy.,5' 8'',,"Atlanta, Ga",womens-soccer,2024
+Emmanuella Frimpomaa,F,Fy.,5' 1'',,"Techiman, Ghana",womens-soccer,2024
 Hannah Curtin,F,Sr.,5' 6'',,"Winchester, Mass.",womens-soccer,2024
-Emily Hardy,GK,Sr.,5' 8'',,"Boxford, Mass.",womens-soccer,2024
 Ellie Davidson,D,So.,5' 4'',,"San Diego, Calif.",womens-soccer,2024
-Mary Katherine Daly,GK,So.,5' 4'',,"Cary, N.C.",womens-soccer,2025
-Nele Janek,GK,Fy.,5' 8'',,"Dreieich, Germany",womens-soccer,2025
-Grace Martin,D,Sr.,5' 8'',,"Flower Mound, Texas",womens-soccer,2025
-Lourdes Lauterborn,M,So.,5' 8'',,"Phoenix, Ari.",womens-soccer,2025
-Blake Fox,D,So.,5' 9'',,"Sarasota, Fla.",womens-soccer,2025
-Jaidyn Curry,F,Sr.,5' 8'',,"Lorton, Va.",womens-soccer,2025
-Abby Reger,F,So.,5' 3'',,"Wayne, Penn.",womens-soccer,2025
-Kate Ryan,D,Jr.,5' 7'',,"Dallas, Texas",womens-soccer,2025
-Lykke Ihrfelt,M,Fy.,6' 0'',,"Saltsjöbaden, Sweden",womens-soccer,2025
-Kellie Sutton,M,Sr.,5' 5'',,"Leesburg, Va.",womens-soccer,2025
-Maeve Theobald,F,Fy.,5' 6'',,"Milton, Mass.",womens-soccer,2025
-Anna Leschly,D,Fy.,5' 10'',,"Brookline, Mass.",womens-soccer,2025
-Nadia Young,M,Fy.,5' 5'',,"Oakland, Calif.",womens-soccer,2025
-Frankie Valverde,M,Jr.,5' 3'',,"Grafton, Mass.",womens-soccer,2025
-Stephanie Lathrop,F,So.,5' 10'',,"Dayton, Md.",womens-soccer,2025
-Sonoma Adams,D,Sr.,5' 6'',,"Northport, N.Y.",womens-soccer,2025
-Sarah Shelburne,M,So.,5' 6'',,"Houston, Tex.",womens-soccer,2025
-Emmanuella Frimpomaa,F,So.,5' 1'',,"Techiman, Ghana",womens-soccer,2025
-Audrey Marin,F,Sr.,5' 8'',,"Woodbridge, Conn.",womens-soccer,2025
-Mary Lundregan,M,Sr.,5' 3'',,"Fairfield, Conn.",womens-soccer,2025
-Michal Cagungun,F,Fy.,5' 11'',,"Phoenix, Ariz.",womens-soccer,2025
-Hailey Rorick,M,Sr.,5' 6'',,"Chesapeake, Va.",womens-soccer,2025
+Emily Hardy,GK,Sr.,5' 8'',,"Boxford, Mass.",womens-soccer,2024
+Audrey Marin,F,Jr.,5' 7'',,"Woodbridge, Conn.",womens-soccer,2024
+Ola Goebel,GK,So.,5' 7'',,"Evanston, Ill.",womens-soccer,2024
+Kate Ryan,D,So.,5' 7'',,"Dallas, Texas",womens-soccer,2024
+Sarah Shelburne,M,Fy.,5' 6'',,"Houston, Tex.",womens-soccer,2024
+Daisy Granholm,F/M,Sr.,6' 0'',,"Southwest Harbor, Maine",womens-soccer,2024
+Aleena Seales,M,Sr.,5' 4'',,"Las Vegas, Nev.",womens-soccer,2024
+Jaidyn Curry,F,Jr.,5' 8'',,"Lorton, Va.",womens-soccer,2024
+Lourdes Lauterborn,M,Fy.,5' 8'',,"Phoenix, Ari.",womens-soccer,2024
+Ally Connors,GK,Sr.,5' 9'',,"Bethesda, Md.",womens-soccer,2024
+Sydney Brown,M,Sr.,5' 6'',,"Pacific Palisades, Calif.",womens-soccer,2024
+Gillian Doogan,F,So.,5' 7'',,"Carlsbad, Calif.",womens-soccer,2024
+Kellie Sutton,M,Sr.,5' 5'',,"Leesburg, Va.",womens-soccer,2024
+Grace Martin,D,Jr.,5' 8'',,"Flower Mound, Texas",womens-soccer,2024
+Carly Retterer,F,Sr.,5' 6'',,"Menlo Park, Calif.",womens-soccer,2024
+Abby Reger,F,Fy.,5' 3'',,"Wayne, Penn.",womens-soccer,2024
+Mary Lundregan,M,Jr.,5' 3'',,"Fairfield, Conn.",womens-soccer,2024
+Mary Katherine Daly,GK,Fy.,5' 4'',,"Cary, N.C.",womens-soccer,2024
+Taylor Williams,D,Sr.,5' 6'',,"Franklin Park, N.J.",womens-soccer,2024
+Frankie Valverde,M,So.,5' 3'',,"Grafton, Mass.",womens-soccer,2024
+Blake Fox,D,Fy.,5' 9'',,"Sarasota, Fla.",womens-soccer,2024
 Madyson Yu,M,Fy.,5' 4'',,"Orinda, Calif.",womens-soccer,2025
+Mary Katherine Daly,GK,So.,5' 4'',,"Cary, N.C.",womens-soccer,2025
+Hailey Rorick,M,Sr.,5' 6'',,"Chesapeake, Va.",womens-soccer,2025
 Ola Goebel,GK,Jr.,5' 7'',,"Evanston, Ill.",womens-soccer,2025
 Addison Ball,M,Fy.,5' 8'',,"Englewood, Colo.",womens-soccer,2025
-Paige Knoth,GK,Fy.,5' 7'',,"Naples, Fla.",womens-soccer,2025
-Taylor Schram,,,,,,womens-soccer,2025
+Sarah Shelburne,M,So.,5' 6'',,"Houston, Tex.",womens-soccer,2025
+Emmanuella Frimpomaa,F,So.,5' 1'',,"Techiman, Ghana",womens-soccer,2025
+Mary Lundregan,M,Sr.,5' 3'',,"Fairfield, Conn.",womens-soccer,2025
+Stephanie Lathrop,F,So.,5' 10'',,"Dayton, Md.",womens-soccer,2025
 Ellie Davidson,D,Jr.,5' 4'',,"San Diego, Calif.",womens-soccer,2025
+Taylor Schram,,,,,,womens-soccer,2025
+Paige Knoth,GK,Fy.,5' 7'',,"Naples, Fla.",womens-soccer,2025
+Sonoma Adams,D,Sr.,5' 6'',,"Northport, N.Y.",womens-soccer,2025
+Michal Cagungun,F,Fy.,5' 11'',,"Phoenix, Ariz.",womens-soccer,2025
+Frankie Valverde,M,Jr.,5' 3'',,"Grafton, Mass.",womens-soccer,2025
+Nele Janek,GK,Fy.,5' 8'',,"Dreieich, Germany",womens-soccer,2025
+Anna Leschly,D,Fy.,5' 10'',,"Brookline, Mass.",womens-soccer,2025
+Nadia Young,M,Fy.,5' 5'',,"Oakland, Calif.",womens-soccer,2025
+Grace Martin,D,Sr.,5' 8'',,"Flower Mound, Texas",womens-soccer,2025
+Lourdes Lauterborn,M,So.,5' 8'',,"Phoenix, Ari.",womens-soccer,2025
+Maeve Theobald,F,Fy.,5' 6'',,"Milton, Mass.",womens-soccer,2025
+Jaidyn Curry,F,Sr.,5' 8'',,"Lorton, Va.",womens-soccer,2025
+Lykke Ihrfelt,M,Fy.,6' 0'',,"Saltsjöbaden, Sweden",womens-soccer,2025
+Audrey Marin,F,Sr.,5' 8'',,"Woodbridge, Conn.",womens-soccer,2025
+Abby Reger,F,So.,5' 3'',,"Wayne, Penn.",womens-soccer,2025
+Kate Ryan,D,Jr.,5' 7'',,"Dallas, Texas",womens-soccer,2025
+Blake Fox,D,So.,5' 9'',,"Sarasota, Fla.",womens-soccer,2025
+Kellie Sutton,M,Sr.,5' 5'',,"Leesburg, Va.",womens-soccer,2025
 Michal Cagungun,F,So.,5' 11'',,"Phoenix, Ariz.",womens-soccer,2026
 Tasha Udebhulu,F,Fy.,5' 2'',,"Guildford, England",womens-soccer,2026
 Klara Schotte,D,Fy.,5' 8'',,"Uppsala, Sweden",womens-soccer,2026

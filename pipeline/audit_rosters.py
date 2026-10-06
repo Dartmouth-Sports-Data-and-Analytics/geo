@@ -1,27 +1,14 @@
 """audit_rosters.py — read-only check for seasons that carry last year's seniors forward as grad-labeled athletes."""
 import glob
 import os
-import re
 
 import pandas as pd
 
 import config
+from roster_data import class_rank
+from site_rules import KNOWN_MISSING_SEASONS
 
 OUT_PATH = os.path.join(config.DATA_DIR, "_class_audit.csv")
-
-
-# Class label -> 1..5 (Fy/So/Jr/Sr/Gr); redshirt prefixes count as the base class; unknown labels give None.
-def class_rank(label):
-    if pd.isna(label):
-        return None
-    s = re.sub(r"[^a-z0-9]", "", str(label).lower())
-    groups = [("fy", "fr", "rf", "freshman", "firstyear"), ("so", "rso", "sophomore"), ("jr", "rjr", "junior"),
-              ("sr", "rs", "senior"), ("gr", "grad", "graduate", "gs", "5th", "6th", "fifthyear", "sixthyear")]
-    for candidate in (s, re.sub(r"^(redshirt|r)", "", s)):
-        for rank, names in enumerate(groups, start=1):
-            if candidate in names:
-                return rank
-    return None
 
 
 def load_rosters():
@@ -83,17 +70,45 @@ def coverage(df):
     gaps = []
     for (school, sport), g in df.groupby(["school", "sport"]):
         have = set(g["year"].astype(int))
-        missing = [y for y in range(min(have), max(have) + 1) if y not in have]
+        missing = [y for y in range(min(have), max(have) + 1) if y not in have and (school, sport, y) not in KNOWN_MISSING_SEASONS]
         if missing:
             gaps.append((school, sport, missing))
     covid = [g for g in gaps if g[2] == [2020]]
     other = [g for g in gaps if g[2] != [2020]]
     print(f"\n{len(covid)} teams have no 2020-21 roster but do have seasons on both sides of it (expected after COVID).")
-    print(f"{len(other)} teams are missing other seasons between ones that exist" + (":" if other else "."))
+    print(f"{len(other)} teams are missing seasons between ones that exist, other than the known-missing ones in site_rules.py" + (":" if other else "."))
     for school, sport, missing in other[:25]:
         print(f"  {school} {sport}: missing {missing}")
     if len(other) > 25:
         print(f"  ... and {len(other) - 25} more")
+
+
+# Players on two consecutive rosters should have moved up exactly one class; a season where most did not is probably copied, shifted by a year or mislabeled.
+def class_advancement(df, min_returning=6, threshold=0.5):
+    rows = []
+    known = df[df["rank"].between(1, 4)]
+    for (school, sport), g in known.groupby(["school", "sport"]):
+        ranks = {int(y): sub.drop_duplicates("name").set_index("name")["rank"] for y, sub in g.groupby("year")}
+        for year, current in sorted(ranks.items()):
+            previous = ranks.get(year - 1)
+            if previous is None:
+                continue
+            both = current.index.intersection(previous.index)
+            if len(both) < min_returning:
+                continue
+            change = current[both] - previous[both]
+            moved = int((change == 1).sum())
+            rows.append({"school": school, "sport": sport, "year": year, "returning": len(both), "same": int((change == 0).sum()),
+                         "moved_up_one": moved, "plus_two": int((change == 2).sum()), "pct": round(100 * moved / len(both))})
+    out = pd.DataFrame(rows)
+    if out.empty:
+        return
+    out.to_csv(os.path.join(config.DATA_DIR, "_class_advancement.csv"), index=False)
+    bad = out[out["pct"] < 100 * threshold].sort_values("pct")
+    print(f"\nSeasons where under {threshold:.0%} of returning players moved up one class ({len(bad)} of {len(out)}; 2021 is expected after COVID).\nOne odd season shows up twice in a row (it is the season both rows share). same = class unchanged (stale labels or a skipped COVID year); plus_two = labels catching up after COVID:")
+    print(bad.head(30).to_string(index=False) if len(bad) else "  none")
+    if len(bad) > 30:
+        print(f"  ... and {len(bad) - 30} more in data/_class_advancement.csv")
 
 
 def main():
@@ -103,6 +118,7 @@ def main():
     print(f"{len(out)} school/sport/year rosters checked; full table in {OUT_PATH}\n")
 
     coverage(df)
+    class_advancement(df)
 
     # Seniors returning en masse is the carry-over signature; real returns (5th years) are a small share.
     sus = out[(out["prior_seniors"] >= 3) & (out["pct_returning"] >= 50)].sort_values("pct_returning", ascending=False)

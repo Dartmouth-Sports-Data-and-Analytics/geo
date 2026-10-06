@@ -1,67 +1,137 @@
 name,position,class,height,weight,hometown,sport,year
-Ido Burstein,,So.,,,"Herzliya, Israel",mens-squash,2021
-Adam Corcoran,,Sr.,,,"Winchester, U.K.",mens-squash,2021
-Victor Crouin,,Sr.,,,"Var, France",mens-squash,2021
-George Crowne,,Jr.,,,"Oakville, Ontario",mens-squash,2021
-Tate Harms,,Fy,,,"Wollerau, Switzerland",mens-squash,2021
-John Finley Ong,,Sr.,,,"Norwalk, Conn.",mens-squash,2021
-Liam Rotzoll,,So.,,,"Bethesda, Md.",mens-squash,2021
-Samuel Scherl,,Sr.,,,"South Orange, New Jersey",mens-squash,2021
-Conner Stoltz,,Fy,,,"Bronxville, N.Y.",mens-squash,2021
-Marwan Tarek,,Jr.,,,"Cairo, Egypt",mens-squash,2021
+Theodore Mendez,,Fy,,,"Arlington, Va.",mens-squash,2016
+Madhav Dhingra,,Jr.,,,"Delhi, India",mens-squash,2016
+Jack Cooper,,So.,,,"Pontefract, U.K.",mens-squash,2016
+Timothy Brownell,,Fy,,,"Belmont, Mass.",mens-squash,2016
+Will Mendez,,Sr.,,,"Arlington, Va.",mens-squash,2016
+Saadeldin Abouaish,,Fy,,,"Cario, Egypt",mens-squash,2016
+Bryan Koh,,Sr.,,,Singapore,mens-squash,2016
+Devin McLaughlin,,Sr.,,,"Villanova, Pa.",mens-squash,2016
+Seif Eleinen,,Jr.,,,"Alexandria, Egypt",mens-squash,2016
+Gordon Michas,,Sr.,,,"New York, N.Y.",mens-squash,2016
+Dylan Murray,,Sr.,,,"Bronxville, N.Y.",mens-squash,2016
+Mandela Patrick,,Jr.,,,"San Fernando, Trinidad",mens-squash,2016
+Sean Hughes,,Fy,,,"Newton Square, Pa.",mens-squash,2016
+David Ryan,,Jr.,,,"Dublin, Ireland",mens-squash,2016
+Ethan Shoihet,,So.,,,"Cambridge, Mass.",mens-squash,2016
+Bradley Smith,,Jr.,,,"Lancashire, England",mens-squash,2016
+Alexi Gosset,,So.,,,"Ontario, Canada",mens-squash,2016
+Varoun Gulati,,Jr.,,,"Newton, Mass.",mens-squash,2017
+Sean Hughes,,So.,,,"Newton Square, Pa.",mens-squash,2017
+Samuel Scherl,,Fy,,,"New York, N.Y.",mens-squash,2017
+David Ryan,,Sr.,,,"Dublin, Ireland",mens-squash,2017
+Saadeldin Abouaish,,So.,,,"Cairo, Egypt",mens-squash,2017
+Alexi Gosset,,Jr.,,,"Toronto, Ontario",mens-squash,2017
+Madhav Dhingra,,Sr.,,,"Delhi, India",mens-squash,2017
+Mandela Patrick,,Sr.,,,"San Fernando, Trinidad",mens-squash,2017
+Bradley Smith,,Sr.,,,"Lancashire, England",mens-squash,2017
+John Finley Ong,,Fy,,,"Norwalk, Conn.",mens-squash,2017
+Seif Eleinen,,Sr.,,,"Alexandria, Egypt",mens-squash,2017
+Julien Gosset,,Fy,,,"Toronto, Ontario",mens-squash,2017
+Rana Bansal,,Jr.,,,"Bellevue, Wash.",mens-squash,2017
+Adam Corcoran,,Fy,,,"Winchester, U.K.",mens-squash,2017
+Jack Cooper,,Jr.,,,"Pontefract, U.K.",mens-squash,2017
+Liam Waterous,,Fy,,,"Calgary, Alberta",mens-squash,2017
+Stephen Monrad,,Jr.,,,"Newton, Mass.",mens-squash,2017
+Theodore Mendez,,Jr.,,,"Arlington, Va.",mens-squash,2017
+Timothy Brownell,,So.,,,"Belmont, Mass.",mens-squash,2017
+Sean Hughes,,Jr.,,,"Newton Square, Pa.",mens-squash,2018
+Saadeldin Abouaish,,Jr.,,,"Cairo, Egypt",mens-squash,2018
+Liam Waterous,,So.,,,"Calgary, Alberta",mens-squash,2018
+Marwan Tarek,,Fy,,,"Cairo, Egypt",mens-squash,2018
+Samuel Scherl,,So.,,,"South Orange, New Jersey",mens-squash,2018
+John Finley Ong,,So.,,,"Norwalk, Conn.",mens-squash,2018
+Stephen Monrad,,Sr.,,,"Newton, Mass.",mens-squash,2018
+Rana Bansal,,Sr.,,,"Bellevue, Wash.",mens-squash,2018
+Timothy Brownell,,Jr.,,,"Belmont, Mass.",mens-squash,2018
+Theodore Mendez,,Sr.,,,"Arlington, Va.",mens-squash,2018
+Alexi Gosset,,Sr.,,,"Toronto, Ontario",mens-squash,2018
+George Crowne,,Fy,,,"Oakville, Ontario",mens-squash,2018
+Victor Crouin,,Fy,,,"Var, France",mens-squash,2018
+Adam Corcoran,,So.,,,"Winchester, U.K.",mens-squash,2018
+Julien Gosset,,So.,,,"Toronto, Ontario",mens-squash,2018
+Varoun Gulati,,Sr.,,,"Newton, Mass.",mens-squash,2018
+Samuel Scherl,,Jr.,,,"South Orange, New Jersey",mens-squash,2019
+Liam Rotzoll,,Fy,,,"Bethesda, Md.",mens-squash,2019
+Ayush Menon,,Fy,,,"Edison, N.J.",mens-squash,2019
+Saadeldin Abouaish,,Sr.,,,"Cairo, Egypt",mens-squash,2019
+Liam Waterous,,Jr.,,,"Calgary, Alberta",mens-squash,2019
+John Finley Ong,,Jr.,,,"Norwalk, Conn.",mens-squash,2019
+Marwan Tarek,,So.,,,"Cairo, Egypt",mens-squash,2019
+Adam Corcoran,,Jr.,,,"Winchester, U.K.",mens-squash,2019
+Sean Hughes,,Sr.,,,"Newton Square, Pa.",mens-squash,2019
+Timothy Brownell,,Sr.,,,"Belmont, Mass.",mens-squash,2019
+Channy Hong,,Jr.,,,"Seoul, South Korea",mens-squash,2019
+Julien Gosset,,Jr.,,,"Toronto, Ontario",mens-squash,2019
+George Crowne,,So.,,,"Oakville, Ontario",mens-squash,2019
+Victor Crouin,,So.,,,"Var, France",mens-squash,2019
+Ido Burstein,,Fy,,,"Herzliya, Israel",mens-squash,2020
+Victor Crouin,,Jr.,,,"Var, France",mens-squash,2020
+Julien Gosset,,Sr.,,,"Toronto, Ontario",mens-squash,2020
+Liam Waterous,,Sr.,,,"Calgary, Alberta",mens-squash,2020
 Erik Wang,,Fy,,,"Providence, R.I.",mens-squash,2021
-David Costales,,Fy,,,"Quito, Ecuador",mens-squash,2022
-George Crowne,,Sr.,,,"Oakville, Ontario",mens-squash,2022
-Bobby Cupps,,Fy,,,"Chicago, Ill.",mens-squash,2022
-Denis Gilevskiy,,Fy,,,"Bray, Ireland",mens-squash,2022
-Tate Harms,,So.,,,"Wollerau, Switzerland",mens-squash,2022
-Neel Joshi,,So.,,,"Mumbai, India",mens-squash,2022
-Ido Burstein,,Jr.,,,"Herzliya, Israel",mens-squash,2022
-Ayush Menon,,So.,,,"Edison, N.J.",mens-squash,2022
-Erik Wang,,So.,,,"Providence, R.I.",mens-squash,2022
-Max Menin,,Fy,,,,mens-squash,2022
-Liam Rotzoll,,Jr.,,,"Bethesda, Md.",mens-squash,2022
-Ishant Shah,,Fy,,,"Penang, Malaysia",mens-squash,2022
+Marwan Tarek,,Jr.,,,"Cairo, Egypt",mens-squash,2021
+Tate Harms,,Fy,,,"Wollerau, Switzerland",mens-squash,2021
+Liam Rotzoll,,So.,,,"Bethesda, Md.",mens-squash,2021
+George Crowne,,Jr.,,,"Oakville, Ontario",mens-squash,2021
+Samuel Scherl,,Sr.,,,"South Orange, New Jersey",mens-squash,2021
+John Finley Ong,,Sr.,,,"Norwalk, Conn.",mens-squash,2021
+Ido Burstein,,So.,,,"Herzliya, Israel",mens-squash,2021
+Victor Crouin,,Sr.,,,"Var, France",mens-squash,2021
+Adam Corcoran,,Sr.,,,"Winchester, U.K.",mens-squash,2021
+Conner Stoltz,,Fy,,,"Bronxville, N.Y.",mens-squash,2021
 Conner Stoltz,,So.,,,"Bronxville, N.Y.",mens-squash,2022
 Marwan Tarek,,Sr.,,,"Cairo, Egypt",mens-squash,2022
-Ido Burstein,,Sr.,,,"Herzliya, Israel",mens-squash,2023
-David Costales,,So.,,,"Quito, Ecuador",mens-squash,2023
-Denis Gilevskiy,,So.,,,"Bray, Ireland",mens-squash,2023
-Omar Azzam,,Fy,,,"New Cairo, Egypt",mens-squash,2023
-Zach Baskir,,Jr.,,,"Cape Town, South Africa",mens-squash,2023
-Tate Harms,,Jr.,,,"Wollerau, Switzerland",mens-squash,2023
-Neel Joshi,,Jr.,,,"Mumbai, India",mens-squash,2023
-Liam Rotzoll,,Sr.,,,"Bethesda, Md.",mens-squash,2023
-Ishant Shah,,So.,,,"Penang, Malaysia",mens-squash,2023
-Marcus Lee,,Fy,,,"New York, N.Y.",mens-squash,2023
+Bobby Cupps,,Fy,,,"Chicago, Ill.",mens-squash,2022
+Denis Gilevskiy,,Fy,,,"Bray, Ireland",mens-squash,2022
+Ishant Shah,,Fy,,,"Penang, Malaysia",mens-squash,2022
+George Crowne,,Sr.,,,"Oakville, Ontario",mens-squash,2022
+Liam Rotzoll,,Jr.,,,"Bethesda, Md.",mens-squash,2022
+Ido Burstein,,Jr.,,,"Herzliya, Israel",mens-squash,2022
+Erik Wang,,So.,,,"Providence, R.I.",mens-squash,2022
+Ayush Menon,,So.,,,"Edison, N.J.",mens-squash,2022
+Neel Joshi,,So.,,,"Mumbai, India",mens-squash,2022
+Tate Harms,,So.,,,"Wollerau, Switzerland",mens-squash,2022
+David Costales,,Fy,,,"Quito, Ecuador",mens-squash,2022
+Max Menin,,Fy,,,,mens-squash,2022
 Jacob Lin,,Fy,,,"Vancouver, BC, Canada",mens-squash,2023
+Marcus Lee,,Fy,,,"New York, N.Y.",mens-squash,2023
+Ishant Shah,,So.,,,"Penang, Malaysia",mens-squash,2023
+Ido Burstein,,Sr.,,,"Herzliya, Israel",mens-squash,2023
+Tate Harms,,Jr.,,,"Wollerau, Switzerland",mens-squash,2023
+David Costales,,So.,,,"Quito, Ecuador",mens-squash,2023
 Louis Murray,,Fy,,,"Falmouth, Cornwall, England",mens-squash,2023
 Conner Stoltz,,Jr.,,,"Bronxville, N.Y.",mens-squash,2023
-Omar Azzam,,So.,,,"New Cairo, Egypt",mens-squash,2024
+Liam Rotzoll,,Sr.,,,"Bethesda, Md.",mens-squash,2023
+Neel Joshi,,Jr.,,,"Mumbai, India",mens-squash,2023
+Zach Baskir,,Jr.,,,"Cape Town, South Africa",mens-squash,2023
+Omar Azzam,,Fy,,,"New Cairo, Egypt",mens-squash,2023
+Denis Gilevskiy,,So.,,,"Bray, Ireland",mens-squash,2023
 Zach Baskir,,Sr.,,,"Cape Town, South Africa",mens-squash,2024
-David Costales,,Jr.,,,"Quito, Ecuador",mens-squash,2024
-Denis Gilevskiy,,Jr.,,,"Bray, Ireland",mens-squash,2024
-Tate Harms,,Sr.,,,"Wollerau, Switzerland",mens-squash,2024
-Neel Joshi,,Sr.,,,"Mumbai, India",mens-squash,2024
 Marcus Lee,,So.,,,"New York, N.Y.",mens-squash,2024
-Jacob Lin,,So.,,,"Vancouver, BC, Canada",mens-squash,2024
-Louis Murray,,So.,,,"Falmouth, Cornwall, England",mens-squash,2024
 Segev Rome,,Fy,,,"Raanana, Israel",mens-squash,2024
-Ishant Shah,,Jr.,,,"Penang, Malaysia",mens-squash,2024
+Denis Gilevskiy,,Jr.,,,"Bray, Ireland",mens-squash,2024
+Jacob Lin,,So.,,,"Vancouver, BC, Canada",mens-squash,2024
+Neel Joshi,,Sr.,,,"Mumbai, India",mens-squash,2024
+David Costales,,Jr.,,,"Quito, Ecuador",mens-squash,2024
+Tate Harms,,Sr.,,,"Wollerau, Switzerland",mens-squash,2024
 Conner Stoltz,,Sr.,,,"Bronxville, N.Y.",mens-squash,2024
 Erik Wang,,Sr.,,,"Providence, R.I.",mens-squash,2024
-Omar Azzam,,Jr.,,,"New Cairo, Egypt",mens-squash,2025
+Omar Azzam,,So.,,,"New Cairo, Egypt",mens-squash,2024
+Ishant Shah,,Jr.,,,"Penang, Malaysia",mens-squash,2024
+Louis Murray,,So.,,,"Falmouth, Cornwall, England",mens-squash,2024
+David Costales,,Sr.,,,"Quito, Ecuador",mens-squash,2025
+Segev Rome,,So.,,,"Raanana, Israel",mens-squash,2025
 Alexander Broadbridge,,Fy,,,"Fareham, Hampshire, England",mens-squash,2025
 Denis Gilevskiy,,Sr.,,,"Bray, Ireland",mens-squash,2025
 Andrew Chun,,Fy,,,"Rye, N.Y.",mens-squash,2025
-David Costales,,Sr.,,,"Quito, Ecuador",mens-squash,2025
+Omar Azzam,,Jr.,,,"New Cairo, Egypt",mens-squash,2025
 Christian Capella,,Fy,,,"Tuxedo Park, N.Y.",mens-squash,2025
 Ishant Shah,,Jr.,,,"Penang, Malaysia",mens-squash,2025
 Jacob Lin,,Jr.,,,"Vancouver, BC, Canada",mens-squash,2025
-Maddox Moxham,,Fy,,,"Darien, Conn.",mens-squash,2025
 Louis Murray,,Jr.,,,"Falmouth, Cornwall, England",mens-squash,2025
-Segev Rome,,So.,,,"Raanana, Israel",mens-squash,2025
 Marcus Lee,,Jr.,,,"New York, N.Y.",mens-squash,2025
+Maddox Moxham,,Fy,,,"Darien, Conn.",mens-squash,2025
 Louis Murray,,Sr.,,,"Falmouth, Cornwall, England",mens-squash,2026
 Maddox Moxham,,So.,,,"Darien, Conn.",mens-squash,2026
 Winn Metrailler,,Fy,,,"Rye, N.Y.",mens-squash,2026

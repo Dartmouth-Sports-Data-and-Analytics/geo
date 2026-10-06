@@ -1,184 +1,341 @@
 name,position,class,height,weight,hometown,sport,year
-Lannan Abbott,Flanker,Sr.,,,"Colorado Springs, Colo.",womens-rugby,2021
-Ariana Ramsey,Wing/Scrumhalf,Sr.,,,"Philadelphia, Pa.",womens-rugby,2021
-Allie Amerson,,Fy.,,,"Carlton, Ore.",womens-rugby,2021
-Carlicia Beam,Prop,Jr.,,,"Memphis, Tenn.",womens-rugby,2021
-Kristin Bitter,Flyhalf,Jr.,,,"San Diego, Calif.",womens-rugby,2021
-Nyah Cordero,Center/Flanker,So.,,,"Meridian, Idaho",womens-rugby,2021
-Cassie Depner,Lock/Number 8,Fy.,,,"Pittsburgh, Pa.",womens-rugby,2021
-Lilly Durbin,Center,5th,,,"Murrieta, Calif.",womens-rugby,2021
-Lillian Johnson,Lock/Number 8,Jr.,,,"Bellevue, Wash.",womens-rugby,2021
-Sophie Ragg,Fullback,Sr.,,,"Wilsborough Green, England",womens-rugby,2021
-Emily Henrich,Center,Sr.,,,"Orchard Park, N.Y.",womens-rugby,2021
-Isabella Huschitt,Prop/Lock,So.,,,"Colgate, Wis.",womens-rugby,2021
-Idia Ihensekhien,Prop/Number 8,5th,,,"Milton, Ontario",womens-rugby,2021
-Nicole Ihensekhien,Lock/Number 8,So.,,,"Milton, Ontario",womens-rugby,2021
-Kiera Jackson,Lock,Sr.,,,"New Rochelle, N.Y.",womens-rugby,2021
-Sophia Haley,Flanker/Number 8,Sr.,,,"Hopkins, Minn.",womens-rugby,2021
-Bailey Hand,Fullback,Sr.,,,"Salem, Ore.",womens-rugby,2021
-Josie Harrison,Prop,Fy.,,,"Usk, Wales",womens-rugby,2021
-Reign Jefferson,Prop,Fy.,,,"Los Alamitos, Calif.",womens-rugby,2021
-Seven Sassano,Prop/Lock,Sr.,,,"Decatur, Ill.",womens-rugby,2021
-Ale Ada,Scrumhalf,Sr.,,,"Sinajana, Guam",womens-rugby,2021
-Sarah Korb,Flanker,Sr.,,,"Hamburg, Germany",womens-rugby,2021
-Margot Généreux,Wing,5th,,,"Westmount, Quebec",womens-rugby,2021
-Asialeata Meni,Hooker/Center,Fy.,,,"Cypress, Calif.",womens-rugby,2021
-Yuri Oh,Flanker,Sr.,,,"Naperville, Ill.",womens-rugby,2021
+Rachel Hand,Flanker,Sr.,,,"Great Neck, N.Y.",womens-rugby,2016
+Allison Tong,Hooker,So.,,,"Incline Village, Nev.",womens-rugby,2016
+Casey Smerczynski,Lock,So.,,,"Topsfield, Mass.",womens-rugby,2016
+Jourdin Thomas,Wing,Fy.,,,"Rockville Centre, N.Y.",womens-rugby,2016
+Maya Perkins,Prop,So.,,,"Charlotte, N.C.",womens-rugby,2016
+Jules Wheaton,Lock,Jr.,,,"Santa Fe, N.M.",womens-rugby,2016
+Danielle Ramsay,Center,Jr.,,,"Freeport, N.Y.",womens-rugby,2016
+Alex Stendahl,Fullback,Jr.,,,"Portland, Ore.",womens-rugby,2016
+Rylee Stone,Lock,Fy.,,,"Turner Valley, Alberta",womens-rugby,2016
+Frankie Sands,Center,Sr.,,,"Essex, Vt.",womens-rugby,2016
+Mary Tobin,Wing,So.,,,"San Diego, Calif.",womens-rugby,2016
+Kat Ramage,Scrumhalf,Jr.,,,"Roxbury, N.J.",womens-rugby,2016
+Becca Jane Rosko,Flyhalf,So.,,,"Dillon, Colo.",womens-rugby,2016
+Saba Nejad,Wing,Sr.,,,"Waterloo, Ontario",womens-rugby,2016
+Katie Dowty,,,,,,womens-rugby,2016
+Karina Martinez,Wing,Jr.,,,"Tucson, Ariz.",womens-rugby,2016
+Ashley DuPuis,Center,Jr.,,,"Demascus, Ore.",womens-rugby,2016
+Kalia Hunter,Flanker,Fy.,,,"Colorado Springs, Colo.",womens-rugby,2016
+Morgan McGonagle,Flanker,Sr.,,,"Edwards, Colo.",womens-rugby,2016
+Anabel Moreno-Mendez,Prop,Jr.,,,"Umatilla, Ore.",womens-rugby,2016
+Milla Anderson,Number 8,Jr.,,,"Bell, Calif.",womens-rugby,2016
+Camille Johnson,Flyhalf,Jr.,,,"Grants Pass, Ore.",womens-rugby,2016
+Puja Devi,Flanker,Jr.,,,"Los Angeles, Calif.",womens-rugby,2016
+Eva Klein,Center,So.,,,"Stevenson Ranch, Calif.",womens-rugby,2016
+Alex Conway,Center,So.,,,"Potomac, Md.",womens-rugby,2016
+Jules Wheaton,Lock,Sr.,,,"Santa Fe, N.M.",womens-rugby,2017
+Danielle Ramsay,Center,Sr.,,,"Freeport, N.Y.",womens-rugby,2017
+Becca Jane Rosko,Fullback,Jr.,,,"Dillon, Colo.",womens-rugby,2017
+Mary Tobin,Wing,Jr.,,,"San Diego, Calif.",womens-rugby,2017
+Grace Player,Wing,Fy.,,,"Chapman, Maine",womens-rugby,2017
+Marin Pennell,Flanker,Fy.,,,"Breckenridge, Colo.",womens-rugby,2017
+Kat Ramage,Scrumhalf,Sr.,,,"Roxbury, N.J.",womens-rugby,2017
+Olivia Marquis,Prop,Fy.,,,"Potomac, Md.",womens-rugby,2017
+Lilly Durbin,Center,Fy.,,,"Murrieta, Calif.",womens-rugby,2017
+Alex Stendahl,Fullback,Sr.,,,"Portland, Ore.",womens-rugby,2017
+Elizabeth Coleman,Forward,So.,,,"Manoa, O’ahu, Hawai’i",womens-rugby,2017
+Casey Smerczynski,Lock,Jr.,,,"Topsfield, Mass.",womens-rugby,2017
+Kathleen Mulligan,Prop,Fy.,,,"Marshfield, Mass.",womens-rugby,2017
+Ashley DuPuis,Center,Sr.,,,"Demascus, Ore.",womens-rugby,2017
+Karina Martinez,Flanker,Sr.,,,"Tucson, Ariz.",womens-rugby,2017
+Katie Dowty,,,,,,womens-rugby,2017
+Anabel Moreno-Mendez,Prop,Sr.,,,"Umatilla, Ore.",womens-rugby,2017
+Kiera Jackson,Center,Fy.,,,"New Rochelle, N.Y.",womens-rugby,2017
+Alex Conway,Lock,Jr.,,,"Potomac, Md.",womens-rugby,2017
+Camille Johnson,Flyhalf,Sr.,,,"Grants Pass, Ore.",womens-rugby,2017
+Eva Klein,Center,Jr.,,,"Stevenson Ranch, Calif.",womens-rugby,2017
+Idia Ihensekhien,Prop,Fy.,,,"Milton, Ontario",womens-rugby,2017
+Maya Perkins,Prop,Jr.,,,"Charlotte, N.C.",womens-rugby,2017
+Didi Niles,Hooker,Fy.,,,"Sherborn, Mass.",womens-rugby,2017
+Allison Tong,Hooker,Jr.,,,"Incline Village, Nev.",womens-rugby,2017
+Margot Généreux,Wing,Fy.,,,"Westmount, Quebec",womens-rugby,2017
+Milla Anderson,Lock,Sr.,,,"Bell, Calif.",womens-rugby,2017
+Kathleen Mulligan,Prop,So.,,,"Marshfield, Mass.",womens-rugby,2018
+Eva Klein,Center,Sr.,,,"Stevenson Ranch, Calif.",womens-rugby,2018
+Julia Luo,Wing,Fy.,,,"San Diego, Calif.",womens-rugby,2018
+Olivia Marquis,Prop,So.,,,"Potomac, Md.",womens-rugby,2018
+Didi Niles,Hooker/Flanker,So.,,,"Sherborn, Mass.",womens-rugby,2018
+Grace Player,Wing,So.,,,"Chapman, Maine",womens-rugby,2018
+Sophie Opler,Fullback,Fy.,,,"Hinsdale, Ill.",womens-rugby,2018
+Marin Pennell,Flanker,So.,,,"Breckenridge, Colo.",womens-rugby,2018
+Maya Perkins,Prop,Sr.,,,"Charlotte, N.C.",womens-rugby,2018
+Emily Henrich,Center,Fy.,,,"Orchard Park, N.Y.",womens-rugby,2018
+Margot Généreux,Wing,So.,,,"Westmount, Quebec",womens-rugby,2018
+Lillian Johnson,Forward,Fy.,,,"Bellevue, Wash.",womens-rugby,2018
+Yuri Oh,Wing,Fy.,,,"Naperville, Ill.",womens-rugby,2018
+Kiera Jackson,Center,So.,,,"New Rochelle, N.Y.",womens-rugby,2018
+Bailey Hand,Flyhalf/Fullback,Fy.,,,"Salem, Ore.",womens-rugby,2018
+Sophia Haley,Flanker,Fy.,,,"Hopkins, Minn.",womens-rugby,2018
+Sarah Korb,Hooker,Fy.,,,"Hamburg, Germany",womens-rugby,2018
+Lauren Ferridge,Hooker/Prop,Fy.,,,"Bethesda, Md.",womens-rugby,2018
+Lilly Durbin,Center,So.,,,"Murrieta, Calif.",womens-rugby,2018
+Alex Conway,Lock,Sr.,,,"Potomac, Md.",womens-rugby,2018
+Kristin Bitter,Flyhalf/Fullback,Fy.,,,"San Diego, Calif.",womens-rugby,2018
+Carlicia Beam,Prop,Fy.,,,"Memphis, Tenn.",womens-rugby,2018
+Ale Ada,Scrumhalf,Fy.,,,"Sinajana, Guam",womens-rugby,2018
+Lannan Abbott,Flanker/Lock,Fy.,,,"Colorado Springs, Colo.",womens-rugby,2018
+Sophie Ragg,Center,Fy.,,,"Wilsborough Green, England",womens-rugby,2018
+Idia Ihensekhien,Prop,So.,,,"Milton, Ontario",womens-rugby,2018
+Ariana Ramsey,Wing/Scrumhalf,Fy.,,,"Philadelphia, Pa.",womens-rugby,2018
+Becca Jane Rosko,Fullback,Sr.,,,"Dillon, Colo.",womens-rugby,2018
+Seven Sassano,Lock,Fy.,,,"Decatur, Ill.",womens-rugby,2018
+Mary Tobin,Wing/Fullback,Sr.,,,"San Diego, Calif.",womens-rugby,2018
+Joanne Wang,Fullback,Fy.,,,"Taipei, Taiwan",womens-rugby,2018
+Abigail Schill,Center,Fy.,,,"Shorewood, Wis.",womens-rugby,2018
+Sanne Schouten,Scrumhalf,Fy.,,,"Haarlem, The Netherlands",womens-rugby,2018
+Anyoko Sewavi,Wing/Scrumhalf,Fy.,,,"Charlotte, N.C.",womens-rugby,2018
+Allison Tong,Hooker,Sr.,,,"Incline Village, Nev.",womens-rugby,2018
+Lily Waddell,Hooker/Flanker,Fy.,,,"Bangor, Maine",womens-rugby,2018
+Casey Smerczynski,Lock,Sr.,,,"Topsfield, Mass.",womens-rugby,2018
+Katie Dowty,,,,,,womens-rugby,2018
+Didi Niles,Hooker,Jr.,,,"Sherborn, Mass.",womens-rugby,2019
+Yuri Oh,Wing,So.,,,"Naperville, Ill.",womens-rugby,2019
+Marin Pennell,Hooker,Jr.,,,"Breckenridge, Colo.",womens-rugby,2019
+Maya Perkins,Prop,Sr.,,,"Charlotte, N.C.",womens-rugby,2019
+Grace Player,Wing,Jr.,,,"Chapman, Maine",womens-rugby,2019
+Sophie Ragg,Center,So.,,,"Wilsborough Green, England",womens-rugby,2019
+Casey Smerczynski,Lock,Sr.,,,"Topsfield, Mass.",womens-rugby,2019
+Ariana Ramsey,Wing,So.,,,"Philadelphia, Pa.",womens-rugby,2019
+Becca Jane Rosko,Wing,Sr.,,,"Dillon, Colo.",womens-rugby,2019
+Seven Sassano,Prop/Lock,So.,,,"Decatur, Ill.",womens-rugby,2019
+Kathleen Mulligan,Prop,Jr.,,,"Marshfield, Mass.",womens-rugby,2019
+Abigail Schill,Center,So.,,,"Shorewood, Wis.",womens-rugby,2019
+Allison Tong,Hooker,Sr.,,,"Incline Village, Nev.",womens-rugby,2019
+Sarah Korb,Hooker,So.,,,"Hamburg, Germany",womens-rugby,2019
+Lily Waddell,Hooker,So.,,,"Bangor, Maine",womens-rugby,2019
+Emily Henrich,Center,So.,,,"Orchard Park, N.Y.",womens-rugby,2019
+Eva Klein,Center,Sr.,,,"Stevenson Ranch, Calif.",womens-rugby,2019
+Lannan Abbott,Wing,So.,,,"Colorado Springs, Colo.",womens-rugby,2019
+Ale Ada,Scrumhalf,So.,,,"Sinajana, Guam",womens-rugby,2019
+Kristin Bitter,Flyhalf/Center,Fy.,,,"San Diego, Calif.",womens-rugby,2019
+Alex Conway,Prop,Sr.,,,"Potomac, Md.",womens-rugby,2019
+Carlicia Beam,Prop,Fy.,,,"Memphis, Tenn.",womens-rugby,2019
+Idia Ihensekhien,Prop,Jr.,,,"Milton, Ontario",womens-rugby,2019
+Lauren Ferridge,Prop/Hooker,Fy.,,,"Bethesda, Md.",womens-rugby,2019
+Margot Généreux,Wing,Jr.,,,"Westmount, Quebec",womens-rugby,2019
+Bailey Hand,Flyhalf,So.,,,"Salem, Ore.",womens-rugby,2019
+Sophia Haley,Hooker,So.,,,"Hopkins, Minn.",womens-rugby,2019
+Lilly Durbin,Center,Jr.,,,"Murrieta, Calif.",womens-rugby,2019
+Abbey Savin,Flyhalf,Fy.,,,"Temecula, Calif.",womens-rugby,2020
+Anyoko Sewavi,Wing/Scrumhalf,So.,,,"Charlotte, N.C.",womens-rugby,2020
+Yuri Oh,Flanker,Jr.,,,"Naperville, Ill.",womens-rugby,2020
+Abigail Schill,Center,Jr.,,,"Shorewood, Wis.",womens-rugby,2020
+Ariana Ramsey,Wing/Scrumhalf,Jr.,,,"Philadelphia, Pa.",womens-rugby,2020
+Grace Player,Wing,Sr.,,,"Chapman, Maine",womens-rugby,2020
+Marin Pennell,Flanker,Sr.,,,"Breckenridge, Colo.",womens-rugby,2020
+Anjali Pant,Scrumhalf/Wing,Fy.,,,"Osceola, Ind.",womens-rugby,2020
+Hannah Sheehy,Prop,Fy.,,,"Kent, England",womens-rugby,2020
+Sanne Schouten,Wing/Scrumhalf,So.,,,"Haarlem, The Netherlands",womens-rugby,2020
+Aleemah Williams,Hooker/Flanker,Fy.,,,"Charlotte, N.C.",womens-rugby,2020
+Nyah Cordero,Flanker,Fy.,,,"Meridian, Idaho",womens-rugby,2020
+Sophie Opler,Fullback,So.,,,"Hinsdale, Ill.",womens-rugby,2020
+Lilly Durbin,Center,Sr.,,,"Murrieta, Calif.",womens-rugby,2020
+Margot Généreux,Wing,Sr.,,,"Westmount, Quebec",womens-rugby,2020
+Katie Dowty,,,,,,womens-rugby,2020
+Kathleen Mulligan,Prop,Sr.,,,"Marshfield, Mass.",womens-rugby,2020
+Joanne Wang,Wing,So.,,,"Taipei, Taiwan",womens-rugby,2020
+Isabella Huschitt,Prop/Lock,Fy.,,,"Colgate, Wis.",womens-rugby,2020
+Kristin Bitter,Flyhalf/Fullback,So.,,,"San Diego, Calif.",womens-rugby,2020
+Lillian Johnson,Forward,So.,,,"Bellevue, Wash.",womens-rugby,2020
+Ava Procter,Flanker/Center,Fy.,,,"Lake Oswego, Ore.",womens-rugby,2020
+Emily Henrich,Center,Jr.,,,"Orchard Park, N.Y.",womens-rugby,2020
+Sophia Haley,Flanker,Jr.,,,"Hopkins, Minn.",womens-rugby,2020
+Sarah Korb,Flanker,Jr.,,,"Hamburg, Germany",womens-rugby,2020
+Lauren Ferridge,Hooker,So.,,,"Bethesda, Md.",womens-rugby,2020
+Carlicia Beam,Prop,So.,,,"Memphis, Tenn.",womens-rugby,2020
+Ale Ada,Scrumhalf,Jr.,,,"Sinajana, Guam",womens-rugby,2020
+Didi Niles,Hooker/Flanker,Sr.,,,"Sherborn, Mass.",womens-rugby,2020
+Lannan Abbott,Flanker/Lock,Jr.,,,"Colorado Springs, Colo.",womens-rugby,2020
+Nicole Ihensekhien,Lock/Number 8,Fy.,,,"Milton, Ontario",womens-rugby,2020
+Bailey Hand,Flyhalf/Fullback,Jr.,,,"Salem, Ore.",womens-rugby,2020
+Abby Kayser,Center/Fullback,Fy.,,,"Milwaukee, Wis.",womens-rugby,2020
+Idia Ihensekhien,Prop,Sr.,,,"Milton, Ontario",womens-rugby,2020
+Lily Waddell,Hooker,Jr.,,,"Bangor, Maine",womens-rugby,2020
+Kiera Jackson,Lock,Jr.,,,"New Rochelle, N.Y.",womens-rugby,2020
+Julia Luo,Wing,So.,,,"San Diego, Calif.",womens-rugby,2020
+Sophie Ragg,Fullback,Jr.,,,"Wilsborough Green, England",womens-rugby,2020
+Seven Sassano,Prop/Lock,Jr.,,,"Decatur, Ill.",womens-rugby,2020
+Sadie Schier,Scrumhalf/Fullback,Fy.,,,"Eatonville, Wash.",womens-rugby,2021
 Anjali Pant,Scrumhalf/Wing,So.,,,"Osceola, Ind.",womens-rugby,2021
 Marin Pennell,Lock/Number 8,5th,,,"Breckenridge, Colo.",womens-rugby,2021
-Grace Player,Center/Wing,5th,,,"Chapman, Maine",womens-rugby,2021
-Ava Procter,Flanker/Center,So.,,,"Lake Oswego, Ore.",womens-rugby,2021
 Julia Luo,Wing,Jr.,,,"San Diego, Calif.",womens-rugby,2021
+Lannan Abbott,Flanker,Sr.,,,"Colorado Springs, Colo.",womens-rugby,2021
+Sarah Korb,Flanker,Sr.,,,"Hamburg, Germany",womens-rugby,2021
 Abby Kayser,Center/Fullback,So.,,,"Milwaukee, Wis.",womens-rugby,2021
-Lauren Ferridge,Hooker,Jr.,,,"Bethesda, Md.",womens-rugby,2021
-Hannah Sheehy,Prop,So.,,,"Kent, England",womens-rugby,2021
-Lily Waddell,Hooker,Sr.,,,"Bangor, Maine",womens-rugby,2021
-Joanne Wang,Wing,Jr.,,,"Taipei, Taiwan",womens-rugby,2021
+Yuri Oh,Flanker,Sr.,,,"Naperville, Ill.",womens-rugby,2021
 Aleemah Williams,Hooker,So.,,,"Charlotte, N.C.",womens-rugby,2021
 Katie Dowty,,,,,,womens-rugby,2021
+Lily Waddell,Hooker,Sr.,,,"Bangor, Maine",womens-rugby,2021
+Joanne Wang,Wing,Jr.,,,"Taipei, Taiwan",womens-rugby,2021
+Ale Ada,Scrumhalf,Sr.,,,"Sinajana, Guam",womens-rugby,2021
 Abbey Savin,Flyhalf,So.,,,"Temecula, Calif.",womens-rugby,2021
-Sadie Schier,Scrumhalf/Fullback,Fy.,,,"Eatonville, Wash.",womens-rugby,2021
 Abigail Schill,Center,Sr.,,,"Shorewood, Wis.",womens-rugby,2021
+Margot Généreux,Wing,5th,,,"Westmount, Quebec",womens-rugby,2021
+Hannah Sheehy,Prop,So.,,,"Kent, England",womens-rugby,2021
+Ava Procter,Flanker/Center,So.,,,"Lake Oswego, Ore.",womens-rugby,2021
+Lauren Ferridge,Hooker,Jr.,,,"Bethesda, Md.",womens-rugby,2021
+Asialeata Meni,Hooker/Center,Fy.,,,"Cypress, Calif.",womens-rugby,2021
+Grace Player,Center/Wing,5th,,,"Chapman, Maine",womens-rugby,2021
+Emily Henrich,Center,Sr.,,,"Orchard Park, N.Y.",womens-rugby,2021
+Kristin Bitter,Flyhalf,Jr.,,,"San Diego, Calif.",womens-rugby,2021
+Cassie Depner,Lock/Number 8,Fy.,,,"Pittsburgh, Pa.",womens-rugby,2021
+Reign Jefferson,Prop,Fy.,,,"Los Alamitos, Calif.",womens-rugby,2021
+Lillian Johnson,Lock/Number 8,Jr.,,,"Bellevue, Wash.",womens-rugby,2021
+Isabella Huschitt,Prop/Lock,So.,,,"Colgate, Wis.",womens-rugby,2021
+Seven Sassano,Prop/Lock,Sr.,,,"Decatur, Ill.",womens-rugby,2021
+Idia Ihensekhien,Prop/Number 8,5th,,,"Milton, Ontario",womens-rugby,2021
+Bailey Hand,Fullback,Sr.,,,"Salem, Ore.",womens-rugby,2021
+Carlicia Beam,Prop,Jr.,,,"Memphis, Tenn.",womens-rugby,2021
+Sophie Ragg,Fullback,Sr.,,,"Wilsborough Green, England",womens-rugby,2021
+Kiera Jackson,Lock,Sr.,,,"New Rochelle, N.Y.",womens-rugby,2021
+Lilly Durbin,Center,5th,,,"Murrieta, Calif.",womens-rugby,2021
+Ariana Ramsey,Wing/Scrumhalf,Sr.,,,"Philadelphia, Pa.",womens-rugby,2021
+Nyah Cordero,Center/Flanker,So.,,,"Meridian, Idaho",womens-rugby,2021
+Sophia Haley,Flanker/Number 8,Sr.,,,"Hopkins, Minn.",womens-rugby,2021
+Josie Harrison,Prop,Fy.,,,"Usk, Wales",womens-rugby,2021
+Allie Amerson,,Fy.,,,"Carlton, Ore.",womens-rugby,2021
+Nicole Ihensekhien,Lock/Number 8,So.,,,"Milton, Ontario",womens-rugby,2021
+Asialeata Meni,Hooker,So.,,,"Cypress, Calif.",womens-rugby,2022
+Jenna Sheldon,Center,Fy.,5' 3'',,"Breckenridge, Colo.",womens-rugby,2022
+Ariana Ramsey,Wing(C),5th,,,"Philadelphia, Pa.",womens-rugby,2022
+Sophie Ragg,Center/Wing(C),5th,,,"Wilsborough Green, England",womens-rugby,2022
+Ava Procter,Center,Jr.,,,"Lake Oswego, Ore.",womens-rugby,2022
+Anjali Pant,Fullback,Jr.,,,"Osceola, Ind.",womens-rugby,2022
+Taylor Sadek,Scrumhalf,Fy.,5' 5'',,"Lakeville, Minn.",womens-rugby,2022
+Vanessa Ortiz-Pallen,Hooker,Fy.,,,"San Leandro, Calif.",womens-rugby,2022
+Abby Kayser,Center/Fullback,Jr.,,,"Milwaukee, Wis.",womens-rugby,2022
+Hannah Sheehy,Flanker,Jr.,,,"Kent, England",womens-rugby,2022
+Kyla Widodo,Scrumhalf/Wing,So.,,,"Jakarta, Indonesia",womens-rugby,2022
+Seven Sassano,Prop,5th,,,"Decatur, Ill.",womens-rugby,2022
+Hannah Maccarone,Wing,Fy.,5' 0'',,"Eagan, Minn.",womens-rugby,2022
+Aleemah Williams,Flanker,Jr.,,,"Charlotte, N.C.",womens-rugby,2022
+Li'ua Tengan,Hooker,So.,,,"Honolulu, Hawaii",womens-rugby,2022
 Nicole Ihensekhien,Lock/Number 8,Jr.,,,"Milton, Ontario",womens-rugby,2022
+Abbey Savin,Flyhalf,Jr.,,,"Temecula, Calif.",womens-rugby,2022
+Allie Amerson,Flanker,So.,,,"Carlton, Ore.",womens-rugby,2022
+Sadie Schier,Scrumhalf/Wing,So.,,,"Eatonville, Wash.",womens-rugby,2022
 Nyah Cordero,Flanker,Jr.,,,"Meridian, Idaho",womens-rugby,2022
-Adrienne Coleman,Lock/Flanker,So.,,,"Locust Valley, N.Y.",womens-rugby,2022
-Kristin Bitter,Flyhalf/Center,Sr.,,,"San Diego, Calif.",womens-rugby,2022
+Sophia Haley,Flanker,5th,,,"Hopkins, Minn.",womens-rugby,2022
+Maura Hough,Lock,Fy.,,,"Wilmette, Ill.",womens-rugby,2022
 Carlicia Beam,Prop,Sr.,,,"Memphis, Tenn.",womens-rugby,2022
 Simone Bautista,Flyhalf/Center,Fy.,5' 5'',,"Cypress, Calif.",womens-rugby,2022
 Cassie Depner,Lock,So.,,,"Pittsburgh, Pa.",womens-rugby,2022
 Jordan Duncan,Lock/Number 8,Fy.,,,"Fallbrook, Calif.",womens-rugby,2022
 Dylan Dunson,Wing,Fy.,5' 5'',,"Franklin, Ga.",womens-rugby,2022
-Maura Hough,Lock,Fy.,,,"Wilmette, Ill.",womens-rugby,2022
 Ella Gates,Prop,Jr.,,,"Brooklyn, N.Y.",womens-rugby,2022
-Sophia Haley,Flanker,5th,,,"Hopkins, Minn.",womens-rugby,2022
-Hann Humphreys,Flanker/Lock,Sr.,5' 9'',,"Chevy Chase, Md.",womens-rugby,2022
-Isabella Huschitt,Lock,Jr.,,,"Colgate, Wis.",womens-rugby,2022
-Lauren Ferridge,Prop/Hooker(C),Sr.,,,"Bethesda, Md.",womens-rugby,2022
-Josie Harrison,Prop/Lock,So.,,,"Usk, Wales",womens-rugby,2022
-Emily Henrich,Center,5th,,,"Orchard Park, N.Y.",womens-rugby,2022
-Allie Amerson,Flanker,So.,,,"Carlton, Ore.",womens-rugby,2022
-Reign Jefferson,Prop,So.,,,"Los Alamitos, Calif.",womens-rugby,2022
-Abby Kayser,Center/Fullback,Jr.,,,"Milwaukee, Wis.",womens-rugby,2022
-Abbey Savin,Flyhalf,Jr.,,,"Temecula, Calif.",womens-rugby,2022
-Asialeata Meni,Hooker,So.,,,"Cypress, Calif.",womens-rugby,2022
-Ariana Ramsey,Wing(C),5th,,,"Philadelphia, Pa.",womens-rugby,2022
-Sophie Ragg,Center/Wing(C),5th,,,"Wilsborough Green, England",womens-rugby,2022
-Ava Procter,Center,Jr.,,,"Lake Oswego, Ore.",womens-rugby,2022
-Anjali Pant,Fullback,Jr.,,,"Osceola, Ind.",womens-rugby,2022
-Vanessa Ortiz-Pallen,Hooker,Fy.,,,"San Leandro, Calif.",womens-rugby,2022
-Taylor Sadek,Scrumhalf,Fy.,5' 5'',,"Lakeville, Minn.",womens-rugby,2022
-Seven Sassano,Prop,5th,,,"Decatur, Ill.",womens-rugby,2022
-Hannah Maccarone,Wing,Fy.,5' 0'',,"Eagan, Minn.",womens-rugby,2022
-Sadie Schier,Scrumhalf/Wing,So.,,,"Eatonville, Wash.",womens-rugby,2022
-Hannah Sheehy,Flanker,Jr.,,,"Kent, England",womens-rugby,2022
-Kyla Widodo,Scrumhalf/Wing,So.,,,"Jakarta, Indonesia",womens-rugby,2022
-Aleemah Williams,Flanker,Jr.,,,"Charlotte, N.C.",womens-rugby,2022
-Katie Dowty,,,,,,womens-rugby,2022
-Jenna Sheldon,Center,Fy.,5' 3'',,"Breckenridge, Colo.",womens-rugby,2022
-Li'ua Tengan,Hooker,So.,,,"Honolulu, Hawaii",womens-rugby,2022
+Kristin Bitter,Flyhalf/Center,Sr.,,,"San Diego, Calif.",womens-rugby,2022
 Katelyn Walker,Wing,Fy.,5' 7'',,"Eagle, Idaho",womens-rugby,2022
-Allie Amerson,Flanker,Jr.,,,"Carlton, Ore.",womens-rugby,2023
-Arabella Cassidy,Center,Fy.,,,"Ramona, Calif.",womens-rugby,2023
+Isabella Huschitt,Lock,Jr.,,,"Colgate, Wis.",womens-rugby,2022
+Josie Harrison,Prop/Lock,So.,,,"Usk, Wales",womens-rugby,2022
+Adrienne Coleman,Lock/Flanker,So.,,,"Locust Valley, N.Y.",womens-rugby,2022
+Katie Dowty,,,,,,womens-rugby,2022
+Hann Humphreys,Flanker/Lock,Sr.,5' 9'',,"Chevy Chase, Md.",womens-rugby,2022
+Lauren Ferridge,Prop/Hooker(C),Sr.,,,"Bethesda, Md.",womens-rugby,2022
+Reign Jefferson,Prop,So.,,,"Los Alamitos, Calif.",womens-rugby,2022
+Emily Henrich,Center,5th,,,"Orchard Park, N.Y.",womens-rugby,2022
 Nyah Cordero,Flanker,Sr.,,,"Meridian, Idaho",womens-rugby,2023
-Cassie Depner,Lock,Jr.,,,"Pittsburgh, Pa.",womens-rugby,2023
-Abby Kayser,Center/Fullback,Sr.,,,"Milwaukee, Wis.",womens-rugby,2023
 Ella Gates,Prop,Sr.,,,"Brooklyn, N.Y.",womens-rugby,2023
-Katie Hansen,Hooker/Flanker,Fy.,,,"West Sacramento, Calif.",womens-rugby,2023
-Jordan Duncan,Lock/Number 8,So.,,,"Fallbrook, Calif.",womens-rugby,2023
-Dylan Dunson,Wing,So.,,,"Franklin, Ga.",womens-rugby,2023
-Hann Humphreys,Flanker/Lock,Sr.,,,"Chevy Chase, Md.",womens-rugby,2023
-Nicole Ihensekhien,Lock/Number 8,Sr.,,,"Milton, Ontario",womens-rugby,2023
-Paola Arredondo Almeida,Wing,Fy.,,,"Summit County, Colo.",womens-rugby,2023
-Maura Hough,Lock,So.,,,"Wilmette, Ill.",womens-rugby,2023
-Simone Bautista,Flyhalf/Center,So.,,,"Cypress, Calif.",womens-rugby,2023
-Isabella Huschitt,Lock,Sr.,,,"Colgate, Wis.",womens-rugby,2023
-AdiLeilah Bulabalavu,Prop,Fy.,,,"Stockton, Calif.",womens-rugby,2023
-Reign Jefferson,Prop,Jr.,,,"Los Alamitos, Calif.",womens-rugby,2023
-Josie Harrison,Prop/Lock,Jr.,,,"Usk, Wales",womens-rugby,2023
-Jordis Lomu,Flyhalf/Fullback,Fy.,,,"Lehi, Utah",womens-rugby,2023
-Hannah Maccarone,Wing,So.,,,"Eagan, Minn.",womens-rugby,2023
-Vanessa Ortiz-Pallen,Hooker,So.,,,"San Leandro, Calif.",womens-rugby,2023
-Anjali Pant,Fullback,Sr.,,,"Osceola, Ind.",womens-rugby,2023
-Hehea Pulotu,Center,Fy.,,,"Laie Malo'o, Hawaii",womens-rugby,2023
-Sadie Schier,Scrumhalf/Wing,Jr.,,,"Eatonville, Wash.",womens-rugby,2023
-Cindy Taulava,Lock/Number 8,Fy.,,,"San Leandro, Calif.",womens-rugby,2023
-Li'ua Tengan,Hooker,Jr.,,,"Honolulu, Hawaii",womens-rugby,2023
+Abby Kayser,Center/Fullback,Sr.,,,"Milwaukee, Wis.",womens-rugby,2023
 Taylor Sadek,Scrumhalf,So.,,,"Lakeville, Minn.",womens-rugby,2023
+Katie Hansen,Hooker/Flanker,Fy.,,,"West Sacramento, Calif.",womens-rugby,2023
+Arabella Cassidy,Center,Fy.,,,"Ramona, Calif.",womens-rugby,2023
 Catriona Moreno,,Fy.,,,"Springfield, Mass.",womens-rugby,2023
-Kyla Widodo,Scrumhalf/Wing,Jr.,,,"Jakarta, Indonesia",womens-rugby,2023
-Joanie Wood,,Fy.,,,,womens-rugby,2023
-Abbey Savin,Flyhalf,Sr.,,,"Temecula, Calif.",womens-rugby,2023
+Li'ua Tengan,Hooker,Jr.,,,"Honolulu, Hawaii",womens-rugby,2023
 Katelyn Walker,Wing,So.,,,"Eagle, Idaho",womens-rugby,2023
+Kyla Widodo,Scrumhalf/Wing,Jr.,,,"Jakarta, Indonesia",womens-rugby,2023
+Abbey Savin,Flyhalf,Sr.,,,"Temecula, Calif.",womens-rugby,2023
 Asialeata Meni,Hooker,Jr.,,,"Cypress, Calif.",womens-rugby,2023
 Aleemah Williams,Flanker,Sr.,,,"Charlotte, N.C.",womens-rugby,2023
 Kellie Miller,,Fy.,,,"Nome, Alaska",womens-rugby,2023
 Katie Dowty,,,,,,womens-rugby,2023
-Camryn Cook,Prop,Fy.,,,"Chicago, Ill.",womens-rugby,2024
-Cassie Depner,Lock,Sr.,,,"Pittsburgh, Pa.",womens-rugby,2024
-Jordan Duncan,Lock/Number 8,Jr.,,,"Fallbrook, Calif.",womens-rugby,2024
-Jordynn LeBeau,Prop/8,Fy.,,,"Eagle, Idaho",womens-rugby,2024
-Caroline Dolton,Center,Fy.,,,"Trenton, Ont.",womens-rugby,2024
+Cindy Taulava,Lock/Number 8,Fy.,,,"San Leandro, Calif.",womens-rugby,2023
+Cassie Depner,Lock,Jr.,,,"Pittsburgh, Pa.",womens-rugby,2023
+Allie Amerson,Flanker,Jr.,,,"Carlton, Ore.",womens-rugby,2023
+Vanessa Ortiz-Pallen,Hooker,So.,,,"San Leandro, Calif.",womens-rugby,2023
+Hehea Pulotu,Center,Fy.,,,"Laie Malo'o, Hawaii",womens-rugby,2023
+Jordis Lomu,Flyhalf/Fullback,Fy.,,,"Lehi, Utah",womens-rugby,2023
+Hannah Maccarone,Wing,So.,,,"Eagan, Minn.",womens-rugby,2023
+Joanie Wood,,Fy.,,,,womens-rugby,2023
+Anjali Pant,Fullback,Sr.,,,"Osceola, Ind.",womens-rugby,2023
+Josie Harrison,Prop/Lock,Jr.,,,"Usk, Wales",womens-rugby,2023
+Sadie Schier,Scrumhalf/Wing,Jr.,,,"Eatonville, Wash.",womens-rugby,2023
+Hann Humphreys,Flanker/Lock,Sr.,,,"Chevy Chase, Md.",womens-rugby,2023
+Jordan Duncan,Lock/Number 8,So.,,,"Fallbrook, Calif.",womens-rugby,2023
+Simone Bautista,Flyhalf/Center,So.,,,"Cypress, Calif.",womens-rugby,2023
+AdiLeilah Bulabalavu,Prop,Fy.,,,"Stockton, Calif.",womens-rugby,2023
+Isabella Huschitt,Lock,Sr.,,,"Colgate, Wis.",womens-rugby,2023
+Maura Hough,Lock,So.,,,"Wilmette, Ill.",womens-rugby,2023
+Paola Arredondo Almeida,Wing,Fy.,,,"Summit County, Colo.",womens-rugby,2023
+Nicole Ihensekhien,Lock/Number 8,Sr.,,,"Milton, Ontario",womens-rugby,2023
+Reign Jefferson,Prop,Jr.,,,"Los Alamitos, Calif.",womens-rugby,2023
+Dylan Dunson,Wing,So.,,,"Franklin, Ga.",womens-rugby,2023
+Sadie Schier,Scrumhalf/Wing,Sr.,,,"Eatonville, Wash.",womens-rugby,2024
+Kyla Widodo,Scrumhalf/Wing,Sr.,,,"Jakarta, Indonesia",womens-rugby,2024
+Allie Amerson,Flanker,Sr.,,,"Carlton, Ore.",womens-rugby,2024
+Abbey Savin,Flyhalf,Sr.,,,"Temecula, Calif.",womens-rugby,2024
+Paola Arredondo Almeida,Wing,So.,,,"Summit County, Colo.",womens-rugby,2024
+Asialeata Meni,Hooker,Sr.,,,"Cypress, Calif.",womens-rugby,2024
+Sadie Williams,Lock,Fy.,,,"Vancouver Island, B.C.",womens-rugby,2024
+Jenna Sheldon,Flanker,Jr.,,,"Breckenridge, Colo.",womens-rugby,2024
 Katie Hansen,Hooker/Flanker,So.,,,"West Sacramento, Calif.",womens-rugby,2024
+Cindy Taulava,Lock/Number 8,So.,,,"San Leandro, Calif.",womens-rugby,2024
+Taylor Sadek,Scrumhalf,Jr.,,,"Lakeville, Minn.",womens-rugby,2024
 Katija Crawford,Lock/8,Fy.,,,"Hauula, Hawaii",womens-rugby,2024
-Annie Henrich,Center,Fy.,,,"Orchard Park, N.Y.",womens-rugby,2024
-Kellie Miller,Flanker,So.,,,"Nome, Alaska",womens-rugby,2024
+Aleemah Williams,Flanker/Wing,Sr.,,,"Charlotte, N.C.",womens-rugby,2024
+Caroline Dolton,Center,Fy.,,,"Trenton, Ont.",womens-rugby,2024
+Vanessa Ortiz-Pallen,Hooker,Jr.,,,"San Leandro, Calif.",womens-rugby,2024
 Josie Harrison,Prop/Lock,Sr.,,,"Usk, Wales",womens-rugby,2024
 Catriona Moreno,Wing,So.,,,"Springfield, Mass.",womens-rugby,2024
-Maura Hough,Lock,Jr.,,,"Wilmette, Ill.",womens-rugby,2024
-Jordis Lomu,Flyhalf/Fullback,So.,,,"Lehi, Utah",womens-rugby,2024
+Cassie Depner,Lock,Sr.,,,"Pittsburgh, Pa.",womens-rugby,2024
+Annie Henrich,Center,Fy.,,,"Orchard Park, N.Y.",womens-rugby,2024
+Jordynn LeBeau,Prop/8,Fy.,,,"Eagle, Idaho",womens-rugby,2024
 Hehea Pulotu,Center,So.,,,"Laie Malo'o, Hawaii",womens-rugby,2024
-Hannah Maccarone,Wing,Jr.,,,"Eagan, Minn.",womens-rugby,2024
 AdiLeilah Bulabalavu,Prop,So.,,,"Stockton, Calif.",womens-rugby,2024
-Taylor Sadek,Scrumhalf,Jr.,,,"Lakeville, Minn.",womens-rugby,2024
+Maura Hough,Lock,Jr.,,,"Wilmette, Ill.",womens-rugby,2024
+Jordan Duncan,Lock/Number 8,Jr.,,,"Fallbrook, Calif.",womens-rugby,2024
 Sierra Santiago,Scrumhalf/Wing,Fy.,,,"Wake Forest, N.C.",womens-rugby,2024
-Paola Arredondo Almeida,Wing,So.,,,"Summit County, Colo.",womens-rugby,2024
-Abbey Savin,Flyhalf,Sr.,,,"Temecula, Calif.",womens-rugby,2024
-Jenna Sheldon,Flanker,Jr.,,,"Breckenridge, Colo.",womens-rugby,2024
-Kyla Widodo,Scrumhalf/Wing,Sr.,,,"Jakarta, Indonesia",womens-rugby,2024
-Katie Dowty,,,,,,womens-rugby,2024
-Emily Skaff,,Fy.,,,"Hopkinton, Mass.",womens-rugby,2024
+Hannah Maccarone,Wing,Jr.,,,"Eagan, Minn.",womens-rugby,2024
+Camryn Cook,Prop,Fy.,,,"Chicago, Ill.",womens-rugby,2024
 Vasiti Turagavou,Center,Fy.,,,"Provo, Utah",womens-rugby,2024
-Sadie Schier,Scrumhalf/Wing,Sr.,,,"Eatonville, Wash.",womens-rugby,2024
-Cindy Taulava,Lock/Number 8,So.,,,"San Leandro, Calif.",womens-rugby,2024
-Asialeata Meni,Hooker,Sr.,,,"Cypress, Calif.",womens-rugby,2024
+Kellie Miller,Flanker,So.,,,"Nome, Alaska",womens-rugby,2024
+Katie Dowty,,,,,,womens-rugby,2024
+Jordis Lomu,Flyhalf/Fullback,So.,,,"Lehi, Utah",womens-rugby,2024
+Emily Skaff,,Fy.,,,"Hopkinton, Mass.",womens-rugby,2024
 Katelyn Walker,Wing,Jr.,,,"Eagle, Idaho",womens-rugby,2024
-Aleemah Williams,Flanker/Wing,Sr.,,,"Charlotte, N.C.",womens-rugby,2024
-Allie Amerson,Flanker,Sr.,,,"Carlton, Ore.",womens-rugby,2024
-Sadie Williams,Lock,Fy.,,,"Vancouver Island, B.C.",womens-rugby,2024
-Vanessa Ortiz-Pallen,Hooker,Jr.,,,"San Leandro, Calif.",womens-rugby,2024
-Katie Hansen,Hooker/Flanker,Jr.,,,"West Sacramento, Calif.",womens-rugby,2025
-Arielle Fotso,Center/Flyhalf,Fy.,5' 6'',,"Carmel, Ind.",womens-rugby,2025
+Vanessa Ortiz-Pallen,Hooker,Sr.,,,"San Leandro, Calif.",womens-rugby,2025
 Caroline Dolton,Center,So.,,,"Trenton, Ont.",womens-rugby,2025
-Paola Arredondo Almeida,Wing,Jr.,,,"Summit County, Colo.",womens-rugby,2025
-AdiLeilah Bulabalavu,Prop,Jr.,,,"Stockton, Calif.",womens-rugby,2025
-Katija Crawford,Lock/8,So.,,,"Hauula, Hawaii",womens-rugby,2025
-Annie Henrich,Center,So.,,,"Orchard Park, N.Y.",womens-rugby,2025
-Jordan Duncan,Lock/Number 8,Sr.,,,"Fallbrook, Calif.",womens-rugby,2025
+Katie Hansen,Hooker/Flanker,Jr.,,,"West Sacramento, Calif.",womens-rugby,2025
 Kiona Hill,Center,Fy.,5' 5'',,"Renton, Wash.",womens-rugby,2025
-Maura Hough,Lock,Sr.,,,"Wilmette, Ill.",womens-rugby,2025
-Eleanor Jacoby,,Jr.,,,"Amherst, Mass.",womens-rugby,2025
-Abygail Lambert,Scrumhalf/Back,Fy.,5' 3'',,"Somersworth, N.H.",womens-rugby,2025
 Camryn Cook,Prop,So.,,,"Chicago, Ill.",womens-rugby,2025
-Lauren Cheng,Outside Back,Fy.,5' 4'',,"Toronto, Ont.",womens-rugby,2025
-Minna Bulloch,,So.,,,"Ho Chi Minh City, Vietnam",womens-rugby,2025
-Marley Larkin,,Fy.,5' 8'',,"Salt Lake City, Utah",womens-rugby,2025
-Jordynn LeBeau,Prop/8/Hooker,So.,,,"Eagle, Idaho",womens-rugby,2025
-Jordis Lomu,Flyhalf/Fullback,Jr.,,,"Lehi, Utah",womens-rugby,2025
-Olivia Lyman,Flanker/Lock,Fy.,5' 10'',,"Frisco, Colo.",womens-rugby,2025
+Annie Henrich,Center,So.,,,"Orchard Park, N.Y.",womens-rugby,2025
 Cindy Taulava,Lock/Number 8,Jr.,,,"San Leandro, Calif.",womens-rugby,2025
-Katie Dowty,,,,,,womens-rugby,2025
 Jenna Sheldon,Flanker,Sr.,,,"Breckenridge, Colo.",womens-rugby,2025
 Reece Moody,Prop,Fy.,5' 7'',,"Meridan, Idaho",womens-rugby,2025
 Sierra Santiago,Scrumhalf/Wing,So.,,,"Wake Forest, N.C.",womens-rugby,2025
 Vasiti Turagavou,Center,So.,,,"Provo, Utah",womens-rugby,2025
-Vanessa Ortiz-Pallen,Hooker,Sr.,,,"San Leandro, Calif.",womens-rugby,2025
-Frances Wang,,So.,,,"Beijing, China",womens-rugby,2025
-Morgan Whelan,Lock,Fy.,5' 10'',,"West Chester, Pa.",womens-rugby,2025
+Lauren Cheng,Outside Back,Fy.,5' 4'',,"Toronto, Ont.",womens-rugby,2025
+Eleanor Jacoby,,Jr.,,,"Amherst, Mass.",womens-rugby,2025
+Abygail Lambert,Scrumhalf/Back,Fy.,5' 3'',,"Somersworth, N.H.",womens-rugby,2025
+Minna Bulloch,,So.,,,"Ho Chi Minh City, Vietnam",womens-rugby,2025
+Maura Hough,Lock,Sr.,,,"Wilmette, Ill.",womens-rugby,2025
+Olivia Lyman,Flanker/Lock,Fy.,5' 10'',,"Frisco, Colo.",womens-rugby,2025
+Katija Crawford,Lock/8,So.,,,"Hauula, Hawaii",womens-rugby,2025
+Jordis Lomu,Flyhalf/Fullback,Jr.,,,"Lehi, Utah",womens-rugby,2025
 Sadie Williams,Lock,So.,,,"Vancouver Island, B.C.",womens-rugby,2025
-Emily Skaff,,So.,,,"Hopkinton, Mass.",womens-rugby,2025
-Taylor Sadek,Scrumhalf,Sr.,,,"Lakeville, Minn.",womens-rugby,2025
-Hehea Pulotu,Center,Jr.,,,"Laie Malo'o, Hawaii",womens-rugby,2025
+Jordynn LeBeau,Prop/8/Hooker,So.,,,"Eagle, Idaho",womens-rugby,2025
+Morgan Whelan,Lock,Fy.,5' 10'',,"West Chester, Pa.",womens-rugby,2025
+Marley Larkin,,Fy.,5' 8'',,"Salt Lake City, Utah",womens-rugby,2025
+Frances Wang,,So.,,,"Beijing, China",womens-rugby,2025
 Katelyn Walker,Wing/Back Row,Sr.,,,"Eagle, Idaho",womens-rugby,2025
+AdiLeilah Bulabalavu,Prop,Jr.,,,"Stockton, Calif.",womens-rugby,2025
+Taylor Sadek,Scrumhalf,Sr.,,,"Lakeville, Minn.",womens-rugby,2025
+Emily Skaff,,So.,,,"Hopkinton, Mass.",womens-rugby,2025
+Katie Dowty,,,,,,womens-rugby,2025
+Jordan Duncan,Lock/Number 8,Sr.,,,"Fallbrook, Calif.",womens-rugby,2025
+Paola Arredondo Almeida,Wing,Jr.,,,"Summit County, Colo.",womens-rugby,2025
+Arielle Fotso,Center/Flyhalf,Fy.,5' 6'',,"Carmel, Ind.",womens-rugby,2025
+Hehea Pulotu,Center,Jr.,,,"Laie Malo'o, Hawaii",womens-rugby,2025
 Vanessa Ortiz-Pallen,Hooker,Sr.,,,"San Leandro, Calif.",womens-rugby,2026
 Olivia Lyman,Flanker/Lock,So.,5' 10'',,"Frisco, Colo.",womens-rugby,2026
 Sereana Matebalavu,Center/Flyhalf,Fy.,5' 6'',,"London, England",womens-rugby,2026

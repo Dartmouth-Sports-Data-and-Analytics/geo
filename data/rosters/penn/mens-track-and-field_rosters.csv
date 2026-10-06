@@ -1,270 +1,541 @@
 name,position,class,height,weight,hometown,sport,year
+Joseph Jordan,,Fr.,,,"Old Tappan, N.J.",mens-track-and-field,2016
+Clark Mangini,,Sr.,,,"Lincroft, N.J.",mens-track-and-field,2016
+Ayman Mayberry,,Jr.,,,"Chula Vista, Calif.",mens-track-and-field,2016
+Nick McGreivy,,Sr.,,,"Bethesda, Md.",mens-track-and-field,2016
+Kevin Monogue,,So.,,,"Burke, Va.",mens-track-and-field,2016
+Mike Monroe,,Jr.,,,"Manhattan, Ill.",mens-track-and-field,2016
+Tommy Mulroy,,Jr.,,,"Midlothian, Va.",mens-track-and-field,2016
+Joe Novak,,So.,,,"Donsman, Wis.",mens-track-and-field,2016
+Kyle Oden,,Fr.,,,"Los Angeles, Calif.",mens-track-and-field,2016
+Calvary Rogers,,So.,,,"Rochester, N.Y.",mens-track-and-field,2016
+Anthony Okolo,,Fr.,,,"Union, N.J.",mens-track-and-field,2016
+Sam Webb,,So.,,,"Yardley, Pa.",mens-track-and-field,2016
+Chris Luciano,,Jr.,,,"Mountain Lakes, N.J.",mens-track-and-field,2016
+Ian Kirk,,Jr.,,,"Farmingdale, N.J.",mens-track-and-field,2016
+Mitchell Poynter,,Fr.,,,"Tipp City, Ohio",mens-track-and-field,2016
+Sam Kaplan,,Sr.,,,"Randolph, N.J.",mens-track-and-field,2016
+Sean Ryan,,Jr.,,,"Babylon, N.Y.",mens-track-and-field,2016
+Tim Schanstra,,Jr.,,,"Stockholm, N.J.",mens-track-and-field,2016
+Brendan Shearn,,Sr.,,,"Asland, Pa.",mens-track-and-field,2016
+Nick Tuck,,Sr.,,,"Burke, Va.",mens-track-and-field,2016
+Luke Knouse,,Jr.,,,"Elliottsburg, Pa.",mens-track-and-field,2016
+Peter Whiteneck,,Sr.,,,"Berkeley Lake, Ga.",mens-track-and-field,2016
+Ross Wilson,,Jr.,,,"Wycombe, Pa.",mens-track-and-field,2016
+Jeff Wiseman,,Jr.,,,"Holland, Pa.",mens-track-and-field,2016
+Lyle Wistar,,Sr.,,,"Philadelphia, Pa.",mens-track-and-field,2016
+Robert Klopf,,So.,,,"Oradell, N.J.",mens-track-and-field,2016
+James Leddy,,Jr.,,,"East Islip, N.Y.",mens-track-and-field,2016
+Noah Kennedy-White,,Sr.,,,"Jericho, N.Y.",mens-track-and-field,2016
+Evan Lee,,Fr.,,,"Indianapolis, Ind.",mens-track-and-field,2016
+Connor Borkert,,So.,,,"Philadelphia, Pa.",mens-track-and-field,2016
+Josh Chazin,,Fr.,,,"Cherry Hill, N.J.",mens-track-and-field,2016
+Thomas Connelly,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2016
+Kurt Convey,,So.,,,"Miami, Fla.",mens-track-and-field,2016
+Colin Daly,,Fr.,,,"Oradell, N.J.",mens-track-and-field,2016
+Will Daly,,Fr.,,,"Oradell, N.J.",mens-track-and-field,2016
+Wyatt David,,Jr.,,,"Bozeman, Mont.",mens-track-and-field,2016
+Louis Davis,,Fr.,,,"Kingston, Jamaica",mens-track-and-field,2016
+William Duchow,,So.,,,"Pewakee, Wis.",mens-track-and-field,2016
+Nathan Fisher,,Fr.,,,"Houston, Texas",mens-track-and-field,2016
+Elias Graca,,So.,,,"Cheswick, Pa.",mens-track-and-field,2016
+Peter Chan,,Fr.,,,"Morristown, N.J.",mens-track-and-field,2016
+Ethan Chen,,Fr.,,,"Camarillo, Calif.",mens-track-and-field,2016
+Kameron Hypolite,,Fr.,,,"Pearland, Texas",mens-track-and-field,2016
+Sean Clarke,,Fr.,,,"Longwood, Fla.",mens-track-and-field,2016
+William Bishop,,Sr.,,,"New Rochelle, N.Y.",mens-track-and-field,2016
+Isaiah Gaines,,Fr.,,,"Findley, Ohio",mens-track-and-field,2016
+Andrew Diederich,,Sr.,,,"Salina, Kan.",mens-track-and-field,2016
+Aaron Groff,,Fr.,,,"Cherry Hill, N.J.",mens-track-and-field,2016
+Andrew Hally,,Fr.,,,"Wilmington, Del.",mens-track-and-field,2016
+Patrick Hally,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2016
+Chris Hatler,,Sr.,,,"Sparta, N.J.",mens-track-and-field,2016
+Mike Benz,,Jr.,,,"Chester, N.J.",mens-track-and-field,2016
+Xavier Jackson,,Fr.,,,"McKinney, Texas",mens-track-and-field,2016
+Titus Jeffries,,Fr.,,,"Chantilly, Va.",mens-track-and-field,2016
+Lance Yassay,,So.,,,"Livonia, Mich.",mens-track-and-field,2016
+James Buser,,Jr.,,,"Mahwah, N.J.",mens-track-and-field,2016
+Paul Ehmann,,So.,,,"Mendham, N.J.",mens-track-and-field,2016
+Marvin Morgan,,Fr.,,,"Neptune, N.J.",mens-track-and-field,2017
+Sean Ryan,,Sr.,,,"Babylon, N.Y.",mens-track-and-field,2017
+Chris Luciano,,Sr.,,,"Mountain Lakes, N.J.",mens-track-and-field,2017
+Colin Daly,,So.,,,"Oradell, N.J.",mens-track-and-field,2017
+Will Daly,,So.,,,"Oradell, N.J.",mens-track-and-field,2017
+Kevin Monogue,,Jr.,,,"Burke, Va.",mens-track-and-field,2017
+Kyle Oden,,So.,,,"Los Angeles, Calif.",mens-track-and-field,2017
+Cristian Constantin,,Fr.,,,"Constanta, Romania",mens-track-and-field,2017
+Tommy Mulroy,,Sr.,,,"Midlothian, Va.",mens-track-and-field,2017
+Sam Webb,,Jr.,,,"Yardley, Pa.",mens-track-and-field,2017
+Ayman Mayberry,,Sr.,,,"Chula Vista, Calif.",mens-track-and-field,2017
+Alex Sislo,,Fr.,,,"Wyndmoor, Pa.",mens-track-and-field,2017
+Anthony Russo,,Fr.,,,"Colts Neck, N.J.",mens-track-and-field,2017
+Mitchell Poynter,,So.,,,"Tipp City, Ohio",mens-track-and-field,2017
+Calvary Rogers,,Jr.,,,"Rochester, N.Y.",mens-track-and-field,2017
+Lance Yassay,,Jr.,,,"Livonia, Mich.",mens-track-and-field,2017
+Tim Schanstra,,Sr.,,,"Stockholm, N.J.",mens-track-and-field,2017
+Alex Roth,,Fr.,,,"Princeton, N.J.",mens-track-and-field,2017
+Mike Monroe,,Sr.,,,"Manhattan, Ill.",mens-track-and-field,2017
+Anthony Okolo,,So.,,,"Union, N.J.",mens-track-and-field,2017
+Ross Wilson,,Sr.,,,"Wycombe, Pa.",mens-track-and-field,2017
+Jeff Wiseman,,Sr.,,,"Holland, Pa.",mens-track-and-field,2017
+Ajay Sarathy,,Fr.,,,"Skillman, N.J.",mens-track-and-field,2017
+Demetri Whitsett,,Fr.,,,"Denver, Pa.",mens-track-and-field,2017
+James Mirfield,,Fr.,,,"Staten Island, N.Y.",mens-track-and-field,2017
+Ryan Renken,,Fr.,,,"Claremont, Calif.",mens-track-and-field,2017
+Luke Knouse,,Sr.,,,"Elliottsburg, Pa.",mens-track-and-field,2017
+Andrew Hally,,So.,,,"Wilmington, Del.",mens-track-and-field,2017
+Ian Kirk,,Sr.,,,"Farmingdale, N.J.",mens-track-and-field,2017
+Daniel Cohen,,Fr.,,,"Solon, Ohio",mens-track-and-field,2017
+Jake Kubiatowicz,,Fr.,,,"North St. Paul, Minn.",mens-track-and-field,2017
+Mike Benz,,Sr.,,,"Chester, N.J.",mens-track-and-field,2017
+Joe Novak,,Jr.,,,"Donsman, Wis.",mens-track-and-field,2017
+Campbell Parker,,Fr.,,,"Greencastle, Pa.",mens-track-and-field,2017
+Ethan Chen,,So.,,,"Camarillo, Calif.",mens-track-and-field,2017
+Robert Klopf,,Jr.,,,"Oradell, N.J.",mens-track-and-field,2017
+Evan Lee,,So.,,,"Indianapolis, Ind.",mens-track-and-field,2017
+Thomas Connelly,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2017
+Patrick Hally,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2017
+James Buser,,Sr.,,,"Mahwah, N.J.",mens-track-and-field,2017
+Nathan Fisher,,So.,,,"Houston, Texas",mens-track-and-field,2017
+Isaiah Gaines,,So.,,,"Findley, Ohio",mens-track-and-field,2017
+Ryan Bender,,Fr.,,,"Phoenix, Ariz.",mens-track-and-field,2017
+William Duchow,,Jr.,,,"Pewakee, Wis.",mens-track-and-field,2017
+Wyatt David,,Sr.,,,"Bozeman, Mont.",mens-track-and-field,2017
+Zakeer Ahmad,,Fr.,,,"Westport, Conn.",mens-track-and-field,2017
+Elias Graca,,Jr.,,,"Cheswick, Pa.",mens-track-and-field,2017
+Titus Jeffries,,So.,,,"Chantilly, Va.",mens-track-and-field,2017
+Chudi Ikpeazu,,Fr.,,,"Parkland, Fla.",mens-track-and-field,2017
+Noah Carey,,Fr.,,,"Guilderland, N.Y.",mens-track-and-field,2017
+Sean Clarke,,So.,,,"Longwood, Fla.",mens-track-and-field,2017
+Paul Ehmann,,Jr.,,,"Mendham, N.J.",mens-track-and-field,2017
+Aaron Groff,,So.,,,"Cherry Hill, N.J.",mens-track-and-field,2017
+Eric Kennedy,,Fr.,,,"Vandergrift, Pa.",mens-track-and-field,2017
+Kurt Convey,,Jr.,,,"Miami, Fla.",mens-track-and-field,2017
+Ryan Bender,,So.,,,"Phoenix, Ariz.",mens-track-and-field,2018
+William Hare,,Fr.,,,"Princeton, N.J.",mens-track-and-field,2018
+Andrew Hally,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2018
+Aaron Groff,,Jr.,,,"Cherry Hill, N.J.",mens-track-and-field,2018
+Elias Graca,,Sr.,,,"Cheswick, Pa.",mens-track-and-field,2018
+Mason Gatewood,,Fr.,,,"South Huntington, N.Y.",mens-track-and-field,2018
+Ethan Chen,,Jr.,,,"Camarillo, Calif.",mens-track-and-field,2018
+Daniel Cohen,,So.,,,"Solon, Ohio",mens-track-and-field,2018
+Tim Dolan,,Fr.,,,"Ewing, N.J.",mens-track-and-field,2018
+William Duchow,,Sr.,,,"Pewakee, Wis.",mens-track-and-field,2018
+Will Daly,,Jr.,,,"Oradell, N.J.",mens-track-and-field,2018
+Robert Klopf,,Sr.,,,"Oradell, N.J.",mens-track-and-field,2018
+Sean Clarke,,Jr.,,,"Longwood, Fla.",mens-track-and-field,2018
+Enoch Cheung,,Fr.,,,"Cary, N.C.",mens-track-and-field,2018
+Noah Carey,,So.,,,"Guilderland, N.Y.",mens-track-and-field,2018
+Chudi Ikpeazu,,So.,,,"Parkland, Fla.",mens-track-and-field,2018
+Colin Daly,,Jr.,,,"Oradell, N.J.",mens-track-and-field,2018
+Justin Cornetta,,Fr.,,,"Flemington, N.J.",mens-track-and-field,2018
+Jake Kubiatowicz,,So.,,,"North St. Paul, Minn.",mens-track-and-field,2018
+Kurt Convey,,Sr.,,,"Miami, Fla.",mens-track-and-field,2018
+Mitchell Poynter,,Jr.,,,"Tipp City, Ohio",mens-track-and-field,2018
+Cristian Constantin,,So.,,,"Constanta, Romania",mens-track-and-field,2018
+Ryan Renken,,So.,,,"Claremont, Calif.",mens-track-and-field,2018
+Calvary Rogers,,Sr.,,,"Rochester, N.Y.",mens-track-and-field,2018
+Christopher Romero,,Fr.,,,"Glen Gardner, N.J.",mens-track-and-field,2018
+Tyler Herrick,,Jr.,,,"Hutto, Texas.",mens-track-and-field,2018
+Jared Elters,,Fr.,,,"Coatesville, Pa.",mens-track-and-field,2018
+Joe Novak,,Sr.,,,"Donsman, Wis.",mens-track-and-field,2018
+Demetri Whitsett,,So.,,,"Denver, Pa.",mens-track-and-field,2018
+Weston Wendt,,Fr.,,,"Carl Junction, Mo.",mens-track-and-field,2018
+Sam Webb,,Sr.,,,"Yardley, Pa.",mens-track-and-field,2018
+Ray Sellaro,,Fr.,,,"Annandale, N.J.",mens-track-and-field,2018
+Anthony Russo,,So.,,,"Colts Neck, N.J.",mens-track-and-field,2018
+Evan Lee,,Jr.,,,"Indianapolis, Ind.",mens-track-and-field,2018
+Alex Roth,,So.,,,"Princeton, N.J.",mens-track-and-field,2018
+Matias Pellegrino,,Fr.,,,"Deniville, N.J.",mens-track-and-field,2018
+Sam Woodhouse,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2018
+Anthony Okolo,,Jr.,,,"Union, N.J.",mens-track-and-field,2018
+Lance Yassay,,Sr.,,,"Livonia, Mich.",mens-track-and-field,2018
+Nathan Fisher,,Jr.,,,"Houston, Texas",mens-track-and-field,2018
+Kevin Monogue,,Sr.,,,"Burke, Va.",mens-track-and-field,2018
+Payton Morris,,Fr.,,,"Enola, Pa.",mens-track-and-field,2018
+Kyle Oden,,Jr.,,,"Los Angeles, Calif.",mens-track-and-field,2018
+Marvin Morgan,,So.,,,"Neptune, N.J.",mens-track-and-field,2018
+Campbell Parker,,So.,,,"Greencastle, Pa.",mens-track-and-field,2018
+Vince Oliver,,Fr.,,,"Weirton, WVa.",mens-track-and-field,2018
+James Lee,,Fr.,,,"Longmont, Colo.",mens-track-and-field,2018
+Cameron Landis,,Fr.,,,"Madison, Ohio",mens-track-and-field,2018
+Marc Minichello,,Fr.,,,"Exeter, Pa.",mens-track-and-field,2018
+Torstein Eliassen,,Fr.,,,"Moss, Norway",mens-track-and-field,2018
+James Mirfield,,So.,,,"Staten Island, N.Y.",mens-track-and-field,2018
+James Lee,,So.,,,"Longmont, Colo.",mens-track-and-field,2019
+Marc Minichello,,So.,,,"Exeter, Pa.",mens-track-and-field,2019
+Anthony Okolo,,Sr.,,,"Union, N.J.",mens-track-and-field,2019
+Evan Lee,,Sr.,,,"Indianapolis, Ind.",mens-track-and-field,2019
+Adam Yang,,Fr.,,,"Acton, Mass.",mens-track-and-field,2019
+Michael Keehan,,Fr.,,,"Wilmington, Del.",mens-track-and-field,2019
+Weston Wendt,,So.,,,"Carl Junction, Mo.",mens-track-and-field,2019
+Antaures Jackson,,Fr.,,,"McDonough, Ga.",mens-track-and-field,2019
+Vince Oliver,,So.,,,"Weirton, WVa.",mens-track-and-field,2019
+Marvin Morgan,,Jr.,,,"Neptune, N.J.",mens-track-and-field,2019
+Chudi Ikpeazu,,Jr.,,,"Parkland, Fla.",mens-track-and-field,2019
+Kyle Oden,,Sr.,,,"Los Angeles, Calif.",mens-track-and-field,2019
+James Mirfield,,Jr.,,,"Staten Island, N.Y.",mens-track-and-field,2019
+Jake Kubiatowicz,,Jr.,,,"North St. Paul, Minn.",mens-track-and-field,2019
+Caleb Johnson,,Fr.,,,"Upper Moreland, Pa.",mens-track-and-field,2019
+Anthony Russo,,Jr.,,,"Colts Neck, N.J.",mens-track-and-field,2019
+Anton Idhammar,,Fr.,,,"Cary, N.C.",mens-track-and-field,2019
+Mitchell Poynter,,Sr.,,,"Tipp City, Ohio",mens-track-and-field,2019
+Payton Morris,,So.,,,"Enola, Pa.",mens-track-and-field,2019
+Alex Roth,,Jr.,,,"Princeton, N.J.",mens-track-and-field,2019
+Demetri Whitsett,,Jr.,,,"Denver, Pa.",mens-track-and-field,2019
+Robbie Ruppel,,Fr.,,,"Alpharetta, Ga.",mens-track-and-field,2019
+Campbell Parker,,Jr.,,,"Greencastle, Pa.",mens-track-and-field,2019
+Alex Ruhl,,Fr.,,,"Ridgewood, N.J.",mens-track-and-field,2019
+Matias Pellegrino,,So.,,,"Deniville, N.J.",mens-track-and-field,2019
+Cameron Landis,,So.,,,"Madison, Ohio",mens-track-and-field,2019
+Tyler Herrick,,Sr.,,,"Hutto, Texas.",mens-track-and-field,2019
+Ryan Renken,,Jr.,,,"Claremont, Calif.",mens-track-and-field,2019
+William Hare,,So.,,,"Princeton, N.J.",mens-track-and-field,2019
+Tim Dolan,,So.,,,"Ewing, N.J.",mens-track-and-field,2019
+Masaki Wada-Law,,Fr.,,,"Los Gatos, Calif.",mens-track-and-field,2019
+Nathan Fisher,,Sr.,,,"Houston, Texas",mens-track-and-field,2019
+Mark Anselmi,,Fr.,,,"Red Bank, N.J.",mens-track-and-field,2019
+Andrew Colbert,,Fr.,,,"Freehold, N.J.",mens-track-and-field,2019
+Sean Banko,,Fr.,,,"Wilmington, Del.",mens-track-and-field,2019
+Daniel Cohen,,Jr.,,,"Solon, Ohio",mens-track-and-field,2019
+Josh Bridges,,Fr.,,,,mens-track-and-field,2019
+Justin Cornetta,,So.,,,"Flemington, N.J.",mens-track-and-field,2019
+Enoch Cheung,,So.,,,"Cary, N.C.",mens-track-and-field,2019
+Noah Carey,,Jr.,,,"Guilderland, N.Y.",mens-track-and-field,2019
+Jared Cooper,,Fr.,,,"Mountain Lakes, N.J.",mens-track-and-field,2019
+Ray Sellaro,,So.,,,"Annandale, N.J.",mens-track-and-field,2019
+Olatide Abinusawa,,Fr.,,,"Horsham, Pa.",mens-track-and-field,2019
+Ryan Bender,,Jr.,,,"Phoenix, Ariz.",mens-track-and-field,2019
+Anthony Argyropoulos,,Fr.,,,"Ontario, Canada",mens-track-and-field,2019
+Colin Daly,,Sr.,,,"Oradell, N.J.",mens-track-and-field,2019
+Jared Elters,,So.,,,"Coatesville, Pa.",mens-track-and-field,2019
+Sean Clarke,,Sr.,,,"Longwood, Fla.",mens-track-and-field,2019
+Nick Faries,,Fr.,,,"Santa Monica, Calif.",mens-track-and-field,2019
+Zubeir Dagane,,Fr.,,,"Bloomington, Minn.",mens-track-and-field,2019
+Emerson Douds,,Fr.,,,"Matthews, N.C.",mens-track-and-field,2019
+Michael Hermes,,Fr.,,,"Friendswood, Texas",mens-track-and-field,2019
+Will Daly,,Sr.,,,"Oradell, N.J.",mens-track-and-field,2019
+Aaron Groff,,Sr.,,,"Cherry Hill, N.J.",mens-track-and-field,2019
+Andrew Hally,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2019
+Mason Gatewood,,So.,,,"South Huntington, N.Y.",mens-track-and-field,2019
+Dimitri Nicholson,,Fr.,,,"Valparaiso, Ind.",mens-track-and-field,2020
+Chudi Ikpeazu,,Sr.,,,"Parkland, Fla.",mens-track-and-field,2020
+Matias Pellegrino,,Jr.,,,"Deniville, N.J.",mens-track-and-field,2020
+Scott Toney,,Fr.,,,"Mountainview, Calif.",mens-track-and-field,2020
+Masaki Wada-Law,,So.,,,"Los Gatos, Calif.",mens-track-and-field,2020
+Vince Oliver,,Jr.,,,"Weirton, WVa.",mens-track-and-field,2020
+Campbell Parker,,Sr.,,,"Greencastle, Pa.",mens-track-and-field,2020
+Jake Kubiatowicz,,Sr.,,,"North St. Paul, Minn.",mens-track-and-field,2020
+Marc Minichello,,Jr.,,,"Exeter, Pa.",mens-track-and-field,2020
+James Lee,,Jr.,,,"Longmont, Colo.",mens-track-and-field,2020
+Oliver Stewart,,Fr.,,,"Cape Town, South Africa",mens-track-and-field,2020
+Ryan Renken,,Sr.,,,"Claremont, Calif.",mens-track-and-field,2020
+Ray Sellaro,,Jr.,,,"Annandale, N.J.",mens-track-and-field,2020
+Alex Roth,,Sr.,,,"Princeton, N.J.",mens-track-and-field,2020
+Weston Wendt,,Jr.,,,"Carl Junction, Mo.",mens-track-and-field,2020
+Payton Morris,,Jr.,,,"Enola, Pa.",mens-track-and-field,2020
+Robbie Ruppel,,So.,,,"Alpharetta, Ga.",mens-track-and-field,2020
+Demetri Whitsett,,Sr.,,,"Denver, Pa.",mens-track-and-field,2020
+Anthony Russo,,Sr.,,,"Colts Neck, N.J.",mens-track-and-field,2020
+Adam Yang,,So.,,,"Acton, Mass.",mens-track-and-field,2020
+Marvin Morgan,,Sr.,,,"Neptune, N.J.",mens-track-and-field,2020
+Alex Ruhl,,So.,,,"Ridgewood, N.J.",mens-track-and-field,2020
+Cameron Landis,,Jr.,,,"Madison, Ohio",mens-track-and-field,2020
+Will Shaughnessy,,Fr.,,,"Brunswick, Maine",mens-track-and-field,2020
+Jack Meigel,,Fr.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2020
+Liam O'Hara,,Fr.,,,"Lincroft, N.J.",mens-track-and-field,2020
+Sean Banko,,So.,,,"Wilmington, Del.",mens-track-and-field,2020
+Justin Iler,,Fr.,,,"Hunting Valley, Ohio",mens-track-and-field,2020
+Daniel Cohen,,Sr.,,,"Solon, Ohio",mens-track-and-field,2020
+Tim Dolan,,Jr.,,,"Ewing, N.J.",mens-track-and-field,2020
+George Adams,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2020
+Mark Anselmi,,So.,,,"Red Bank, N.J.",mens-track-and-field,2020
+Troy Hill,,Fr.,,,"Middletown, N.J.",mens-track-and-field,2020
+Anton Idhammar,,So.,,,"Cary, N.C.",mens-track-and-field,2020
+Jared Cooper,,So.,,,"Mountain Lakes, N.J.",mens-track-and-field,2020
+Michael Keehan,,So.,,,"Wilmington, Del.",mens-track-and-field,2020
+Josh Bridges,,So.,,,,mens-track-and-field,2020
+Justin Cornetta,,Jr.,,,"Flemington, N.J.",mens-track-and-field,2020
+Emerson Douds,,So.,,,"Matthews, N.C.",mens-track-and-field,2020
+Andrew Colbert,,So.,,,"Freehold, N.J.",mens-track-and-field,2020
+Zubeir Dagane,,So.,,,"Bloomington, Minn.",mens-track-and-field,2020
+Antaures Jackson,,So.,,,"McDonough, Ga.",mens-track-and-field,2020
+Olatide Abinusawa,,So.,,,"Horsham, Pa.",mens-track-and-field,2020
+Jared Elters,,Jr.,,,"Coatesville, Pa.",mens-track-and-field,2020
+Noah Carey,,Jr.,,,"Guilderland, N.Y.",mens-track-and-field,2020
+Caleb Johnson,,So.,,,"Upper Moreland, Pa.",mens-track-and-field,2020
+Nick Faries,,So.,,,"Santa Monica, Calif.",mens-track-and-field,2020
+Ben Kioko,,Fr.,,,"Princeton, N.J.",mens-track-and-field,2020
+Enoch Cheung,,Jr.,,,"Cary, N.C.",mens-track-and-field,2020
+Michael Hermes,,So.,,,"Friendswood, Texas",mens-track-and-field,2020
+Mason Gatewood,,Jr.,,,"South Huntington, N.Y.",mens-track-and-field,2020
+William Hare,,Jr.,,,"Princeton, N.J.",mens-track-and-field,2020
 Olatide Abinusawa,,Jr.,,,"Horsham, Pa.",mens-track-and-field,2021
-Vidhur Polam,,Fr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2021
-Liam O'Hara,,So.,,,"Lincroft, N.J.",mens-track-and-field,2021
-Antaures Jackson,,Jr.,,,"McDonough, Ga.",mens-track-and-field,2021
-Mark Anselmi,,Jr.,,,"Red Bank, N.J.",mens-track-and-field,2021
-Sean Banko,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2021
-Titus Bretzke,,Fr.,,,"Greenville, Mich.",mens-track-and-field,2021
-Noah Carey,,Sr.,,,"Guilderland, N.Y.",mens-track-and-field,2021
-Jared Cooper,,Jr.,,,"Mountain Lakes, N.J.",mens-track-and-field,2021
-Justin Cornetta,,Sr.,,,"Flemington, N.J.",mens-track-and-field,2021
-Zubeir Dagane,,Jr.,,,"Bloomington, Minn.",mens-track-and-field,2021
-Andrew Colbert,,Jr.,,,"Freehold, N.J.",mens-track-and-field,2021
-Enoch Cheung,,Sr.,,,"Cary, N.C.",mens-track-and-field,2021
-Anton Idhammar,,Jr.,,,"Cary, N.C.",mens-track-and-field,2021
-Jared Elters,,Sr.,,,"Coatesville, Pa.",mens-track-and-field,2021
-Holden Emery,,Fr.,,,"Buckingham, Pa.",mens-track-and-field,2021
-Nick Faries,,Jr.,,,"Santa Monica, Calif.",mens-track-and-field,2021
-Mason Gatewood,,Sr.,,,"South Huntington, N.Y.",mens-track-and-field,2021
-Jonah Gorevic,,Fr.,,,"Tarrytown, N.Y.",mens-track-and-field,2021
-Adam Gorka,,Fr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2021
-William Hare,,Sr.,,,"Princeton, N.J.",mens-track-and-field,2021
-Michael Hermes,,Jr.,,,"Friendswood, Texas",mens-track-and-field,2021
-Troy Hill,,So.,,,"Middletown, N.J.",mens-track-and-field,2021
-Emerson Douds,,Jr.,,,"Matthews, N.C.",mens-track-and-field,2021
-Justin Iler,,So.,,,"Hunting Valley, Ohio",mens-track-and-field,2021
-Aaron Ray,,Fr.,,,"Baltimore, Md.",mens-track-and-field,2021
-Elijah Cook,,Fr.,,,"Bedford, Pa.",mens-track-and-field,2021
-Luke Johnson,,Fr.,,,"Plainsboro, N.J.",mens-track-and-field,2021
-Tim Dolan,,Sr.,,,"Ewing, N.J.",mens-track-and-field,2021
+Jack Meigel,,So.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2021
 Scott Dochat,,Fr.,,,"Clifton Park, N.Y.",mens-track-and-field,2021
+Tim Dolan,,Sr.,,,"Ewing, N.J.",mens-track-and-field,2021
 Caleb Johnson,,Jr.,,,"Upper Moreland, Pa.",mens-track-and-field,2021
-Michael Keehan,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2021
 Charlie King,,Fr.,,,"Ridgefield, Conn.",mens-track-and-field,2021
-Edwin Klanke,,Fr.,,,"Jersey City, N.J.",mens-track-and-field,2021
 Cameron Landis,,Sr.,,,"Madison, Ohio",mens-track-and-field,2021
-Marc Minichello,,Sr.,,,"Exeter, Pa.",mens-track-and-field,2021
+Edwin Klanke,,Fr.,,,"Jersey City, N.J.",mens-track-and-field,2021
 Conrad Moore,,Fr.,,,"State College, Pa.",mens-track-and-field,2021
+Marc Minichello,,Sr.,,,"Exeter, Pa.",mens-track-and-field,2021
 Dimitri Nicholson,,So.,,,"Valparaiso, Ind.",mens-track-and-field,2021
 Kyle Miller,,Fr.,,,"Scottsdale, Ariz.",mens-track-and-field,2021
-Jack Meigel,,So.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2021
 James Lee,,Sr.,,,"Longmont, Colo.",mens-track-and-field,2021
 Adam Yang,,Jr.,,,"Acton, Mass.",mens-track-and-field,2021
-Robbie Ruppel,,Jr.,,,"Alpharetta, Ga.",mens-track-and-field,2021
+Elijah Cook,,Fr.,,,"Bedford, Pa.",mens-track-and-field,2021
 Benedikt Sachta,,Fr.,,,Czech Republic,mens-track-and-field,2021
 Ray Sellaro,,Sr.,,,"Annandale, N.J.",mens-track-and-field,2021
 Will Shaughnessy,,So.,,,"Brunswick, Maine",mens-track-and-field,2021
-Oliver Stewart,,So.,,,"Cape Town, South Africa",mens-track-and-field,2021
+Luke Johnson,,Fr.,,,"Plainsboro, N.J.",mens-track-and-field,2021
 Aaron Stillitano,,Fr.,,,"Middletown, N.J.",mens-track-and-field,2021
 Dylan Throop,,Fr.,,,"Edinboro, Pa.",mens-track-and-field,2021
 Scott Toney,,So.,,,"Mountainview, Calif.",mens-track-and-field,2021
-Weston Wendt,,Sr.,,,"Carl Junction, Mo.",mens-track-and-field,2021
+Robbie Ruppel,,Jr.,,,"Alpharetta, Ga.",mens-track-and-field,2021
+Oliver Stewart,,So.,,,"Cape Town, South Africa",mens-track-and-field,2021
 James Rhoads,,Fr.,,,"Baltimore, Ohio",mens-track-and-field,2021
-Mark Anselmi,,Sr.,,,"Red Bank, N.J.",mens-track-and-field,2022
-Olatide Abinusawa,,Sr.,,,"Horsham, Pa.",mens-track-and-field,2022
-Scott Dochat,,So.,,,"Clifton Park, N.Y.",mens-track-and-field,2022
-Zubeir Dagane,,Sr.,,,"Bloomington, Minn.",mens-track-and-field,2022
-Elijah Cook,,So.,,,"Bedford, Pa.",mens-track-and-field,2022
-Holden Emery,,So.,,,"Buckingham, Pa.",mens-track-and-field,2022
-Nick Carpenter,,Fr.,,,"Winter Park, Fla.",mens-track-and-field,2022
-Titus Bretzke,,So.,,,"Greenville, Mich.",mens-track-and-field,2022
-Sean Banko,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2022
-Emerson Douds,,Sr.,,,"Matthews, N.C.",mens-track-and-field,2022
-Sahil Dodda,,Fr.,,,"Dallas, Texas",mens-track-and-field,2022
-Andrew Colbert,,Sr.,,,"Freehold, N.J.",mens-track-and-field,2022
-Nicolas Pizarro,,Fr.,,,"Wilmington, Del.",mens-track-and-field,2022
-Matthew Fernando,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2022
-Anton Idhammar,,Sr.,,,"Cary, N.C.",mens-track-and-field,2022
-Troy Hill,,Jr.,,,"Middletown, N.J.",mens-track-and-field,2022
-Devante Heywood,,Fr.,,,"Trelawny, Jamaica",mens-track-and-field,2022
-Michael Hermes,,Sr.,,,"Friendswood, Texas",mens-track-and-field,2022
-Adam Yang,,Sr.,,,"Acton, Mass.",mens-track-and-field,2022
-Liam Going,,Fr.,,,"Westbury, N.Y.",mens-track-and-field,2022
-Shane Gardner,,Fr.,,,"Sugar Land, Texas",mens-track-and-field,2022
-Denis Gallagher,,Jr.,,,"Narberth, Pa.",mens-track-and-field,2022
-Dennis Fortuna,,Fr.,,,"Runnemede, N.J.",mens-track-and-field,2022
-Justin Iler,,Jr.,,,"Hunting Valley, Ohio",mens-track-and-field,2022
-Alec Jackson,,Fr.,,,"McDonough, Ga.",mens-track-and-field,2022
-Atticus Soehren,,Fr.,,,"Otisfield, Maine",mens-track-and-field,2022
-Antaures Jackson,,Sr.,,,"McDonough, Ga.",mens-track-and-field,2022
-Caleb Johnson,,Sr.,,,"Upper Moreland, Pa.",mens-track-and-field,2022
-Vidhur Polam,,So.,,,"Monmouth Junction, N.J.",mens-track-and-field,2022
-Conrad Moore,,So.,,,"State College, Pa.",mens-track-and-field,2022
-Kyle Miller,,So.,,,"Scottsdale, Ariz.",mens-track-and-field,2022
-Jack Meigel,,Jr.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2022
+Weston Wendt,,Sr.,,,"Carl Junction, Mo.",mens-track-and-field,2021
+Troy Hill,,So.,,,"Middletown, N.J.",mens-track-and-field,2021
+Jonah Gorevic,,Fr.,,,"Tarrytown, N.Y.",mens-track-and-field,2021
+Vidhur Polam,,Fr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2021
+Andrew Colbert,,Jr.,,,"Freehold, N.J.",mens-track-and-field,2021
+Mark Anselmi,,Jr.,,,"Red Bank, N.J.",mens-track-and-field,2021
+Antaures Jackson,,Jr.,,,"McDonough, Ga.",mens-track-and-field,2021
+Sean Banko,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2021
+Titus Bretzke,,Fr.,,,"Greenville, Mich.",mens-track-and-field,2021
+Enoch Cheung,,Sr.,,,"Cary, N.C.",mens-track-and-field,2021
+Justin Cornetta,,Sr.,,,"Flemington, N.J.",mens-track-and-field,2021
+Aaron Ray,,Fr.,,,"Baltimore, Md.",mens-track-and-field,2021
+Zubeir Dagane,,Jr.,,,"Bloomington, Minn.",mens-track-and-field,2021
+Liam O'Hara,,So.,,,"Lincroft, N.J.",mens-track-and-field,2021
+Noah Carey,,Sr.,,,"Guilderland, N.Y.",mens-track-and-field,2021
+Justin Iler,,So.,,,"Hunting Valley, Ohio",mens-track-and-field,2021
+Jared Cooper,,Jr.,,,"Mountain Lakes, N.J.",mens-track-and-field,2021
+Michael Keehan,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2021
+Holden Emery,,Fr.,,,"Buckingham, Pa.",mens-track-and-field,2021
+Nick Faries,,Jr.,,,"Santa Monica, Calif.",mens-track-and-field,2021
+Mason Gatewood,,Sr.,,,"South Huntington, N.Y.",mens-track-and-field,2021
+Anton Idhammar,,Jr.,,,"Cary, N.C.",mens-track-and-field,2021
+Adam Gorka,,Fr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2021
+William Hare,,Sr.,,,"Princeton, N.J.",mens-track-and-field,2021
+Michael Hermes,,Jr.,,,"Friendswood, Texas",mens-track-and-field,2021
+Jared Elters,,Sr.,,,"Coatesville, Pa.",mens-track-and-field,2021
+Emerson Douds,,Jr.,,,"Matthews, N.C.",mens-track-and-field,2021
+Benedikt Sachta,,So.,,,Czech Republic,mens-track-and-field,2022
+Dylan Throop,,So.,,,"Edinboro, Pa.",mens-track-and-field,2022
 Liam O'Hara,,Jr.,,,"Lincroft, N.J.",mens-track-and-field,2022
 Charlie King,,So.,,,"Ridgefield, Conn.",mens-track-and-field,2022
+Edwin Klanke,,So.,,,"Jersey City, N.J.",mens-track-and-field,2022
+Jack Meigel,,Jr.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2022
 Michael Keehan,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2022
+James Rhoads,,So.,,,"Baltimore, Ohio",mens-track-and-field,2022
 Kampton Kam,,Fr.,,,Singapore,mens-track-and-field,2022
 Andrew O'Donnell,,Fr.,,,"Riverside, Conn.",mens-track-and-field,2022
 Dimitri Nicholson,,Jr.,,,"Valparaiso, Ind.",mens-track-and-field,2022
-Edwin Klanke,,So.,,,"Jersey City, N.J.",mens-track-and-field,2022
-Charles Jarvis,,Fr.,,,"Aliso Viejo, Calif.",mens-track-and-field,2022
-Luke Johnson,,So.,,,"Plainsboro, N.J.",mens-track-and-field,2022
-James Rhoads,,So.,,,"Baltimore, Ohio",mens-track-and-field,2022
-Jake Rose,,Fr.,,,"Catawissa, Pa.",mens-track-and-field,2022
-Scott Toney,,Jr.,,,"Mountainview, Calif.",mens-track-and-field,2022
-Dylan Throop,,So.,,,"Edinboro, Pa.",mens-track-and-field,2022
-Aaron Stillitano,,So.,,,"Middletown, N.J.",mens-track-and-field,2022
 Oliver Stewart,,Jr.,,,"Cape Town, South Africa",mens-track-and-field,2022
-Mark Hellwig,,Fr.,,,"Lincolnshire,Ill.",mens-track-and-field,2022
-Benedikt Sachta,,So.,,,Czech Republic,mens-track-and-field,2022
-John Ruvo IV,,Fr.,,,"Scottsdale, Ariz.",mens-track-and-field,2022
 Silas Ruth,,Fr.,,,"Rochester, N.Y.",mens-track-and-field,2022
-Robbie Ruppel,,Sr.,,,"Alpharetta, Ga.",mens-track-and-field,2022
 Nick Faries,,Sr.,,,"Santa Monica, Calif.",mens-track-and-field,2022
-Kai Deines,,Fr.,,,"Redondo Beach, Calif.",mens-track-and-field,2023
-Devante Heywood,,So.,,,"Trelawny, Jamaica",mens-track-and-field,2023
-Kofi Fordjour,,Fr.,,,"Quincy, Mass.",mens-track-and-field,2023
-Holden Emery,,Jr.,,,"Buckingham, Pa.",mens-track-and-field,2023
-Scott Dochat,,Jr.,,,"Clifton Park, N.Y.",mens-track-and-field,2023
-Alex Boyko,,Fr.,,,"Cinnaminson, N.J.",mens-track-and-field,2023
-Zezo Beshir,,Fr.,,,"Newton, Mass.",mens-track-and-field,2023
-George Keen,,Fr.,,,"Cambridge, United Kingdom",mens-track-and-field,2023
-Elijah Cook,,Jr.,,,"Bedford, Pa.",mens-track-and-field,2023
-Jesse Goldman,,Fr.,,,"Los Angeles, Calif.",mens-track-and-field,2023
-Nick Carpenter,,So.,,,"Winter Park, Fla.",mens-track-and-field,2023
-Dennis Fortuna,,So.,,,"Runnemede, N.J.",mens-track-and-field,2023
-Shane Gardner,,So.,,,"Sugar Land, Texas",mens-track-and-field,2023
-Denis Gallagher,,Sr.,,,"Narberth, Pa.",mens-track-and-field,2023
-Alec Jackson,,So.,,,"McDonough, Ga.",mens-track-and-field,2023
-Troy Hill,,Sr.,,,"Middletown, N.J.",mens-track-and-field,2023
-Kampton Kam,,So.,,,Singapore,mens-track-and-field,2023
-Mark Hellwig,,So.,,,"Lincolnshire,Ill.",mens-track-and-field,2023
-Nicholas DeVita,,Fr.,,,"West Orange, N.J.",mens-track-and-field,2023
-Sean Golembiewski,,Fr.,,,"Hopkinton, Mass.",mens-track-and-field,2023
-Luke Johnson,,Jr.,,,"Plainsboro, N.J.",mens-track-and-field,2023
-Liam Going,,So.,,,"Westbury, N.Y.",mens-track-and-field,2023
-Brian Gent,,Fr.,,,"Pepper Pike, Ohio",mens-track-and-field,2023
-Titus Bretzke,,Jr.,,,"Greenville, Mich.",mens-track-and-field,2023
+Holden Emery,,So.,,,"Buckingham, Pa.",mens-track-and-field,2022
+Zubeir Dagane,,Sr.,,,"Bloomington, Minn.",mens-track-and-field,2022
+Kyle Miller,,So.,,,"Scottsdale, Ariz.",mens-track-and-field,2022
+Charles Jarvis,,Fr.,,,"Aliso Viejo, Calif.",mens-track-and-field,2022
+Aaron Stillitano,,So.,,,"Middletown, N.J.",mens-track-and-field,2022
+Jake Rose,,Fr.,,,"Catawissa, Pa.",mens-track-and-field,2022
+Mark Hellwig,,Fr.,,,"Lincolnshire,Ill.",mens-track-and-field,2022
+Luke Johnson,,So.,,,"Plainsboro, N.J.",mens-track-and-field,2022
+John Ruvo IV,,Fr.,,,"Scottsdale, Ariz.",mens-track-and-field,2022
+Elijah Cook,,So.,,,"Bedford, Pa.",mens-track-and-field,2022
+Robbie Ruppel,,Sr.,,,"Alpharetta, Ga.",mens-track-and-field,2022
+Scott Toney,,Jr.,,,"Mountainview, Calif.",mens-track-and-field,2022
+Conrad Moore,,So.,,,"State College, Pa.",mens-track-and-field,2022
+Devante Heywood,,Fr.,,,"Trelawny, Jamaica",mens-track-and-field,2022
+Antaures Jackson,,Sr.,,,"McDonough, Ga.",mens-track-and-field,2022
+Sean Banko,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2022
+Titus Bretzke,,So.,,,"Greenville, Mich.",mens-track-and-field,2022
+Mark Anselmi,,Sr.,,,"Red Bank, N.J.",mens-track-and-field,2022
+Scott Dochat,,So.,,,"Clifton Park, N.Y.",mens-track-and-field,2022
+Nick Carpenter,,Fr.,,,"Winter Park, Fla.",mens-track-and-field,2022
+Sahil Dodda,,Fr.,,,"Dallas, Texas",mens-track-and-field,2022
+Andrew Colbert,,Sr.,,,"Freehold, N.J.",mens-track-and-field,2022
+Olatide Abinusawa,,Sr.,,,"Horsham, Pa.",mens-track-and-field,2022
+Vidhur Polam,,So.,,,"Monmouth Junction, N.J.",mens-track-and-field,2022
+Alec Jackson,,Fr.,,,"McDonough, Ga.",mens-track-and-field,2022
+Shane Gardner,,Fr.,,,"Sugar Land, Texas",mens-track-and-field,2022
+Adam Yang,,Sr.,,,"Acton, Mass.",mens-track-and-field,2022
+Justin Iler,,Jr.,,,"Hunting Valley, Ohio",mens-track-and-field,2022
+Troy Hill,,Jr.,,,"Middletown, N.J.",mens-track-and-field,2022
+Atticus Soehren,,Fr.,,,"Otisfield, Maine",mens-track-and-field,2022
+Caleb Johnson,,Sr.,,,"Upper Moreland, Pa.",mens-track-and-field,2022
+Emerson Douds,,Sr.,,,"Matthews, N.C.",mens-track-and-field,2022
+Nicolas Pizarro,,Fr.,,,"Wilmington, Del.",mens-track-and-field,2022
+Michael Hermes,,Sr.,,,"Friendswood, Texas",mens-track-and-field,2022
+Anton Idhammar,,Sr.,,,"Cary, N.C.",mens-track-and-field,2022
+Liam Going,,Fr.,,,"Westbury, N.Y.",mens-track-and-field,2022
+Matthew Fernando,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2022
+Denis Gallagher,,Jr.,,,"Narberth, Pa.",mens-track-and-field,2022
+Dennis Fortuna,,Fr.,,,"Runnemede, N.J.",mens-track-and-field,2022
 Sahil Dodda,,So.,,,"Dallas, Texas",mens-track-and-field,2023
-Robert Handelsman,,Fr.,,,"Woodberry Forest, Va.",mens-track-and-field,2023
+Mark Hellwig,,So.,,,"Lincolnshire,Ill.",mens-track-and-field,2023
+Nick Carpenter,,So.,,,"Winter Park, Fla.",mens-track-and-field,2023
+Alec Jackson,,So.,,,"McDonough, Ga.",mens-track-and-field,2023
+Luke Johnson,,Jr.,,,"Plainsboro, N.J.",mens-track-and-field,2023
 Edwin Klanke,,Jr.,,,"Jersey City, N.J.",mens-track-and-field,2023
+Brian Gent,,Fr.,,,"Pepper Pike, Ohio",mens-track-and-field,2023
+Robert Handelsman,,Fr.,,,"Woodberry Forest, Va.",mens-track-and-field,2023
+Zezo Beshir,,Fr.,,,"Newton, Mass.",mens-track-and-field,2023
+Alex Boyko,,Fr.,,,"Cinnaminson, N.J.",mens-track-and-field,2023
+Troy Hill,,Sr.,,,"Middletown, N.J.",mens-track-and-field,2023
+Nicholas DeVita,,Fr.,,,"West Orange, N.J.",mens-track-and-field,2023
+Dennis Fortuna,,So.,,,"Runnemede, N.J.",mens-track-and-field,2023
+Kofi Fordjour,,Fr.,,,"Quincy, Mass.",mens-track-and-field,2023
+Vidhur Polam,,Jr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2023
+Kai Deines,,Fr.,,,"Redondo Beach, Calif.",mens-track-and-field,2023
+George Keen,,Fr.,,,"Cambridge, United Kingdom",mens-track-and-field,2023
+Denis Gallagher,,Sr.,,,"Narberth, Pa.",mens-track-and-field,2023
+Elijah Cook,,Jr.,,,"Bedford, Pa.",mens-track-and-field,2023
+Devante Heywood,,So.,,,"Trelawny, Jamaica",mens-track-and-field,2023
+Scott Dochat,,Jr.,,,"Clifton Park, N.Y.",mens-track-and-field,2023
+Jesse Goldman,,Fr.,,,"Los Angeles, Calif.",mens-track-and-field,2023
+Shane Gardner,,So.,,,"Sugar Land, Texas",mens-track-and-field,2023
+Sebastian Pizarro,,So.,,,"Wilmington, Del.",mens-track-and-field,2023
+Dylan Throop,,Jr.,,,"Edinboro, Pa.",mens-track-and-field,2023
 Andrew O'Donnell,,So.,,,"Riverside, Conn.",mens-track-and-field,2023
+Alex Sadikov,,Fr.,,,"Ocean Township, N.J.",mens-track-and-field,2023
 Nicolas West,,Fr.,,,"Delray Beach, Fla.",mens-track-and-field,2023
-Nayyir Newash-Campbell,,Fr.,,,"Plainfield, Ind.",mens-track-and-field,2023
+Sean Golembiewski,,Fr.,,,"Hopkinton, Mass.",mens-track-and-field,2023
 Benedikt Sachta,,Jr.,,,Czech Republic,mens-track-and-field,2023
-Paul Park,,Fr.,,,"Manhasset, N.Y.",mens-track-and-field,2023
 Liam O'Hara,,Sr.,,,"Lincroft, N.J.",mens-track-and-field,2023
-Dimitri Nicholson,,Sr.,,,"Valparaiso, Ind.",mens-track-and-field,2023
-Jack Meigel,,Sr.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2023
-Rory Lieberman,,Fr.,,,"Danville, Pa.",mens-track-and-field,2023
+Scott Toney,,Sr.,,,"Mountainview, Calif.",mens-track-and-field,2023
+Jake Rose,,So.,,,"Catawissa, Pa.",mens-track-and-field,2023
+Silas Ruth,,So.,,,"Rochester, N.Y.",mens-track-and-field,2023
+Adam Laycock,,Fr.,,,"Westlake, Calif.",mens-track-and-field,2023
 Conrad Moore,,Jr.,,,"State College, Pa.",mens-track-and-field,2023
 Aaron Stillitano,,Jr.,,,"Middletown, N.J.",mens-track-and-field,2023
-Patrick Monahan,,Fr.,,,"Boise, Idaho",mens-track-and-field,2023
-Nicolas Pizarro,,So.,,,"Wilmington, Del.",mens-track-and-field,2023
-Ryan Matulonis,,Fr.,,,"Scotch Plains, N.J.",mens-track-and-field,2023
-James Rhoads,,Jr.,,,"Baltimore, Ohio",mens-track-and-field,2023
-Vidhur Polam,,Jr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2023
-Scott Toney,,Sr.,,,"Mountainview, Calif.",mens-track-and-field,2023
-Dylan Throop,,Jr.,,,"Edinboro, Pa.",mens-track-and-field,2023
 Will Shaughnessy,,Jr.,,,"Brunswick, Maine",mens-track-and-field,2023
+Nayyir Newash-Campbell,,Fr.,,,"Plainfield, Ind.",mens-track-and-field,2023
+James Rhoads,,Jr.,,,"Baltimore, Ohio",mens-track-and-field,2023
 Atticus Soehren,,So.,,,"Otisfield, Maine",mens-track-and-field,2023
+Liam Going,,So.,,,"Westbury, N.Y.",mens-track-and-field,2023
+Ryan Matulonis,,Fr.,,,"Scotch Plains, N.J.",mens-track-and-field,2023
+Titus Bretzke,,Jr.,,,"Greenville, Mich.",mens-track-and-field,2023
 Kyle Miller,,Jr.,,,"Scottsdale, Ariz.",mens-track-and-field,2023
-Alex Sadikov,,Fr.,,,"Ocean Township, N.J.",mens-track-and-field,2023
-Adam Laycock,,Fr.,,,"Westlake, Calif.",mens-track-and-field,2023
-Silas Ruth,,So.,,,"Rochester, N.Y.",mens-track-and-field,2023
-Jake Rose,,So.,,,"Catawissa, Pa.",mens-track-and-field,2023
-Sebastian Pizarro,,So.,,,"Wilmington, Del.",mens-track-and-field,2023
+Dimitri Nicholson,,Sr.,,,"Valparaiso, Ind.",mens-track-and-field,2023
+Patrick Monahan,,Fr.,,,"Boise, Idaho",mens-track-and-field,2023
+Kampton Kam,,So.,,,Singapore,mens-track-and-field,2023
+Jack Meigel,,Sr.,,,"West Hampton Beach, N.Y.",mens-track-and-field,2023
+Holden Emery,,Jr.,,,"Buckingham, Pa.",mens-track-and-field,2023
+Paul Park,,Fr.,,,"Manhasset, N.Y.",mens-track-and-field,2023
+Rory Lieberman,,Fr.,,,"Danville, Pa.",mens-track-and-field,2023
+Nicolas Pizarro,,So.,,,"Wilmington, Del.",mens-track-and-field,2023
+Kyle Miller,,Sr.,,,"Scottsdale, Ariz.",mens-track-and-field,2024
+Brady Golomb,,Fr.,,,"Elmhurst, Ill.",mens-track-and-field,2024
+Chris Larnard,,Fr.,,,"Scituate, Mass.",mens-track-and-field,2024
+Will Shaughnessy,,Sr.,,,"Brunswick, Maine",mens-track-and-field,2024
+Brooks Mitchell,,Fr.,,,"Lewisville, Texas",mens-track-and-field,2024
+Benjamin Markham,,Fr.,,,"Decatur, Ga.",mens-track-and-field,2024
+Nicolas Pizarro,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2024
+Ryan Matulonis,,So.,,,"Scotch Plains, N.J.",mens-track-and-field,2024
+Diego Mendez Colon,,Fr.,,,"Dorado, Puerto Rico",mens-track-and-field,2024
+Raghav Gopalakrishnan,,Fr.,,,"Charlotte, N.C.",mens-track-and-field,2024
+Nayyir Newash-Campbell,,So.,,,"Plainfield, Ind.",mens-track-and-field,2024
+Silas Ruth,,Sr.,,,"Rochester, N.Y.",mens-track-and-field,2024
+Oliver Hassard,,Fr.,,,"Evanston, Ill.",mens-track-and-field,2024
+Cade Swart,,Fr.,,,"Tallahassee, Fla.",mens-track-and-field,2024
+Nicholas DeVita,,So.,,,"West Orange, N.J.",mens-track-and-field,2024
+Conrad Moore,,Sr.,,,"State College, Pa.",mens-track-and-field,2024
+Zezo Beshir,,So.,,,"Newton, Mass.",mens-track-and-field,2024
+Kofi Fordjour,,So.,,,"Quincy, Mass.",mens-track-and-field,2024
+Dylan Throop,,Sr.,,,"Edinboro, Pa.",mens-track-and-field,2024
+Jasyn Truitt,,Fr.,,,"Smyrna, Del.",mens-track-and-field,2024
+Jake Rose,,Jr.,,,"Catawissa, Pa.",mens-track-and-field,2024
+Takunda Mhete,,Fr.,,,"Marondera, Zimbabwe",mens-track-and-field,2024
+Alex Sadikov,,So.,,,"Ocean Township, N.J.",mens-track-and-field,2024
+Vidhur Polam,,Sr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2024
+Shane Murphy,,Fr.,,,"New York, N.Y.",mens-track-and-field,2024
+Liam Going,,Jr.,,,"Westbury, N.Y.",mens-track-and-field,2024
+Mark Hellwig,,Jr.,,,"Lincolnshire,Ill.",mens-track-and-field,2024
 Elias Chase,,Fr.,,,"Landenberg, Pa.",mens-track-and-field,2024
-David Davitt,,Fr.,,,"Yonkers, N.Y.",mens-track-and-field,2024
-George Keen,,So.,,,"Cambridge, United Kingdom",mens-track-and-field,2024
+Aaron Stillitano,,Sr.,,,"Middletown, N.J.",mens-track-and-field,2024
+Nick Carpenter,,Jr.,,,"Winter Park, Fla.",mens-track-and-field,2024
+Joseph Ruiz,,Fr.,,,"Miami, Fla.",mens-track-and-field,2024
+Dennis Fortuna,,Jr.,,,"Runnemede, N.J.",mens-track-and-field,2024
 Anikwe Duru,,Fr.,,,"Silver Spring, Md.",mens-track-and-field,2024
 Scott Dochat,,Sr.,,,"Clifton Park, N.Y.",mens-track-and-field,2024
-Elijah Cook,,Sr.,,,"Bedford, Pa.",mens-track-and-field,2024
-Nick Carpenter,,Jr.,,,"Winter Park, Fla.",mens-track-and-field,2024
-Dennis Fortuna,,Jr.,,,"Runnemede, N.J.",mens-track-and-field,2024
-Esfan Daya,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2024
-Paul Park,,So.,,,"Manhasset, N.Y.",mens-track-and-field,2024
-Kai Deines,,So.,,,"Redondo Beach, Calif.",mens-track-and-field,2024
 Sahil Dodda,,Jr.,,,"Dallas, Texas",mens-track-and-field,2024
+David Davitt,,Fr.,,,"Yonkers, N.Y.",mens-track-and-field,2024
+Esfan Daya,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2024
+Atticus Soehren,,Jr.,,,"Otisfield, Maine",mens-track-and-field,2024
+Paul Park,,So.,,,"Manhasset, N.Y.",mens-track-and-field,2024
 Sebastian Pizarro,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2024
-Sean Golembiewski,,So.,,,"Hopkinton, Mass.",mens-track-and-field,2024
-Brian Gent,,So.,,,"Pepper Pike, Ohio",mens-track-and-field,2024
-Brady Golomb,,Fr.,,,"Elmhurst, Ill.",mens-track-and-field,2024
-Liam Going,,Jr.,,,"Westbury, N.Y.",mens-track-and-field,2024
-Raghav Gopalakrishnan,,Fr.,,,"Charlotte, N.C.",mens-track-and-field,2024
-Oliver Hassard,,Fr.,,,"Evanston, Ill.",mens-track-and-field,2024
-Mark Hellwig,,Jr.,,,"Lincolnshire,Ill.",mens-track-and-field,2024
+Edwin Klanke,,Sr.,,,"Jersey City, N.J.",mens-track-and-field,2024
 Alec Jackson,,Jr.,,,"McDonough, Ga.",mens-track-and-field,2024
+Brian Gent,,So.,,,"Pepper Pike, Ohio",mens-track-and-field,2024
+Elijah Cook,,Sr.,,,"Bedford, Pa.",mens-track-and-field,2024
+Kai Deines,,So.,,,"Redondo Beach, Calif.",mens-track-and-field,2024
+George Keen,,So.,,,"Cambridge, United Kingdom",mens-track-and-field,2024
 Shane Gardner,,Jr.,,,"Sugar Land, Texas",mens-track-and-field,2024
 Alex Georgiev,,Fr.,,,"Oakland, Fla.",mens-track-and-field,2024
 Jesse Goldman,,So.,,,"Los Angeles, Calif.",mens-track-and-field,2024
 Luke Johnson,,Sr.,,,"Plainsboro, N.J.",mens-track-and-field,2024
 Kampton Kam,,Jr.,,,Singapore,mens-track-and-field,2024
-Ryan Matulonis,,So.,,,"Scotch Plains, N.J.",mens-track-and-field,2024
-Edwin Klanke,,Sr.,,,"Jersey City, N.J.",mens-track-and-field,2024
-Nicholas DeVita,,So.,,,"West Orange, N.J.",mens-track-and-field,2024
-Takunda Mhete,,Fr.,,,"Marondera, Zimbabwe",mens-track-and-field,2024
-Chris Larnard,,Fr.,,,"Scituate, Mass.",mens-track-and-field,2024
-Nayyir Newash-Campbell,,So.,,,"Plainfield, Ind.",mens-track-and-field,2024
-Conrad Moore,,Sr.,,,"State College, Pa.",mens-track-and-field,2024
-Diego Mendez Colon,,Fr.,,,"Dorado, Puerto Rico",mens-track-and-field,2024
-Benjamin Markham,,Fr.,,,"Decatur, Ga.",mens-track-and-field,2024
-Kyle Miller,,Sr.,,,"Scottsdale, Ariz.",mens-track-and-field,2024
-Zezo Beshir,,So.,,,"Newton, Mass.",mens-track-and-field,2024
-Brooks Mitchell,,Fr.,,,"Lewisville, Texas",mens-track-and-field,2024
-Shane Murphy,,Fr.,,,"New York, N.Y.",mens-track-and-field,2024
-Kofi Fordjour,,So.,,,"Quincy, Mass.",mens-track-and-field,2024
-Nicolas Pizarro,,Jr.,,,"Wilmington, Del.",mens-track-and-field,2024
-Vidhur Polam,,Sr.,,,"Monmouth Junction, N.J.",mens-track-and-field,2024
-Will Shaughnessy,,Sr.,,,"Brunswick, Maine",mens-track-and-field,2024
-Joseph Ruiz,,Fr.,,,"Miami, Fla.",mens-track-and-field,2024
-Atticus Soehren,,Jr.,,,"Otisfield, Maine",mens-track-and-field,2024
+Sean Golembiewski,,So.,,,"Hopkinton, Mass.",mens-track-and-field,2024
 Benedikt Sachta,,Sr.,,,Czech Republic,mens-track-and-field,2024
-Aaron Stillitano,,Sr.,,,"Middletown, N.J.",mens-track-and-field,2024
-Cade Swart,,Fr.,,,"Tallahassee, Fla.",mens-track-and-field,2024
-Dylan Throop,,Sr.,,,"Edinboro, Pa.",mens-track-and-field,2024
-Jasyn Truitt,,Fr.,,,"Smyrna, Del.",mens-track-and-field,2024
-Jake Rose,,Jr.,,,"Catawissa, Pa.",mens-track-and-field,2024
-Silas Ruth,,Sr.,,,"Rochester, N.Y.",mens-track-and-field,2024
-Alex Sadikov,,So.,,,"Ocean Township, N.J.",mens-track-and-field,2024
+Matthew Kathiravelu,,Fr.,,,"Peterborough, Ont.",mens-track-and-field,2025
 Simeon Adams,,Fr.,,,"Atlanta, Ga.",mens-track-and-field,2025
-Colton Dean,,Fr.,,,"Canonsburg, Pa.",mens-track-and-field,2025
-Esfan Daya,,So.,,,"Atlanta, Ga.",mens-track-and-field,2025
-David Davitt,,So.,,,"Yonkers, N.Y.",mens-track-and-field,2025
-Shamus Larnard,,Fr.,,,"Boston, Mass.",mens-track-and-field,2025
-Shane Murphy,,So.,,,"New York, N.Y.",mens-track-and-field,2025
-Thomas Bucks,,Fr.,,,"San Antonio, Texas",mens-track-and-field,2025
-Nathan Blades,,So.,,,"Portland, Maine",mens-track-and-field,2025
-Zezo Beshir,,Jr.,,,"Newton, Mass.",mens-track-and-field,2025
-Kai Deines,,Jr.,,,"Redondo Beach, Calif.",mens-track-and-field,2025
-Oliver Hassard,,So.,,,"Evanston, Ill.",mens-track-and-field,2025
-Sahil Dodda,,Sr.,,,"Dallas, Texas",mens-track-and-field,2025
-Raghav Gopalakrishnan,,So.,,,"Charlotte, N.C.",mens-track-and-field,2025
-Sean Golembiewski,,Jr.,,,"Hopkinton, Mass.",mens-track-and-field,2025
-Carson Edwards,,Fr.,,,"Bowie, Md.",mens-track-and-field,2025
-Jesse Goldman,,Jr.,,,"Los Angeles, Calif.",mens-track-and-field,2025
-Liam Going,,Sr.,,,"Westbury, N.Y.",mens-track-and-field,2025
-Alex Georgiev,,So.,,,"Oakland, Fla.",mens-track-and-field,2025
-Shane Gardner,,Sr.,,,"Sugar Land, Texas",mens-track-and-field,2025
-Brian Gent,,Jr.,,,"Pepper Pike, Ohio",mens-track-and-field,2025
-Griffin Gammon,,Fr.,,,"Gorham, Maine",mens-track-and-field,2025
-Leo Francis,,Fr.,,,"Laguna Niguel, Calif.",mens-track-and-field,2025
-Dennis Fortuna,,Sr.,,,"Runnemede, N.J.",mens-track-and-field,2025
-Anikwe Duru,,So.,,,"Silver Spring, Md.",mens-track-and-field,2025
-Brady Golomb,,So.,,,"Elmhurst, Ill.",mens-track-and-field,2025
-Kofi Fordjour,,Jr.,,,"Quincy, Mass.",mens-track-and-field,2025
-Chris Larnard,,So.,,,"Scituate, Mass.",mens-track-and-field,2025
-Nick Carpenter,,Sr.,,,"Winter Park, Fla.",mens-track-and-field,2025
-Porter Warren,,Fr.,,,"Littleton, Colo.",mens-track-and-field,2025
 Elias Chase,,So.,,,"Landenberg, Pa.",mens-track-and-field,2025
 Takunda Mhete,,So.,,,"Marondera, Zimbabwe",mens-track-and-field,2025
-Ryan Matulonis,,Jr.,,,"Scotch Plains, N.J.",mens-track-and-field,2025
-Benjamin Markham,,So.,,,"Decatur, Ga.",mens-track-and-field,2025
+Shamus Larnard,,Fr.,,,"Boston, Mass.",mens-track-and-field,2025
+Shane Murphy,,So.,,,"New York, N.Y.",mens-track-and-field,2025
 Nicholas DeVita,,Jr.,,,"West Orange, N.J.",mens-track-and-field,2025
 Mark Hellwig,,Sr.,,,"Lincolnshire,Ill.",mens-track-and-field,2025
 George Keen,,Jr.,,,"Cambridge, United Kingdom",mens-track-and-field,2025
-Matthew Kathiravelu,,Fr.,,,"Peterborough, Ont.",mens-track-and-field,2025
-Kampton Kam,,Sr.,,,Singapore,mens-track-and-field,2025
 Brooks Mitchell,,So.,,,"Lewisville, Texas",mens-track-and-field,2025
+Oliver Hassard,,So.,,,"Evanston, Ill.",mens-track-and-field,2025
+Paul Park,,Jr.,,,"Manhasset, N.Y.",mens-track-and-field,2025
+Porter Warren,,Fr.,,,"Littleton, Colo.",mens-track-and-field,2025
+Vinay Raman,,Fr.,,,"Hummelston, Pa.",mens-track-and-field,2025
 Liam Jordan,,Fr.,,,"McClean, Va.",mens-track-and-field,2025
-Nayyir Newash-Campbell,,Jr.,,,"Plainfield, Ind.",mens-track-and-field,2025
-Colter Oldham,,Fr.,,,"Lakin, Kans.",mens-track-and-field,2025
 Sebastian Pizarro,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2025
 Alec Jackson,,Sr.,,,"McDonough, Ga.",mens-track-and-field,2025
 Nicolas Pizarro,,Sr.,,,"Wilmington, Del.",mens-track-and-field,2025
+Cade Zeolla,,Fr.,,,"Califon, N.J.",mens-track-and-field,2025
 Jasyn Truitt,,So.,,,"Smyrna, Del.",mens-track-and-field,2025
-Cade Swart,,So.,,,"Tallahassee, Fla.",mens-track-and-field,2025
 Atticus Soehren,,Sr.,,,"Otisfield, Maine",mens-track-and-field,2025
 Alex Sadikov,,Jr.,,,"Ocean Township, N.J.",mens-track-and-field,2025
 Tiago Socarras,,Fr.,,,"Miami, Fla.",mens-track-and-field,2025
+Nayyir Newash-Campbell,,Jr.,,,"Plainfield, Ind.",mens-track-and-field,2025
+Cade Swart,,So.,,,"Tallahassee, Fla.",mens-track-and-field,2025
 Joseph Ruiz,,So.,,,"Miami, Fla.",mens-track-and-field,2025
+Kofi Fordjour,,Jr.,,,"Quincy, Mass.",mens-track-and-field,2025
+Colter Oldham,,Fr.,,,"Lakin, Kans.",mens-track-and-field,2025
+Jesse Goldman,,Jr.,,,"Los Angeles, Calif.",mens-track-and-field,2025
+Ryan Matulonis,,Jr.,,,"Scotch Plains, N.J.",mens-track-and-field,2025
+Chris Larnard,,So.,,,"Scituate, Mass.",mens-track-and-field,2025
+Colton Dean,,Fr.,,,"Canonsburg, Pa.",mens-track-and-field,2025
+David Davitt,,So.,,,"Yonkers, N.Y.",mens-track-and-field,2025
+Benjamin Markham,,So.,,,"Decatur, Ga.",mens-track-and-field,2025
+Kampton Kam,,Sr.,,,Singapore,mens-track-and-field,2025
+Thomas Bucks,,Fr.,,,"San Antonio, Texas",mens-track-and-field,2025
+Nathan Blades,,So.,,,"Portland, Maine",mens-track-and-field,2025
+Zezo Beshir,,Jr.,,,"Newton, Mass.",mens-track-and-field,2025
+Sahil Dodda,,Sr.,,,"Dallas, Texas",mens-track-and-field,2025
+Nick Carpenter,,Sr.,,,"Winter Park, Fla.",mens-track-and-field,2025
+Raghav Gopalakrishnan,,So.,,,"Charlotte, N.C.",mens-track-and-field,2025
+Kai Deines,,Jr.,,,"Redondo Beach, Calif.",mens-track-and-field,2025
 Jake Rose,,Sr.,,,"Catawissa, Pa.",mens-track-and-field,2025
-Vinay Raman,,Fr.,,,"Hummelston, Pa.",mens-track-and-field,2025
-Paul Park,,Jr.,,,"Manhasset, N.Y.",mens-track-and-field,2025
-Cade Zeolla,,Fr.,,,"Califon, N.J.",mens-track-and-field,2025
+Esfan Daya,,So.,,,"Atlanta, Ga.",mens-track-and-field,2025
+Anikwe Duru,,So.,,,"Silver Spring, Md.",mens-track-and-field,2025
+Liam Going,,Sr.,,,"Westbury, N.Y.",mens-track-and-field,2025
+Alex Georgiev,,So.,,,"Oakland, Fla.",mens-track-and-field,2025
+Shane Gardner,,Sr.,,,"Sugar Land, Texas",mens-track-and-field,2025
+Sean Golembiewski,,Jr.,,,"Hopkinton, Mass.",mens-track-and-field,2025
+Brian Gent,,Jr.,,,"Pepper Pike, Ohio",mens-track-and-field,2025
+Leo Francis,,Fr.,,,"Laguna Niguel, Calif.",mens-track-and-field,2025
+Dennis Fortuna,,Sr.,,,"Runnemede, N.J.",mens-track-and-field,2025
+Brady Golomb,,So.,,,"Elmhurst, Ill.",mens-track-and-field,2025
+Carson Edwards,,Fr.,,,"Bowie, Md.",mens-track-and-field,2025
+Griffin Gammon,,Fr.,,,"Gorham, Maine",mens-track-and-field,2025
 Brooks Mitchell,,Jr.,,,"Lewisville, Texas",mens-track-and-field,2026
 Shamus Larnard,,So.,,,"Boston, Mass.",mens-track-and-field,2026
 Benjamin Markham,,Jr.,,,"Decatur, Ga.",mens-track-and-field,2026

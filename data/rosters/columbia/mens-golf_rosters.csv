@@ -1,47 +1,98 @@
 name,position,class,height,weight,hometown,sport,year
+Joshua Suh,,Jr.,,,"La Canada, Calif.",mens-golf,2016
+Cullen Chung,,FY,,,"Westmount, Quebec",mens-golf,2016
+Christopher Chu,,Sr.,,,"Fullerton, Calif.",mens-golf,2016
+Curtis Chan,,Jr.,,,"Richmond, B.C.",mens-golf,2016
+Nick Brisebois,,FY,,,"Kanata, Ontario, Canada",mens-golf,2016
+Arjuna Anday,,Sr.,,,"Murfreesboro, Tenn.",mens-golf,2016
+Mert Selamet,,Sr.,,,"Dublin, Ohio",mens-golf,2016
+Sunny Yan,,So.,,,"Monterey, Calif.",mens-golf,2016
+Rich Mueller,,,,,,mens-golf,2016
+J Christian FitzGerald,,Sr.,,,"Plandome Manor, N.Y.",mens-golf,2016
+Tharusyan Pillay,,Sr.,,,"San Jose, Calif.",mens-golf,2016
+Arjun Puri,,FY,,,"New Delhi, India",mens-golf,2017
+Nick Brisebois,,So.,,,"Kanata, Ontario, Canada",mens-golf,2017
+Cullen Chung,,So.,,,"Westmount, Quebec",mens-golf,2017
+Youn Sung Kim,,FY,,,"Toronto, Ontario, Canada",mens-golf,2017
+Curtis Chan,,Sr.,,,"Richmond, B.C.",mens-golf,2017
+Sunny Yan,,Jr.,,,"Monterey, Calif.",mens-golf,2017
+Joshua Suh,,Sr.,,,"La Canada, Calif.",mens-golf,2017
+Dan Terrell,,FY,,,"Portland, Oregon",mens-golf,2017
+Rich Mueller,,,,,,mens-golf,2017
+John Robertson,,FY,,,"Cincinnati, Ohio",mens-golf,2017
+Nick Brisebois,,Jr.,,,"Kanata, Ontario, Canada",mens-golf,2018
+Rich Mueller,,,,,,mens-golf,2018
+Daniel Core,,FY,,,"Sorrento, Fla.",mens-golf,2018
+Dan Terrell,,So.,,,"Portland, Oregon",mens-golf,2018
+Youn Sung Kim,,So.,,,"Toronto, Ontario, Canada",mens-golf,2018
+Arjun Puri,,So.,,,"New Delhi, India",mens-golf,2018
+Pat Healy,,FY,,,"Centerport, N.Y.",mens-golf,2018
+John Robertson,,So.,,,"Cincinnati, Ohio",mens-golf,2018
+Cullen Chung,,Jr.,,,"Westmount, Quebec",mens-golf,2018
+Sunny Yan,,Sr.,,,"Monterey, Calif.",mens-golf,2018
+Derek Kim,,FY,,,"Irvine, Calif.",mens-golf,2018
+Rich Mueller,,,,,,mens-golf,2019
+Derek Kim,,So.,,,"Irvine, Calif.",mens-golf,2019
+Youn Sung Kim,,Jr.,,,"Toronto, Ontario, Canada",mens-golf,2019
+Alvin Kwak,,FY,5' 9'',,"Mukilteo, Wash.",mens-golf,2019
+Pat Healy,,So.,,,"Centerport, N.Y.",mens-golf,2019
+Dan Terrell,,Jr.,,,"Portland, Oregon",mens-golf,2019
+Daniel Core,,So.,,,"Sorrento, Fla.",mens-golf,2019
+John Robertson,,Jr.,,,"Cincinnati, Ohio",mens-golf,2019
+Nick Brisebois,,Sr.,,,"Kanata, Ontario, Canada",mens-golf,2019
+Arjun Puri,,Jr.,,,"New Delhi, India",mens-golf,2019
+Nathan Han,,FY,5' 7'',,"Somers, N.Y.",mens-golf,2019
+Cullen Chung,,Sr.,,,"Westmount, Quebec",mens-golf,2019
+Rich Mueller,,,,,,mens-golf,2020
+Daniel Core,,Jr.,,,"Sorrento, Fla.",mens-golf,2020
+DJ Francey,,FY,6' 1'',,"Weston, Fla.",mens-golf,2020
+Derek Kim,,Jr.,,,"Irvine, Calif.",mens-golf,2020
+Arjun Puri,,Sr.,,,"New Delhi, India",mens-golf,2020
+John Robertson,,Sr.,,,"Cincinnati, Ohio",mens-golf,2020
+Dan Terrell,,Sr.,,,"Portland, Oregon",mens-golf,2020
 Daniel Core,,Sr.,,,"Sorrento, Fla.",mens-golf,2021
-DJ Francey,,So.,6' 1'',,"Weston, Fla.",mens-golf,2021
 Nathan Han,,So.,5' 11'',,"Somers, N.Y.",mens-golf,2021
 Pat Healy,,Jr.,,,"Centerport, N.Y.",mens-golf,2021
-Alvin Kwak,,So.,5' 9'',,"Mukilteo, Wash.",mens-golf,2021
+DJ Francey,,So.,6' 1'',,"Weston, Fla.",mens-golf,2021
 Wyatt McGovern,,FY,5' 11'',,"Hillsborough, Calif.",mens-golf,2021
-William Sung,,FY,5' 10'',,"La Habra Heights, Calif.",mens-golf,2021
 Rich Mueller,,,,,,mens-golf,2021
+William Sung,,FY,5' 10'',,"La Habra Heights, Calif.",mens-golf,2021
+Alvin Kwak,,So.,5' 9'',,"Mukilteo, Wash.",mens-golf,2021
+Pat Healy,,Sr.,,,"Centerport, N.Y.",mens-golf,2022
+Wyatt McGovern,,So.,5' 11'',,"Hillsborough, Calif.",mens-golf,2022
+Darren Pang,,FY,6' 0'',,"Milpitas, Calif.",mens-golf,2022
+Alvin Kwak,,Jr.,5' 9'',,"Mukilteo, Wash.",mens-golf,2022
 William Sung,,So.,5' 10'',,"La Habra Heights, Calif.",mens-golf,2022
 George Rubelsky,,FY,6' 0'',,"Phoenix, Ariz.",mens-golf,2022
-Pat Healy,,Sr.,,,"Centerport, N.Y.",mens-golf,2022
-Rich Mueller,,,,,,mens-golf,2022
-Alvin Kwak,,Jr.,5' 9'',,"Mukilteo, Wash.",mens-golf,2022
-Darren Pang,,FY,6' 0'',,"Milpitas, Calif.",mens-golf,2022
-Wyatt McGovern,,So.,5' 11'',,"Hillsborough, Calif.",mens-golf,2022
 Nathan Han,,Jr.,5' 11'',,"Somers, N.Y.",mens-golf,2022
+Rich Mueller,,,,,,mens-golf,2022
 DJ Francey,,Jr.,6' 1'',,"Weston, Fla.",mens-golf,2022
-Nathan Han,,Sr.,5' 11'',,"Somers, N.Y.",mens-golf,2023
-Alvin Kwak,,Sr.,5' 9'',,"Mukilteo, Wash.",mens-golf,2023
 Wyatt McGovern,,Jr.,5' 11'',,"Hillsborough, Calif.",mens-golf,2023
-DJ Francey,,Sr.,6' 1'',,"Weston, Fla.",mens-golf,2023
-Darren Pang,,So.,6' 0'',,"Milpitas, Calif.",mens-golf,2023
 Rich Mueller,,,,,,mens-golf,2023
+Darren Pang,,So.,6' 0'',,"Milpitas, Calif.",mens-golf,2023
+Alvin Kwak,,Sr.,5' 9'',,"Mukilteo, Wash.",mens-golf,2023
 Hunter Po,,FY,5' 8'',,"San Diego, Calif.",mens-golf,2023
+DJ Francey,,Sr.,6' 1'',,"Weston, Fla.",mens-golf,2023
 George Rubelsky,,So.,6' 0'',,"Phoenix, Ariz.",mens-golf,2023
+Nathan Han,,Sr.,5' 11'',,"Somers, N.Y.",mens-golf,2023
 William Sung,,Jr.,5' 10'',,"La Habra Heights, Calif.",mens-golf,2023
 Darren Pang,,Jr.,6' 0'',,"Milpitas, Calif.",mens-golf,2024
 William Sung,,Sr.,5' 10'',,"La Habra Heights, Calif.",mens-golf,2024
 George Rubelsky,,Jr.,6' 0'',,"Phoenix, Ariz.",mens-golf,2024
+Salil Khanduja,,FY,5' 10'',,"Naperville, Ill.",mens-golf,2024
 Wyatt McGovern,,Sr.,5' 11'',,"Hillsborough, Calif.",mens-golf,2024
+Ryan Keyes,,FY,5' 10'',,"Wellesley, Mass.",mens-golf,2024
 Rich Mueller,,,,,,mens-golf,2024
 Hunter Po,,So.,5' 8'',,"San Diego, Calif.",mens-golf,2024
-Ryan Keyes,,FY,5' 10'',,"Wellesley, Mass.",mens-golf,2024
 Grant Lester,,FY,5' 10'',,"Washington, D.C.",mens-golf,2024
-Salil Khanduja,,FY,5' 10'',,"Naperville, Ill.",mens-golf,2024
-Rich Mueller,,,,,,mens-golf,2025
-Sam Johnson,,FY,,,"Brentwood, Tenn.",mens-golf,2025
-Ryan Keyes,,So.,5' 10'',,"Wellesley, Mass.",mens-golf,2025
 Neil Kulkarni,,FY,,,"Ashburn, Va.",mens-golf,2025
-George Rubelsky,,Sr.,6' 0'',,"Phoenix, Ariz.",mens-golf,2025
-Darren Pang,,Sr.,6' 0'',,"Milpitas, Calif.",mens-golf,2025
 Hunter Po,,Jr.,5' 8'',,"San Diego, Calif.",mens-golf,2025
+Darren Pang,,Sr.,6' 0'',,"Milpitas, Calif.",mens-golf,2025
 Alejandro Formosa,,FY,,,"San Mateo, Calif.",mens-golf,2025
+Ryan Keyes,,So.,5' 10'',,"Wellesley, Mass.",mens-golf,2025
+Sam Johnson,,FY,,,"Brentwood, Tenn.",mens-golf,2025
+Rich Mueller,,,,,,mens-golf,2025
+George Rubelsky,,Sr.,6' 0'',,"Phoenix, Ariz.",mens-golf,2025
 Salil Khanduja,,So.,5' 10'',,"Naperville, Ill.",mens-golf,2025
 Tom Yu,,FY,6' 0'',,"Arcadia, Calif.",mens-golf,2026
 Spencer Carter,,FY,5' 10'',,"Dallas, Texas",mens-golf,2026

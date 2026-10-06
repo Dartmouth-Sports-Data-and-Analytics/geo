@@ -1,125 +1,239 @@
 name,position,class,height,weight,hometown,sport,year
+Sabrina Huett,F,Fy.,5' 9'',,"Plainfield, N.H.",womens-ice-hockey,2016
+Katy Ratty,F,Sr.,5' 2'',,"Northfield, Ill.",womens-ice-hockey,2016
+Bailee Brekke,D,Fy.,5' 7'',,"Waddington, N.Y.",womens-ice-hockey,2016
+Devon Moir,F,Sr.,5' 5'',,"Toronto, Ontario",womens-ice-hockey,2016
+Robyn Chemago,G,Sr.,5' 6'',,"Slave Lake, Alberta",womens-ice-hockey,2016
+Christine Honor,G,So.,5' 8'',,"Mississauga, Ontario",womens-ice-hockey,2016
+Emma Korbs,D,Sr.,5' 6'',,"Toronto, Ontario",womens-ice-hockey,2016
+Sara López-Wheeler,D,Fy.,5' 11'',,"Cambridge, Mass.",womens-ice-hockey,2016
+Morgan Turner,F,Jr.,5' 8'',,"Chicago, Ill.",womens-ice-hockey,2016
+Alyssa Baker,F,So.,5' 6'',,"Ottawa, Ontario",womens-ice-hockey,2016
+Laura Schuler,,,,,,womens-ice-hockey,2016
+Kennedy Ottenbreit,F,Sr.,5' 8'',,"Grayson, Saskatchewan",womens-ice-hockey,2016
+Brooke Ahbe,F,Jr.,5' 8'',,"Centennial, Colo.",womens-ice-hockey,2016
+Hailey Noronha,D,Jr.,5' 5'',,"Newmarket, Ontario",womens-ice-hockey,2016
+Shannon Ropp,G,So.,5' 4'',,"West Bloomfield, Mich.",womens-ice-hockey,2016
+Rose Falzone,F,Fy.,5' 4'',,"Nobleton, Ontario",womens-ice-hockey,2016
+Cecilia Lopez,F,Fy.,5' 8'',,"Winnipeg, Manitoba",womens-ice-hockey,2016
+Mackenzie St. Onge,F,Sr.,5' 7'',,"Stowe, Vt.",womens-ice-hockey,2016
+Christina Rombaut,F,Fy.,5' 6'',,"Rothesay, New Brunswick",womens-ice-hockey,2016
+Sydney Hill,D,Fy.,5' 5'',,"Redvers, Saskatchewan",womens-ice-hockey,2016
+Caroline Shaunessy,D,So.,5' 9'',,"Duxbury, Mass.",womens-ice-hockey,2016
+Tess Bracken,D,So.,5' 7'',,"Winnipeg, Manitoba",womens-ice-hockey,2016
+Kate Landers,F,So.,5' 5'',,"Chicago, Ill.",womens-ice-hockey,2016
+Eleni Tebano,D,Sr.,5' 6'',,"Glastonbury, Conn.",womens-ice-hockey,2016
+Katerina Dajia,D,Fy.,5' 7'',,"Aurora, Ontario",womens-ice-hockey,2017
+Kate Landers,F,Jr.,5' 5'',,"Chicago, Ill.",womens-ice-hockey,2017
+Brooke Ahbe,F,Sr.,5' 8'',,"Centennial, Colo.",womens-ice-hockey,2017
+Christine Honor,G,Jr.,5' 8'',,"Mississauga, Ontario",womens-ice-hockey,2017
+Linda Essery,F,Fy.,5' 5'',,"Rockfall, Conn.",womens-ice-hockey,2017
+Shannon Ropp,G,Jr.,5' 4'',,"West Bloomfield, Mich.",womens-ice-hockey,2017
+Hailey Noronha,D,Sr.,5' 5'',,"Newmarket, Ontario",womens-ice-hockey,2017
+Laura Schuler,,,,,,womens-ice-hockey,2017
+Kayla Wormsbecher,G,Fy.,5' 4'',,"Mississauga, Ontario",womens-ice-hockey,2017
+Rose Falzone,F,So.,5' 4'',,"Nobleton, Ontario",womens-ice-hockey,2017
+Sydney Hill,F,So.,5' 5'',,"Redvers, Saskatchewan",womens-ice-hockey,2017
+Alyssa Baker,F,Jr.,5' 6'',,"Ottawa, Ontario",womens-ice-hockey,2017
+Megan Cornell,D,Fy.,5' 2'',,"Bloomington, Minn.",womens-ice-hockey,2017
+Christina Rombaut,F,So.,5' 6'',,"Rothesay, New Brunswick",womens-ice-hockey,2017
+Caroline Shaunessy,D,Jr.,5' 9'',,"Duxbury, Mass.",womens-ice-hockey,2017
+Sabrina Huett,F,So.,5' 9'',,"Plainfield, N.H.",womens-ice-hockey,2017
+Tess Bracken,D,Jr.,5' 7'',,"Winnipeg, Manitoba",womens-ice-hockey,2017
+Bailee Brekke,D,So.,5' 7'',,"Waddington, N.Y.",womens-ice-hockey,2017
+Morgan Turner,F,Sr.,5' 8'',,"Chicago, Ill.",womens-ice-hockey,2017
+Jennifer Costa,F,Fy.,5' 8'',,"Pawtucket, R.I.",womens-ice-hockey,2017
+Taylor Matherson,D,Fy.,5' 8'',,"Walpole, Mass.",womens-ice-hockey,2017
+Emily McLaughlin,F,Fy.,5' 7'',,"Eden Prairie, Minn.",womens-ice-hockey,2017
+Sara McClanahan,F,Fy.,5' 6'',,"Wayzata, Minn.",womens-ice-hockey,2018
+Emily McLaughlin,F,So.,5' 7'',,"Eden Prairie, Minn.",womens-ice-hockey,2018
+Christina Rombaut,F,Jr.,5' 6'',,"Rothesay, New Brunswick",womens-ice-hockey,2018
+Megan Cornell,D,So.,5' 2'',,"Bloomington, Minn.",womens-ice-hockey,2018
+Caroline Shaunessy,D,Sr.,5' 9'',,"Duxbury, Mass.",womens-ice-hockey,2018
+Linda Essery,F,So.,5' 5'',,"Rockfall, Conn.",womens-ice-hockey,2018
+Givanna Foglia,D,Fy.,5' 5'',,"Tinton Falls, N.J.",womens-ice-hockey,2018
+Sydney Hill,F/D,Jr.,5' 5'',,"Redvers, Saskatchewan",womens-ice-hockey,2018
+Bailee Brekke,D,Jr.,5' 7'',,"Waddington, N.Y.",womens-ice-hockey,2018
+Alyssa Baker,F,Sr.,5' 6'',,"Ottawa, Ontario",womens-ice-hockey,2018
+Gabby Billing,F,Fy.,5' 3'',,"Corcoran, Minn.",womens-ice-hockey,2018
+Jennifer Costa,F,So.,5' 8'',,"Pawtucket, R.I.",womens-ice-hockey,2018
+Brooke Schroeder,D,Fy.,5' 7'',,"Bayfield, Ontario",womens-ice-hockey,2018
+Kayla Wormsbecher,G,So.,5' 4'',,"Mississauga, Ontario",womens-ice-hockey,2018
+Lotti Odnoga,D,Fy.,5' 9'',,"Györ, Hungary",womens-ice-hockey,2018
+Laura Schuler,,,,,,womens-ice-hockey,2018
+Chloe Puddifant,F,Fy.,5' 9'',,"Calgary, Alberta",womens-ice-hockey,2018
+Shannon Ropp,G,Sr.,5' 4'',,"West Bloomfield, Mich.",womens-ice-hockey,2018
+Rose Falzone,F,Jr.,5' 4'',,"Nobleton, Ontario",womens-ice-hockey,2018
+Katerina Dajia,D,So.,5' 7'',,"Aurora, Ontario",womens-ice-hockey,2018
+Jess Forcey,F,Fy.,5' 6'',,"London, Ontario",womens-ice-hockey,2018
+Tess Bracken,F,Sr.,5' 7'',,"Winnipeg, Manitoba",womens-ice-hockey,2018
+Kate Landers,F,Sr.,5' 5'',,"Chicago, Ill.",womens-ice-hockey,2018
+Christine Honor,G,Sr.,5' 8'',,"Mississauga, Ontario",womens-ice-hockey,2018
+Catherine Trevors,F,Fy.,5' 9'',,"Oakville, Ontario",womens-ice-hockey,2019
+Charlie Plumb,G,Sr.,5' 7'',,"Sag Harbor, N.Y.",womens-ice-hockey,2019
+Brooke Schroeder,D,So.,5' 7'',,"Bayfield, Ontario",womens-ice-hockey,2019
+Lotti Odnoga,D,So.,5' 9'',,"Györ, Hungary",womens-ice-hockey,2019
+Sydney Hill,F/D,Sr.,5' 5'',,"Redvers, Saskatchewan",womens-ice-hockey,2019
+Jess Forcey,F,So.,5' 6'',,"London, Ontario",womens-ice-hockey,2019
+Hann Humphreys,G,Fy.,5' 9'',,"Chevy Chase, Md.",womens-ice-hockey,2019
+Currie Putrah,F,Fy.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2019
+Katerina Dajia,D,Jr.,5' 7'',,"Aurora, Ontario",womens-ice-hockey,2019
+Gabby Billing,F,So.,5' 3'',,"Corcoran, Minn.",womens-ice-hockey,2019
+Kayla Wormsbecher,G,Jr.,5' 4'',,"Mississauga, Ontario",womens-ice-hockey,2019
+Emily McLaughlin,F,Jr.,5' 7'',,"Eden Prairie, Minn.",womens-ice-hockey,2019
+Laura Schuler,,,,,,womens-ice-hockey,2019
+Christina Rombaut,F,Sr.,5' 6'',,"Rothesay, New Brunswick",womens-ice-hockey,2019
+Celine Pietraszek,F,Fy.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2019
+Megan Cornell,D,Jr.,5' 2'',,"Bloomington, Minn.",womens-ice-hockey,2019
+CC Bowlby,F,Fy.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2019
+Georgia Kraus,F,Fy.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2019
+Jennifer Costa,F,Jr.,5' 8'',,"Pawtucket, R.I.",womens-ice-hockey,2019
+Givanna Foglia,D,So.,5' 5'',,"Tinton Falls, N.J.",womens-ice-hockey,2019
+Bailee Brekke,D,Sr.,5' 7'',,"Waddington, N.Y.",womens-ice-hockey,2019
+Sara McClanahan,F,So.,5' 6'',,"Wayzata, Minn.",womens-ice-hockey,2019
+Jenna Donohue,F,Fy.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2020
+Katerina Dajia,D,Sr.,5' 7'',,"Aurora, Ontario",womens-ice-hockey,2020
+Brooke Schroeder,D,Jr.,5' 7'',,"Bayfield, Ontario",womens-ice-hockey,2020
+Georgia Kraus,F,So.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2020
+Lotti Odnoga,D,Jr.,5' 9'',,"Györ, Hungary",womens-ice-hockey,2020
+Catherine Trevors,F,So.,5' 9'',,"Oakville, Ontario",womens-ice-hockey,2020
+Tiffany Hill,F,Fy.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2020
+Morgan Illikainen,,,,,,womens-ice-hockey,2020
+Annie King,D,Fy.,5' 5'',,"Regina, Sask.",womens-ice-hockey,2020
+Hann Humphreys,G,So.,5' 9'',,"Chevy Chase, Md.",womens-ice-hockey,2020
+Kayla Wormsbecher,G,Sr.,5' 4'',,"Mississauga, Ontario",womens-ice-hockey,2020
+Sara McClanahan,F,Jr.,5' 6'',,"Wayzata, Minn.",womens-ice-hockey,2020
+Megan Cornell,D,Sr.,5' 2'',,"Bloomington, Minn.",womens-ice-hockey,2020
+Abby Grexton,F,Fy.,5' 10'',,"Thornbury, Ontario",womens-ice-hockey,2020
+Sophie Robinson,D,Fy.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2020
+Jennifer Costa,F,Sr.,5' 8'',,"Pawtucket, R.I.",womens-ice-hockey,2020
+Currie Putrah,F,So.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2020
+Gabby Billing,F,Jr.,5' 3'',,"Corcoran, Minn.",womens-ice-hockey,2020
+Givanna Foglia,D,Jr.,5' 5'',,"Tinton Falls, N.J.",womens-ice-hockey,2020
+CC Bowlby,F,So.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2020
+Emily McLaughlin,F,Sr.,5' 7'',,"Eden Prairie, Minn.",womens-ice-hockey,2020
+Celine Pietraszek,F,So.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2020
 Kenzie Bachelor,D,Fy.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2021
-Tiffany Hill,F,So.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2021
-Kate McDermott,F,Fy.,5' 7'',,"Duxbury, Mass.",womens-ice-hockey,2021
-Gabby Billing,F,Sr.,5' 3'',,"Corcoran, Minn.",womens-ice-hockey,2021
-Sydney Herrington,F,Jr.,5' 9'',,"Bow, N.H.",womens-ice-hockey,2021
-Sophie Robinson,D,So.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2021
-Georgia Kraus,F,Jr.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2021
-Jenna Donohue,F,So.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2021
-CC Bowlby,F,Jr.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2021
-Lauren Messier,F,Fy.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2021
-Annie King,D,So.,5' 5'',,"Regina, Sask.",womens-ice-hockey,2021
+Hann Humphreys,G,Jr.,5' 9'',,"Chevy Chase, Md.",womens-ice-hockey,2021
+Laura Fuoco,F,Fy.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2021
+Currie Putrah,F,Jr.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2021
+Lotti Odnoga,D,Sr.,5' 9'',,"Györ, Hungary",womens-ice-hockey,2021
+Liz Keady Norton,,,,,,womens-ice-hockey,2021
+Maggie Emerson,G,Fy.,5' 6'',,"Belmont, Mass.",womens-ice-hockey,2021
+Catherine Trevors,F,Jr.,5' 9'',,"Oakville, Ontario",womens-ice-hockey,2021
+Celine Pietraszek,F,Jr.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2021
+Caroline Appleyard,F,Fy.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2021
 Abby Grexton,F,So.,5' 10'',,"Thornbury, Ontario",womens-ice-hockey,2021
 Brooke Schroeder,D,Sr.,5' 7'',,"Bayfield, Ontario",womens-ice-hockey,2021
-Caroline Appleyard,F,Fy.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2021
-Lotti Odnoga,D,Sr.,5' 9'',,"Györ, Hungary",womens-ice-hockey,2021
-Catherine Trevors,F,Jr.,5' 9'',,"Oakville, Ontario",womens-ice-hockey,2021
-Hann Humphreys,G,Jr.,5' 9'',,"Chevy Chase, Md.",womens-ice-hockey,2021
-Maggie Emerson,G,Fy.,5' 6'',,"Belmont, Mass.",womens-ice-hockey,2021
-Liz Keady Norton,,,,,,womens-ice-hockey,2021
-Currie Putrah,F,Jr.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2021
-Celine Pietraszek,F,Jr.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2021
-Laura Fuoco,F,Fy.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2021
-Izee Powell,D,Fy.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2022
-Sophie Robinson,D,Jr.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2022
-Cally Dixon,F,Fy.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2022
-Kenzie Bachelor,D,So.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2022
-Sydney Herrington,F,Sr.,5' 9'',,"Bow, N.H.",womens-ice-hockey,2022
-Abby Grexton,F,Jr.,5' 10'',,"Thornbury, Ontario",womens-ice-hockey,2022
-Georgia Kraus,F,Sr.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2022
-Jenna Donohue,F,Jr.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2022
-Laura Fuoco,F,So.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2022
-Celine Pietraszek,F,Sr.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2022
-Shae Messner,F,Fy.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2022
-CC Bowlby,F,Sr.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2022
-Lauren Messier,F,So.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2022
-Elle Sullivan,G,Fy.,5' 8'',,"Shrewsbury, Mass.",womens-ice-hockey,2022
-Vanessa Stamper,F,Fy.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2022
-Kate McDermott,F,So.,5' 7'',,"Duxbury, Mass.",womens-ice-hockey,2022
-Maura Fiorenza,D,Fy.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2022
+Gabby Billing,F,Sr.,5' 3'',,"Corcoran, Minn.",womens-ice-hockey,2021
+CC Bowlby,F,Jr.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2021
+Jenna Donohue,F,So.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2021
+Georgia Kraus,F,Jr.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2021
+Sophie Robinson,D,So.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2021
+Lauren Messier,F,Fy.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2021
+Sydney Herrington,F,Jr.,5' 9'',,"Bow, N.H.",womens-ice-hockey,2021
+Kate McDermott,F,Fy.,5' 7'',,"Duxbury, Mass.",womens-ice-hockey,2021
+Tiffany Hill,F,So.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2021
+Annie King,D,So.,5' 5'',,"Regina, Sask.",womens-ice-hockey,2021
+Maggie Emerson,G,So.,5' 6'',,"Belmont, Mass.",womens-ice-hockey,2022
 Carlie Primomo,F,So.,5' 3'',,"Toronto, Ontario",womens-ice-hockey,2022
 Caroline Appleyard,D,So.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2022
 Meredith Jensen,D,Fy.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2022
-Maggie Emerson,G,So.,5' 6'',,"Belmont, Mass.",womens-ice-hockey,2022
 Currie Putrah,F,Sr.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2022
-Tiffany Hill,F,Jr.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2022
+Izee Powell,D,Fy.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2022
 Annie King,D,Jr.,5' 5'',,"Regina, Sask.",womens-ice-hockey,2022
 Liz Keady Norton,,,,,,womens-ice-hockey,2022
-Kenzie Bachelor,D,Jr.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2023
-Dayton O'Donoghue,F,Fy.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2023
-Shae Messner,F,So.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2023
-Hamilton Doster,F,Fy.,5' 3'',,"Bedford Hills, N.Y.",womens-ice-hockey,2023
-Izee Powell,D,So.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2023
-Sophie Robinson,D(C),Sr.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2023
-Mia Buonarosa,F,Fy.,5' 4'',,"Reading, Mass.",womens-ice-hockey,2023
+Kenzie Bachelor,D,So.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2022
+Vanessa Stamper,F,Fy.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2022
+Shae Messner,F,Fy.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2022
+Jenna Donohue,F,Jr.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2022
+Tiffany Hill,F,Jr.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2022
+Abby Grexton,F,Jr.,5' 10'',,"Thornbury, Ontario",womens-ice-hockey,2022
+Elle Sullivan,G,Fy.,5' 8'',,"Shrewsbury, Mass.",womens-ice-hockey,2022
+Lauren Messier,F,So.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2022
+CC Bowlby,F,Sr.,5' 4'',,"Edina, Minn.",womens-ice-hockey,2022
+Celine Pietraszek,F,Sr.,5' 5'',,"Colorado Springs, Colo.",womens-ice-hockey,2022
+Laura Fuoco,F,So.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2022
+Maura Fiorenza,D,Fy.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2022
+Georgia Kraus,F,Sr.,5' 5'',,"West Hartford, Conn.",womens-ice-hockey,2022
+Cally Dixon,F,Fy.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2022
+Sophie Robinson,D,Jr.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2022
+Sydney Herrington,F,Sr.,5' 9'',,"Bow, N.H.",womens-ice-hockey,2022
+Kate McDermott,F,So.,5' 7'',,"Duxbury, Mass.",womens-ice-hockey,2022
 Eleanor Rogers,G,Fy.,5' 5'',,"Locust Valley, N.Y.",womens-ice-hockey,2023
-Lauren Messier,F(C),Jr.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2023
-Laura Fuoco,F,Jr.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2023
-Jenna Donohue,F,Sr.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2023
+Mia Buonarosa,F,Fy.,5' 4'',,"Reading, Mass.",womens-ice-hockey,2023
 Cally Dixon,F,So.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2023
+Jenna Donohue,F,Sr.,5' 8'',,"South Salem, N.Y.",womens-ice-hockey,2023
+Laura Fuoco,F,Jr.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2023
+Izee Powell,D,So.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2023
+Hamilton Doster,F,Fy.,5' 3'',,"Bedford Hills, N.Y.",womens-ice-hockey,2023
+Dayton O'Donoghue,F,Fy.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2023
 Olivia Paidosh,D,Fy.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2023
-Caroline Appleyard,D,Jr.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2023
+Shae Messner,F,So.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2023
+Sophie Robinson,D(C),Sr.,5' 9'',,"Baxter, Minn.",womens-ice-hockey,2023
+Lauren Messier,F(C),Jr.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2023
+Maura Fiorenza,D,So.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2023
+Meredith Jensen,F,So.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2023
 Anne Averill,D,Fy.,5' 10'',,"Wayland, Mass.",womens-ice-hockey,2023
+Kenzie Bachelor,D,Jr.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2023
 Hann Humphreys,G,5th,5' 9'',,"Chevy Chase, Md.",womens-ice-hockey,2023
 Tiffany Hill,F,Sr.,5' 5'',,"Dartmouth, N.S.",womens-ice-hockey,2023
-Sydney Vandenberg,F,Fy.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2023
-Meredith Jensen,F,So.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2023
-Vanessa Stamper,F,So.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2023
-Maura Fiorenza,D,So.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2023
 Ellie Morrison,F,Fy.,5' 6'',,"Hopkins, Minn.",womens-ice-hockey,2023
 Annie King,D,Sr.,5' 2'',,"Regina, Sask.",womens-ice-hockey,2023
 Liz Keady Norton,,,,,,womens-ice-hockey,2023
-Ellie Morrison,F,So.,5' 6'',,"Hopkins, Minn.",womens-ice-hockey,2024
-Lauren Messier,F,Sr.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2024
-Cally Dixon,F,Jr.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2024
-Laura Fuoco,F,Sr.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2024
+Caroline Appleyard,D,Jr.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2023
+Vanessa Stamper,F,So.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2023
+Sydney Vandenberg,F,Fy.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2023
 Mia Buonarosa,F,So.,5' 4'',,"Reading, Mass.",womens-ice-hockey,2024
-Dayton O'Donoghue,F,So.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2024
+Laura Fuoco,F,Sr.,5' 11'',,"Mississauga, Ont.",womens-ice-hockey,2024
+Bridget Pringle,F,Fy.,5' 7'',,"Clayton, Ont.",womens-ice-hockey,2024
+Olivia Paidosh,D,So.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2024
+Michaela Hesová,G,Fy.,5' 6'',,"Prague, Czech Republic",womens-ice-hockey,2024
+Jiahui Zhan,G,Fy.,5' 8'',,"Beijing, China",womens-ice-hockey,2024
+Sydney Vandenberg,F,So.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2024
+Vanessa Stamper,F,Jr.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2024
+Kenzie Bachelor,D,Sr.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2024
+Ellie Morrison,F,So.,5' 6'',,"Hopkins, Minn.",womens-ice-hockey,2024
+Hailey Maguire,D,Fy.,5' 5'',,"Whitby, Ont.",womens-ice-hockey,2024
+Meredith Jensen,F,Jr.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2024
+Lauren Messier,F,Sr.,5' 5'',,"Burlington, Ont.",womens-ice-hockey,2024
+Anne Averill,D,So.,5' 10'',,"Wayland, Mass.",womens-ice-hockey,2024
+Eleanor Rogers,G,So.,5' 5'',,"Locust Valley, N.Y.",womens-ice-hockey,2024
+Izee Powell,D,Jr.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2024
 Shae Messner,F,Jr.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2024
+Dayton O'Donoghue,F,So.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2024
 Ella Inglis,F,Fy.,5' 11'',,"Pickering, Ont.",womens-ice-hockey,2024
 Hamilton Doster,F,So.,5' 3'',,"Bedford Hills, N.Y.",womens-ice-hockey,2024
-Meredith Jensen,F,Jr.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2024
-Sydney Putrah,D,Fy.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2024
-Anne Averill,D,So.,5' 10'',,"Wayland, Mass.",womens-ice-hockey,2024
-Vanessa Stamper,F,Jr.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2024
-Maura Fiorenza,D,Jr.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2024
-Eleanor Rogers,G,So.,5' 5'',,"Locust Valley, N.Y.",womens-ice-hockey,2024
-Maura Crowell,,,,,,womens-ice-hockey,2024
-Hailey Maguire,D,Fy.,5' 5'',,"Whitby, Ont.",womens-ice-hockey,2024
-Sydney Vandenberg,F,So.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2024
-Michaela Hesová,G,Fy.,5' 6'',,"Prague, Czech Republic",womens-ice-hockey,2024
-Bridget Pringle,F,Fy.,5' 7'',,"Clayton, Ont.",womens-ice-hockey,2024
-Kenzie Bachelor,D,Sr.,5' 10'',,"Shakopee, Minn.",womens-ice-hockey,2024
-Jiahui Zhan,G,Fy.,5' 8'',,"Beijing, China",womens-ice-hockey,2024
-Izee Powell,D,Jr.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2024
-Olivia Paidosh,D,So.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2024
+Cally Dixon,F,Jr.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2024
 Caroline Appleyard,D,Sr.,5' 7'',,"Rye, N.Y.",womens-ice-hockey,2024
-Meredith Jensen,D,Sr.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2025
-Mia Buonarosa,F,Jr.,5' 4'',,"Reading, Mass.",womens-ice-hockey,2025
-Miami Jones,D,Fy.,5' 9'',,"San Diego, Calif.",womens-ice-hockey,2025
-Sophia Chard,F,Fy.,5' 6'',,"Burlington, Ont.",womens-ice-hockey,2025
-Shae Messner,F,Sr.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2025
-Cally Dixon,F,Sr.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2025
-Brielle Kelly-Paquet,F,Fy.,5' 6'',,"Kelowna, British Columbia",womens-ice-hockey,2025
+Sydney Putrah,D,Fy.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2024
+Maura Fiorenza,D,Jr.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2024
+Maura Crowell,,,,,,womens-ice-hockey,2024
 Anne Averill,D,Jr.,5' 10'',,"Wayland, Mass.",womens-ice-hockey,2025
-Dayton O'Donoghue,F,Jr.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2025
-Bridget Pringle,F,So.,5' 7'',,"Clayton, Ont.",womens-ice-hockey,2025
-Eleanor Rogers,G,Jr.,5' 5'',,"Locust Valley, N.Y.",womens-ice-hockey,2025
-Hailey Maguire,D,So.,5' 6'',,"Whitby, Ont.",womens-ice-hockey,2025
-Izee Powell,D,Sr.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2025
+Nikita Danchak,D,Fy.,5' 7'',,"Westport, Conn.",womens-ice-hockey,2025
 Jiahui Zhan,G,So.,5' 8'',,"Beijing, China",womens-ice-hockey,2025
 Hamilton Doster,F,Jr.,5' 3'',,"Bedford Hills, N.Y.",womens-ice-hockey,2025
-Sydney Vandenberg,F,Jr.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2025
-Maura Crowell,,,,,,womens-ice-hockey,2025
-Maura Fiorenza,D,Sr.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2025
-Michaela Hesová,G,So.,5' 6'',,"Prague, Czech Republic",womens-ice-hockey,2025
 Ella Inglis,F,So.,5' 11'',,"Pickering, Ont.",womens-ice-hockey,2025
-Vanessa Stamper,F,Sr.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2025
-Kenzington Lehman,F,Fy.,5' 9'',,"Ottawa, Ont.",womens-ice-hockey,2025
+Sophia Chard,F,Fy.,5' 6'',,"Burlington, Ont.",womens-ice-hockey,2025
 Olivia Paidosh,D,Jr.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2025
+Vanessa Stamper,F,Sr.,5' 3'',,"Bloomfield Hills, Mich.",womens-ice-hockey,2025
+Cally Dixon,F,Sr.,5' 7'',,"Woodbridge, Conn.",womens-ice-hockey,2025
+Meredith Jensen,D,Sr.,5' 8'',,"Lakeville, Minn.",womens-ice-hockey,2025
+Sydney Vandenberg,F,Jr.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2025
+Bridget Pringle,F,So.,5' 7'',,"Clayton, Ont.",womens-ice-hockey,2025
+Maura Fiorenza,D,Sr.,5' 10'',,"Wilmington, Mass.",womens-ice-hockey,2025
+Eleanor Rogers,G,Jr.,5' 5'',,"Locust Valley, N.Y.",womens-ice-hockey,2025
+Miami Jones,D,Fy.,5' 9'',,"San Diego, Calif.",womens-ice-hockey,2025
+Izee Powell,D,Sr.,5' 4'',,"Oxford, Ohio",womens-ice-hockey,2025
+Shae Messner,F,Sr.,5' 7'',,"Mound, Minn.",womens-ice-hockey,2025
+Brielle Kelly-Paquet,F,Fy.,5' 6'',,"Kelowna, British Columbia",womens-ice-hockey,2025
 Sydney Putrah,D,So.,5' 6'',,"Faribault, Minn.",womens-ice-hockey,2025
-Nikita Danchak,D,Fy.,5' 7'',,"Westport, Conn.",womens-ice-hockey,2025
+Hailey Maguire,D,So.,5' 6'',,"Whitby, Ont.",womens-ice-hockey,2025
+Maura Crowell,,,,,,womens-ice-hockey,2025
+Mia Buonarosa,F,Jr.,5' 4'',,"Reading, Mass.",womens-ice-hockey,2025
+Dayton O'Donoghue,F,Jr.,5' 3'',,"Toronto, Ont.",womens-ice-hockey,2025
+Kenzington Lehman,F,Fy.,5' 9'',,"Ottawa, Ont.",womens-ice-hockey,2025
+Michaela Hesová,G,So.,5' 6'',,"Prague, Czech Republic",womens-ice-hockey,2025
 Ellie Zakrajsheck,F,So.,5' 6'',,"Golden Valley, Minn.",womens-ice-hockey,2026
 Addy Cowan,F,Fy.,5' 8'',,"Prior Lake, Minn.",womens-ice-hockey,2026
 Sydney Vandenberg,F,Sr.,5' 6'',,"Dorchester, Ont.",womens-ice-hockey,2026

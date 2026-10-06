@@ -1,45 +1,112 @@
 name,position,class,height,weight,hometown,sport,year
+Emily Sherwood,,So.,,,"Brooklyn Heights, N.Y.",womens-squash,2016
+Shiyuan Mao,,Sr.,,,Singapore,womens-squash,2016
+Selena Maity,,Jr.,,,"Bryn Mawr, Pa.",womens-squash,2016
+Jocelyn Lehman,,Jr.,,,"Greenwich, Conn.",womens-squash,2016
+Jen Davis,,Jr.,,,"Wilmington, Del.",womens-squash,2016
+Aishwarya Bhattacharya,,Fy.,,,"Mumbai, India",womens-squash,2016
+Lucy Beecroft,,Fy.,,,"Newcastle, England",womens-squash,2016
+Helen Teegan,,Fy.,,,"Seattle, WA",womens-squash,2016
+Madeline Tomlinson,,Sr.,,,"Derbyshire, U.K.",womens-squash,2016
+Jessica Yacobucci,,Fy.,,,"Greenwich, CT",womens-squash,2016
+Celine Yeap,,So.,,,"Penang, Malaysia",womens-squash,2016
+Jenny Scherl,,Sr.,,,"South Orange, N.J.",womens-squash,2016
+Ashley Suan,,Jr.,,,"Baltimore, Md.",womens-squash,2016
+Emily Sherwood,,Jr.,,,"Brooklyn Heights, N.Y.",womens-squash,2017
+Alexis Lazor,,Rs.,,,"Westwood, Mass.",womens-squash,2017
+Anika Bhargava,,Rs.,,,"Ann Arbor, MI",womens-squash,2017
+Lucy Beecroft,,So.,,,"Newcastle, England",womens-squash,2017
+Jen Davis,,Sr.,,,"Wilmington, Del.",womens-squash,2017
+Nikita Joshi,,Rs.,,,"Mumbai, India",womens-squash,2017
+Aishwarya Bhattacharya,,Rs.,,,"Mumbai, India",womens-squash,2017
+Helen Teegan,,So.,,,"Seattle, WA",womens-squash,2017
+Selena Maity,,Sr.,,,"Bryn Mawr, Pa.",womens-squash,2017
+Riya Mital,,Rs.,,,"West Harrison, N.Y.",womens-squash,2017
+Ashley Suan,,Sr.,,,"Baltimore, Md.",womens-squash,2017
+Celine Yeap,,Jr.,,,"Penang, Malaysia",womens-squash,2017
+Jessica Yacobucci,,So.,,,"Greenwich, CT",womens-squash,2017
+Jocelyn Lehman,,Sr.,,,"Greenwich, Conn.",womens-squash,2017
+Emily Sherwood,,Sr.,,,"Brooklyn Heights, N.Y.",womens-squash,2018
+Avery Westerfield,,Fy.,,,"Greenwich, CT",womens-squash,2018
+Nikita Joshi,,So.,,,"Mumbai, India",womens-squash,2018
+Ainsley Weber,,Fy.,,,"Newport, RI",womens-squash,2018
+Celine Yeap,,Sr.,,,"Penang, Malaysia",womens-squash,2018
+Aishwarya Bhattacharya,,So.,,,"Mumbai, India",womens-squash,2018
+Jessica Yacobucci,,Jr.,,,"Greenwich, CT",womens-squash,2018
+Molly Tomlinson,,Fy.,,,"Derbyshire, England",womens-squash,2018
+Anika Bhargava,,So.,,,"Ann Arbor, MI",womens-squash,2018
+Alexis Lazor,,So.,,,"Westwood, Mass.",womens-squash,2018
+Riya Mital,,So.,,,"West Harrison, N.Y.",womens-squash,2018
+Helen Teegan,,So.,,,"Seattle, WA",womens-squash,2018
+Lucy Beecroft,,Jr.,,,"Newcastle, England",womens-squash,2018
+Gigi Yeung,,Fy.,,,"Macau, China",womens-squash,2019
+Jessica Yacobucci,,Sr.,,,"Greenwich, CT",womens-squash,2019
+Molly Tomlinson,,So.,,,"Derbyshire, England",womens-squash,2019
+Helen Teegan,,Jr.,,,"Seattle, WA",womens-squash,2019
+Ainsley Weber,,So.,,,"Newport, RI",womens-squash,2019
+Julia Zhukovets,,Fy.,,,"Kiev, Ukraine",womens-squash,2019
+Elisabeth Ross,,Fy.,,,"Philadelphia, PA",womens-squash,2019
+Riya Mital,,Jr.,,,"West Harrison, N.Y.",womens-squash,2019
+Anika Bhargava,,Jr.,,,"Ann Arbor, MI",womens-squash,2019
+Lucy Beecroft,,Sr.,,,"Newcastle, England",womens-squash,2019
+Alexis Lazor,,Jr.,,,"Westwood, Mass.",womens-squash,2019
+Nikita Joshi,,Jr.,,,"Mumbai, India",womens-squash,2019
+Brianna Jefferson,,Fy.,,,"Mississauga ,Ontario",womens-squash,2019
+Aishwarya Bhattacharya,,Jr.,,,"Mumbai, India",womens-squash,2019
+Gigi Yeung,,So.,,,"Macau, China",womens-squash,2020
+Ainsley Weber,,Jr.,,,"Newport, RI",womens-squash,2020
+Molly Tomlinson,,Jr.,,,"Derbyshire, England",womens-squash,2020
+Helen Teegan,,Sr.,,,"Seattle, WA",womens-squash,2020
+Julia Zhukovets,,So.,,,"Kiev, Ukraine",womens-squash,2020
+Meghna Sreedhar,,Fy.,,,"Berwyn, Pa.",womens-squash,2020
+Nikita Joshi,,Sr.,,,"Mumbai, India",womens-squash,2020
+Elisabeth Ross,,So.,,,"Philadelphia, PA",womens-squash,2020
+Sneha Sivakumar,,Fy.,,,Singapore,womens-squash,2020
+Riya Mital,,Sr.,,,"West Harrison, N.Y.",womens-squash,2020
+Alexis Lazor,,Sr.,,,"Westwood, Mass.",womens-squash,2020
+Anika Bhargava,,Sr.,,,"Ann Arbor, MI",womens-squash,2020
+Brianna Jefferson,,So.,,,"Mississauga ,Ontario",womens-squash,2020
+Aishwarya Bhattacharya,,Sr.,,,"Mumbai, India",womens-squash,2020
 Anika Bhargava,,Sr.,,,"Ann Arbor, MI",womens-squash,2021
-Ainsley Weber,,Sr.,,,"Newport, RI",womens-squash,2021
-Nina Varma,,Fy.,,,"Houston, Texas",womens-squash,2021
-Sneha Sivakumar,,So.,,,Singapore,womens-squash,2021
-Aishwarya Bhattacharya,,Gr.,,,"Mumbai, India",womens-squash,2021
-Elisabeth Ross,,So.,,,"Philadelphia, PA",womens-squash,2021
-Lindsay Westerfield,,Fy.,,,"Greenwich, Conn.",womens-squash,2021
-Brianna Jefferson,,Jr.,,,"Mississauga ,Ontario",womens-squash,2021
-Molly Tomlinson,,Sr.,,,"Derbyshire, England",womens-squash,2021
-Gigi Yeung,,So.,,,"Macau, China",womens-squash,2021
-Julia Zhukovets,,Jr.,,,"Kiev, Ukraine",womens-squash,2021
 Meghna Sreedhar,,Fy.,,,"Berwyn, Pa.",womens-squash,2021
-Nina Mital,,Fy.,,,"West Harrison, N.Y.",womens-squash,2021
+Julia Zhukovets,,Jr.,,,"Kiev, Ukraine",womens-squash,2021
 Christy Lau,,Fy.,,,Hong Kong,womens-squash,2021
+Gigi Yeung,,So.,,,"Macau, China",womens-squash,2021
+Molly Tomlinson,,Sr.,,,"Derbyshire, England",womens-squash,2021
+Brianna Jefferson,,Jr.,,,"Mississauga ,Ontario",womens-squash,2021
+Nina Mital,,Fy.,,,"West Harrison, N.Y.",womens-squash,2021
+Elisabeth Ross,,So.,,,"Philadelphia, PA",womens-squash,2021
+Aishwarya Bhattacharya,,Gr.,,,"Mumbai, India",womens-squash,2021
+Sneha Sivakumar,,So.,,,Singapore,womens-squash,2021
+Nina Varma,,Fy.,,,"Houston, Texas",womens-squash,2021
+Ainsley Weber,,Sr.,,,"Newport, RI",womens-squash,2021
+Lindsay Westerfield,,Fy.,,,"Greenwich, Conn.",womens-squash,2021
 Brianna Jefferson,,Sr.,,,"Mississauga ,Ontario",womens-squash,2022
-Whitney Taylor,,Fy.,,,"Philadelphia, Pa.",womens-squash,2022
 Nina Mital,,So.,,,"West Harrison, N.Y.",womens-squash,2022
 Gigi Yeung,,Jr.,,,"Macau, China",womens-squash,2022
-Sneha Sivakumar,,Jr.,,,Singapore,womens-squash,2022
 Elisabeth Ross,,Jr.,,,"Philadelphia, PA",womens-squash,2022
+Lindsay Westerfield,,So.,,,"Greenwich, Conn.",womens-squash,2022
+Mika Bardin,,Fy.,,,"Los Altos, Calif. and Karmei Yosef, Israel",womens-squash,2022
 Nina Varma,,So.,,,"Houston, Texas",womens-squash,2022
+Whitney Taylor,,Fy.,,,"Philadelphia, Pa.",womens-squash,2022
+Joy Qu,,Fy.,,,"Long Grove, Ill.",womens-squash,2022
+Sneha Sivakumar,,Jr.,,,Singapore,womens-squash,2022
 Meghna Sreedhar,,So.,,,"Berwyn, Pa.",womens-squash,2022
 Julia Zhukovets,,Sr.,,,"Kiev, Ukraine",womens-squash,2022
 Christy Lau,,So.,,,Hong Kong,womens-squash,2022
-Mika Bardin,,Fy.,,,"Los Altos, Calif. and Karmei Yosef, Israel",womens-squash,2022
-Lindsay Westerfield,,So.,,,"Greenwich, Conn.",womens-squash,2022
-Joy Qu,,Fy.,,,"Long Grove, Ill.",womens-squash,2022
-Layla Johnson,,Fy.,,,"Pontefract, England",womens-squash,2023
-Christy Lau,,Jr.,,,Hong Kong,womens-squash,2023
-Nina Mital,,Jr.,,,"West Harrison, N.Y.",womens-squash,2023
-Mika Bardin,,So.,,,"Los Altos, Calif. and Karmei Yosef, Israel",womens-squash,2023
 Rashi Goverdhanam,,Fy.,,,"Wayne, Pa.",womens-squash,2023
-Joy Qu,,So.,,,"Long Grove, Ill.",womens-squash,2023
-Elisabeth Ross,,Sr.,,,"Philadelphia, PA",womens-squash,2023
-Sneha Sivakumar,,Sr.,,,Singapore,womens-squash,2023
+Mika Bardin,,So.,,,"Los Altos, Calif. and Karmei Yosef, Israel",womens-squash,2023
 Lindsay Westerfield,,Jr.,,,"Greenwich, Conn.",womens-squash,2023
-Gigi Yeung,,Sr.,,,"Macau, China",womens-squash,2023
 Meghna Sreedhar,,Jr.,,,"Berwyn, Pa.",womens-squash,2023
+Joy Qu,,So.,,,"Long Grove, Ill.",womens-squash,2023
+Gigi Yeung,,Sr.,,,"Macau, China",womens-squash,2023
+Nina Mital,,Jr.,,,"West Harrison, N.Y.",womens-squash,2023
+Christy Lau,,Jr.,,,Hong Kong,womens-squash,2023
+Sneha Sivakumar,,Sr.,,,Singapore,womens-squash,2023
+Layla Johnson,,Fy.,,,"Pontefract, England",womens-squash,2023
 Whitney Taylor,,So.,,,"Philadelphia, Pa.",womens-squash,2023
 Aanika Tiwary,,Fy.,,,"El Dorado Hills, Calif.",womens-squash,2023
-Layla Johnson,,So.,,,"Pontefract, England",womens-squash,2024
+Elisabeth Ross,,Sr.,,,"Philadelphia, PA",womens-squash,2023
 Christy Lau,,Sr.,,,Hong Kong,womens-squash,2024
 Spring Ma,,Fy.,,,"Richmond, British Columbia, Canada",womens-squash,2024
 Nina Mital,,Sr.,,,"West Harrison, N.Y.",womens-squash,2024
@@ -49,16 +116,17 @@ Whitney Taylor,,Jr.,,,"Philadelphia, Pa.",womens-squash,2024
 Aanika Tiwary,,So.,,,"El Dorado Hills, Calif.",womens-squash,2024
 Heng Wai Wong,,Fy.,,,"Alor Setar, Kedah, Malaysia",womens-squash,2024
 Lindsay Westerfield,,Sr.,,,"Greenwich, Conn.",womens-squash,2024
-Eedha Mehta,,Fy.,,,"Los Altos, Calif.",womens-squash,2025
-Layla Johnson,,Jr.,,,"Pontefract, England",womens-squash,2025
-Elise Kang,,Fy.,,,"Bethesda, Md.",womens-squash,2025
-Spring Ma,,So.,,,"Richmond, British Columbia, Canada",womens-squash,2025
-Alyssa Ho,,Fy.,,,"Hong Kong, China",womens-squash,2025
-Heng Wai Wong,,So.,,,"Alor Setar, Kedah, Malaysia",womens-squash,2025
-Swetha Sivakumar,,Fy.,,,Singapore,womens-squash,2025
-Whitney Taylor,,Sr.,,,"Philadelphia, Pa.",womens-squash,2025
-Aanika Tiwary,,Jr.,,,"El Dorado Hills, Calif.",womens-squash,2025
+Layla Johnson,,So.,,,"Pontefract, England",womens-squash,2024
 Meha Shah,,So.,,,"Birmingham, England",womens-squash,2025
+Eedha Mehta,,Fy.,,,"Los Altos, Calif.",womens-squash,2025
+Whitney Taylor,,Sr.,,,"Philadelphia, Pa.",womens-squash,2025
+Swetha Sivakumar,,Fy.,,,Singapore,womens-squash,2025
+Heng Wai Wong,,So.,,,"Alor Setar, Kedah, Malaysia",womens-squash,2025
+Aanika Tiwary,,Jr.,,,"El Dorado Hills, Calif.",womens-squash,2025
+Spring Ma,,So.,,,"Richmond, British Columbia, Canada",womens-squash,2025
+Elise Kang,,Fy.,,,"Bethesda, Md.",womens-squash,2025
+Layla Johnson,,Jr.,,,"Pontefract, England",womens-squash,2025
+Alyssa Ho,,Fy.,,,"Hong Kong, China",womens-squash,2025
 Aanika Tiwary,,Sr.,,,"El Dorado Hills, Calif.",womens-squash,2026
 Alyssa Ho,,So.,,,"Hong Kong, China",womens-squash,2026
 Layla Johnson,,Sr.,,,"Pontefract, England",womens-squash,2026

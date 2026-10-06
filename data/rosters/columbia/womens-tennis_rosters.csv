@@ -1,86 +1,151 @@
 name,position,class,height,weight,hometown,sport,year
-Yekaterina Alferova,,Sr.,5' 6'',,"Marietta, Ga.",womens-tennis,2021
-Winta Tewolde,,FY,5' 9'',,"La Mesa, Calif.",womens-tennis,2021
-Caitie Sullivan,,Sr.,5' 5'',,"Norfolk, Va.",womens-tennis,2021
-Sophie Raiszadeh,,Jr.,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2021
-Shivani Amineni,,Jr.,5' 4'',,"Hyderabad, India",womens-tennis,2021
-Akanksha Bhan,,Sr.,5' 6'',,"Gujarat, India",womens-tennis,2021
-Jennifer Kerr,,Sr.,5' 4'',,"Carlsbad, Calif.",womens-tennis,2021
-Clarine Lerby,,FY,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2021
-Michelle Xu,,Jr.,5' 2'',,"Vienna, Va.",womens-tennis,2021
-Carolyn Brodsky,,FY,5' 6'',,"New York, N.Y.",womens-tennis,2021
-Melissa Sakar,,Sr.,5' 6'',,"Lauderdale Lakes, Fla.",womens-tennis,2021
-Sophia Strugnell,,FY,5' 8'',,"Greensboro, N.C.",womens-tennis,2021
+Lindsey Mendelson,,Jr.,,,"Coconut Grove, Fla.",womens-tennis,2016
+Renee Ren,,Gr.,,,"Vancouver, B.C.",womens-tennis,2016
+Sarah Hu,,So.,,,"Oakland, Calif.",womens-tennis,2016
+Adi Milstein,,Jr.,,,"Boca Raton, Fla.",womens-tennis,2016
+Ali Pollack,,Gr.,,,"Mequon, Wis.",womens-tennis,2016
+Andrea Kevakian,,So.,,,"Glendale, Calif.",womens-tennis,2016
+Alexandra Solovyev,,Jr.,,,"Foster City, Calif.",womens-tennis,2016
+Brianna Williams,,Gr.,,,"Brooklyn, N.Y.",womens-tennis,2016
+Vivian Cheng,,Sr.,,,"Syosset, N.Y.",womens-tennis,2016
+Rima Asatrian,,Jr.,,,"Tenafly, N.J.",womens-tennis,2016
+Ilene Weintraub,,,,,,womens-tennis,2016
+Andrea Kevakian,,Jr.,,,"Glendale, Calif.",womens-tennis,2017
+Lindsey Mendelson,,Sr.,,,"Coconut Grove, Fla.",womens-tennis,2017
+Christie Wan,,Gr.,,,"Rowland Heights, Calif.",womens-tennis,2017
+Paulina Ferrari,,Gr.,,,"La Jolla, Calif.",womens-tennis,2017
+Sarah Hu,,Jr.,,,"Oakland, Calif.",womens-tennis,2017
+Jennifer Kerr,,Gr.,,,"Carlsbad, Calif.",womens-tennis,2017
+Renee Ren,,So.,,,"Vancouver, B.C.",womens-tennis,2017
+Sarah Rahman,,Gr.,,,"New York, N.Y.",womens-tennis,2017
+Brianna Williams,,So.,,,"Brooklyn, N.Y.",womens-tennis,2017
+Ilene Weintraub,,,,,,womens-tennis,2017
+Ali Pollack,,So.,,,"Mequon, Wis.",womens-tennis,2017
+Adi Milstein,,Sr.,,,"Boca Raton, Fla.",womens-tennis,2017
+Ali Pollack,,Jr.,,,"Mequon, Wis.",womens-tennis,2018
+Jennifer Kerr,,So.,5' 4'',,"Carlsbad, Calif.",womens-tennis,2018
+Sarah Hu,,Sr.,,,"Oakland, Calif.",womens-tennis,2018
+Andrea Kevakian,,Sr.,,,"Glendale, Calif.",womens-tennis,2018
+Sarah Rahman,,So.,5' 7'',,"New York, N.Y.",womens-tennis,2018
+Akanksha Bhan,,FY,5' 6'',,"Gujarat, India",womens-tennis,2018
+Yekaterina Alferova,,FY,5' 6'',,"Marietta, Ga.",womens-tennis,2018
+Renee Ren,,Jr.,,,"Vancouver, B.C.",womens-tennis,2018
+Brianna Williams,,Jr.,,,"Brooklyn, N.Y.",womens-tennis,2018
+Paulina Ferrari,,So.,5' 8'',,"La Jolla, Calif.",womens-tennis,2018
+Melissa Sakar,,FY,5' 6'',,"Lauderdale Lakes, Fla.",womens-tennis,2018
+Caitie Sullivan,,FY,5' 5'',,"Norfolk, Va.",womens-tennis,2018
+Christie Wan,,So.,5' 7'',,"Rowland Heights, Calif.",womens-tennis,2018
+Ilene Weintraub,,,,,,womens-tennis,2018
+Ilene Weintraub,,,,,,womens-tennis,2019
+Michelle Xu,,FY,5' 2'',,"Vienna, Va.",womens-tennis,2019
+Brianna Williams,,Sr.,,,"Brooklyn, N.Y.",womens-tennis,2019
+Melissa Sakar,,So.,5' 6'',,"Lauderdale Lakes, Fla.",womens-tennis,2019
+Renee Ren,,Sr.,,,"Vancouver, B.C.",womens-tennis,2019
+Sophie Raiszadeh,,FY,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2019
+Ali Pollack,,Sr.,,,"Mequon, Wis.",womens-tennis,2019
+Sarah Rahman,,Jr.,5' 7'',,"New York, N.Y.",womens-tennis,2019
+Jennifer Kerr,,Jr.,5' 4'',,"Carlsbad, Calif.",womens-tennis,2019
+Julia Haynes,,FY,5' 7'',,"San Diego, Calif.",womens-tennis,2019
+Paulina Ferrari,,Jr.,5' 8'',,"La Jolla, Calif.",womens-tennis,2019
+Akanksha Bhan,,So.,5' 6'',,"Gujarat, India",womens-tennis,2019
+Shivani Amineni,,FY,5' 4'',,"Hyderabad, India",womens-tennis,2019
+Yekaterina Alferova,,So.,5' 6'',,"Marietta, Ga.",womens-tennis,2019
+Caitie Sullivan,,So.,5' 5'',,"Norfolk, Va.",womens-tennis,2019
+Anna Zhang,,FY,5' 8'',,"McKinney, Texas",womens-tennis,2020
+Michelle Xu,,So.,5' 2'',,"Vienna, Va.",womens-tennis,2020
+Caitie Sullivan,,Jr.,5' 5'',,"Norfolk, Va.",womens-tennis,2020
+Shivani Amineni,,So.,5' 4'',,"Hyderabad, India",womens-tennis,2020
+Ilene Weintraub,,,,,,womens-tennis,2020
+Tatiana Ziff,,FY,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2020
+Rachele Rimondini,,FY,5' 8'',,"Boca Raton, Fla.",womens-tennis,2020
+Melissa Sakar,,Jr.,5' 6'',,"Lauderdale Lakes, Fla.",womens-tennis,2020
+Akanksha Bhan,,Jr.,5' 6'',,"Gujarat, India",womens-tennis,2020
+Sophie Raiszadeh,,So.,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2020
+Yekaterina Alferova,,Jr.,5' 6'',,"Marietta, Ga.",womens-tennis,2020
+Paulina Ferrari,,Sr.,5' 8'',,"La Jolla, Calif.",womens-tennis,2020
+Sarah Rahman,,Sr.,5' 7'',,"New York, N.Y.",womens-tennis,2020
 Anna Zhang,,So.,5' 8'',,"McKinney, Texas",womens-tennis,2021
-Tatiana Ziff,,So.,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2021
-Ilene Weintraub,,,,,,womens-tennis,2021
-Rachele Rimondini,,So.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2021
-Fatima Keita,,FY,5' 10'',,"Bucharest, Romania",womens-tennis,2021
 Julia Haynes,,So.,5' 7'',,"San Diego, Calif.",womens-tennis,2021
-Fatima Keita,,So.,5' 10'',,"Bucharest, Romania",womens-tennis,2022
-Carolyn Brodsky,,So.,5' 6'',,"New York, N.Y.",womens-tennis,2022
-Clarine Lerby,,So.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2022
-Sophie Raiszadeh,,Sr.,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2022
+Fatima Keita,,FY,5' 10'',,"Bucharest, Romania",womens-tennis,2021
+Rachele Rimondini,,So.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2021
+Yekaterina Alferova,,Sr.,5' 6'',,"Marietta, Ga.",womens-tennis,2021
+Sophia Strugnell,,FY,5' 8'',,"Greensboro, N.C.",womens-tennis,2021
+Melissa Sakar,,Sr.,5' 6'',,"Lauderdale Lakes, Fla.",womens-tennis,2021
+Ilene Weintraub,,,,,,womens-tennis,2021
+Carolyn Brodsky,,FY,5' 6'',,"New York, N.Y.",womens-tennis,2021
+Tatiana Ziff,,So.,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2021
+Clarine Lerby,,FY,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2021
+Caitie Sullivan,,Sr.,5' 5'',,"Norfolk, Va.",womens-tennis,2021
+Winta Tewolde,,FY,5' 9'',,"La Mesa, Calif.",womens-tennis,2021
+Michelle Xu,,Jr.,5' 2'',,"Vienna, Va.",womens-tennis,2021
+Jennifer Kerr,,Sr.,5' 4'',,"Carlsbad, Calif.",womens-tennis,2021
+Akanksha Bhan,,Sr.,5' 6'',,"Gujarat, India",womens-tennis,2021
+Shivani Amineni,,Jr.,5' 4'',,"Hyderabad, India",womens-tennis,2021
+Sophie Raiszadeh,,Jr.,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2021
 Shivani Amineni,,Sr.,5' 4'',,"Hyderabad, India",womens-tennis,2022
+Clarine Lerby,,So.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2022
 Julia Haynes,,Jr.,5' 7'',,"San Diego, Calif.",womens-tennis,2022
-Rachele Rimondini,,Jr.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2022
-Sophia Strugnell,,So.,5' 8'',,"Greensboro, N.C.",womens-tennis,2022
-Winta Tewolde,,So.,5' 9'',,"La Mesa, Calif.",womens-tennis,2022
-Anna Zhang,,Jr.,5' 8'',,"McKinney, Texas",womens-tennis,2022
-Tatiana Ziff,,Jr.,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2022
-Alexandra Torre,,FY,,,"Brentwood, Tenn.",womens-tennis,2022
-Sophia Wang,,FY,,,"St. Petersburg, Fla.",womens-tennis,2022
+Sophie Raiszadeh,,Sr.,5' 6'',,"Rancho Santa Fe, Calif.",womens-tennis,2022
 Michelle Xu,,Sr.,5' 2'',,"Vienna, Va.",womens-tennis,2022
+Alexandra Torre,,FY,,,"Brentwood, Tenn.",womens-tennis,2022
+Anna Zhang,,Jr.,5' 8'',,"McKinney, Texas",womens-tennis,2022
+Sophia Strugnell,,So.,5' 8'',,"Greensboro, N.C.",womens-tennis,2022
+Tatiana Ziff,,Jr.,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2022
+Carolyn Brodsky,,So.,5' 6'',,"New York, N.Y.",womens-tennis,2022
 Ilene Weintraub,,,,,,womens-tennis,2022
-Fatima Keita,,Jr.,5' 10'',,"Bucharest, Romania",womens-tennis,2023
-Gayathri Krishnan,,FY,5' 5'',,"Cupertino, Calif.",womens-tennis,2023
-Clarine Lerby,,Jr.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2023
-Carolyn Brodsky,,Jr.,5' 6'',,"New York, N.Y.",womens-tennis,2023
-Salma Farhat,,FY,5' 7'',,"Bellevue, Wash.",womens-tennis,2023
-Julia Haynes,,Sr.,5' 7'',,"San Diego, Calif.",womens-tennis,2023
-Rachele Rimondini,,Sr.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2023
-Natacha Schou,,FY,5' 6'',,"Copenhagen, Denmark",womens-tennis,2023
+Winta Tewolde,,So.,5' 9'',,"La Mesa, Calif.",womens-tennis,2022
+Rachele Rimondini,,Jr.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2022
+Sophia Wang,,FY,,,"St. Petersburg, Fla.",womens-tennis,2022
+Fatima Keita,,So.,5' 10'',,"Bucharest, Romania",womens-tennis,2022
 Anna Zhang,,Sr.,5' 8'',,"McKinney, Texas",womens-tennis,2023
-Winta Tewolde,,Jr.,5' 9'',,"La Mesa, Calif.",womens-tennis,2023
 Tatiana Ziff,,Sr.,5' 6'',,"North Palm Beach, Fla.",womens-tennis,2023
-Ilene Weintraub,,,,,,womens-tennis,2023
-Sophia Strugnell,,Jr.,5' 8'',,"Greensboro, N.C.",womens-tennis,2023
+Rachele Rimondini,,Sr.,5' 8'',,"Boca Raton, Fla.",womens-tennis,2023
+Clarine Lerby,,Jr.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2023
+Salma Farhat,,FY,5' 7'',,"Bellevue, Wash.",womens-tennis,2023
 Alexandra Torre,,So.,,,"Brentwood, Tenn.",womens-tennis,2023
+Gayathri Krishnan,,FY,5' 5'',,"Cupertino, Calif.",womens-tennis,2023
 Sophia Wang,,So.,,,"St. Petersburg, Fla.",womens-tennis,2023
-Salma Farhat,,So.,5' 7'',,"Bellevue, Wash.",womens-tennis,2024
-Fatima Keita,,Sr.,5' 10'',,"Bucharest, Romania",womens-tennis,2024
-Gayathri Krishnan,,So.,5' 5'',,"Cupertino, Calif.",womens-tennis,2024
-Emily Baek,,FY,,,"Suwanee, Ga.",womens-tennis,2024
+Fatima Keita,,Jr.,5' 10'',,"Bucharest, Romania",womens-tennis,2023
+Carolyn Brodsky,,Jr.,5' 6'',,"New York, N.Y.",womens-tennis,2023
+Ilene Weintraub,,,,,,womens-tennis,2023
+Natacha Schou,,FY,5' 6'',,"Copenhagen, Denmark",womens-tennis,2023
+Winta Tewolde,,Jr.,5' 9'',,"La Mesa, Calif.",womens-tennis,2023
+Sophia Strugnell,,Jr.,5' 8'',,"Greensboro, N.C.",womens-tennis,2023
+Julia Haynes,,Sr.,5' 7'',,"San Diego, Calif.",womens-tennis,2023
+Winta Tewolde,,Sr.,5' 9'',,"La Mesa, Calif.",womens-tennis,2024
+Sophia Strugnell,,Sr.,5' 8'',,"Greensboro, N.C.",womens-tennis,2024
+Clarine Lerby,,Sr.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2024
+Ilene Weintraub,,,,,,womens-tennis,2024
+Amber Yin,,FY,,,"St. Louis, Mo.",womens-tennis,2024
 Carolyn Brodsky,,Sr.,5' 6'',,"New York, N.Y.",womens-tennis,2024
 Malak El Allami,,FY,,,"Casablanca, Morocco",womens-tennis,2024
+Emily Baek,,FY,,,"Suwanee, Ga.",womens-tennis,2024
+Gayathri Krishnan,,So.,5' 5'',,"Cupertino, Calif.",womens-tennis,2024
+Fatima Keita,,Sr.,5' 10'',,"Bucharest, Romania",womens-tennis,2024
 Sophia Wang,,Jr.,,,"St. Petersburg, Fla.",womens-tennis,2024
-Amber Yin,,FY,,,"St. Louis, Mo.",womens-tennis,2024
-Ilene Weintraub,,,,,,womens-tennis,2024
-Clarine Lerby,,Sr.,5' 8'',,"Monte Estoril, Portugal",womens-tennis,2024
-Sophia Strugnell,,Sr.,5' 8'',,"Greensboro, N.C.",womens-tennis,2024
-Winta Tewolde,,Sr.,5' 9'',,"La Mesa, Calif.",womens-tennis,2024
+Salma Farhat,,So.,5' 7'',,"Bellevue, Wash.",womens-tennis,2024
+Sophia Wang,,Sr.,,,"St. Petersburg, Fla.",womens-tennis,2025
 Salma Farhat,,Jr.,5' 7'',,"Bellevue, Wash.",womens-tennis,2025
 Gayathri Krishnan,,Jr.,5' 5'',,"Cupertino, Calif.",womens-tennis,2025
 Margaret Hui,,FY,,,"San Diego, Calif",womens-tennis,2025
 Malak El Allami,,So.,,,"Casablanca, Morocco",womens-tennis,2025
 Emily Baek,,So.,,,"Suwanee, Ga.",womens-tennis,2025
-Sabrina Lin,,FY,,,"Saratoga, Calif.",womens-tennis,2025
-Sophia Wang,,Sr.,,,"St. Petersburg, Fla.",womens-tennis,2025
-Ilene Weintraub,,,,,,womens-tennis,2025
-Michelle Li,,FY,,,"Houston, Texas",womens-tennis,2025
 Amber Yin,,So.,,,"St. Louis, Mo.",womens-tennis,2025
+Michelle Li,,FY,,,"Houston, Texas",womens-tennis,2025
+Ilene Weintraub,,,,,,womens-tennis,2025
+Sabrina Lin,,FY,,,"Saratoga, Calif.",womens-tennis,2025
+Kenzie Nguyen,,FY,5' 5'',,"Irvine, Calif.",womens-tennis,2026
 Amber Yin,,Jr.,,,"St. Louis, Mo.",womens-tennis,2026
 Margot Phanthala,,So.,5' 6'',,"Paris, France",womens-tennis,2026
 Isabelle Oak,,FY,5' 9'',,"New York, N.Y.",womens-tennis,2026
 Kylie Nguyen,,FY,5' 5'',,"Irvine, Calif.",womens-tennis,2026
-Kenzie Nguyen,,FY,5' 5'',,"Irvine, Calif.",womens-tennis,2026
 Sabrina Lin,,So.,,,"Saratoga, Calif.",womens-tennis,2026
+Elena Zhao,,FY,5' 7'',,"San Diego, Calif.",womens-tennis,2026
 Amy Lee,,FY,5' 6'',,"Los Angeles, Calif.",womens-tennis,2026
 Gayathri Krishnan,,Sr.,5' 5'',,"Cupertino, Calif.",womens-tennis,2026
 Margaret Hui,,So.,,,"San Diego, Calif",womens-tennis,2026
 Salma Farhat,,Sr.,5' 7'',,"Bellevue, Wash.",womens-tennis,2026
 Malak El Allami,,Jr.,,,"Casablanca, Morocco",womens-tennis,2026
 Emily Baek,,Jr.,,,"Suwanee, Ga.",womens-tennis,2026
-Elena Zhao,,FY,5' 7'',,"San Diego, Calif.",womens-tennis,2026
 Michelle Li,,So.,,,"Houston, Texas",womens-tennis,2026
 Ilene Weintraub,,,,,,womens-tennis,2026

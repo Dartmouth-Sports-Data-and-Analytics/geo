@@ -37,6 +37,7 @@ def gather_tasks(cache_df, refresh=frozenset(), retry_empty=False):
     not_discovered = []
     known_empty = set() if retry_empty else confirmed_empty_seasons()
     skipped_empty = 0
+    combined = []
 
     for _, srow in config.bases_df.iterrows():
         school, base = srow["school"], srow["site_page"]
@@ -63,6 +64,8 @@ def gather_tasks(cache_df, refresh=frozenset(), retry_empty=False):
                 print(f"[{school}] {sport}: available but no slug on file; re-run discover_sports.py.")
                 continue
 
+            if resolved_slug == scraper.degendered_slug(sport_page):
+                combined.append(f"{school} {sport_page} -> {resolved_slug}")
             output_file = os.path.join(folder_path, f"{sport_page}_rosters.csv")
             if "all" in refresh or sport_page in refresh:
                 # --refresh: ignore what is on disk and refetch every year.
@@ -129,6 +132,8 @@ def gather_tasks(cache_df, refresh=frozenset(), retry_empty=False):
                     "is_current": year == config.CURRENT_YEAR,
                 })
 
+    if combined:
+        config.note(f"{len(combined)} gendered pages are served by a combined page, so their gender label may be loose: " + ", ".join(combined))
     if skipped_empty:
         print(f"{skipped_empty} past seasons had no roster last time and are not asked for again (--retry-empty to check them).")
     if not_discovered:
@@ -186,6 +191,7 @@ def run_tasks(tasks, file_state, label=None):
 
 def write_files(file_state):
     written = 0
+    tidied = {"names": 0, "files": 0}
     for state in file_state.values():
         existing_df = state["existing_df"]
         new_fetches = state["new_fetches"]
@@ -202,6 +208,9 @@ def write_files(file_state):
 
         full_df = pd.concat(parts, ignore_index=True)
 
+        # Names are tidied first: freshly fetched rows still carry jersey numbers, which would hide a stale season from the checks below.
+        badges_fixed = roster_data.clean_name_badges(full_df)
+
         # Exact duplicate rows are never real data.
         full_df = full_df.drop_duplicates()
 
@@ -212,10 +221,10 @@ def write_files(file_state):
             print(f"[{state['school']}] {state['sport']}: nothing left after dropping stale years; no file written.")
             continue
 
-        # Heals names saved before the badge fix.
-        badges_fixed = roster_data.clean_name_badges(full_df)
         if badges_fixed:
-            print(f"[{state['school']}] {state['sport']}: cleaned {badges_fixed} name(s) (badges or extra spaces).")
+            config.note(f"[{state['school']}] {state['sport']}: cleaned {badges_fixed} name(s) (badges or extra spaces).")
+            tidied["names"] += badges_fixed
+            tidied["files"] += 1
 
         if "year" in full_df.columns:
             full_df = full_df.sort_values("year").reset_index(drop=True)
@@ -223,7 +232,7 @@ def write_files(file_state):
         full_df.to_csv(state["output_file"], index=False)
         config.note(f"[{state['school']}] {state['sport']}: saved {state['output_file']}")
         written += 1
-    return written
+    return written, tidied
 
 
 def pull_all(max_workers=8, refresh=frozenset(), retry_empty=False):
@@ -252,8 +261,8 @@ def pull_all(max_workers=8, refresh=frozenset(), retry_empty=False):
         for future in futures:
             future.result()
 
-    written = write_files(file_state)
-    print(f"Done: {written} roster files written.")
+    written, tidied = write_files(file_state)
+    print(f"Done: {written} roster files written" + (f"; tidied {tidied['names']:,} names (jersey numbers, extra spaces) in {tidied['files']} of them." if tidied["files"] else "."))
 
 
 if __name__ == "__main__":

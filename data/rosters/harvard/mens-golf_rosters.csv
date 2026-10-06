@@ -1,29 +1,61 @@
 name,position,class,height,weight,hometown,sport,year
-Oliver Cordeiro,,Sr.,,,"Winchester, Mass.",mens-golf,2021
-Jeffrey Fang,,Fy,,,"Newmarket, Ont.",mens-golf,2021
-Peter George,,Sr.,,,"Naples, Fla.",mens-golf,2021
-Brian Isztwan,,Jr.,,,"Huntingdon Valley, Pa.",mens-golf,2021
-Brian Ma,,So.,,,"Milpitas, Calif.",mens-golf,2021
-Diego Saavedra-Davila,,Fy,,,"Guaynabo, Puerto Rico",mens-golf,2021
-Kevin Sze,,So.,,,"Saratoga, Calif.",mens-golf,2021
+Aurian Capart,,So.,,,"Bousval, Belgium",mens-golf,2016
+Seiya Liu,,So.,,,"Beverly Hills, Calif.",mens-golf,2016
+Rij Patel,,Fy,,,"Hunt Valley, MD",mens-golf,2016
+Ryan Rhee,,Fy,,,"Fullerton, Calif.",mens-golf,2016
+Gregory Royston,,Jr.,,,"Durban, South Africa",mens-golf,2016
+Kendrick Vinar,,Sr.,,,"Chapel Hill, N.C.",mens-golf,2016
+Robert Deng,,Sr.,,,"Irvine, Calif.",mens-golf,2016
+Daniel De La Garza,,Sr.,,,"Monterrey, Mexico",mens-golf,2016
+Greg Royston,,Sr.,,,"Durban, South Africa",mens-golf,2017
+Aurian Capart,,Jr.,,,"Bousval, Belgium",mens-golf,2017
+Grant Fairbairn,,Fy,,,"Orinda, Calif.",mens-golf,2017
+Peter George,,Fy,,,"Naples, Fla.",mens-golf,2017
+Rij Patel,,So.,,,"Hunt Valley, MD",mens-golf,2017
+Ryan Rhee,,So.,,,"Fullerton, Calif.",mens-golf,2017
+Aurian Capart,,Sr.,,,"Bousval, Belgium",mens-golf,2018
+Peter George,,So.,,,"Naples, Fla.",mens-golf,2018
+Oliver Cordeiro,,So.,,,"Winchester, Mass.",mens-golf,2018
+Ryan Rhee,,Jr.,,,"Fullerton, Calif.",mens-golf,2018
+Grant Fairbairn,,So.,,,"Orinda, Calif.",mens-golf,2018
+Rij Patel,,Jr.,,,"Hunt Valley, Md.",mens-golf,2018
+Brian Isztwan,,Fy,,,"Huntingdon Valley, Pa.",mens-golf,2018
+Adam Xiao,,Fy,,,"Manhasset, N.Y.",mens-golf,2019
+Brian Ma,,Fy,,,"Milpitas, Calif.",mens-golf,2019
+Oliver Cordeiro,,Jr.,,,"Winchester, Mass.",mens-golf,2019
+Grant Fairbairn,,Jr.,,,"Orinda, Calif.",mens-golf,2019
+Peter George,,Jr.,,,"Naples, Fla.",mens-golf,2019
+Ryan Goldfarb,,Fy,,,"Palm Beach, Fla.",mens-golf,2019
+Ryan Rhee,,Sr.,,,"Fullerton, Calif.",mens-golf,2019
+Alex Zhu,,Fy,,,"San Ramon, Calif.",mens-golf,2019
+Rij Patel,,Sr.,,,"Hunt Valley, Md.",mens-golf,2019
+Brian Isztwan,,So.,,,"Huntingdon Valley, Pa.",mens-golf,2019
+Grant Fairbairn,,Sr.,,,"Orinda, Calif.",mens-golf,2020
+Kevin Sze,,Fy,,,"Saratoga, Calif.",mens-golf,2020
 Adam Xiao,,So.,,,"Manhasset, N.Y.",mens-golf,2021
+Kevin Sze,,So.,,,"Saratoga, Calif.",mens-golf,2021
+Diego Saavedra-Davila,,Fy,,,"Guaynabo, Puerto Rico",mens-golf,2021
 Alex Zhu,,So.,,,"San Ramon, Calif.",mens-golf,2021
+Brian Isztwan,,Jr.,,,"Huntingdon Valley, Pa.",mens-golf,2021
+Jeffrey Fang,,Fy,,,"Newmarket, Ont.",mens-golf,2021
+Oliver Cordeiro,,Sr.,,,"Winchester, Mass.",mens-golf,2021
+Brian Ma,,So.,,,"Milpitas, Calif.",mens-golf,2021
+Peter George,,Sr.,,,"Naples, Fla.",mens-golf,2021
 Darren Choi,,Fy,,,Hong Kong,mens-golf,2022
 Jeffrey Fang,,So.,,,"Newmarket, Ont.",mens-golf,2022
-Brian Isztwan,,Sr.,,,"Huntingdon Valley, Pa.",mens-golf,2022
+Adam Xiao,,Jr.,,,"Manhasset, N.Y.",mens-golf,2022
 Brian Ma,,Jr.,,,"Milpitas, Calif.",mens-golf,2022
 Diego Saavedra-Davila,,So.,,,"Guaynabo, Puerto Rico",mens-golf,2022
+Brian Isztwan,,Sr.,,,"Huntingdon Valley, Pa.",mens-golf,2022
 Kevin Sze,,Jr.,,,"Saratoga, Calif.",mens-golf,2022
-Adam Xiao,,Jr.,,,"Manhasset, N.Y.",mens-golf,2022
-Bryan Fang,,Fy,,,"Cary, North Carolina",mens-golf,2023
+Jonathan Hartono,,Fy,,,"Jakarta, Indonesia",mens-golf,2023
 Darren Choi,,So.,,,Hong Kong,mens-golf,2023
 Jeffrey Fang,,Jr.,,,"Newmarket, Ont.",mens-golf,2023
-Jonathan Hartono,,Fy,,,"Jakarta, Indonesia",mens-golf,2023
 Brian Ma,,Sr.,,,"Milpitas, Calif.",mens-golf,2023
-Kevin Sze,,Sr.,,,"Saratoga, Calif.",mens-golf,2023
+Bryan Fang,,Fy,,,"Cary, North Carolina",mens-golf,2023
 Diego Saavedra-Davila,,Jr.,,,"Guaynabo, Puerto Rico",mens-golf,2023
 Adam Xiao,,Sr.,,,"Manhasset, N.Y.",mens-golf,2023
-Darren Choi,,Jr.,,,Hong Kong,mens-golf,2024
+Kevin Sze,,Sr.,,,"Saratoga, Calif.",mens-golf,2023
 Bryan Fang,,So.,,,"Cary, North Carolina",mens-golf,2024
 Jeffrey Fang,,Sr.,,,"Newmarket, Ont.",mens-golf,2024
 Jonathan Hartono,,So.,,,"Jakarta, Indonesia",mens-golf,2024
@@ -31,14 +63,15 @@ Ieuan Jones,,Fy,,,"Ann Arbor, Mich.",mens-golf,2024
 William Ma,,Fy,,,"San Diego, Calif.",mens-golf,2024
 Diego Saavedra-Davila,,Sr.,,,"Guaynabo, Puerto Rico",mens-golf,2024
 Barry Zhang,,Fy,,,"Winter Garden, Fla.",mens-golf,2024
-Isaac Ahn,,Fy,,,"Rochester, Minn.",mens-golf,2025
-Jonathan Hartono,,Jr.,,,"Jakarta, Indonesia",mens-golf,2025
+Darren Choi,,Jr.,,,Hong Kong,mens-golf,2024
 Reese Jensen,,Fy,,,"Duxbury, Mass.",mens-golf,2025
-Ieuan Jones,,So.,,,"Ann Arbor, Mich.",mens-golf,2025
-William Ma,,So.,,,"San Diego, Calif.",mens-golf,2025
-Morgan Riley,,Fy,,,"Raleigh, N.C.",mens-golf,2025
-Jacques Roger,,Fy,,,,mens-golf,2025
+Isaac Ahn,,Fy,,,"Rochester, Minn.",mens-golf,2025
 Barry Zhang,,So.,,,"Winter Garden, Fla.",mens-golf,2025
+Jacques Roger,,Fy,,,,mens-golf,2025
+Morgan Riley,,Fy,,,"Raleigh, N.C.",mens-golf,2025
+William Ma,,So.,,,"San Diego, Calif.",mens-golf,2025
+Ieuan Jones,,So.,,,"Ann Arbor, Mich.",mens-golf,2025
+Jonathan Hartono,,Jr.,,,"Jakarta, Indonesia",mens-golf,2025
 Alex Zhang,,Fy,,,"Vancouver, B.C.",mens-golf,2026
 Isaac Ahn,,So.,,,"Rochester, Minn.",mens-golf,2026
 Jonathan Hartono,,Sr.,,,"Jakarta, Indonesia",mens-golf,2026

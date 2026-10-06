@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 
 import config
 from roster_data import strip_name_badge
-from site_rules import (BARE_SLUG_NEVER_REAL, SCHOOL_PREFERS_BARE_YEAR, SCHOOL_PREFERS_DASH_YEAR, SKIP_BARE_YEAR_SPORTS,
-                        SPORT_SLUG_ALIASES, SPRING_SEASON_SPORTS)
+from site_rules import (BARE_SLUG_NEVER_REAL, SCHOOL_FORM_THROUGH, SCHOOL_PREFERS_BARE_YEAR, SCHOOL_PREFERS_DASH_YEAR,
+                        SKIP_BARE_YEAR_SPORTS, SPORT_SLUG_ALIASES, SPRING_SEASON_SPORTS)
 
 # Whether the last scrape_roster call in this thread hit a rate limit or server error, so an empty result may not be a real "no roster".
 _local = threading.local()
@@ -20,16 +20,6 @@ _local = threading.local()
 
 def last_fetch_uncertain():
     return getattr(_local, "uncertain", False)
-
-
-# Warnings that would otherwise repeat for every season are printed once per run.
-_warned = set()
-
-
-def warn_once(message):
-    if message not in _warned:
-        _warned.add(message)
-        print(message)
 
 
 # One row per fetch attempt (slug, row count, time), appended as it goes.
@@ -60,11 +50,19 @@ def extract_clean_text(elem):
     return elem.get_text(strip=True)
 
 
+# The plain-year and dash URLs for one season, whatever the rules say (probe_year.py compares them).
+def url_forms(base, sport, slug, year):
+    bare_year = year + 1 if sport in SPRING_SEASON_SPORTS else year
+    return (f"https://{base}/sports/{slug}/roster/{bare_year}",
+            f"https://{base}/sports/{slug}/roster/{year}-{str(year + 1)[-2:]}")
+
+
 def _url_candidates(base, sport, slug, year, school):
     """URLs to try for one slug, in order; all are for academic year `year`."""
-    dash = f"https://{base}/sports/{slug}/roster/{year}-{str(year + 1)[-2:]}"
-    bare_year = year + 1 if sport in SPRING_SEASON_SPORTS else year
-    bare = f"https://{base}/sports/{slug}/roster/{bare_year}"
+    bare, dash = url_forms(base, sport, slug, year)
+    for through, form in SCHOOL_FORM_THROUGH.get((school, sport), []):
+        if year <= through:
+            return [dash] if form == "dash" else [bare]
     dash_cutoff = SCHOOL_PREFERS_DASH_YEAR.get((school, sport))
     prefers_dash = dash_cutoff is not None and year <= dash_cutoff
     dash_first = (
@@ -75,7 +73,7 @@ def _url_candidates(base, sport, slug, year, school):
 
 
 # Some schools host one combined roster at the bare slug, so a 404 on the gendered slug falls back to the stripped form.
-def _degendered_slug(sport):
+def degendered_slug(sport):
     for prefix in ("mens-", "womens-"):
         if sport.startswith(prefix):
             return sport[len(prefix):]
@@ -85,7 +83,7 @@ def _degendered_slug(sport):
 def candidate_slugs(sport):
     """All slugs worth trying for this reference-file sport, in priority order."""
     slugs = [] if sport in BARE_SLUG_NEVER_REAL else [sport]
-    degendered = _degendered_slug(sport)
+    degendered = degendered_slug(sport)
     # The same exclusion applies to degendered fallbacks.
     if degendered and degendered != sport and degendered not in BARE_SLUG_NEVER_REAL:
         slugs.append(degendered)
@@ -200,11 +198,8 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
     if verbose:
         print("Using selector:", used_selector)
 
-    if used_slug == _degendered_slug(sport):
-        warn_once(f"WARNING: {base} {sport} has no page of its own and matched the combined '{used_slug}' page. If that page lists both "
-                  f"genders it will duplicate athletes; compare rosters/<school>/{sport}_rosters.csv with {used_slug}_rosters.csv.")
-    elif used_slug != sport:
-        config.note(f"  {sport} {year} matched via alias slug '{used_slug}' instead of '{sport}'.")
+    if used_slug != sport:
+        config.note(f"  {sport} {year} matched via slug '{used_slug}' instead of '{sport}'.")
 
     # Drop exact-duplicate records within one scrape (a card occasionally renders twice).
     seen = set()

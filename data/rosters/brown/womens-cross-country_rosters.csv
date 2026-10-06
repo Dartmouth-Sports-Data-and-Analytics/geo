@@ -1,137 +1,282 @@
 name,position,class,height,weight,hometown,sport,year
-Isabela Bartczak,,Sr.,,,"Orlando, Fla.",womens-cross-country,2021
-Tevah Gevelber,,So.,,,"Palo Alto, Calif.",womens-cross-country,2021
-Hailey Freedman,,Jr.,,,"Chapel Hill, N.C.",womens-cross-country,2021
-Emma Madgic,,Jr.,5' 7'',,"San Mateo, Calif.",womens-cross-country,2021
-Stephanie Kriss,,So.,,,"Highland Park, Ill.",womens-cross-country,2021
-Emily Kompelien,,Sr.,,,"Edina, Minn.",womens-cross-country,2021
-Mary Bibbey,,Sr.,,,"Woodbury, Conn.",womens-cross-country,2021
-Allison Drage,,So.,,,"Lake Barrington, Ill.",womens-cross-country,2021
-Katherine Dokholyan,,Sr.,,,"Chapel Hill, N.C.",womens-cross-country,2021
-Isolde McManus,,Fr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2021
-Felicity Hade,,So.,,,"Shorewood, Wis.",womens-cross-country,2021
-Ali Martinez,,Sr.,,,"San Diego, Calif.",womens-cross-country,2021
-Emily Faulhaber,,So.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2021
-Emily Moini,,Jr.,5' 2'',,"Princeton, N.J.",womens-cross-country,2021
-Sarah Reichheld,,Jr.,5' 6'',,"Concord, Mass.",womens-cross-country,2021
-Caroline Sassan,,So.,,,"Maple Grove, Minn.",womens-cross-country,2021
-Emma Zwall,,Fr.,,,"Philadelphia, Pa.",womens-cross-country,2021
-Amy Willig,,Jr.,,,"Phoenixville, Pa.",womens-cross-country,2021
+Jeanine Noordam,,Jr.,,,"San Jose, Calif.",womens-cross-country,2016
+Kelsey Turner,,Fr.,,,"New Providence, N.J.",womens-cross-country,2016
+Jillian Turner,,Fr.,,,"New Providence, N.J.",womens-cross-country,2016
+Lucy Srour,,So.,,,"Potomac, Md.",womens-cross-country,2016
+Sarah Yoho,,Jr.,,,"Pasadena, Calif.",womens-cross-country,2016
+Taylor Worthy,,Sr.,,,"Medfield, Mass.",womens-cross-country,2016
+Alexis Van Pernis,,Jr.,,,"Kailua Kona, Hawaii",womens-cross-country,2016
+Hannah Szapary,,So.,,,"Wynnewood, Pa.",womens-cross-country,2016
+Lucy Van Kleunen,,Sr.,,,"Philadelphia, Pa.",womens-cross-country,2016
+Ariel Silverman,,So.,,,"Santa Monica, Calif.",womens-cross-country,2016
+Natalie Schudrowitz,,Jr.,,,"Milwaukee, Wis.",womens-cross-country,2016
+Shari Rauls,,Fr.,,,"Larchmont, N.Y.",womens-cross-country,2016
+Megan Ratcliffe,,Jr.,,,"Carlisle, Mass.",womens-cross-country,2016
+Clare Peabody,,Jr.,,,"Aptos, Calif.",womens-cross-country,2016
+Isabelle Olive,,Fr.,,,"Seattle, Wash.",womens-cross-country,2016
+Emma Sloan,,So.,,,"Franklin, Tenn.",womens-cross-country,2016
+Emma McMillan,,Fr.,,,"Barrington, R.I.",womens-cross-country,2016
+Katia Matora,,So.,,,"Redmond, Wash.",womens-cross-country,2016
+Alicia DeVos,,Jr.,,,"Johnson City, TN",womens-cross-country,2016
+Ciciely Davy,,Fr.,,,"Gaithersburg, Md.",womens-cross-country,2016
+Mitchell Baker,,,,,,womens-cross-country,2016
+Jessica Bellows,,So.,,,"Coventry, R.I.",womens-cross-country,2016
+Allison Bellows,,So.,,,"Coventry, R.I.",womens-cross-country,2016
+Luci Cooke,,Sr.,,,"Brooklyn, N.Y.",womens-cross-country,2016
+Elizabeth Conway,,Sr.,,,"Manchester, N.H.",womens-cross-country,2016
+Quinn Bornstein,,Jr.,,,"Peacham, Vt.",womens-cross-country,2016
+Chloe Conway,,Fr.,,,"Manchester, N.H.",womens-cross-country,2016
+Elise Claffey,,So.,,,"Malvern, Pa.",womens-cross-country,2016
+Carleen Jeffers,,So.,,,"Ridgewood, N.J.",womens-cross-country,2016
+Katie Lomuto,Distance,Sr.,,,"Rockville Centre, N.Y,",womens-cross-country,2016
+Eliza Lukens-Day,,Sr.,,,"Philadelphia, Pa.",womens-cross-country,2016
+Fiona Beltram,,Jr.,,,"Chepachet, RI",womens-cross-country,2016
+Joelle Feinberg,,Jr.,,,"Port Washington, N.Y.",womens-cross-country,2016
+Morgan Florsheim,,Fr.,,,"Shorewood, Wis.",womens-cross-country,2016
+Mae Fullerton,,Fr.,,,"Wayzata, Wis.",womens-cross-country,2016
+Katherine Treanor,,So.,,,"Chevy Chase, Md.",womens-cross-country,2017
+Natalie Schudrowitz,,Sr.,,,"Milwaukee, Wis.",womens-cross-country,2017
+Ariel Silverman,,Jr.,,,"Santa Monica, Calif.",womens-cross-country,2017
+Emily Skahill,,Fr.,,,"Morgan Hill, Calif.",womens-cross-country,2017
+Emma Sloan,,Jr.,,,"Franklin, Tenn.",womens-cross-country,2017
+Isabelle Olive,,So.,,,"Seattle, Wash.",womens-cross-country,2017
+Lucy Srour,,Jr.,,,"Potomac, Md.",womens-cross-country,2017
+Clare Peabody,,Sr.,,,"Aptos, Calif.",womens-cross-country,2017
+Mitchell Baker,,,,,,womens-cross-country,2017
+Jillian Turner,,So.,,,"New Providence, N.J.",womens-cross-country,2017
+Kelsey Turner,,So.,,,"New Providence, N.J.",womens-cross-country,2017
+Hannah Szapary,,Jr.,,,"Wynnewood, Pa.",womens-cross-country,2017
+Samantha Valentine,,Fr.,,,"Middleton, Wis.",womens-cross-country,2017
+Alexis Van Pernis,,Sr.,,,"Kailua Kona, Hawaii",womens-cross-country,2017
+Sarah Yoho,,Sr.,,,"Pasadena, Calif.",womens-cross-country,2017
+Megan Ratcliffe,,Sr.,,,"Carlisle, Mass.",womens-cross-country,2017
+Shari Rauls,,So.,,,"Larchmont, N.Y.",womens-cross-country,2017
+Jessica Bellows,,Jr.,,,"Coventry, R.I.",womens-cross-country,2017
+Ciciely Davy,,So.,,,"Gaithersburg, Md.",womens-cross-country,2017
+Chloe Conway,,So.,,,"Manchester, N.H.",womens-cross-country,2017
+Quinn Bornstein,,Sr.,,,"Peacham, Vt.",womens-cross-country,2017
+Hannah Butler,,Fr.,,,"Dewitt, N.Y.",womens-cross-country,2017
+Elise Claffey,,Jr.,,,"Malvern, Pa.",womens-cross-country,2017
+Bailey Pate,,Fr.,,,"Valencia, Calif.",womens-cross-country,2017
+Jeanine Noordam,,Sr.,,,"San Jose, Calif.",womens-cross-country,2017
+Haley Barthel,,Fr.,,,"Bellevue, Wash.",womens-cross-country,2017
+Allison Bellows,,Jr.,,,"Coventry, R.I.",womens-cross-country,2017
+Mae Fullerton,,So.,,,"Wayzata, Wis.",womens-cross-country,2017
+Anna Gibson,,Fr.,,,"Jackson, Wyo.",womens-cross-country,2017
+Joelle Feinberg,,Sr.,,,"Port Washington, N.Y.",womens-cross-country,2017
+Ally Hajda,,Fr.,,,"Atlantic Beach, Fla.",womens-cross-country,2017
+Carleen Jeffers,,Jr.,,,"Ridgewood, N.J.",womens-cross-country,2017
+Katia Matora,,Jr.,,,"Redmond, Wash.",womens-cross-country,2017
+Emma McMillan,,So.,,,"Barrington, R.I.",womens-cross-country,2017
+Allison Bellows,,Sr.,,,"Coventry, R.I.",womens-cross-country,2018
+Elise Claffey,,Sr.,,,"Malvern, Pa.",womens-cross-country,2018
+Emily Skahill,,So.,,,"Morgan Hill, Calif.",womens-cross-country,2018
+Katherine Treanor,,Jr.,,,"Chevy Chase, Md.",womens-cross-country,2018
+Tim Springfield,,,,,,womens-cross-country,2018
+Samantha Valentine,,So.,,,"Middleton, Wis.",womens-cross-country,2018
+Lucy Srour,,Sr.,,,"Potomac, Md.",womens-cross-country,2018
+Jessica Bellows,,Sr.,,,"Coventry, R.I.",womens-cross-country,2018
+Isabela Bartczak,,Fr.,,,"Orlando, Fla.",womens-cross-country,2018
+Hannah Szapary,,Sr.,,,"Wynnewood, Pa.",womens-cross-country,2018
+Mary Bibbey,,Fr.,,,"Woodbury, Conn.",womens-cross-country,2018
+Hannah Butler,,So.,,,"Dewitt, N.Y.",womens-cross-country,2018
+Kelsey Turner,,Jr.,,,"New Providence, N.J.",womens-cross-country,2018
+Ali Martinez,,Fr.,,,"San Diego, Calif.",womens-cross-country,2018
+Bailey Pate,,So.,,,"Valencia, Calif.",womens-cross-country,2018
+Maya Smith,,Fr.,,,"Flagstaff, Ariz.",womens-cross-country,2018
+Emily Kompelien,,Fr.,,,"Edina, Minn.",womens-cross-country,2018
+Ariel Silverman,,Sr.,,,"Santa Monica, Calif.",womens-cross-country,2018
+Carleen Jeffers,,Sr.,,,"Ridgewood, N.J.",womens-cross-country,2018
+Ally Hajda,,So.,,,"Atlantic Beach, Fla.",womens-cross-country,2018
+Katherine Dokholyan,,Fr.,,,"Chapel Hill, N.C.",womens-cross-country,2018
+Anna Gibson,,So.,,,"Jackson, Wyo.",womens-cross-country,2018
+Katia Matora,,Sr.,,,"Redmond, Wash.",womens-cross-country,2018
+Ciciely Davy,,Jr.,,,"Gaithersburg, Md.",womens-cross-country,2018
+Chloe Conway,,Jr.,,,"Manchester, N.H.",womens-cross-country,2018
+Shari Rauls,,Jr.,,,"Larchmont, N.Y.",womens-cross-country,2018
+Emily Moini,,Fr.,5' 2'',,"Princeton, N.J.",womens-cross-country,2019
+Maya Smith,,So.,,,"Flagstaff, Ariz.",womens-cross-country,2019
+Samantha Valentine,,Jr.,,,"Middleton, Wis.",womens-cross-country,2019
+Maggie Baker,,Fr.,5' 10'',,"Mercer Island, Wash.",womens-cross-country,2019
+Katherine Treanor,,Sr.,,,"Chevy Chase, Md.",womens-cross-country,2019
+Emma Madgic,,Fr.,5' 7'',,"San Mateo, Calif.",womens-cross-country,2019
+Bailey Pate,,Jr.,,,"Valencia, Calif.",womens-cross-country,2019
+Sarah Reichheld,,Fr.,5' 6'',,"Concord, Mass.",womens-cross-country,2019
+Tim Springfield,,,,,,womens-cross-country,2019
+Chloe Conway,,Sr.,,,"Manchester, N.H.",womens-cross-country,2019
+Amy Willig,,Fr.,,,"Phoenixville, Pa.",womens-cross-country,2019
+Ally Hajda,,Jr.,,,"Atlantic Beach, Fla.",womens-cross-country,2019
+Mary Bibbey,,So.,,,"Woodbury, Conn.",womens-cross-country,2019
+Margaux Terrasson,,Fr.,5' 8'',,"Manhattan, N.Y.",womens-cross-country,2019
+Emily Kompelien,,So.,,,"Edina, Minn.",womens-cross-country,2019
+Isabela Bartczak,,So.,,,"Orlando, Fla.",womens-cross-country,2019
+Ali Martinez,,So.,,,"San Diego, Calif.",womens-cross-country,2019
+Hannah Butler,,Jr.,,,"Dewitt, N.Y.",womens-cross-country,2019
+Shari Rauls,,Sr.,,,"Larchmont, N.Y.",womens-cross-country,2019
+Katherine Dokholyan,,So.,,,"Chapel Hill, N.C.",womens-cross-country,2019
+Emily Skahill,,Jr.,,,"Morgan Hill, Calif.",womens-cross-country,2019
+Emily Faulhaber,,Fr.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2020
+Bailey Pate,,Sr.,,,"Valencia, Calif.",womens-cross-country,2020
+Sarah Reichheld,,So.,5' 6'',,"Concord, Mass.",womens-cross-country,2020
+Emily Skahill,,Sr.,,,"Morgan Hill, Calif.",womens-cross-country,2020
+Danna Ofek,,Fr.,,,"Lexington, Mass.",womens-cross-country,2020
+Katie Orchard,,Fr.,,,"Springfield, Va.",womens-cross-country,2020
+Maddie McCarthy,,So.,,,"Barrington, R.I.",womens-cross-country,2020
+Samantha Valentine,,Sr.,,,"Middleton, Wis.",womens-cross-country,2020
+Amy Willig,,So.,,,"Phoenixville, Pa.",womens-cross-country,2020
+Margaux Terrasson,,So.,5' 8'',,"Manhattan, N.Y.",womens-cross-country,2020
+Ken Hunt,,,,,,womens-cross-country,2020
+Tevah Gevelber,,Fr.,,,"Palo Alto, Calif.",womens-cross-country,2020
+Hailey Freedman,,Jr.,,,"Chapel Hill, N.C.",womens-cross-country,2020
+Ali Martinez,,Jr.,,,"San Diego, Calif.",womens-cross-country,2020
+Isabela Bartczak,,Jr.,,,"Orlando, Fla.",womens-cross-country,2020
+Emma Madgic,,So.,5' 7'',,"San Mateo, Calif.",womens-cross-country,2020
+Isa Stronski,,Fr.,,,"Bronxville, N.Y.",womens-cross-country,2020
+Ally Hajda,,Sr.,,,"Atlantic Beach, Fla.",womens-cross-country,2020
+Felicity Hade,,Fr.,,,"Shorewood, Wis.",womens-cross-country,2020
+Emily Moini,,So.,5' 2'',,"Princeton, N.J.",womens-cross-country,2020
+Allison Drage,,Fr.,,,"Lake Barrington, Ill.",womens-cross-country,2020
+Stephanie Kriss,,Fr.,,,"Highland Park, Ill.",womens-cross-country,2020
+Maya Smith,,Jr.,,,"Flagstaff, Ariz.",womens-cross-country,2020
+Hannah Butler,,Sr.,,,"Dewitt, N.Y.",womens-cross-country,2020
+Emily Kompelien,,Jr.,,,"Edina, Minn.",womens-cross-country,2020
+Mary Bibbey,,Jr.,,,"Woodbury, Conn.",womens-cross-country,2020
+Caroline Sassan,,Fr.,,,"Maple Grove, Minn.",womens-cross-country,2020
+Sara Shipon,,Fr.,,,"Philadelphia, Pa.",womens-cross-country,2020
+Katherine Dokholyan,,Jr.,,,"Chapel Hill, N.C.",womens-cross-country,2020
+Sara Shipon,,So.,,,"Philadelphia, Pa.",womens-cross-country,2021
 Isa Stronski,,So.,,,"Bronxville, N.Y.",womens-cross-country,2021
-Ken Hunt,,,,,,womens-cross-country,2021
-Katie Orchard,,So.,,,"Springfield, Va.",womens-cross-country,2021
-Danna Ofek,,So.,,,"Lexington, Mass.",womens-cross-country,2021
 Maxine Montoya,,Fr.,,,"Atlantic Beach, Fla.",womens-cross-country,2021
 Anna Steffen,,Fr.,,,"Madison, Conn.",womens-cross-country,2021
-Sara Shipon,,So.,,,"Philadelphia, Pa.",womens-cross-country,2021
-Grace Dorantes,,Sr.,,,"Claremont, Calif.",womens-cross-country,2022
-Emily Faulhaber,,Jr.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2022
-Tevah Gevelber,,Jr.,,,"Palo Alto, Calif.",womens-cross-country,2022
-Lily Harding,,Sr.,,,"Kentfield, Calif.",womens-cross-country,2022
-Emma Madgic,,Sr.,,,"San Mateo, Calif.",womens-cross-country,2022
-Nimrit Ahuja,,Fr.,,,"Ellicott City, Md.",womens-cross-country,2022
-Juli Gonzalez,,Fr.,,,"Gladwyne, Pa.",womens-cross-country,2022
-Felicity Hade,,Jr.,,,"Shorewood, Wis.",womens-cross-country,2022
-Julia Antony,,Fr.,,,"Guilford, Conn.",womens-cross-country,2022
-Stephanie Kriss,,Jr.,,,"Highland Park, Ill.",womens-cross-country,2022
-Kaela Brenner,,Fr.,,,"Orange, Calif.",womens-cross-country,2022
-Maddie McCarthy,,Sr.,,,"Barrington, R.I.",womens-cross-country,2022
-Isolde McManus,,So.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2022
-Emily Moini,,Sr.,,,"Princeton, N.J.",womens-cross-country,2022
-Katie Orchard,,Jr.,,,"Springfield, Va.",womens-cross-country,2022
-Sarah Reichheld,,Sr.,,,"Concord, Mass.",womens-cross-country,2022
-Olivia Takla,,Fr.,,,"Toms River, N.J.",womens-cross-country,2022
-Emma Zwall,,So.,,,"Philadelphia, Pa.",womens-cross-country,2022
+Isabela Bartczak,,Sr.,,,"Orlando, Fla.",womens-cross-country,2021
+Danna Ofek,,So.,,,"Lexington, Mass.",womens-cross-country,2021
+Ali Martinez,,Sr.,,,"San Diego, Calif.",womens-cross-country,2021
+Ken Hunt,,,,,,womens-cross-country,2021
+Katie Orchard,,So.,,,"Springfield, Va.",womens-cross-country,2021
+Emma Zwall,,Fr.,,,"Philadelphia, Pa.",womens-cross-country,2021
+Caroline Sassan,,So.,,,"Maple Grove, Minn.",womens-cross-country,2021
+Emily Moini,,Jr.,5' 2'',,"Princeton, N.J.",womens-cross-country,2021
+Amy Willig,,Jr.,,,"Phoenixville, Pa.",womens-cross-country,2021
+Sarah Reichheld,,Jr.,5' 6'',,"Concord, Mass.",womens-cross-country,2021
+Felicity Hade,,So.,,,"Shorewood, Wis.",womens-cross-country,2021
+Allison Drage,,So.,,,"Lake Barrington, Ill.",womens-cross-country,2021
+Katherine Dokholyan,,Sr.,,,"Chapel Hill, N.C.",womens-cross-country,2021
+Emily Kompelien,,Sr.,,,"Edina, Minn.",womens-cross-country,2021
+Mary Bibbey,,Sr.,,,"Woodbury, Conn.",womens-cross-country,2021
+Isolde McManus,,Fr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2021
+Stephanie Kriss,,So.,,,"Highland Park, Ill.",womens-cross-country,2021
+Emily Faulhaber,,So.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2021
+Hailey Freedman,,Jr.,,,"Chapel Hill, N.C.",womens-cross-country,2021
+Tevah Gevelber,,So.,,,"Palo Alto, Calif.",womens-cross-country,2021
+Emma Madgic,,Jr.,5' 7'',,"San Mateo, Calif.",womens-cross-country,2021
 Caroline Sassan,,Jr.,,,"Maple Grove, Minn.",womens-cross-country,2022
-Danna Ofek,,Jr.,,,"Lexington, Mass.",womens-cross-country,2022
+Amy Willig,,Sr.,,,"Phoenixville, Pa.",womens-cross-country,2022
 Julia Schriefer,,Fr.,,,"East Williston, N.Y.",womens-cross-country,2022
+Olivia Takla,,Fr.,,,"Toms River, N.J.",womens-cross-country,2022
 Isa Stronski,,Jr.,,,"Bronxville, N.Y.",womens-cross-country,2022
 Maxine Montoya,,So.,,,"Atlantic Beach, Fla.",womens-cross-country,2022
-Amy Willig,,Sr.,,,"Phoenixville, Pa.",womens-cross-country,2022
+Emma Zwall,,So.,,,"Philadelphia, Pa.",womens-cross-country,2022
+Danna Ofek,,Jr.,,,"Lexington, Mass.",womens-cross-country,2022
 Emily Mrakovcic,,Fr.,,,"Wilton, Conn.",womens-cross-country,2022
 Ken Hunt,,,,,,womens-cross-country,2022
-Felicity Hade,,Sr.,,,"Shorewood, Wis.",womens-cross-country,2023
-Juli Gonzalez,,So.,,,"Gladwyne, Pa.",womens-cross-country,2023
-Isolde McManus,,Jr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2023
+Juli Gonzalez,,Fr.,,,"Gladwyne, Pa.",womens-cross-country,2022
+Nimrit Ahuja,,Fr.,,,"Ellicott City, Md.",womens-cross-country,2022
+Emma Madgic,,Sr.,,,"San Mateo, Calif.",womens-cross-country,2022
+Grace Dorantes,,Sr.,,,"Claremont, Calif.",womens-cross-country,2022
+Maddie McCarthy,,Sr.,,,"Barrington, R.I.",womens-cross-country,2022
+Emily Moini,,Sr.,,,"Princeton, N.J.",womens-cross-country,2022
+Tevah Gevelber,,Jr.,,,"Palo Alto, Calif.",womens-cross-country,2022
+Katie Orchard,,Jr.,,,"Springfield, Va.",womens-cross-country,2022
+Felicity Hade,,Jr.,,,"Shorewood, Wis.",womens-cross-country,2022
+Kaela Brenner,,Fr.,,,"Orange, Calif.",womens-cross-country,2022
+Sarah Reichheld,,Sr.,,,"Concord, Mass.",womens-cross-country,2022
+Julia Antony,,Fr.,,,"Guilford, Conn.",womens-cross-country,2022
+Emily Faulhaber,,Jr.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2022
+Stephanie Kriss,,Jr.,,,"Highland Park, Ill.",womens-cross-country,2022
+Lily Harding,,Sr.,,,"Kentfield, Calif.",womens-cross-country,2022
+Isolde McManus,,So.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2022
 Nimrit Ahuja,,So.,,,"Ellicott City, Md.",womens-cross-country,2023
+Stephanie Kriss,,Sr.,,,"Highland Park, Ill.",womens-cross-country,2023
+Veronica Ambrosionek,,Fr.,,,"Frisco, Texas",womens-cross-country,2023
+Julia Antony,,So.,,,"Guilford, Conn.",womens-cross-country,2023
+Olivia Bergin,,So.,,,"Minneapolis, Minn.",womens-cross-country,2023
+Maxine Montoya,,Jr.,,,"Atlantic Beach, Fla.",womens-cross-country,2023
 Kaela Brenner,,So.,,,"Orange, Calif.",womens-cross-country,2023
+Isolde McManus,,Jr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2023
+Juli Gonzalez,,So.,,,"Gladwyne, Pa.",womens-cross-country,2023
+Felicity Hade,,Sr.,,,"Shorewood, Wis.",womens-cross-country,2023
 Emily Faulhaber,,Sr.,,,"Ft. Lauderdale, Fla.",womens-cross-country,2023
 Olivia Fraga,,Fr.,,,"Miami, Fla.",womens-cross-country,2023
-Nina Kruzewska,,Fr.,,,"Warsaw, Poland",womens-cross-country,2023
-Caroline McCool,,Fr.,,,"Moraga, Calif.",womens-cross-country,2023
-Olivia Bergin,,So.,,,"Minneapolis, Minn.",womens-cross-country,2023
-Julia Antony,,So.,,,"Guilford, Conn.",womens-cross-country,2023
-Veronica Ambrosionek,,Fr.,,,"Frisco, Texas",womens-cross-country,2023
-Stephanie Kriss,,Sr.,,,"Highland Park, Ill.",womens-cross-country,2023
-Maxine Montoya,,Jr.,,,"Atlantic Beach, Fla.",womens-cross-country,2023
 Tanisha Patil,,Fr.,,,Singapore,womens-cross-country,2023
+Caroline McCool,,Fr.,,,"Moraga, Calif.",womens-cross-country,2023
 Olivia Takla,,So.,,,"Toms River, N.J.",womens-cross-country,2023
-Isa Stronski,,Sr.,,,"Bronxville, N.Y.",womens-cross-country,2023
+Katie Orchard,,Sr.,,,"Springfield, Va.",womens-cross-country,2023
 Scarlet Stimson,,Fr.,,,"Essex, Vt.",womens-cross-country,2023
 Danna Ofek,,Sr.,,,"Lexington, Mass.",womens-cross-country,2023
 Julia Schriefer,,So.,,,"East Williston, N.Y.",womens-cross-country,2023
-Katie Orchard,,Sr.,,,"Springfield, Va.",womens-cross-country,2023
+Nina Kruzewska,,Fr.,,,"Warsaw, Poland",womens-cross-country,2023
 Katrina Sortland,,Fr.,,,"Mazeppa, Minn.",womens-cross-country,2023
-Emma Zwall,,Jr.,,,"Philadelphia, Pa.",womens-cross-country,2023
-Emily Mrakovcic,,So.,,,"Wilton, Conn.",womens-cross-country,2023
 Julia Soderbery,,Fr.,,,"Atherton, Calif.",womens-cross-country,2023
 Sara Perez,,So.,,,"Albuquerque, N.M.",womens-cross-country,2023
 John Kenworthy,,,,,,womens-cross-country,2023
-Caroline McCool,,So.,,,"Moraga, Calif.",womens-cross-country,2024
-Veronica Ambrosionek,,So.,,,"Frisco, Texas",womens-cross-country,2024
-Julia Antony,,Jr.,,,"Guilford, Conn.",womens-cross-country,2024
-Olivia Bergin,,Jr.,,,"Minneapolis, Minn.",womens-cross-country,2024
-Bria Benigni,,Fr.,,,"Meriden, Conn.",womens-cross-country,2024
-Isolde McManus,,Sr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2024
-Lillian Kaelber,,Fr.,,,"Atlanta, Ga.",womens-cross-country,2024
-Nina Kruzewska,,So.,,,"Warsaw, Poland",womens-cross-country,2024
-Kaela Brenner,,Jr.,,,"Orange, Calif.",womens-cross-country,2024
-Olivia Fraga,,So.,,,"Miami, Fla.",womens-cross-country,2024
-Juli Gonzalez,,Jr.,,,"Gladwyne, Pa.",womens-cross-country,2024
-Nimrit Ahuja,,Jr.,,,"Ellicott City, Md.",womens-cross-country,2024
-Morgan Boonshaft,,Fr.,,,"Waxhaw, N.C.",womens-cross-country,2024
-Emily Mrakovcic,,Jr.,,,"Wilton, Conn.",womens-cross-country,2024
-Maxine Montoya,,Sr.,,,"Atlantic Beach, Fla.",womens-cross-country,2024
-Tanisha Patil,,So.,,,Singapore,womens-cross-country,2024
-Sarah Paul,,Fr.,,,"Downers Grove, Ill.",womens-cross-country,2024
-Julia Schriefer,,Jr.,,,"East Williston, N.Y.",womens-cross-country,2024
-Eve Siff-Scherr,,Fr.,,,"Port Washington, N.Y.",womens-cross-country,2024
+Isa Stronski,,Sr.,,,"Bronxville, N.Y.",womens-cross-country,2023
+Emma Zwall,,Jr.,,,"Philadelphia, Pa.",womens-cross-country,2023
+Emily Mrakovcic,,So.,,,"Wilton, Conn.",womens-cross-country,2023
 Sara Perez,,Jr.,,,"Albuquerque, N.M.",womens-cross-country,2024
-Sanam Rangaraj,,Fr.,,,"Milton, Ga.",womens-cross-country,2024
-Olivia Takla,,Jr.,,,"Toms River, N.J.",womens-cross-country,2024
-John Kenworthy,,,,,,womens-cross-country,2024
-Julia Soderbery,,So.,,,"Atherton, Calif.",womens-cross-country,2024
 Katrina Sortland,,So.,,,"Mazeppa, Minn.",womens-cross-country,2024
+Maxine Montoya,,Sr.,,,"Atlantic Beach, Fla.",womens-cross-country,2024
+Eve Siff-Scherr,,Fr.,,,"Port Washington, N.Y.",womens-cross-country,2024
+John Kenworthy,,,,,,womens-cross-country,2024
+Olivia Fraga,,So.,,,"Miami, Fla.",womens-cross-country,2024
+Olivia Takla,,Jr.,,,"Toms River, N.J.",womens-cross-country,2024
+Sarah Paul,,Fr.,,,"Downers Grove, Ill.",womens-cross-country,2024
+Tanisha Patil,,So.,,,Singapore,womens-cross-country,2024
 Scarlet Stimson,,So.,,,"Essex, Vt.",womens-cross-country,2024
+Sanam Rangaraj,,Fr.,,,"Milton, Ga.",womens-cross-country,2024
+Julia Soderbery,,So.,,,"Atherton, Calif.",womens-cross-country,2024
+Julia Schriefer,,Jr.,,,"East Williston, N.Y.",womens-cross-country,2024
+Juli Gonzalez,,Jr.,,,"Gladwyne, Pa.",womens-cross-country,2024
+Morgan Boonshaft,,Fr.,,,"Waxhaw, N.C.",womens-cross-country,2024
+Lillian Kaelber,,Fr.,,,"Atlanta, Ga.",womens-cross-country,2024
+Isolde McManus,,Sr.,,,"Cortlandt Manor, N.Y.",womens-cross-country,2024
+Kaela Brenner,,Jr.,,,"Orange, Calif.",womens-cross-country,2024
+Bria Benigni,,Fr.,,,"Meriden, Conn.",womens-cross-country,2024
+Julia Antony,,Jr.,,,"Guilford, Conn.",womens-cross-country,2024
+Nimrit Ahuja,,Jr.,,,"Ellicott City, Md.",womens-cross-country,2024
+Olivia Bergin,,Jr.,,,"Minneapolis, Minn.",womens-cross-country,2024
+Veronica Ambrosionek,,So.,,,"Frisco, Texas",womens-cross-country,2024
+Caroline McCool,,So.,,,"Moraga, Calif.",womens-cross-country,2024
+Emily Mrakovcic,,Jr.,,,"Wilton, Conn.",womens-cross-country,2024
+Nina Kruzewska,,So.,,,"Warsaw, Poland",womens-cross-country,2024
+Juli Gonzalez,,Sr.,,,"Gladwyne, Pa.",womens-cross-country,2025
 Mia Reaugh,,Fr.,,,"Lucas, Texas",womens-cross-country,2025
-Veronica Ambrosionek,,Jr.,,,"Frisco, Texas",womens-cross-country,2025
-Bria Benigni,,So.,,,"Meriden, Conn.",womens-cross-country,2025
-Olivia Bergin,,Sr.,,,"Minneapolis, Minn.",womens-cross-country,2025
+Tanisha Patil,,Jr.,,,Singapore,womens-cross-country,2025
+Katrina Sortland,,Jr.,,,"Mazeppa, Minn.",womens-cross-country,2025
+Eve Siff-Scherr,,So.,,,"Port Washington, N.Y.",womens-cross-country,2025
+John Kenworthy,,,,,,womens-cross-country,2025
+Maxine Paul-Emile,,Fr.,,,"Brooklyn, N.Y.",womens-cross-country,2025
+Lily Bowen,,Fr.,,,"Nashville, Tenn.",womens-cross-country,2025
+Julia Soderbery,,Jr.,,,"Atherton, Calif.",womens-cross-country,2025
+Emily Mrakovcic,,Sr.,,,"Wilton, Conn.",womens-cross-country,2025
 Kata Clark,,Fr.,,,"Wenham, Mass.",womens-cross-country,2025
+Sara Perez,,Sr.,,,"Albuquerque, N.M.",womens-cross-country,2025
 Olivia Fraga,,Jr.,,,"Miami, Fla.",womens-cross-country,2025
 Megan Jasinski,,Fr.,,,"Cold Spring Harbor, N.Y.",womens-cross-country,2025
+Morgan Boonshaft,,So.,,,"Waxhaw, N.C.",womens-cross-country,2025
+Charlotte Murphy,,Fr.,,,"Southbury, Conn.",womens-cross-country,2025
+Sarah Paul,,So.,,,"Downers Grove, Ill.",womens-cross-country,2025
+Ariana Thiel-Hadjilambrinos,,So.,,,"Albuquerque, N.M.",womens-cross-country,2025
+Veronica Ambrosionek,,Jr.,,,"Frisco, Texas",womens-cross-country,2025
+Olivia Bergin,,Sr.,,,"Minneapolis, Minn.",womens-cross-country,2025
 Lillian Kaelber,,So.,,,"Atlanta, Ga.",womens-cross-country,2025
 Nina Kruzewska,,Jr.,,,"Warsaw, Poland",womens-cross-country,2025
+Scarlet Stimson,,Jr.,,,"Essex, Vt.",womens-cross-country,2025
+Julia Schriefer,,Sr.,,,"East Williston, N.Y.",womens-cross-country,2025
+Bria Benigni,,So.,,,"Meriden, Conn.",womens-cross-country,2025
+Sanam Rangaraj,,So.,,,"Milton, Ga.",womens-cross-country,2025
+Haley Kavanagh,,Fr.,,,"Durham, N.H.",womens-cross-country,2025
 Nimrit Ahuja,,Sr.,,,"Ellicott City, Md.",womens-cross-country,2025
 Caroline McCool,,Jr.,,,"Moraga, Calif.",womens-cross-country,2025
-Juli Gonzalez,,Sr.,,,"Gladwyne, Pa.",womens-cross-country,2025
-Sanam Rangaraj,,So.,,,"Milton, Ga.",womens-cross-country,2025
-Ariana Thiel-Hadjilambrinos,,So.,,,"Albuquerque, N.M.",womens-cross-country,2025
-Haley Kavanagh,,Fr.,,,"Durham, N.H.",womens-cross-country,2025
-Emily Mrakovcic,,Sr.,,,"Wilton, Conn.",womens-cross-country,2025
-Lily Bowen,,Fr.,,,"Nashville, Tenn.",womens-cross-country,2025
-Sarah Paul,,So.,,,"Downers Grove, Ill.",womens-cross-country,2025
-Maxine Paul-Emile,,Fr.,,,"Brooklyn, N.Y.",womens-cross-country,2025
-Sara Perez,,Sr.,,,"Albuquerque, N.M.",womens-cross-country,2025
-John Kenworthy,,,,,,womens-cross-country,2025
-Eve Siff-Scherr,,So.,,,"Port Washington, N.Y.",womens-cross-country,2025
-Morgan Boonshaft,,So.,,,"Waxhaw, N.C.",womens-cross-country,2025
-Scarlet Stimson,,Jr.,,,"Essex, Vt.",womens-cross-country,2025
-Charlotte Murphy,,Fr.,,,"Southbury, Conn.",womens-cross-country,2025
-Julia Schriefer,,Sr.,,,"East Williston, N.Y.",womens-cross-country,2025
-Tanisha Patil,,Jr.,,,Singapore,womens-cross-country,2025
-Julia Soderbery,,Jr.,,,"Atherton, Calif.",womens-cross-country,2025
-Katrina Sortland,,Jr.,,,"Mazeppa, Minn.",womens-cross-country,2025
 Sarah Paul,,Jr.,,,"Downers Grove, Ill.",womens-cross-country,2026
 Cricket Phipps,,Fr.,,,"Springfield, Ore.",womens-cross-country,2026
 Sanam Rangaraj,,Jr.,,,"Milton, Ga.",womens-cross-country,2026

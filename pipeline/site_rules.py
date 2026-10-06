@@ -78,9 +78,28 @@ SCHOOL_PREFERS_DASH_YEAR = {
 }
 
 
+# For these teams the site names each season's page differently, and the wrong form returns a stale or default roster instead of an error.
+# Each list reads "through this season, use only this URL form" ("dash" = 2020-21, "bare" = 2020). Found with probe_year.py or the site's season list.
+SCHOOL_FORM_THROUGH = {
+    ("Yale", "mens-soccer"): [(2020, "dash")],
+    ("Harvard", "mens-rowing"): [(2026, "dash")],
+    # Penn men's tennis: 2016-17 is labeled with the plain year 2016, and every season after it is a dash label.
+    ("Penn", "mens-tennis"): [(2016, "bare"), (2026, "dash")],
+    # Yale: the other form returns the site's default page for these seasons (checked 2020-21 to 2023-24).
+    # Yale football 2022-23: the plain-year page keeps 2021-22's class labels (a stale copy); the dash page is the real roster.
+    ("Yale", "football"): [(2021, "bare"), (2022, "dash"), (2026, "bare")],
+    ("Yale", "mens-cross-country"): [(2023, "bare")],
+    ("Yale", "mens-track-and-field"): [(2023, "dash")],
+    # Yale volleyball: plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again.
+    ("Yale", "womens-volleyball"): [(2019, "bare"), (2021, "dash"), (2026, "bare")],
+    ("Yale", "volleyball"): [(2019, "bare"), (2021, "dash"), (2026, "bare")],
+}
+
+
 # Seasons with no fetchable roster page, so they are never requested.
 KNOWN_MISSING_SEASONS = {
     ("Yale", "mens-golf", 2023),
+    ("Harvard", "mens-rowing", 2019),  # the site serves the current roster for this season, so there is no real page
 }
 
 # First varsity year per program; earlier years are never fetched and are dropped from disk.

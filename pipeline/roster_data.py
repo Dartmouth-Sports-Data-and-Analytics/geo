@@ -68,3 +68,17 @@ def clean_name_badges(df):
     total_fixed = (fixed != df["name"].astype(str)).sum()
     df["name"] = fixed
     return total_fixed
+
+
+# Class label -> 1..5 (Fy/So/Jr/Sr/Gr); redshirt prefixes count as the base class; unknown labels give None.
+def class_rank(label):
+    if pd.isna(label):
+        return None
+    s = re.sub(r"[^a-z0-9]", "", str(label).lower())
+    groups = [("fy", "fr", "rf", "freshman", "firstyear"), ("so", "rso", "sophomore"), ("jr", "rjr", "junior"),
+              ("sr", "rs", "senior"), ("gr", "grad", "graduate", "gs", "5th", "6th", "fifthyear", "sixthyear")]
+    for candidate in (s, re.sub(r"^(redshirt|r)", "", s)):
+        for rank, names in enumerate(groups, start=1):
+            if candidate in names:
+                return rank
+    return None

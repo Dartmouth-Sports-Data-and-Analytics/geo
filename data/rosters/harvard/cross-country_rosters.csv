@@ -1,35 +1,143 @@
 name,position,class,height,weight,hometown,sport,year
-Anna Burt,,Jr.,,,"Bath, U.K.",cross-country,2021
-Kyle Englander,,Jr.,,,"Suffield, Conn.",cross-country,2021
-Ben Hartvigsen,,So.,,,"Sarasota, Fla.",cross-country,2021
-Michael Alber,,Sr.,,,"Berlin, Germany",cross-country,2021
-Zoe Cooper,,Fy,,,"New York, N.Y.",cross-country,2021
-Cristina DeMeo,,Fy,,,"Saratoga Springs, N.Y.",cross-country,2021
-Jordyn Duby,,Fy,,,"San Diego, Calif.",cross-country,2021
-Isabelle Goldstein,,Fy,,,"Ambler, Pa.",cross-country,2021
-Katie Haag,,Fy,,,"Bay City, Mich.",cross-country,2021
-Anna Juul,,Sr.,,,"West Chester, Pa.",cross-country,2021
-Shaked Leibovitz,,Jr.,,,"Tel Aviv, Israel",cross-country,2021
-Ellaney Matarese,,Fy,,,"La Canada, Calif.",cross-country,2021
-Marianne Mihas,,Fy,,,"Chicago, Ill.",cross-country,2021
-Sarah Naticchia,,Fy,,,"Haddonfield, N.J.",cross-country,2021
-Judy Pendergast,,Sr.,,,"Naperville, Ill.",cross-country,2021
-Annelies Quinton,,Fy,,,"Portland, Or.",cross-country,2021
-Maia Ramsden,,So.,,,"Addis Ababa, Ethiopia",cross-country,2021
-Maya Rayle,,Jr.,,,"Portland, Ore.",cross-country,2021
-Iz Sagar,,Jr.,,,"Loyalsock, Pa.",cross-country,2021
-Oliver Adler,,So.,,,"Cherry Hill, N.J.",cross-country,2021
-Hewson Duffy,,Fy,,,"Charlottesville, Va.",cross-country,2021
-Eloise Freitag,,Jr.,,,"New York, N.Y.",cross-country,2021
-Colin Baker,,So.,,,"North Charleston, S.C.",cross-country,2021
+Ben Huffman,,Jr.,,,"Waxhaw, N.C.",cross-country,2016
+Louis Colson,,Jr.,,,"Alexandria, Va.",cross-country,2016
+Elianna Shwayder,,Jr.,,,"Saline, Mich.",cross-country,2016
+Marissa Saenger,,Jr.,,,"Clarence, N.Y.",cross-country,2016
+Fiona Davis,,Jr.,,,"Manchester, Mass.",cross-country,2016
+Madeleine Ankhelyi,,Sr.,,,"Folsom, Calif.",cross-country,2016
+Gabe Montague,,Jr.,,,"Newton, Mass.",cross-country,2016
+Brandon Price,,Sr.,,,"Balboa Island, Calif.",cross-country,2016
+Courtney Smith,,Jr.,,,"Westchester, Pa.",cross-country,2016
+Tyler Spear,,Jr.,,,"Baltimore, Md.",cross-country,2016
+Malia Ellington,,Jr.,,,"Davidson, N.C.",cross-country,2017
+Zachary Manickas-Hill,,So.,,,"Lexington, Mass.",cross-country,2017
+Emily Aiken,,Jr.,,,"Palo Alto, Calif.",cross-country,2017
+Kaeo Kruse,,So.,,,"Kalaheo, Hawaii",cross-country,2017
+Nicholas Linder,,Jr.,,,"Charlotte, N.C.",cross-country,2017
+Ben Huffman,,Sr.,,,"Waxhaw, N.C.",cross-country,2017
+Samuel Oh,,Jr.,,,"Lincolnshire, Ill.",cross-country,2017
+Robert Hope,,Jr.,,,"Mobile, Ala.",cross-country,2017
+Collin Price,,Jr.,,,"San Juan Capistrano, Calif.",cross-country,2017
+Tyler Spear,,Sr.,,,"Baltimore, Md.",cross-country,2017
+Fiona Davis,,Sr.,,,"Manchester, Mass.",cross-country,2017
+Murimi Nyamu,,So.,,,"Forest Grove, Ore.",cross-country,2017
+Kieran Tuntivate,,Jr.,,,"Wilmington, Del.",cross-country,2017
+Marissa Saenger,,Sr.,,,"Clarence, N.Y.",cross-country,2017
+Lisa Tertsch,,So.,,,"Darmstadt, Germany",cross-country,2017
+Gabe Montague,,Sr.,,,"Newton, Mass.",cross-country,2017
+Gillian Meeks,,So.,,,"Palo Alto, Calif.",cross-country,2017
+Judy Pendergast,,So.,,,"Naperville, Ill.",cross-country,2017
+Louis Colson,,Sr.,,,"Alexandria, Va.",cross-country,2017
+Elianna Shwayder,,Sr.,,,"Saline, Mich.",cross-country,2017
+Will Battershill,,So.,,,"Devon, U.K.",cross-country,2017
+Eliza Rego,,So.,,,"Warren, R.I.",cross-country,2017
+Brooke Starn,,So.,,,"Danville, Calif.",cross-country,2017
+Erin Dietz,,Jr.,,,"Bedford, Mass.",cross-country,2017
+Erin Dietz,,Sr.,,,"Bedford, Mass.",cross-country,2018
+Aislinn Devlin,,So.,,,"Downington, Pa.",cross-country,2018
+Carolina Beroutsos,,So.,,,"New York, N.Y.",cross-country,2018
+Myles Marshall,,Sr.,,,"Kingwood, Texas",cross-country,2018
+Zachary Manickas-Hill,,Jr.,,,"Lexington, Mass.",cross-country,2018
+Abbe Goldstein,,So.,,,"Ambler, Pa.",cross-country,2018
+David Melville,,Fy,,,"Greensboro, N.C.",cross-country,2018
+Malia Ellington,,Sr.,,,"Davidson, N.C.",cross-country,2018
+Miranda Sadler,,Sr.,,,"Bristol, U.K.",cross-country,2018
+Caleb Moore,,Fy,,,"Plattsburgh, NY",cross-country,2018
+Kieran Tuntivate,,Sr.,,,"Wilmington, Del.",cross-country,2018
+Murimi Nyamu,,Jr.,,,"Forest Grove, Ore.",cross-country,2018
+George Miliaras,,Fy,,,"Athens, Greece",cross-country,2018
+Matthew Pereira,,Jr.,,,"Kildeer, Ill.",cross-country,2018
+Brooke Starn,,Jr.,,,"Danville, Calif.",cross-country,2018
+Will Battershill,,Jr.,,,"Devon, U.K.",cross-country,2018
+Anna Juul,,So.,,,"West Chester, Pa.",cross-country,2018
+Julia Larson,,Fy,,,"New York, N.Y.",cross-country,2018
+Eliza Rego,,Jr.,,,"Warren, R.I.",cross-country,2018
+Gillian Meeks,,Jr.,,,"Palo Alto, Calif.",cross-country,2018
+Hugo Milner,,So.,,,"Derby, United Kingdom",cross-country,2018
+Mike Kolor,,Jr.,,,"Harmony, Pa.",cross-country,2018
+Robert Hope,,Sr.,,,"Mobile, Ala.",cross-country,2018
+Jordan Weston,,Fy,,,"Ottawa, Ontario",cross-country,2018
+Will Crisp,,Fy,,,"Swindon, U.K.",cross-country,2018
+Nicholas Linder,,Sr.,,,"Charlotte, N.C.",cross-country,2018
+Blake Evertsen,,So.,,,"Hinsdale, Ill.",cross-country,2018
+Kaeo Kruse,,Jr.,,,"Kalaheo, Hawaii",cross-country,2018
+Luke Laverdiere,,Fy,,,"Yarmouth, Maine",cross-country,2018
+Riley McDermott,,Fy,,,"Frederick, Md.",cross-country,2018
+Lisa Tertsch,,Jr.,,,"Darmstadt, Germany",cross-country,2018
+Tessa Medrano,,So.,,,"Powell, OH",cross-country,2018
+Lauren Spohn,,Jr.,,,"College Station, Texas",cross-country,2018
+Caleb Moore,,Fy,,,"Plattsburgh, N.Y.",cross-country,2018
+Collin Price,,Sr.,,,"San Juan Capistrano, Calif.",cross-country,2018
+Maya Rayle,,Fy,,,"Portland, Ore.",cross-country,2018
+Samuel Oh,,Sr.,,,"Lincolnshire, Ill.",cross-country,2018
+Charlie Davis,,Sr.,,,"Manchester, Mass.",cross-country,2019
+Kieran Tuntivate,,Sr.,,,"Wilmington, Del.",cross-country,2019
+Caleb Moore,,So.,,,"Plattsburgh, NY",cross-country,2019
+Hugo Milner,,Jr.,,,"Derby, United Kingdom",cross-country,2019
+Luke Laverdiere,,So.,,,"Yarmouth, Maine",cross-country,2019
+Colin Baker,,Rs.,,,"North Charleston, S.C.",cross-country,2019
+David Melville,,So.,,,"Greensboro, N.C.",cross-country,2019
+George Miliaras,,So.,,,"Athens, Greece",cross-country,2019
+Acer Iverson,,Rs.,,,"Roseville, Minn.",cross-country,2019
+Matthew Pereira,,Jr.,,,"Kildeer, Ill.",cross-country,2019
+Kaeo Kruse,,Sr.,,,"Kalaheo, Hawaii",cross-country,2019
+Kyle Englander,,Rs.,,,"Suffield, Conn.",cross-country,2019
+John Fish,,Jr.,,,"Waterloo, Ontario",cross-country,2019
+Blake Evertsen,,Jr.,,,"Hinsdale, Ill.",cross-country,2019
+Riley McDermott,,So.,,,"Frederick, Md.",cross-country,2019
+Will Crisp,,So.,,,"Swindon, U.K.",cross-country,2019
+Ben Hartvigsen,,Rs.,,,"Sarasota, Fla.",cross-country,2019
+Sameer Das,,Rs.,,,"West Windsor, N.J.",cross-country,2019
+Carolina Beroutsos,,Jr.,,,"New York, N.Y.",cross-country,2019
+Jack McDonough,,Rs.,,,"Cleveland, Ohio",cross-country,2019
+Jordan Weston,,So.,,,"Ottawa, Ontario",cross-country,2019
+Aislinn Devlin,,Jr.,,,"Downington, Pa.",cross-country,2019
+Lisa Tertsch,,Sr.,,,"Darmstadt, Germany",cross-country,2019
+Iz Sagar,,Rs.,,,"Loyalsock, Pa.",cross-country,2019
+Eliza Rego,,Sr.,,,"Warren, R.I.",cross-country,2019
+Michael Alber,,Jr.,,,"Berlin, Germany",cross-country,2019
+Valentina Doerre Torre,,So.,,,"Boston, Mass.",cross-country,2019
+Maya Rayle,,So.,,,"Portland, Ore.",cross-country,2019
+Gillian Meeks,,Sr.,,,"Palo Alto, Calif.",cross-country,2019
+Brooke Starn,,Sr.,,,"Danville, Calif.",cross-country,2019
+Judy Pendergast,,Jr.,,,"Naperville, Ill.",cross-country,2019
+Tatiana Jimenez,,Jr.,,,"Elk Grove, Calif.",cross-country,2019
+Shaked Leibovitz,,Rs.,,,"Tel Aviv, Israel",cross-country,2019
+Sylvia Cruz-Albrecht,,Rs.,,,"Oak Park, Calif.",cross-country,2019
+Abbe Goldstein,,Jr.,,,"Ambler, Pa.",cross-country,2019
+Will Battershill,,Sr.,,,"Devon, U.K.",cross-country,2019
+Eloise Freitag,,Rs.,,,"New York, N.Y.",cross-country,2019
+Anna Juul,,Jr.,,,"West Chester, Pa.",cross-country,2019
+Anna Burt,,Rs.,,,"Bath, U.K.",cross-country,2019
+Tessa Medrano,,Jr.,,,"Powell, Ohio",cross-country,2019
+Maia Ramsden,,Fy,,,"Addis Ababa, Ethiopia",cross-country,2020
+Kyle Englander,,Fy,,,"Suffield, Conn.",cross-country,2020
+Mike Kolor,,Sr.,,,"Harmony, Pa.",cross-country,2020
+Eleanor Wikstrom,,Fy,,,"Oakland, Calif.",cross-country,2020
+John Fish,,Sr.,,,"Waterloo, Ontario",cross-country,2020
+Lisa Tertsch,,Sr.,,,"Darmstadt, Germany",cross-country,2020
+Oliver Adler,,Fy,,,"Cherry Hill, N.J.",cross-country,2020
+Jack McDonough,,So.,,,"Cleveland, Ohio",cross-country,2020
+Alex Fleury,,Fy,,,"North Andover, Mass.",cross-country,2020
+Iz Sagar,,So.,,,"Loyalsock, Pa.",cross-country,2020
+Eloise Freitag,,So.,,,"New York, N.Y.",cross-country,2020
+Tessa Medrano,,Sr.,,,"Powell, Ohio",cross-country,2020
+Aislinn Devlin,,Sr.,,,"Downington, Pa.",cross-country,2020
+Shaked Leibovitz,,So.,,,"Tel Aviv, Israel",cross-country,2020
+Hugo Milner,,Sr.,,,"Derby, United Kingdom",cross-country,2020
+Valentina Doerre Torre,,Jr.,,,"Boston, Mass.",cross-country,2020
+Abbe Goldstein,,Sr.,,,"Ambler, Pa.",cross-country,2020
+Anna Burt,,So.,,,"Bath, U.K.",cross-country,2020
+Reed Pryor,,Fy,,,"Ashland, Or.",cross-country,2021
+Matthew Pereira,,Sr.,,,"Kildeer, Ill.",cross-country,2021
+Graham Blanks,,Fy,,,"Athens, Ga.",cross-country,2021
 Makena Gates,,Fy,,,"Cantor, Ga.",cross-country,2021
 Ella Gilson,,Fy,,,"Cleveland, Oh.",cross-country,2021
 Andrew Avila,,Fy,,,"Wilmington, Del.",cross-country,2021
-Graham Blanks,,Fy,,,"Athens, Ga.",cross-country,2021
-Pierce Cousins,,Fy,,,"Glen Ellyn, Ill.",cross-country,2021
-Will Crisp,,Jr.,,,"Swindon, U.K.",cross-country,2021
+Colin Baker,,So.,,,"North Charleston, S.C.",cross-country,2021
 Joe Ewing,,Fy,,,"Edinburgh, Scotland",cross-country,2021
-John Fish,,Sr.,,,"Waterloo, Ontario",cross-country,2021
+Pierce Cousins,,Fy,,,"Glen Ellyn, Ill.",cross-country,2021
+Eloise Freitag,,Jr.,,,"New York, N.Y.",cross-country,2021
 Alex Fleury,,So.,,,"North Andover, Mass.",cross-country,2021
 Sameer Das,,So.,,,"West Windsor, N.J.",cross-country,2021
 Acer Iverson,,So.,,,"Roseville, Minn.",cross-country,2021
@@ -37,172 +145,193 @@ Luke Laverdiere,,Jr.,,,"Yarmouth, Maine",cross-country,2021
 Jack McDonough,,Jr.,,,"Cleveland, Ohio",cross-country,2021
 David Melville,,Sr.,,,"Greensboro, N.C.",cross-country,2021
 Caleb Moore,,Jr.,,,"Plattsburgh, N.Y.",cross-country,2021
-Matthew Pereira,,Sr.,,,"Kildeer, Ill.",cross-country,2021
-Reed Pryor,,Fy,,,"Ashland, Or.",cross-country,2021
-Ben Rosa,,Fy,,,"Lake Bluff, Ill.",cross-country,2021
 Noah Ward,,Fy,,,"Daniel Island, S.C.",cross-country,2021
-Jordyn Duby,,So.,,,"San Diego, Calif.",cross-country,2022
-Isabelle Goldstein,,So.,,,"Ambler, Pa.",cross-country,2022
-Makena Gates,,So.,,,"Cantor, Ga.",cross-country,2022
-Shaked Leibovitz,,Sr.,,,"Tel Aviv, Israel",cross-country,2022
-Maya Rayle,,Sr.,,,"Portland, Ore.",cross-country,2022
-Cristina DeMeo,,So.,,,"Saratoga Springs, N.Y.",cross-country,2022
-Katie Haag,,So.,,,"Bay City, Mich.",cross-country,2022
-Eloise Freitag,,Sr.,,,"New York, N.Y.",cross-country,2022
-Penelope Salmon,,Fy,,,"Auckland, New Zealand",cross-country,2022
-Marie Jensen,,Fy,,,"Copenhagen, Denmark",cross-country,2022
-Maia Ramsden,,Jr.,,,"Addis Ababa, Ethiopia",cross-country,2022
-Zoe Cooper,,So.,,,"New York, N.Y.",cross-country,2022
-Molly Malague,,Fy,,,"Metuchen, N.J.",cross-country,2022
-Ellaney Matarese,,So.,,,"La Canada, Calif.",cross-country,2022
-Marianne Mihas,,So.,,,"Chicago, Ill.",cross-country,2022
-Sarah Naticchia,,So.,,,"Haddonfield, N.J.",cross-country,2022
-Lily O’Donoghue-McDonald,,Fy,,,"Seattle, Wash.",cross-country,2022
-Kristin Otervik,,Fy,,,"Oslo, Norway",cross-country,2022
-Annelies Quinton,,So.,,,"Portland, Or.",cross-country,2022
-Emma Langis,,Fy,,,"Ridgefield, Ct.",cross-country,2022
-Ella Gilson,,So.,,,"Cleveland, Oh.",cross-country,2022
-Anna Burt,,Sr.,,,"Bath, U.K.",cross-country,2022
-Iz Sagar,,Sr.,,,"Loyalsock, Pa.",cross-country,2022
-Vivien Henz,,Fy,,,"Luxembourg City, Luxembourg",cross-country,2022
-Graham Blanks,,So.,,,"Athens, Ga.",cross-country,2022
-Will Crisp,,Sr.,,,"Swindon, U.K.",cross-country,2022
-Andrew Avila,,So.,,,"Wilmington, Del.",cross-country,2022
+Anna Burt,,Jr.,,,"Bath, U.K.",cross-country,2021
+John Fish,,Sr.,,,"Waterloo, Ontario",cross-country,2021
+Hewson Duffy,,Fy,,,"Charlottesville, Va.",cross-country,2021
+Will Crisp,,Jr.,,,"Swindon, U.K.",cross-country,2021
+Marianne Mihas,,Fy,,,"Chicago, Ill.",cross-country,2021
+Kyle Englander,,Jr.,,,"Suffield, Conn.",cross-country,2021
+Judy Pendergast,,Sr.,,,"Naperville, Ill.",cross-country,2021
+Ben Hartvigsen,,So.,,,"Sarasota, Fla.",cross-country,2021
+Jordyn Duby,,Fy,,,"San Diego, Calif.",cross-country,2021
+Zoe Cooper,,Fy,,,"New York, N.Y.",cross-country,2021
+Cristina DeMeo,,Fy,,,"Saratoga Springs, N.Y.",cross-country,2021
+Michael Alber,,Sr.,,,"Berlin, Germany",cross-country,2021
+Anna Juul,,Sr.,,,"West Chester, Pa.",cross-country,2021
+Katie Haag,,Fy,,,"Bay City, Mich.",cross-country,2021
+Isabelle Goldstein,,Fy,,,"Ambler, Pa.",cross-country,2021
+Ellaney Matarese,,Fy,,,"La Canada, Calif.",cross-country,2021
+Ben Rosa,,Fy,,,"Lake Bluff, Ill.",cross-country,2021
+Shaked Leibovitz,,Jr.,,,"Tel Aviv, Israel",cross-country,2021
+Maia Ramsden,,So.,,,"Addis Ababa, Ethiopia",cross-country,2021
+Annelies Quinton,,Fy,,,"Portland, Or.",cross-country,2021
+Maya Rayle,,Jr.,,,"Portland, Ore.",cross-country,2021
+Sarah Naticchia,,Fy,,,"Haddonfield, N.J.",cross-country,2021
+Iz Sagar,,Jr.,,,"Loyalsock, Pa.",cross-country,2021
+Oliver Adler,,So.,,,"Cherry Hill, N.J.",cross-country,2021
 Hewson Duffy,,So.,,,"Charlottesville, Va.",cross-country,2022
-Oliver Adler,,Jr.,,,"Cherry Hill, N.J.",cross-country,2022
-Acer Iverson,,Jr.,,,"Roseville, Minn.",cross-country,2022
-Pierce Cousins,,So.,,,"Glen Ellyn, Ill.",cross-country,2022
+Annelies Quinton,,So.,,,"Portland, Or.",cross-country,2022
 Erik Guander,,Fy,,,"Goteburg, Sweden",cross-country,2022
+Graham Blanks,,So.,,,"Athens, Ga.",cross-country,2022
+Acer Iverson,,Jr.,,,"Roseville, Minn.",cross-country,2022
+Andrew Avila,,So.,,,"Wilmington, Del.",cross-country,2022
 Sameer Das,,Jr.,,,"West Windsor, N.J.",cross-country,2022
-Shane Brosnan,,Fy,,,"Orange, N.J.",cross-country,2022
-Ben Hartvigsen,,Jr.,,,"Sarasota, Fla.",cross-country,2022
-Joe Ewing,,So.,,,"Edinburgh, Scotland",cross-country,2022
+David Melville,,Sr.,,,"Greensboro, N.C.",cross-country,2022
+Vivien Henz,,Fy,,,"Luxembourg City, Luxembourg",cross-country,2022
+Oliver Adler,,Jr.,,,"Cherry Hill, N.J.",cross-country,2022
+Jack McDonough,,Sr.,,,"Cleveland, Ohio",cross-country,2022
 Kyle Englander,,Sr.,,,"Suffield, Conn.",cross-country,2022
 Luke Laverdiere,,Sr.,,,"Yarmouth, Maine",cross-country,2022
-Jack McDonough,,Sr.,,,"Cleveland, Ohio",cross-country,2022
-David Melville,,Sr.,,,"Greensboro, N.C.",cross-country,2022
-Caleb Moore,,Sr.,,,"Plattsburgh, N.Y.",cross-country,2022
+Pierce Cousins,,So.,,,"Glen Ellyn, Ill.",cross-country,2022
+Ella Gilson,,So.,,,"Cleveland, Oh.",cross-country,2022
+Jordyn Duby,,So.,,,"San Diego, Calif.",cross-country,2022
+Shane Brosnan,,Fy,,,"Orange, N.J.",cross-country,2022
+Ben Hartvigsen,,Jr.,,,"Sarasota, Fla.",cross-country,2022
+Isabelle Goldstein,,So.,,,"Ambler, Pa.",cross-country,2022
+Joe Ewing,,So.,,,"Edinburgh, Scotland",cross-country,2022
+Will Crisp,,Sr.,,,"Swindon, U.K.",cross-country,2022
+Iz Sagar,,Sr.,,,"Loyalsock, Pa.",cross-country,2022
+Anna Burt,,Sr.,,,"Bath, U.K.",cross-country,2022
 Reed Pryor,,So.,,,"Ashland, Or.",cross-country,2022
-Ben Rosa,,So.,,,"Lake Bluff, Ill.",cross-country,2022
+Cristina DeMeo,,So.,,,"Saratoga Springs, N.Y.",cross-country,2022
+Noah Ward,,So.,,,"Daniel Island, S.C.",cross-country,2022
+Molly Malague,,Fy,,,"Metuchen, N.J.",cross-country,2022
+Katie Haag,,So.,,,"Bay City, Mich.",cross-country,2022
+Maia Ramsden,,Jr.,,,"Addis Ababa, Ethiopia",cross-country,2022
+Emma Langis,,Fy,,,"Ridgefield, Ct.",cross-country,2022
+Ellaney Matarese,,So.,,,"La Canada, Calif.",cross-country,2022
+Shaked Leibovitz,,Sr.,,,"Tel Aviv, Israel",cross-country,2022
+Maya Rayle,,Sr.,,,"Portland, Ore.",cross-country,2022
+Marianne Mihas,,So.,,,"Chicago, Ill.",cross-country,2022
+Zoe Cooper,,So.,,,"New York, N.Y.",cross-country,2022
+Penelope Salmon,,Fy,,,"Auckland, New Zealand",cross-country,2022
+Marie Jensen,,Fy,,,"Copenhagen, Denmark",cross-country,2022
+Caleb Moore,,Sr.,,,"Plattsburgh, N.Y.",cross-country,2022
 Ben Shryock,,Fy,,,"Lawrence, KS",cross-country,2022
 Jeremy Williams,,Fy,,,"Lapeer, Mich.",cross-country,2022
-Noah Ward,,So.,,,"Daniel Island, S.C.",cross-country,2022
-Jordyn Duby,,Jr.,,,"San Diego, Calif.",cross-country,2023
-Fieke Van der Kamp,,Fy,,,"Victoria, Australia",cross-country,2023
-Ella Gilson,,Jr.,,,"Cleveland, Oh.",cross-country,2023
-Makena Gates,,Jr.,,,"Cantor, Ga.",cross-country,2023
-Sophia Gorriaran,,Fy,,,"Providence, R.I.",cross-country,2023
-Cristina DeMeo,,Jr.,,,"Saratoga Springs, N.Y.",cross-country,2023
-Samira Kennedy,,Fy,,,"Palo Alto, Calif.",cross-country,2023
-Kaiya Brooks,,Fy,,,"Hillsborough, Calif.",cross-country,2023
-Emma Langis,,So.,,,"Ridgefield, Ct.",cross-country,2023
-Marie Jensen,,So.,,,"Copenhagen, Denmark",cross-country,2023
-Ellaney Matarese,,Jr.,,,"La Canada, Calif.",cross-country,2023
-Marianne Mihas,,Jr.,,,"Chicago, Ill.",cross-country,2023
-Kristin Otervik,,So.,,,"Oslo, Norway",cross-country,2023
-Maia Ramsden,,Sr.,,,"Addis Ababa, Ethiopia",cross-country,2023
-Zoe Cooper,,Jr.,,,"New York, N.Y.",cross-country,2023
-Lily O’Donoghue-McDonald,,So.,,,"Seattle, Wash.",cross-country,2023
-Isabelle Goldstein,,Jr.,,,"Ambler, Pa.",cross-country,2023
-Annelies Quinton,,Jr.,,,"Portland, Or.",cross-country,2023
-Katie Haag,,Jr.,,,"Bay City, Mich.",cross-country,2023
-Penelope Salmon,,So.,,,"Auckland, New Zealand",cross-country,2023
-Molly Malague,,So.,,,"Metuchen, N.J.",cross-country,2023
-Abby Weber,,So.,,,"Chapel Hill, N.C.",cross-country,2023
+Ben Rosa,,So.,,,"Lake Bluff, Ill.",cross-country,2022
+Sarah Naticchia,,So.,,,"Haddonfield, N.J.",cross-country,2022
+Lily O’Donoghue-McDonald,,Fy,,,"Seattle, Wash.",cross-country,2022
+Makena Gates,,So.,,,"Cantor, Ga.",cross-country,2022
+Eloise Freitag,,Sr.,,,"New York, N.Y.",cross-country,2022
+Kristin Otervik,,Fy,,,"Oslo, Norway",cross-country,2022
 Graham Blanks,,Jr.,,,"Athens, Ga.",cross-country,2023
 Shane Brosnan,,So.,,,"Orange, N.J.",cross-country,2023
 Owen Bosley,,Fy,,,"Thiensville, Wisc.",cross-country,2023
-Sameer Das,,Sr.,,,"West Windsor, N.J.",cross-country,2023
+Jack McDonough,,Sr.,,,"Cleveland, Ohio",cross-country,2023
 Ethan Aidam,,Fy,,,"Columbia, Md.",cross-country,2023
 Acer Iverson,,Sr.,,,"Roseville, Minn.",cross-country,2023
-Oliver Adler,,Sr.,,,"Cherry Hill, N.J.",cross-country,2023
-Ferenc Kovacs,,Fy,,,"Torokbalint, Hungary",cross-country,2023
-Jack McDonough,,Sr.,,,"Cleveland, Ohio",cross-country,2023
-Erik Guander,,So.,,,"Goteburg, Sweden",cross-country,2023
-Charlie Ortmans,,Fy,,,"Arlington, Va.",cross-country,2023
-Reed Pryor,,Jr.,,,"Ashland, Or.",cross-country,2023
-Ben Shryock,,So.,,,"Lawrence, KS",cross-country,2023
 Noah Ward,,Jr.,,,"Daniel Island, S.C.",cross-country,2023
-Ben Hartvigsen,,Sr.,,,"Sarasota, Fla.",cross-country,2023
-Ben Rosa,,Jr.,,,"Lake Bluff, Ill.",cross-country,2023
-Sam Burgess,,Fy,,,"Framingham, Mass.",cross-country,2023
-Jake Swanson,,Fy,,,"Sacramento, Calif.",cross-country,2023
+Oliver Adler,,Sr.,,,"Cherry Hill, N.J.",cross-country,2023
 Joe Ewing,,Jr.,,,"Edinburgh, Scotland",cross-country,2023
+Ben Rosa,,Jr.,,,"Lake Bluff, Ill.",cross-country,2023
+Charlie Ortmans,,Fy,,,"Arlington, Va.",cross-country,2023
+Ben Shryock,,So.,,,"Lawrence, KS",cross-country,2023
 Jeremy Williams,,So.,,,"Lapeer, Mich.",cross-country,2023
-Cristina DeMeo,,Sr.,,,"Saratoga Springs, N.Y.",cross-country,2024
-Sophia Gorriaran,,So.,,,"Providence, R.I.",cross-country,2024
-William Brunner,,Fy,,,"Vail, Colo.",cross-country,2024
-Jordyn Duby,,Sr.,,,"San Diego, Calif.",cross-country,2024
-Solomon Kwartowitz,,Fy,,,"Bloomfield Hills, Mich.",cross-country,2024
-Ellaney Matarese,,Sr.,,,"La Canada, Calif.",cross-country,2024
-Abigail Sadler,,Fy,,,"Mount Horeb, Wis.",cross-country,2024
-Marianne Mihas,,Sr.,,,"Chicago, Ill.",cross-country,2024
-Katie Haag,,Sr.,,,"Bay City, Mich.",cross-country,2024
-Molly Malague,,Jr.,,,"Metuchen, N.J.",cross-country,2024
-Katelyn Matarese,,Fy,,,"La Canada, Calif.",cross-country,2024
-Lily O’Donoghue-McDonald,,Jr.,,,"Seattle, Wash.",cross-country,2024
-Kaiya Brooks,,So.,,,"Hillsborough, Calif.",cross-country,2024
-Samira Kennedy,,So.,,,"Palo Alto, Calif.",cross-country,2024
+Ben Hartvigsen,,Sr.,,,"Sarasota, Fla.",cross-country,2023
+Sameer Das,,Sr.,,,"West Windsor, N.J.",cross-country,2023
+Sam Burgess,,Fy,,,"Framingham, Mass.",cross-country,2023
+Erik Guander,,So.,,,"Goteburg, Sweden",cross-country,2023
+Ferenc Kovacs,,Fy,,,"Torokbalint, Hungary",cross-country,2023
+Penelope Salmon,,So.,,,"Auckland, New Zealand",cross-country,2023
+Jake Swanson,,Fy,,,"Sacramento, Calif.",cross-country,2023
+Reed Pryor,,Jr.,,,"Ashland, Or.",cross-country,2023
+Lily O’Donoghue-McDonald,,So.,,,"Seattle, Wash.",cross-country,2023
+Molly Malague,,So.,,,"Metuchen, N.J.",cross-country,2023
+Emma Langis,,So.,,,"Ridgefield, Ct.",cross-country,2023
+Ella Gilson,,Jr.,,,"Cleveland, Oh.",cross-country,2023
+Makena Gates,,Jr.,,,"Cantor, Ga.",cross-country,2023
+Abby Weber,,So.,,,"Chapel Hill, N.C.",cross-country,2023
+Cristina DeMeo,,Jr.,,,"Saratoga Springs, N.Y.",cross-country,2023
+Samira Kennedy,,Fy,,,"Palo Alto, Calif.",cross-country,2023
+Ellaney Matarese,,Jr.,,,"La Canada, Calif.",cross-country,2023
+Maia Ramsden,,Sr.,,,"Addis Ababa, Ethiopia",cross-country,2023
+Zoe Cooper,,Jr.,,,"New York, N.Y.",cross-country,2023
+Marie Jensen,,So.,,,"Copenhagen, Denmark",cross-country,2023
+Marianne Mihas,,Jr.,,,"Chicago, Ill.",cross-country,2023
+Kristin Otervik,,So.,,,"Oslo, Norway",cross-country,2023
+Kaiya Brooks,,Fy,,,"Hillsborough, Calif.",cross-country,2023
+Annelies Quinton,,Jr.,,,"Portland, Or.",cross-country,2023
+Isabelle Goldstein,,Jr.,,,"Ambler, Pa.",cross-country,2023
+Fieke Van der Kamp,,Fy,,,"Victoria, Australia",cross-country,2023
+Katie Haag,,Jr.,,,"Bay City, Mich.",cross-country,2023
+Jordyn Duby,,Jr.,,,"San Diego, Calif.",cross-country,2023
+Sophia Gorriaran,,Fy,,,"Providence, R.I.",cross-country,2023
 Ella Gilson,,Sr.,,,"Cleveland, Oh.",cross-country,2024
-Emma Langis,,Jr.,,,"Ridgefield, Ct.",cross-country,2024
-Makena Gates,,Sr.,,,"Cantor, Ga.",cross-country,2024
-Isabelle Goldstein,,Sr.,,,"Ambler, Pa.",cross-country,2024
-Annelies Quinton,,Sr.,,,"Portland, Or.",cross-country,2024
-Joe Ewing,,Sr.,,,"Edinburgh, Scotland",cross-country,2024
-Penelope Salmon,,Jr.,,,"Auckland, New Zealand",cross-country,2024
-Graham Blanks,,Sr.,,,"Athens, Ga.",cross-country,2024
-Zara Geddes,,Fy,,,"Dunedin, New Zealand",cross-country,2024
-Zoe Cooper,,Sr.,,,"New York, N.Y.",cross-country,2024
-Owen Bosley,,So.,,,"Thiensville, Wisc.",cross-country,2024
-Kristin Otervik,,Jr.,,,"Oslo, Norway",cross-country,2024
-Ben Rosa,,Sr.,,,"Lake Bluff, Ill.",cross-country,2024
-Ethan Aidam,,So.,,,"Columbia, Md.",cross-country,2024
-Jake Swanson,,So.,,,"Sacramento, Calif.",cross-country,2024
-Jeremy Williams,,Jr.,,,"Lapeer, Mich.",cross-country,2024
-Ferenc Kovacs,,So.,,,"Torokbalint, Hungary",cross-country,2024
-Ben Shryock,,Jr.,,,"Lawrence, KS",cross-country,2024
-Noah Ward,,Sr.,,,"Daniel Island, S.C.",cross-country,2024
-Abby Weber,,Jr.,,,"Chapel Hill, N.C.",cross-country,2024
-Sasha Minsky,,Fy,,,"Great Falls, Va.",cross-country,2024
-Sam Burgess,,So.,,,"Framingham, Mass.",cross-country,2024
 Charlie Ortmans,,So.,,,"Arlington, Va.",cross-country,2024
+Sam Burgess,,So.,,,"Framingham, Mass.",cross-country,2024
+Cristina DeMeo,,Sr.,,,"Saratoga Springs, N.Y.",cross-country,2024
+Makena Gates,,Sr.,,,"Cantor, Ga.",cross-country,2024
+Molly Malague,,Jr.,,,"Metuchen, N.J.",cross-country,2024
+Sophia Gorriaran,,So.,,,"Providence, R.I.",cross-country,2024
+Katelyn Matarese,,Fy,,,"La Canada, Calif.",cross-country,2024
+Kaiya Brooks,,So.,,,"Hillsborough, Calif.",cross-country,2024
+Katie Haag,,Sr.,,,"Bay City, Mich.",cross-country,2024
+Marianne Mihas,,Sr.,,,"Chicago, Ill.",cross-country,2024
+Abigail Sadler,,Fy,,,"Mount Horeb, Wis.",cross-country,2024
+Ellaney Matarese,,Sr.,,,"La Canada, Calif.",cross-country,2024
+Solomon Kwartowitz,,Fy,,,"Bloomfield Hills, Mich.",cross-country,2024
+Jordyn Duby,,Sr.,,,"San Diego, Calif.",cross-country,2024
+William Brunner,,Fy,,,"Vail, Colo.",cross-country,2024
+Lily O’Donoghue-McDonald,,Jr.,,,"Seattle, Wash.",cross-country,2024
+Samira Kennedy,,So.,,,"Palo Alto, Calif.",cross-country,2024
+Joe Ewing,,Sr.,,,"Edinburgh, Scotland",cross-country,2024
+Sasha Minsky,,Fy,,,"Great Falls, Va.",cross-country,2024
+Noah Ward,,Sr.,,,"Daniel Island, S.C.",cross-country,2024
+Isabelle Goldstein,,Sr.,,,"Ambler, Pa.",cross-country,2024
 Shane Brosnan,,Jr.,,,"Orange, N.J.",cross-country,2024
+Emma Langis,,Jr.,,,"Ridgefield, Ct.",cross-country,2024
+Jeremy Williams,,Jr.,,,"Lapeer, Mich.",cross-country,2024
+Penelope Salmon,,Jr.,,,"Auckland, New Zealand",cross-country,2024
+Jake Swanson,,So.,,,"Sacramento, Calif.",cross-country,2024
+Annelies Quinton,,Sr.,,,"Portland, Or.",cross-country,2024
 Reed Pryor,,Sr.,,,"Ashland, Or.",cross-country,2024
-Kaiya Brooks,,Jr.,,,"Hillsborough, Calif.",cross-country,2025
-Caitlyn Chang,,Fy,,,"Braintree, Mass.",cross-country,2025
-Ella Cohen,,Fy,,,"New York, N.Y.",cross-country,2025
-Maya Davis,,Fy,,,"Athens, Ga.",cross-country,2025
-Zara Geddes,,So.,,,"Dunedin, New Zealand",cross-country,2025
+Abby Weber,,Jr.,,,"Chapel Hill, N.C.",cross-country,2024
+Ethan Aidam,,So.,,,"Columbia, Md.",cross-country,2024
+Ben Rosa,,Sr.,,,"Lake Bluff, Ill.",cross-country,2024
+Kristin Otervik,,Jr.,,,"Oslo, Norway",cross-country,2024
+Owen Bosley,,So.,,,"Thiensville, Wisc.",cross-country,2024
+Zoe Cooper,,Sr.,,,"New York, N.Y.",cross-country,2024
+Zara Geddes,,Fy,,,"Dunedin, New Zealand",cross-country,2024
+Graham Blanks,,Sr.,,,"Athens, Ga.",cross-country,2024
+Ben Shryock,,Jr.,,,"Lawrence, KS",cross-country,2024
+Ferenc Kovacs,,So.,,,"Torokbalint, Hungary",cross-country,2024
+Sylvia Eckman,,Fy,,,"Roseburg, Ore.",cross-country,2025
+Ferenc Kovacs,,Jr.,,,"Torokbalint, Hungary",cross-country,2025
+Sophia Gorriaran,,Jr.,,,"Providence, R.I.",cross-country,2025
 Abigail Sadler,,So.,,,"Mount Horeb, Wis.",cross-country,2025
+Katelyn Matarese,,So.,,,"La Canada, Calif.",cross-country,2025
+Ethan Aidam,,Jr.,,,"Columbia, Md.",cross-country,2025
+Lily O’Donoghue-McDonald,,Sr.,,,"Seattle, Wash.",cross-country,2025
+Maya Davis,,Fy,,,"Athens, Ga.",cross-country,2025
+Kaiya Brooks,,Jr.,,,"Hillsborough, Calif.",cross-country,2025
+Grant Schroder,,Fy,,,"Downers Grove, Ill.",cross-country,2025
+Ansh More,,Fy,,,"New York, N.Y.",cross-country,2025
+Caitlyn Chang,,Fy,,,"Braintree, Mass.",cross-country,2025
 Mackenzie De Lisle,,Fy,,,"Cape Coral, Fla.",cross-country,2025
 Callie Wallace,,Fy,,,"Washington, D.C.",cross-country,2025
-Penelope Salmon,,Sr.,,,"Auckland, New Zealand",cross-country,2025
-Lily O’Donoghue-McDonald,,Sr.,,,"Seattle, Wash.",cross-country,2025
-Ethan Aidam,,Jr.,,,"Columbia, Md.",cross-country,2025
-Molly Malague,,Sr.,,,"Metuchen, N.J.",cross-country,2025
-Levi Harrison,,Fy,,,"Chestnut Hill, Mass.",cross-country,2025
-Samira Kennedy,,Jr.,,,"Palo Alto, Calif.",cross-country,2025
-Ansh More,,Fy,,,"New York, N.Y.",cross-country,2025
-Katelyn Matarese,,So.,,,"La Canada, Calif.",cross-country,2025
-Abby Weber,,Sr.,,,"Chapel Hill, N.C.",cross-country,2025
-Charlie Ortmans,,Jr.,,,"Arlington, Va.",cross-country,2025
-Owen Bosley,,Jr.,,,"Thiensville, Wisc.",cross-country,2025
-Dylan McElhinney,,Fy,,,"New York, N.Y.",cross-country,2025
+Zara Geddes,,So.,,,"Dunedin, New Zealand",cross-country,2025
+Ella Cohen,,Fy,,,"New York, N.Y.",cross-country,2025
+Andrew Thornton-Sherman,,Fy,,,"Waterford, Vermont",cross-country,2025
+Solomon Kwartowitz,,So.,,,"Bloomfield Hills, Mich.",cross-country,2025
 Shane Brosnan,,Sr.,,,"Orange, N.J.",cross-country,2025
-William Brunner,,So.,,,"Vail, Colo.",cross-country,2025
-Sam Burgess,,Jr.,,,"Framingham, Mass.",cross-country,2025
-Tam Gavenas,,Fy,,,"Andover, Mass.",cross-country,2025
-Arashi Hunter,,Fy,,,"Seattle, Wash.",cross-country,2025
-Jake Swanson,,Jr.,,,"Sacramento, Calif.",cross-country,2025
-Eamon Gordon,,Fy,,,"Santa Barbara, Calif.",cross-country,2025
+Samira Kennedy,,Jr.,,,"Palo Alto, Calif.",cross-country,2025
+Levi Harrison,,Fy,,,"Chestnut Hill, Mass.",cross-country,2025
+Molly Malague,,Sr.,,,"Metuchen, N.J.",cross-country,2025
+Abby Weber,,Sr.,,,"Chapel Hill, N.C.",cross-country,2025
 Brady Mullen,,Fy,,,"New Orleans, La.",cross-country,2025
 Benjamin Bouie,,Fy,,,"Sunnyvale, California",cross-country,2025
-Ferenc Kovacs,,Jr.,,,"Torokbalint, Hungary",cross-country,2025
-Sylvia Eckman,,Fy,,,"Roseburg, Ore.",cross-country,2025
-Andrew Thornton-Sherman,,Fy,,,"Waterford, Vermont",cross-country,2025
-Sophia Gorriaran,,Jr.,,,"Providence, R.I.",cross-country,2025
-Solomon Kwartowitz,,So.,,,"Bloomfield Hills, Mich.",cross-country,2025
-Grant Schroder,,Fy,,,"Downers Grove, Ill.",cross-country,2025
+Eamon Gordon,,Fy,,,"Santa Barbara, Calif.",cross-country,2025
+Charlie Ortmans,,Jr.,,,"Arlington, Va.",cross-country,2025
+Owen Bosley,,Jr.,,,"Thiensville, Wisc.",cross-country,2025
+Penelope Salmon,,Sr.,,,"Auckland, New Zealand",cross-country,2025
+Jake Swanson,,Jr.,,,"Sacramento, Calif.",cross-country,2025
+Dylan McElhinney,,Fy,,,"New York, N.Y.",cross-country,2025
+Tam Gavenas,,Fy,,,"Andover, Mass.",cross-country,2025
+Arashi Hunter,,Fy,,,"Seattle, Wash.",cross-country,2025
+Sam Burgess,,Jr.,,,"Framingham, Mass.",cross-country,2025
+William Brunner,,So.,,,"Vail, Colo.",cross-country,2025
 Arashi Hunter,,So.,,,"Seattle, Wash.",cross-country,2026
 Alex Cheng,,Fy,,,"Wellesley, Mass.",cross-country,2026
 Ayoub Farah,,Fy,,,"Owatonna, Minn.",cross-country,2026

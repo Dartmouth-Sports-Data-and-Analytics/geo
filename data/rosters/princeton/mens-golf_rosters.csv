@@ -1,17 +1,60 @@
 name,position,class,height,weight,hometown,sport,year
+Jason Chen,,Sr.,,,"Brea, Calif.",mens-golf,2016
+Michael Davis,,Jr.,,,"Newtown Square, Pa.",mens-golf,2016
+Alex Dombrowski,,Sr.,,,"Gaylord, Mich.",mens-golf,2016
+Marc Hedrick,,Jr.,,,"Encinitas, Calif.",mens-golf,2016
+Caden McLaughlin,,Fr.,,,"Alcoa, Tenn.",mens-golf,2016
+Eric Mitchell,,Jr.,,,"Winston-Salem, N.C.",mens-golf,2016
+Evan Quinn,,Fr.,,,"Morristown, N.J.",mens-golf,2016
+Will Green,,,,,,mens-golf,2016
+Will Green,,,,,,mens-golf,2017
+Guy Waterhouse,,Fr.,,,"Johannesburg, South Africa",mens-golf,2017
+Jack Roberts,,Fr.,,,"Wellesley, Mass.",mens-golf,2017
+Evan Quinn,,So.,,,"Morristown, N.J.",mens-golf,2017
+Caden McLaughlin,,So.,,,"Alcoa, Tenn.",mens-golf,2017
+Vinay Ramesh,,So.,,,"Newtown, Pa.",mens-golf,2017
+Eric Mitchell,,Sr.,,,"Winston-Salem, N.C.",mens-golf,2017
+Jake Mayer,,Fr.,,,"Scotch Plains, N.J.",mens-golf,2017
+Marc Hedrick,,Sr.,,,"Encinitas, Calif.",mens-golf,2017
+Michael Davis,,Sr.,,,"Newtown Square, Pa.",mens-golf,2017
+Sam Clayman,,Fr.,,,"Dallas, Texas",mens-golf,2017
+Max Ting,,Fr.,,,"Atherton, Calif.",mens-golf,2018
+Will Green,,,,,,mens-golf,2018
+Jack Roberts,,So.,,,"Wellesley, Mass.",mens-golf,2018
+Vinay Ramesh,,Jr.,,,"Newtown, Pa.",mens-golf,2018
+Guy Waterhouse,,So.,,,"Johannesburg, South Africa",mens-golf,2018
+Caden McLaughlin,,Jr.,,,"Alcoa, Tenn.",mens-golf,2018
+Evan Quinn,,Jr.,,,"Morristown, N.J.",mens-golf,2018
+Sam Clayman,,So.,,,"Dallas, Texas",mens-golf,2018
+Jake Mayer,,So.,,,"Scotch Plains, N.J.",mens-golf,2018
+Max Holm,,Fr.,,,"Walnut Creek, Calif.",mens-golf,2018
+Jack Roberts,,Jr.,,,"Wellesley, Mass.",mens-golf,2019
+Guy Waterhouse,,Jr.,,,"Johannesburg, South Africa",mens-golf,2019
+Max Ting,,So.,,,"Atherton, Calif.",mens-golf,2019
+Evan Quinn,,Sr.,,,"Morristown, N.J.",mens-golf,2019
+Will Green,,,,,,mens-golf,2019
+Sam Clayman,,Jr.,,,"Dallas, Texas",mens-golf,2019
+Jake Mayer,,Jr.,,,"Scotch Plains, N.J.",mens-golf,2019
+Connor Belcastro,,Fr.,,,"Rowayton, Conn.",mens-golf,2019
+Max Holm,,So.,,,"Walnut Creek, Calif.",mens-golf,2019
+Jackson Fretty,,Fr.,,,"Cos Cob, Conn.",mens-golf,2019
+Henry Dubiel,,Fr.,,,"North Palm Beach, Fla.",mens-golf,2019
+Caden McLaughlin,,Sr.,,,"Alcoa, Tenn.",mens-golf,2019
+Will Green,,,,,,mens-golf,2020
+Carson Levit,,Fr.,,,"San Francisco, Calif.",mens-golf,2020
 Connor Belcastro,,So.,,,"Rowayton, Conn.",mens-golf,2021
-Jackson Fretty,,So.,,,"Cos Cob, Conn.",mens-golf,2021
-Max Holm,,Jr.,,,"Walnut Creek, Calif.",mens-golf,2021
-Carson Levit,,So.,,,"San Francisco, Calif.",mens-golf,2021
-Sam Clayman,,Sr.,,,"Dallas, Texas",mens-golf,2021
-William Huang,,Fr.,,,"Exeter, N.H.",mens-golf,2021
-Henry Dubiel,,So.,,,"North Palm Beach, Fla.",mens-golf,2021
-Jake Mayer,,Sr.,,,"Scotch Plains, N.J.",mens-golf,2021
-Jeremy Yun,,Fr.,,,"Menlo Park, Calif.",mens-golf,2021
-Will Green,,,,,,mens-golf,2021
 Jack Roberts,,Sr.,,,"Wellesley, Mass.",mens-golf,2021
 Max Ting,,Jr.,,,"Atherton, Calif.",mens-golf,2021
+Jeremy Yun,,Fr.,,,"Menlo Park, Calif.",mens-golf,2021
+Will Green,,,,,,mens-golf,2021
+Jackson Fretty,,So.,,,"Cos Cob, Conn.",mens-golf,2021
+Jake Mayer,,Sr.,,,"Scotch Plains, N.J.",mens-golf,2021
+Max Holm,,Jr.,,,"Walnut Creek, Calif.",mens-golf,2021
+Sam Clayman,,Sr.,,,"Dallas, Texas",mens-golf,2021
 Guy Waterhouse,,Sr.,,,"Johannesburg, South Africa",mens-golf,2021
+Carson Levit,,So.,,,"San Francisco, Calif.",mens-golf,2021
+Henry Dubiel,,So.,,,"North Palm Beach, Fla.",mens-golf,2021
+William Huang,,Fr.,,,"Exeter, N.H.",mens-golf,2021
 Nathan Drogin,,Fr.,,,"Essex Fells, N.J.",mens-golf,2022
 Riccardo Fantinelli,,Fr.,,,"Rome, Italy",mens-golf,2022
 Connor Belcastro,,Jr.,,,"Rowayton, Conn.",mens-golf,2022
@@ -19,50 +62,50 @@ Jackson Fretty,,Jr.,,,"Cos Cob, Conn.",mens-golf,2022
 Henry Dubiel,,Jr.,,,"North Palm Beach, Fla.",mens-golf,2022
 Jeremy Yun,,So.,,,"Menlo Park, Calif.",mens-golf,2022
 Will Green,,,,,,mens-golf,2022
-Max Holm,,Sr.,,,"Walnut Creek, Calif.",mens-golf,2022
 William Huang,,So.,,,"Exeter, N.H.",mens-golf,2022
+Max Holm,,Sr.,,,"Walnut Creek, Calif.",mens-golf,2022
 Max Ting,,Sr.,,,"Atherton, Calif.",mens-golf,2022
-Nathan Drogin,,So.,,,"Essex Fells, N.J.",mens-golf,2023
 Henry Dubiel,,Sr.,,,"North Palm Beach, Fla.",mens-golf,2023
-Riccardo Fantinelli,,So.,,,"Rome, Italy",mens-golf,2023
 Connor Belcastro,,Sr.,,,"Rowayton, Conn.",mens-golf,2023
 Charlie Farrell,,Fr.,,,"San Francisco, Calif.",mens-golf,2023
 Jackson Fretty,,Sr.,,,"Cos Cob, Conn.",mens-golf,2023
+Nathan Drogin,,So.,,,"Essex Fells, N.J.",mens-golf,2023
 Jeremy Yun,,Jr.,,,"Menlo Park, Calif.",mens-golf,2023
+Riccardo Fantinelli,,So.,,,"Rome, Italy",mens-golf,2023
 Tommy Frist,,Fr.,,,"Nashville, Tenn.",mens-golf,2023
 William Huang,,Jr.,,,"Exeter, N.H.",mens-golf,2023
 Charlie Palmer,,Fr.,,,"Paradise Valley, Ariz.",mens-golf,2023
 Will Green,,,,,,mens-golf,2023
 Charlie Farrell,,So.,,,"San Francisco, Calif.",mens-golf,2024
 Tommy Frist,,So.,,,"Nashville, Tenn.",mens-golf,2024
-Reed Greyserman,,Fr.,,,"Boca Raton, Fla.",mens-golf,2024
 Nathan Drogin,,Jr.,,,"Essex Fells, N.J.",mens-golf,2024
-Riccardo Fantinelli,,Jr.,,,"Rome, Italy",mens-golf,2024
-Jeremy Yun,,Sr.,,,"Menlo Park, Calif.",mens-golf,2024
-Will Green,,,,,,mens-golf,2024
 William Huang,,Sr.,,,"Exeter, N.H.",mens-golf,2024
-Charlie Palmer,,So.,,,"Paradise Valley, Ariz.",mens-golf,2024
+Reed Greyserman,,Fr.,,,"Boca Raton, Fla.",mens-golf,2024
 Eric Yun,,Fr.,,,"Menlo Park, Calif.",mens-golf,2024
-Charlie Farrell,,Jr.,,,"San Francisco, Calif.",mens-golf,2025
-Reed Greyserman,,So.,,,"Boca Raton, Fla.",mens-golf,2025
-Tommy Frist,,Jr.,,,"Nashville, Tenn.",mens-golf,2025
-Luke Brandler,,Fr.,,,"Pebble Beach, Calif.",mens-golf,2025
-Riccardo Fantinelli,,Sr.,,,"Rome, Italy",mens-golf,2025
-Nathan Drogin,,Sr.,,,"Essex Fells, N.J.",mens-golf,2025
+Charlie Palmer,,So.,,,"Paradise Valley, Ariz.",mens-golf,2024
+Riccardo Fantinelli,,Jr.,,,"Rome, Italy",mens-golf,2024
+Will Green,,,,,,mens-golf,2024
+Jeremy Yun,,Sr.,,,"Menlo Park, Calif.",mens-golf,2024
 Eric Zhao,,Fr.,,,"North York, Ontario",mens-golf,2025
-Eric Yun,,So.,,,"Menlo Park, Calif.",mens-golf,2025
-Charlie Palmer,,Jr.,,,"Paradise Valley, Ariz.",mens-golf,2025
-Will Green,,,,,,mens-golf,2025
 James Lee,,Fr.,,,"Burlingame, California.",mens-golf,2025
+Will Green,,,,,,mens-golf,2025
+Charlie Palmer,,Jr.,,,"Paradise Valley, Ariz.",mens-golf,2025
+Eric Yun,,So.,,,"Menlo Park, Calif.",mens-golf,2025
+Charlie Farrell,,Jr.,,,"San Francisco, Calif.",mens-golf,2025
+Nathan Drogin,,Sr.,,,"Essex Fells, N.J.",mens-golf,2025
+Riccardo Fantinelli,,Sr.,,,"Rome, Italy",mens-golf,2025
+Luke Brandler,,Fr.,,,"Pebble Beach, Calif.",mens-golf,2025
+Reed Greyserman,,So.,,,"Boca Raton, Fla.",mens-golf,2025
 Jeremy Yun,,Sr.,,,"Menlo Park, Calif.",mens-golf,2025
-Eric Zhao,,So.,,,"North York, Ontario",mens-golf,2026
-Luke Brandler,,So.,,,"Pebble Beach, Calif.",mens-golf,2026
-Jordan Brown,,Fr.,,,"Lakewood Ranch, Fla.",mens-golf,2026
+Tommy Frist,,Jr.,,,"Nashville, Tenn.",mens-golf,2025
+Eric Yun,,Jr.,,,"Menlo Park, Calif.",mens-golf,2026
+Charlie Palmer,,Sr.,,,"Paradise Valley, Ariz.",mens-golf,2026
+James Lee,,So.,,,"Burlingame, California.",mens-golf,2026
+Reed Greyserman,,Jr.,,,"Boca Raton, Fla.",mens-golf,2026
 Will Chang,,Fr.,,,"Danville, Calif.",mens-golf,2026
 Charlie Farrell,,Sr.,,,"San Francisco, Calif.",mens-golf,2026
+Jordan Brown,,Fr.,,,"Lakewood Ranch, Fla.",mens-golf,2026
+Luke Brandler,,So.,,,"Pebble Beach, Calif.",mens-golf,2026
+Eric Zhao,,So.,,,"North York, Ontario",mens-golf,2026
 Tommy Frist,,Sr.,,,"Nashville, Tenn.",mens-golf,2026
-Reed Greyserman,,Jr.,,,"Boca Raton, Fla.",mens-golf,2026
-James Lee,,So.,,,"Burlingame, California.",mens-golf,2026
-Charlie Palmer,,Sr.,,,"Paradise Valley, Ariz.",mens-golf,2026
-Eric Yun,,Jr.,,,"Menlo Park, Calif.",mens-golf,2026
 Will Green,,,,,,mens-golf,2026
