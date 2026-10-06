@@ -4,6 +4,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Ivy League Roster Construction</title>
+<link rel="icon" href="data:," />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
 <link rel="stylesheet" href="style.css" />
 </head>
@@ -23,15 +24,14 @@
 
   <button id="filterToggle">Filters</button>
 
-  <button id="viewToggle">Heat map</button>
+  <a id="viewToggle" href="heatmaps.html">State heat maps</a>
 
   <div id="schoolBar"></div>
 
   <div id="filterPanel">
     <div class="filter-section">
       <h3>Schools</h3>
-      <div class="hint" id="schoolHint"></div>
-      <div class="filter-actions spaced" id="schoolActions">
+      <div class="filter-actions spaced">
         <button class="link-btn" id="selectAllSchools">Select all</button>
         <button class="link-btn" id="clearAllSchools">Clear all</button>
       </div>
@@ -76,6 +76,6 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="app.js?v=25"></script>
+<script src="app.js?v=26"></script>
 </body>
 </html>

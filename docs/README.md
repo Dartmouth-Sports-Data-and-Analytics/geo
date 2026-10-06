@@ -1,68 +1,65 @@
 # Ivy League Athletics Roster Map
 
-A static, data-driven map of where Ivy League athletes come from (2021–2026 rosters, all sports, all eight schools). Built as plain HTML/CSS/JS + a single JSON data file — no R, no server, no build step.
+An interactive map of where Ivy League varsity athletes come from. A Python pipeline scrapes every roster page on the eight schools' athletics sites, geocodes each hometown, and writes one JSON file that a static Leaflet page draws as one dot per athlete.
 
-## Files
+**Live site:** `https://<your-username>.github.io/<your-repo>/`
 
-- `index.html` — page shell
-- `style.css` — dark map theme + filter panel
-- `app.js` — loads `data.json`, renders ~28.6k points with Leaflet, and wires up the school/year/sport filters
-- `data.json` — the roster data (lat, lng, name, school, sport, year, hometown), in a compact columnar format
+## What the map does
 
-## Run it locally
+- One dot per person, colored by school; clicking it shows their sports, seasons and hometown.
+- Filter by school, season, sport and region, and search by name.
+- A separate **State heat maps** page shows all eight schools at once, each a US map shaded by players per state; hover a state for its player count and sports.
+- A person on two teams (for example coed and women's sailing) is one dot with both listed.
+- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport.
 
-Any static file server works, e.g.:
+## Structure
+
+```
+pipeline/   Python scripts (code only)
+data/       Inputs, scraped rosters, and pipeline state
+docs/       The website, published by GitHub Pages
+```
+
+| Path | What it is |
+|---|---|
+| `pipeline/run_pipeline.py` | Runs the four steps below in order |
+| `pipeline/discover_sports.py` | Finds which school + sport pages exist and the working URL for each |
+| `pipeline/pull_rosters.py` | Downloads each season's roster, drops stale or copied seasons |
+| `pipeline/geocode_rosters.py` | Turns hometowns into coordinates (OpenStreetMap Nominatim), with a cache |
+| `pipeline/build_data_json.py` | Merges everything into `docs/data.json`, one entry per athlete per sport |
+| `pipeline/roster_lib.py` | Shared helpers and the per-school URL exceptions |
+| `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
+| `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
+| `data/hometown_fixes.csv` | Hand-edited corrections for misspelled hometowns |
+| `data/rosters/`, `data/geo-rosters/` | Scraped rosters, and the same with coordinates added |
+| `data/_*.csv` | Pipeline state: availability, hometown cache, failed lookups, scrape log |
+| `docs/index.html`, `app.js`, `style.css` | The roster map |
+| `docs/heatmaps.html`, `heatmaps.js`, `heatmaps.css` | The eight state heat maps (uses d3) |
+| `docs/data.json`, `docs/us-states.json` | Built roster data; US state outlines (downloaded once, see below) |
+
+## Running it
 
 ```bash
-python3 -m http.server 8000
+python3 -m venv venv && source venv/bin/activate
+pip install pandas requests beautifulsoup4 openpyxl geopy
+
+cd pipeline
+python run_pipeline.py                         # discover -> pull -> geocode -> build
+python run_pipeline.py --only pull             # one step
+python run_pipeline.py --refresh baseball      # refetch every season of a sport
+python geocode_rosters.py --retry-failed       # retry hometowns with no match
+
+cd ../docs
+python3 -m http.server 8000                    # preview at http://localhost:8000
 ```
 
-Then open `http://localhost:8000`.
+The heat maps need US state outlines once: `curl -L -o docs/us-states.json https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json`
 
-## Map tiles
+To publish: commit and push `docs/data.json`. In **Settings → Pages**, deploy from branch `main`, folder `/docs`.
 
-The basemap comes from Stadia Maps (`alidade_smooth_dark`). It works with
-**no signup at all on `localhost`**, so local preview just works. Once the
-site is live on a real domain (e.g. `github.io`), Stadia requires either:
+## Notes
 
-- **Domain-based auth (recommended, no code change):** sign up free at
-  [client.stadiamaps.com](https://client.stadiamaps.com/dashboard/), add your
-  `*.github.io` domain under "Manage Properties" → "Authentication
-  Configuration", and it'll just work — the browser's own `Origin` header is
-  what gets checked, nothing to change in `app.js`.
-- **API key:** append `?api_key=YOUR-KEY` to the tile URL in `app.js` instead.
-
-Free tier is generous (well beyond what a roster map will use), no credit
-card required either way.
-
-## Deploy to GitHub Pages
-
-1. Create a new GitHub repository (or use an existing one) and push these four files to it:
-
-   ```bash
-   git init
-   git add index.html style.css app.js data.json README.md
-   git commit -m "Ivy roster map"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo>.git
-   git push -u origin main
-   ```
-
-2. On GitHub, go to your repo's **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to **Deploy from a branch**, pick the `main` branch and the `/ (root)` folder, then **Save**.
-4. GitHub will publish the site at `https://<your-username>.github.io/<your-repo>/` within a minute or two. Refresh that Pages settings page if the URL doesn't appear right away.
-
-Because everything here is static (no server-side code), Pages is a natural fit — pushing an updated `data.json` after each season is all you'll need to do to refresh the map.
-
-## Updating the data
-
-Re-run your python scraping + geocoding pipeline, export the result as the same four columns (`lat`, `lng`, `name`, `school`, `sport`, `year`, `hometown`), and write it out in this columnar JSON shape:
-
-```json
-{
-  "lat": [..], "lng": [..], "name": [..],
-  "school": [..], "sport": [..], "year": [..], "hometown": [..]
-}
-```
-
-Replace `data.json` with the new file and push — no other changes needed.
+- **Map tiles** come from Stadia Maps, which works without signup on `localhost`. On a `github.io` address, add the domain in your Stadia dashboard (or use an API key).
+- **Data quality:** hometowns are shown as the schools publish them, and a few cannot be geocoded, so those athletes have no dot. Athletes can appear for five seasons when a school lists a fifth year.
+- **Politeness:** requests are rate-limited and the scripts re-fetch only the current season. Nominatim allows one request per second.
+- Source data is public roster pages. Names and hometowns belong to the schools; this project only maps them.

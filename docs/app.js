@@ -31,34 +31,6 @@ function spreadOffset(i) {
   return [r * Math.cos(a), r * Math.sin(a)];
 }
 
-// Heat map = US state shading by player count; outline style for the states.
-const STATE_STYLE = { color: "#4b5563", weight: 1.2, opacity: 0.85 };
-
-const STATE_CODES = {
-  "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA", "Colorado": "CO",
-  "Connecticut": "CT", "Delaware": "DE", "District of Columbia": "DC", "Florida": "FL", "Georgia": "GA",
-  "Hawaii": "HI", "Idaho": "ID", "Illinois": "IL", "Indiana": "IN", "Iowa": "IA", "Kansas": "KS",
-  "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD", "Massachusetts": "MA",
-  "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS", "Missouri": "MO", "Montana": "MT",
-  "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ", "New Mexico": "NM",
-  "New York": "NY", "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH", "Oklahoma": "OK",
-  "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI", "South Carolina": "SC", "South Dakota": "SD",
-  "Tennessee": "TN", "Texas": "TX", "Utah": "UT", "Vermont": "VT", "Virginia": "VA", "Washington": "WA",
-  "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY"
-};
-
-function mixColor(a, b, t) {
-  const rgb = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
-  const [x, y] = [rgb(a), rgb(b)];
-  return `rgb(${x.map((v, i) => Math.round(v + (y[i] - v) * t)).join(",")})`;
-}
-
-// Light tint -> the school's color (at 75% of the scale) -> a darker shade, so busy states stand out.
-function rampColor(hex, t) {
-  if (t <= 0.75) return mixColor(hex, "#ffffff", 0.85 * (1 - t / 0.75));
-  return mixColor(hex, "#000000", 0.3 * (t - 0.75) / 0.25);
-}
-
 const state = {
   data: null,
   map: null,
@@ -67,12 +39,7 @@ const state = {
   activeYears: null,
   activeSports: null,
   activeRegions: null,
-  regionChips: null,
-  viewMode: "dots",
-  statesLayer: null,
-  stateLayers: {},
-  legend: null,
-  schoolsBeforeHeat: null
+  regionChips: null
 };
 
 function byId(id) { return document.getElementById(id); }
@@ -102,7 +69,6 @@ function buildMap() {
     noWrap: true
   }).addTo(map);
 
-  map.createPane("statesPane").style.zIndex = 360;
   map.createPane("linesPane").style.zIndex = 380;
   map.getPane("linesPane").style.pointerEvents = "none";
   state.linesRenderer = L.canvas({ pane: "linesPane", padding: 0.5 });
@@ -124,7 +90,6 @@ function buildMarkers(map, data) {
         lat: data.lat[i], lng: data.lng[i],
         name: data.name[i], school: data.school[i], hometown: data.hometown[i],
         region: data.region ? data.region[i] : null,
-        state: data.state ? data.state[i] : null,
         entries: []
       });
     }
@@ -172,7 +137,6 @@ function buildMarkers(map, data) {
 
     marker._school = p.school;
     marker._region = p.region;
-    marker._state = p.state;
     marker._entries = p.entries;
     marker._name = p.name || "Unknown";
     marker._hometown = p.hometown || "";
@@ -224,7 +188,7 @@ function applyFilters() {
                    activeSports.has(e.sport) && e.years.some((y) => activeYears.has(y)));
     if (base && m._region) regionCounts[m._region] = (regionCounts[m._region] || 0) + 1;
     const show = base && (!activeRegions || activeRegions.has(m._region));
-    if (show && state.viewMode === "dots") {
+    if (show) {
       if (!map.hasLayer(m)) m.addTo(map);
     } else if (map.hasLayer(m)) {
       m.closePopup();
@@ -238,99 +202,7 @@ function applyFilters() {
 
   byId("count").textContent = visible.toLocaleString();
   updateRegionCounts(regionCounts);
-  updateHeat(shown);
   updateLines(shown);
-}
-
-// Shades each US state by how many people (from the filtered set) come from it; non-US hometowns aren't shown.
-function updateHeat(shown) {
-  if (!state.statesLayer) return;
-  const heat = state.viewMode === "heat";
-  if (!heat) {
-    if (state.legend && state.legend._map) state.legend.remove();
-    return;
-  }
-
-  const counts = {};
-  for (const m of shown) if (m._state) counts[m._state] = (counts[m._state] || 0) + 1;
-  const max = Math.max(0, ...Object.values(counts));
-  const schools = new Set(shown.map((m) => m._school));
-  const color = schools.size === 1 ? SCHOOL_COLORS[[...schools][0]] : "#374151";
-
-  for (const [name, layer] of Object.entries(state.stateLayers)) {
-    const n = counts[STATE_CODES[name]] || 0;
-    layer.setStyle(n === 0
-      ? { ...STATE_STYLE, fillColor: "#e5e7eb", fillOpacity: 0.25 }
-      : { ...STATE_STYLE, fillColor: rampColor(color, Math.sqrt(n / max)), fillOpacity: 0.9 });
-    layer.setTooltipContent(`${name}: ${n.toLocaleString()} ${n === 1 ? "player" : "players"}`);
-  }
-  updateLegend(color, max);
-}
-
-function updateLegend(color, max) {
-  if (!state.legend) return;
-  if (!state.legend._map) state.legend.addTo(state.map);
-  const bar = `linear-gradient(to right, ${rampColor(color, 0)}, ${rampColor(color, 0.75)}, ${rampColor(color, 1)})`;
-  state.legend.getContainer().innerHTML =
-    `<div class="legend-title">Players from each state</div>` +
-    `<div class="legend-bar" style="background:${bar}"></div>` +
-    `<div class="legend-scale"><span>1</span><span>${max.toLocaleString()}</span></div>`;
-}
-
-// Entering heat mode keeps one school (the first selected) and remembers the rest; leaving restores them.
-function setViewMode(mode) {
-  const wasHeat = state.viewMode === "heat";
-  state.viewMode = mode;
-  const heat = mode === "heat";
-
-  const btn = byId("viewToggle");
-  btn.textContent = heat ? "Dot map" : "Heat map";
-  btn.classList.toggle("active", heat);
-  byId("schoolActions").style.display = heat ? "none" : "";
-  byId("schoolHint").textContent = heat ? "The heat map shows one school at a time." : "";
-  state.map.closePopup();
-  syncStates();
-
-  const all = Object.keys(SCHOOL_COLORS);
-  if (heat && !wasHeat) {
-    state.schoolsBeforeHeat = [...state.activeSchools];
-    state.setSchools([all.find((s) => state.activeSchools.has(s)) || all[0]]);
-  } else if (!heat && wasHeat) {
-    state.setSchools(state.schoolsBeforeHeat && state.schoolsBeforeHeat.length ? state.schoolsBeforeHeat : all);
-  } else {
-    applyFilters();
-  }
-}
-
-function syncStates() {
-  if (!state.statesLayer || !state.map) return;
-  const wanted = state.viewMode === "heat";
-  if (wanted && !state.map.hasLayer(state.statesLayer)) state.statesLayer.addTo(state.map);
-  if (!wanted && state.map.hasLayer(state.statesLayer)) state.map.removeLayer(state.statesLayer);
-}
-
-// Loads docs/us-states.json; the heat map button only appears once it and per-person state data are available.
-async function loadStates(map, data) {
-  try {
-    if (!data.state) return;
-    const res = await fetch("us-states.json?v=24");
-    if (!res.ok) return;
-    state.statesLayer = L.geoJSON(await res.json(), {
-      pane: "statesPane",
-      renderer: L.canvas({ pane: "statesPane" }),
-      style: { ...STATE_STYLE, fillColor: "#e5e7eb", fillOpacity: 0.25 },
-      onEachFeature: (feature, layer) => {
-        layer.bindTooltip("", { sticky: true });
-        state.stateLayers[feature.properties.name] = layer;
-      }
-    });
-    state.legend = L.control({ position: "bottomleft" });
-    state.legend.onAdd = () => L.DomUtil.create("div", "legend");
-    byId("viewToggle").style.display = "";
-    syncStates();
-  } catch (err) {
-    console.warn("State shading unavailable:", err);
-  }
 }
 
 // Lines from campus to every shown hometown; only drawn when the toggle is on and exactly one school is active.
@@ -340,7 +212,7 @@ function updateLines(shown) {
   state.lines.clearLayers();
   const single = state.activeSchools.size === 1 ? [...state.activeSchools][0] : null;
   byId("linesHint").textContent = toggle.checked && !single ? "Select exactly one school to show lines." : "";
-  if (state.viewMode === "heat" || !toggle.checked || !single || !CAMPUS[single]) return;
+  if (!toggle.checked || !single || !CAMPUS[single]) return;
 
   const color = SCHOOL_COLORS[single];
   const style = { renderer: state.linesRenderer, color, weight: 1, opacity: 0.3, interactive: false };
@@ -374,11 +246,6 @@ function buildSchoolControls(data) {
     applyFilters();
   };
 
-  state.setSchools = (selected) => {
-    for (const school of schools) setActive(school, selected.includes(school), false);
-    applyFilters();
-  };
-
   for (const school of schools) {
     const color = SCHOOL_COLORS[school];
 
@@ -393,10 +260,7 @@ function buildSchoolControls(data) {
 
     elements[school] = { pill, btn };
 
-    // The heat map shows one school at a time, so a click there selects only that school.
-    const toggle = () => (state.viewMode === "heat"
-      ? state.setSchools([school])
-      : setActive(school, !state.activeSchools.has(school)));
+    const toggle = () => setActive(school, !state.activeSchools.has(school));
     pill.addEventListener("click", toggle);
     btn.addEventListener("click", toggle);
 
@@ -509,7 +373,6 @@ function buildSearch() {
   const index = state.markers.map((m) => ({ m, key: norm(m._name) }));
 
   function goTo(m) {
-    if (state.viewMode !== "dots") setViewMode("dots");
     if (!state.map.hasLayer(m)) m.addTo(state.map);
     state.map.setView(m.getLatLng(), Math.max(state.map.getZoom(), 8), { animate: false });
     m.openPopup();
@@ -561,7 +424,6 @@ function wireActions() {
   });
 
   byId("linesToggle").addEventListener("change", applyFilters);
-  byId("viewToggle").addEventListener("click", () => setViewMode(state.viewMode === "dots" ? "heat" : "dots"));
 
   byId("selectAllSchools").addEventListener("click", () => state.setAllSchools(true));
   byId("clearAllSchools").addEventListener("click", () => state.setAllSchools(false));
@@ -596,8 +458,6 @@ async function main() {
   buildRegionChips(data);
   buildSportList(data);
   buildSearch();
-  byId("viewToggle").style.display = "none";
-  loadStates(map, data);
   wireActions();
   applyFilters();
 
