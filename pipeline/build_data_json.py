@@ -66,6 +66,24 @@ def clean_sport_labels(all_data):
     return all_data
 
 
+# Sports shown as one sport whatever the men's, women's, coed or combined roster (matched on the lowercase display name).
+COMBINED_SPORTS = {"cross country": "Cross Country", "track and field": "Track and Field", "sailing": "Sailing"}
+
+
+def combine_sports(all_data):
+    def combine(label):
+        low = label.lower()
+        for key, name in COMBINED_SPORTS.items():
+            if key in low:
+                return name
+        return label
+
+    before = all_data["sport"].nunique()
+    all_data["sport"] = all_data["sport"].map(combine)
+    print(f"Sports combined: {before} -> {all_data['sport'].nunique()} distinct sport labels")
+    return all_data
+
+
 def clean_and_filter(all_data):
     all_data = all_data.dropna(subset=["latitude", "longitude"]).copy()
     all_data["latitude"] = all_data["latitude"].round(4)
@@ -246,6 +264,7 @@ def build_payload(athletes, region_order):
 def build_data_json():
     all_data = load_all_geo_csvs()
     all_data = clean_sport_labels(all_data)
+    all_data = combine_sports(all_data)
     all_data = clean_and_filter(all_data)
     athletes = collapse_to_athletes(all_data)
     report_long_careers(athletes)

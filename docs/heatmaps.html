@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Ivy League Roster Construction: State Heat Maps</title>
 <link rel="icon" href="data:," />
-<link rel="stylesheet" href="heatmaps.css?v=1" />
+<link rel="stylesheet" href="heatmaps.css?v=2" />
 </head>
 <body>
 <header class="hm-header">
@@ -15,19 +15,31 @@
   </div>
   <div class="hm-controls">
     <label>Season <select id="yearSelect"></select></label>
-    <label>Sport <select id="sportSelect"></select></label>
-    <div class="seg" id="scaleToggle" role="group" aria-label="Color scale">
-      <button data-scale="school" class="on">Each school's scale</button>
-      <button data-scale="shared">Same scale for all</button>
+    <div class="menu" id="sportMenu">
+      <button type="button" id="sportBtn" aria-haspopup="true">All sports</button>
+      <div class="menu-panel" id="sportPanel" hidden>
+        <div class="menu-actions">
+          <button type="button" class="link-btn" id="sportsAll">Select all</button>
+          <button type="button" class="link-btn" id="sportsNone">Clear all</button>
+        </div>
+        <div id="sportList"></div>
+      </div>
     </div>
   </div>
 </header>
+
+<div class="hm-regions" id="regionRow">
+  <span class="hm-label">Regions</span>
+  <div id="regionChips"></div>
+  <button type="button" class="link-btn" id="regionsAll">Select all</button>
+  <button type="button" class="link-btn" id="regionsNone">Clear all</button>
+</div>
 
 <main id="grid"></main>
 <div id="tip" role="tooltip"></div>
 <div id="loading">Loading roster data&hellip;</div>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script src="heatmaps.js?v=2"></script>
+<script src="heatmaps.js?v=4"></script>
 </body>
 </html>

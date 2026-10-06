@@ -27,7 +27,7 @@ const MAP_W = 975;
 const MAP_H = 610;
 const TOP_SPORTS = 8;
 
-const ui = { year: "all", sport: "all", scale: "school" };
+const ui = { year: "all", sports: new Set(), regions: null };
 let data = null;
 let features = [];
 let agg = {};
@@ -77,7 +77,8 @@ function aggregate() {
   }
   const n = data.sport.length;
   for (let i = 0; i < n; i++) {
-    if (ui.sport !== "all" && data.sport[i] !== ui.sport) continue;
+    if (!ui.sports.has(data.sport[i])) continue;
+    if (ui.regions && !ui.regions.has(data.region[i])) continue;
     if (ui.year !== "all" && !data.years[i].includes(ui.year)) continue;
     const a = out[data.school[i]];
     if (!a) continue;
@@ -100,19 +101,18 @@ function aggregate() {
 
 function update() {
   agg = aggregate();
-  const sharedMax = Math.max(0, ...Object.values(agg).map((a) => a.max));
 
   for (const [school, card] of Object.entries(cards)) {
     const a = agg[school];
     const color = SCHOOL_COLORS[school];
-    const max = ui.scale === "shared" ? sharedMax : a.max;
+    const max = a.max;
 
     card.paths.attr("fill", (f) => {
       const st = a.states[STATE_CODES[f.properties.name]];
       return st && max ? rampColor(color, Math.sqrt(st.count / max)) : NO_DATA_FILL;
     });
     card.total.textContent = `${a.total.toLocaleString()} US players` +
-      (a.other ? ` · ${a.other.toLocaleString()} elsewhere` : "");
+      (a.other ? ` · ${a.other.toLocaleString()} international` : "");
     card.legendMax.textContent = max.toLocaleString();
   }
   hideTip();
@@ -152,6 +152,14 @@ function hideTip() {
   byId("tip").style.display = "none";
 }
 
+function sportButtonLabel(total) {
+  const n = ui.sports.size;
+  if (n === total) return "All sports";
+  if (n === 0) return "No sports";
+  if (n === 1) return [...ui.sports][0];
+  return `${n} of ${total} sports`;
+}
+
 function buildControls() {
   const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
   const yearSel = byId("yearSelect");
@@ -162,22 +170,57 @@ function buildControls() {
     update();
   });
 
+  // Sports: a dropdown of checkboxes, so any combination can be picked.
   const sports = Array.from(new Set(data.sport)).sort();
-  const sportSel = byId("sportSelect");
-  sportSel.innerHTML = `<option value="all">All sports</option>` +
-    sports.map((s) => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
-  sportSel.addEventListener("change", () => {
-    ui.sport = sportSel.value;
-    update();
-  });
+  ui.sports = new Set(sports);
+  const btn = byId("sportBtn");
+  const panel = byId("sportPanel");
+  const list = byId("sportList");
+  const boxes = [];
+  const refresh = () => { btn.textContent = sportButtonLabel(sports.length); update(); };
+  for (const sport of sports) {
+    const label = document.createElement("label");
+    const input = document.createElement("input");
+    input.type = "checkbox";
+    input.checked = true;
+    input.addEventListener("change", () => {
+      if (input.checked) ui.sports.add(sport);
+      else ui.sports.delete(sport);
+      refresh();
+    });
+    label.appendChild(input);
+    label.appendChild(document.createTextNode(sport));
+    list.appendChild(label);
+    boxes.push(input);
+  }
+  byId("sportsAll").addEventListener("click", () => { ui.sports = new Set(sports); boxes.forEach((b) => (b.checked = true)); refresh(); });
+  byId("sportsNone").addEventListener("click", () => { ui.sports = new Set(); boxes.forEach((b) => (b.checked = false)); refresh(); });
+  btn.addEventListener("click", (e) => { e.stopPropagation(); panel.hidden = !panel.hidden; });
+  panel.addEventListener("click", (e) => e.stopPropagation());
+  document.addEventListener("click", () => { panel.hidden = true; });
 
-  byId("scaleToggle").querySelectorAll("button").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      ui.scale = btn.dataset.scale;
-      byId("scaleToggle").querySelectorAll("button").forEach((b) => b.classList.toggle("on", b === btn));
+  // Regions: toggle chips (the US regions plus International / Other).
+  const row = byId("regionRow");
+  if (!data.region) { row.style.display = "none"; return; }
+  const regions = data.region_order || Array.from(new Set(data.region));
+  ui.regions = new Set(regions);
+  const chips = [];
+  for (const region of regions) {
+    const chip = document.createElement("div");
+    chip.className = "chip";
+    chip.textContent = region;
+    chip.addEventListener("click", () => {
+      if (ui.regions.has(region)) ui.regions.delete(region);
+      else ui.regions.add(region);
+      chip.classList.toggle("off", !ui.regions.has(region));
       update();
     });
-  });
+    byId("regionChips").appendChild(chip);
+    chips.push(chip);
+  }
+  const setAll = (on) => { ui.regions = new Set(on ? regions : []); chips.forEach((c) => c.classList.toggle("off", !on)); update(); };
+  byId("regionsAll").addEventListener("click", () => setAll(true));
+  byId("regionsNone").addEventListener("click", () => setAll(false));
 }
 
 // One card per school; Alaska and Hawaii are tucked below the lower 48 by the Albers USA projection.

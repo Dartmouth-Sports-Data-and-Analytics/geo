@@ -39,16 +39,51 @@ html, body {
   color: var(--text);
   max-width: 200px;
 }
-.seg { display: flex; border: 1px solid var(--panel-border); border-radius: 6px; overflow: hidden; }
-.seg button {
+.menu { position: relative; }
+.menu > button {
   font: inherit;
   padding: 5px 10px;
-  border: none;
+  border: 1px solid var(--panel-border);
+  border-radius: 6px;
   background: var(--panel);
-  color: var(--text-dim);
+  color: var(--text);
   cursor: pointer;
+  max-width: 220px;
 }
-.seg button.on { background: var(--text); color: #fff; }
+.menu > button::after { content: " \25BE"; color: var(--text-dim); }
+.menu-panel {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 4px);
+  z-index: 15;
+  width: 250px;
+  padding: 10px 12px;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+.menu-panel[hidden] { display: none; }
+.menu-actions { display: flex; gap: 12px; margin-bottom: 6px; }
+#sportList { max-height: 280px; overflow-y: auto; }
+#sportList label { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: 12.5px; cursor: pointer; user-select: none; }
+#sportList input { margin: 0; accent-color: #1a1d24; }
+
+.link-btn { background: none; border: none; padding: 0; color: var(--text-dim); font: inherit; font-size: 12px; text-decoration: underline; cursor: pointer; }
+.link-btn:hover { color: var(--text); }
+
+.hm-regions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; padding: 6px 20px 0; font-size: 12.5px; }
+.hm-label { color: var(--text-dim); }
+#regionChips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  padding: 4px 10px;
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  background: #f0f1f4;
+  cursor: pointer;
+  user-select: none;
+}
+.chip.off { opacity: 0.35; }
 
 #grid {
   display: grid;
@@ -57,7 +92,11 @@ html, body {
   padding: 12px 20px 28px;
 }
 @media (max-width: 1400px) { #grid { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 720px) { #grid { grid-template-columns: 1fr; padding: 10px 12px 24px; } }
+@media (max-width: 720px) {
+  #grid { grid-template-columns: 1fr; padding: 10px 12px 24px; }
+  .hm-regions { padding: 6px 12px 0; }
+  .menu-panel { right: auto; left: 0; }
+}
 
 .card {
   background: var(--panel);
