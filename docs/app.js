@@ -244,18 +244,21 @@ function buildSchoolControls() {
 function buildYearChips(data) {
   const row = byId("yearRow");
   const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
-  state.activeYears = new Set(years);
+  state.activeYears = new Set(latestSeasons(years, DEFAULT_SEASONS));
   const chips = years.map((year) => {
     const chip = makeChip(formatSeason(year), year, () => state.activeYears, applyFilters);
+    chip.classList.toggle("off", !state.activeYears.has(year));
     row.appendChild(chip);
     return chip;
   });
 
-  state.setAllYears = (active) => {
-    state.activeYears = new Set(active ? years : []);
-    chips.forEach((chip) => chip.classList.toggle("off", !active));
+  const choose = (list) => {
+    state.activeYears = new Set(list);
+    chips.forEach((chip, i) => chip.classList.toggle("off", !state.activeYears.has(years[i])));
     applyFilters();
   };
+  state.setAllYears = (active) => choose(active ? years : []);
+  state.setLatestYears = (n) => choose(latestSeasons(years, n));
 }
 
 // Region chips show how many people each region has under the other filters; toggling one filters the map to it.
@@ -369,6 +372,9 @@ function buildSearch() {
 function wireActions() {
   byId("filterToggle").addEventListener("click", () => byId("filterPanel").classList.toggle("open"));
   byId("linesToggle").addEventListener("change", applyFilters);
+
+  byId("latest5Years").addEventListener("click", () => state.setLatestYears(5));
+  byId("latest10Years").addEventListener("click", () => state.setLatestYears(10));
 
   for (const kind of ["Schools", "Regions", "Years", "Sports"]) {
     byId(`selectAll${kind}`).addEventListener("click", () => state[`setAll${kind}`](true));

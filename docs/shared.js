@@ -23,6 +23,15 @@ function formatSeason(year) {
   return `${year}-${String((year + 1) % 100).padStart(2, "0")}`;
 }
 
+// Both pages open on this many of the most recent seasons.
+const DEFAULT_SEASONS = 5;
+
+// The n most recent seasons present in the list, as an array. "Latest" means the most recent
+// seasons in the data, not the most recent calendar years.
+function latestSeasons(items, n) {
+  return [...items].sort((a, b) => b - a).slice(0, n);
+}
+
 // A toggle chip for one value in a selection; getSet returns the live Set, since Select all / Clear all replace it.
 function makeChip(label, value, getSet, onChange) {
   const chip = document.createElement("div");
