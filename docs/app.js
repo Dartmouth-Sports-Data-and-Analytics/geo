@@ -201,6 +201,7 @@ function applyFilters() {
   }
 
   byId("count").textContent = visible.toLocaleString();
+  byId("emptyHint").hidden = state.activeYears.size > 0 && state.activeSports.size > 0;
   updateRegionCounts(regionCounts);
   updateLines(shown);
 }
@@ -272,7 +273,7 @@ function buildSchoolControls(data) {
 function buildYearChips(data) {
   const row = byId("yearRow");
   const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
-  state.activeYears = new Set(years);
+  state.activeYears = new Set();
   row.innerHTML = "";
 
   const chips = [];
@@ -284,7 +285,7 @@ function buildYearChips(data) {
 
   for (const year of years) {
     const chip = document.createElement("div");
-    chip.className = "year-chip";
+    chip.className = "year-chip off";
     chip.textContent = formatSeason(year);
     chip.addEventListener("click", () => {
       if (state.activeYears.has(year)) {
@@ -346,14 +347,14 @@ function updateRegionCounts(counts) {
 function buildSportList(data) {
   const list = byId("sportList");
   const sports = Array.from(new Set(data.sport)).sort();
-  state.activeSports = new Set(sports);
+  state.activeSports = new Set();
   list.innerHTML = "";
   for (const sport of sports) {
     const row = document.createElement("label");
     row.className = "sport-row";
     const input = document.createElement("input");
     input.type = "checkbox";
-    input.checked = true;
+    input.checked = false;
     input.addEventListener("change", () => {
       if (input.checked) state.activeSports.add(sport);
       else state.activeSports.delete(sport);

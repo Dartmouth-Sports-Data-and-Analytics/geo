@@ -64,6 +64,9 @@ html, body {
   color: var(--text-dim);
 }
 
+.empty-hint { color: var(--text); }
+.empty-hint[hidden] { display: none; }
+
 #count {
   font-weight: 600;
   color: var(--text);
