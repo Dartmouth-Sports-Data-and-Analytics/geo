@@ -166,8 +166,8 @@ function hideTip() {
 
 // A dropdown of checkboxes (with Select all / Clear all) that edits and returns a Set; used for seasons and sports.
 const menuPanels = [];
-function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plural, startEmpty = false }) {
-  const set = new Set(startEmpty ? [] : items);
+function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plural }) {
+  const set = new Set(items);
   const btn = byId(btnId);
   const panel = byId(panelId);
   const boxes = [];
@@ -185,7 +185,7 @@ function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plu
     const row = document.createElement("label");
     const input = document.createElement("input");
     input.type = "checkbox";
-    input.checked = !startEmpty;
+    input.checked = true;
     input.addEventListener("change", () => {
       if (input.checked) set.add(item);
       else set.delete(item);
@@ -220,11 +220,11 @@ function buildControls() {
 
   ui.years = multiSelect({
     btnId: "yearBtn", panelId: "yearPanel", listId: "yearList", allId: "yearsAll", noneId: "yearsNone",
-    items: Array.from(new Set(data.years.flat())).sort((a, b) => a - b), format: formatSeason, plural: "seasons", startEmpty: true
+    items: Array.from(new Set(data.years.flat())).sort((a, b) => a - b), format: formatSeason, plural: "seasons"
   });
   ui.sports = multiSelect({
     btnId: "sportBtn", panelId: "sportPanel", listId: "sportList", allId: "sportsAll", noneId: "sportsNone",
-    items: Array.from(new Set(data.sport)).sort(), format: (s) => s, plural: "sports", startEmpty: true
+    items: Array.from(new Set(data.sport)).sort(), format: (s) => s, plural: "sports"
   });
 
   // Regions: toggle chips (the US regions plus International / Other).

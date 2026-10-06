@@ -25,7 +25,7 @@ const state = {
   markers: [],
   lines: null,
   linesRenderer: null,
-  activeSchools: new Set(Object.keys(SCHOOL_COLORS)),
+  activeSchools: new Set(),
   activeYears: new Set(),
   activeSports: new Set(),
   activeRegions: null,
@@ -220,6 +220,9 @@ function buildSchoolControls() {
     btn.style.background = color;
     btn.textContent = school;
 
+    pill.classList.add("off");
+    btn.classList.add("off");
+
     elements[school] = { pill, btn };
     const toggle = () => setActive(school, !state.activeSchools.has(school));
     pill.addEventListener("click", toggle);
@@ -233,9 +236,9 @@ function buildSchoolControls() {
 function buildYearChips(data) {
   const row = byId("yearRow");
   const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
+  state.activeYears = new Set(years);
   const chips = years.map((year) => {
     const chip = makeChip(formatSeason(year), year, () => state.activeYears, applyFilters);
-    chip.classList.add("off");
     row.appendChild(chip);
     return chip;
   });
@@ -277,11 +280,13 @@ function updateRegionCounts(counts) {
 function buildSportList(data) {
   const list = byId("sportList");
   const sports = Array.from(new Set(data.sport)).sort();
+  state.activeSports = new Set(sports);
   const boxes = sports.map((sport) => {
     const row = document.createElement("label");
     row.className = "sport-row";
     const input = document.createElement("input");
     input.type = "checkbox";
+    input.checked = true;
     input.addEventListener("change", () => {
       if (input.checked) state.activeSports.add(sport);
       else state.activeSports.delete(sport);
