@@ -73,11 +73,36 @@ def long_careers(df, limit=4):
     return pd.DataFrame(rows)
 
 
+# Roster rows per school and season (a COVID dip shows up here), plus teams missing a season between two seasons that exist.
+def coverage(df):
+    table = df.groupby(["school", "year"]).size().unstack(fill_value=0)
+    table.to_csv(os.path.join(config.DATA_DIR, "_coverage.csv"))
+    print("\nRoster rows per school and season (2016 = 2016-17):")
+    print(table.to_string())
+
+    gaps = []
+    for (school, sport), g in df.groupby(["school", "sport"]):
+        have = set(g["year"].astype(int))
+        missing = [y for y in range(min(have), max(have) + 1) if y not in have]
+        if missing:
+            gaps.append((school, sport, missing))
+    covid = [g for g in gaps if g[2] == [2020]]
+    other = [g for g in gaps if g[2] != [2020]]
+    print(f"\n{len(covid)} teams have no 2020-21 roster but do have seasons on both sides of it (expected after COVID).")
+    print(f"{len(other)} teams are missing other seasons between ones that exist" + (":" if other else "."))
+    for school, sport, missing in other[:25]:
+        print(f"  {school} {sport}: missing {missing}")
+    if len(other) > 25:
+        print(f"  ... and {len(other) - 25} more")
+
+
 def main():
     df = load_rosters()
     out = audit(df)
     out.to_csv(OUT_PATH, index=False)
     print(f"{len(out)} school/sport/year rosters checked; full table in {OUT_PATH}\n")
+
+    coverage(df)
 
     # Seniors returning en masse is the carry-over signature; real returns (5th years) are a small share.
     sus = out[(out["prior_seniors"] >= 3) & (out["pct_returning"] >= 50)].sort_values("pct_returning", ascending=False)

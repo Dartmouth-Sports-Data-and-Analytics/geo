@@ -32,6 +32,8 @@ def step_args(step, args):
             extra.append("--verbose")
     if step == "pull" and args.refresh:
         extra += ["--refresh", args.refresh]
+    if step == "pull" and args.retry_empty:
+        extra.append("--retry-empty")
     return extra
 
 
@@ -43,6 +45,7 @@ def main():
     parser.add_argument("--workers", type=int, default=None, help="Schools to process at once in discover and pull (default 8).")
     parser.add_argument("--refresh", metavar="SPORT_PAGE[,SPORT_PAGE...]|all", default=None,
                         help="Refetch every year for these sport pages instead of trusting what is on disk (pull step).")
+    parser.add_argument("--retry-empty", action="store_true", help="Ask again for past seasons that had no roster last time (pull step).")
     parser.add_argument("-v", "--verbose", action="store_true", help="Print every skipped sport and fetched page in discover and pull.")
     args = parser.parse_args()
 

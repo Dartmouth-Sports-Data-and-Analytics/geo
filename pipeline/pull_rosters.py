@@ -20,11 +20,23 @@ def school_folder(school):
     return folder_path
 
 
-def gather_tasks(cache_df, refresh=frozenset()):
+# Seasons whose last fetch found a real "no roster"; they are not asked for again each run (errors and rate limits are retried).
+def confirmed_empty_seasons():
+    if not os.path.exists(config.SCRAPE_LOG_PATH):
+        return set()
+    log = pd.read_csv(config.SCRAPE_LOG_PATH).sort_values("timestamp")
+    last = log.drop_duplicates(subset=["school", "sport_page", "year"], keep="last")
+    empty = last[(last["row_count"] == 0) & ~last["matched_slug"].isin(["error", "uncertain"])]
+    return {(r.school, r.sport_page, int(r.year)) for r in empty.itertuples()}
+
+
+def gather_tasks(cache_df, refresh=frozenset(), retry_empty=False):
     """Builds the (school, sport, year) fetch list plus per-file state for the write step."""
     tasks = []
     file_state = {}
     not_discovered = []
+    known_empty = set() if retry_empty else confirmed_empty_seasons()
+    skipped_empty = 0
 
     for _, srow in config.bases_df.iterrows():
         school, base = srow["school"], srow["site_page"]
@@ -80,12 +92,15 @@ def gather_tasks(cache_df, refresh=frozenset()):
                     rows_were_trimmed = True
                 years_to_scrape = [] if config.CURRENT_YEAR in existing_years else [config.CURRENT_YEAR]
             else:
-                years_to_scrape = [
+                forced = "all" in refresh or sport_page in refresh
+                wanted = [
                     year for year in config.YEARS
                     if year >= first_year
                     and (school, sport_page, year) not in rules.KNOWN_MISSING_SEASONS
                     and (year not in existing_years or year == config.CURRENT_YEAR)
                 ]
+                years_to_scrape = [y for y in wanted if forced or y == config.CURRENT_YEAR or (school, sport_page, y) not in known_empty]
+                skipped_empty += len(wanted) - len(years_to_scrape)
 
             key = (school, sport_page)
             file_state[key] = {
@@ -114,6 +129,8 @@ def gather_tasks(cache_df, refresh=frozenset()):
                     "is_current": year == config.CURRENT_YEAR,
                 })
 
+    if skipped_empty:
+        print(f"{skipped_empty} past seasons had no roster last time and are not asked for again (--retry-empty to check them).")
     if not_discovered:
         shown = ", ".join(not_discovered[:6]) + (", ..." if len(not_discovered) > 6 else "")
         print(f"{len(not_discovered)} school + sport pages were never checked; run discover_sports.py: {shown}")
@@ -141,6 +158,7 @@ def interleave_by_sport(tasks):
 
 def run_tasks(tasks, file_state, label=None):
     empty = 0
+    uncertain = 0
     for t in tasks:
         school, sport, sport_page = t["school"], t["sport"], t["sport_page"]
         year, is_current, resolved_slug = t["year"], t["is_current"], t["resolved_slug"]
@@ -150,17 +168,20 @@ def run_tasks(tasks, file_state, label=None):
             df, matched_slug = scraper.scrape_roster(
                 t["base"], sport_page, [resolved_slug], year=year, is_current=is_current, school=school
             )
-            scraper.log_scrape(school, sport_page, year, matched_slug, len(df))
+            maybe_error = df.empty and scraper.last_fetch_uncertain()
+            scraper.log_scrape(school, sport_page, year, "uncertain" if maybe_error else matched_slug, len(df))
             if df.empty:
                 empty += 1
+                uncertain += maybe_error
             else:
                 file_state[t["key"]]["new_fetches"][year] = df
         except Exception as e:
             empty += 1
             print(f"Failed {school} {sport} {year}: {e}")
-            scraper.log_scrape(school, sport_page, year, None, 0)
+            scraper.log_scrape(school, sport_page, year, "error", 0)
     if tasks:
-        print(f"[{label}] fetched {len(tasks)} pages" + (f", {empty} came back empty (see data/_scrape_log.csv)" if empty else ""))
+        detail = f", {empty} came back empty" + (f" ({uncertain} after a rate limit or server error; they will be retried next run)" if uncertain else "") if empty else ""
+        print(f"[{label}] fetched {len(tasks)} pages{detail}")
 
 
 def write_files(file_state):
@@ -205,13 +226,13 @@ def write_files(file_state):
     return written
 
 
-def pull_all(max_workers=8, refresh=frozenset()):
+def pull_all(max_workers=8, refresh=frozenset(), retry_empty=False):
     cache_df = availability.load_availability_cache()
     if cache_df.empty:
         print("No availability data found; run discover_sports.py first.")
         return
 
-    tasks, file_state = gather_tasks(cache_df, refresh=refresh)
+    tasks, file_state = gather_tasks(cache_df, refresh=refresh, retry_empty=retry_empty)
     print(f"{len(tasks)} pages to fetch, {max_workers} schools at a time.")
 
     by_school = defaultdict(list)
@@ -254,7 +275,8 @@ if __name__ == "__main__":
              "--refresh mens-rowing,rowing,womens-rowing,womens-lightweight-rowing",
     )
     parser.add_argument("-v", "--verbose", action="store_true", help="Print a line for every skipped sport, page fetched and file saved.")
+    parser.add_argument("--retry-empty", action="store_true", help="Ask again for past seasons that had no roster last time.")
     args = parser.parse_args()
     config.VERBOSE = args.verbose
     refresh = frozenset(x.strip() for x in args.refresh.split(",") if x.strip())
-    pull_all(max_workers=args.workers, refresh=refresh)
+    pull_all(max_workers=args.workers, refresh=refresh, retry_empty=args.retry_empty)

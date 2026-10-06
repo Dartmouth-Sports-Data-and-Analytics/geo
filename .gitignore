@@ -12,4 +12,4 @@ __pycache__/
 data/_scrape_log.csv
 data/_class_audit.csv
 data/_long_careers.csv
- 
+data/_coverage.csv

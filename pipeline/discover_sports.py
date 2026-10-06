@@ -67,11 +67,13 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
     df, matched_slug = scraper.scrape_roster(
         base, sport_page, slugs, year=config.CURRENT_YEAR, is_current=True, verbose=verbose, school=school
     )
-    if df.empty:
-        # Spring rosters aren't posted in the fall, so check last season before declaring a combo unavailable.
-        config.note(f"  nothing for {config.CURRENT_YEAR} yet, checking {config.CURRENT_YEAR - 1}")
+    # Spring rosters aren't posted in the fall and cut teams have no recent page, so look back before declaring a combo unavailable.
+    for year in config.PROBE_YEARS:
+        if not df.empty:
+            break
+        config.note(f"  nothing yet, checking {year}")
         df, matched_slug = scraper.scrape_roster(
-            base, sport_page, slugs, year=config.CURRENT_YEAR - 1, is_current=False, verbose=verbose, school=school
+            base, sport_page, slugs, year=year, is_current=False, verbose=verbose, school=school
         )
 
     with lock:

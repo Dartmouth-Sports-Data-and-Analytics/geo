@@ -14,6 +14,14 @@ from roster_data import strip_name_badge
 from site_rules import (BARE_SLUG_NEVER_REAL, SCHOOL_PREFERS_BARE_YEAR, SCHOOL_PREFERS_DASH_YEAR, SKIP_BARE_YEAR_SPORTS,
                         SPORT_SLUG_ALIASES, SPRING_SEASON_SPORTS)
 
+# Whether the last scrape_roster call in this thread hit a rate limit or server error, so an empty result may not be a real "no roster".
+_local = threading.local()
+
+
+def last_fetch_uncertain():
+    return getattr(_local, "uncertain", False)
+
+
 # Warnings that would otherwise repeat for every season are printed once per run.
 _warned = set()
 
@@ -157,6 +165,7 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
     cards = []
     used_selector = None
     used_slug = None
+    _local.uncertain = False
 
     for slug, url in url_candidates:
         if verbose:
@@ -164,6 +173,8 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
         time.sleep(REQUEST_DELAY_SECONDS + random.uniform(0, REQUEST_DELAY_JITTER))
         r = _get_with_retry(url, headers={"User-Agent": "Mozilla/5.0"})
         if r.status_code != 200:
+            if r.status_code != 404:
+                _local.uncertain = True
             if verbose:
                 print(f"  -> status {r.status_code}, skipping")
             continue

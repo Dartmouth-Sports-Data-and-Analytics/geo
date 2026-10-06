@@ -12,8 +12,10 @@ def note(*args):
         print(*args)
 
 
-YEARS = list(range(2021, 2027))
+YEARS = list(range(2016, 2027))  # season = academic year start, so 2016 is 2016-17
 CURRENT_YEAR = max(YEARS)
+# Older seasons discovery tries when a page has nothing for the current season, so teams that were later cut are still found.
+PROBE_YEARS = [CURRENT_YEAR - 1, 2021, 2019, YEARS[0]]
 
 # Ivy League athletics site hosts.
 bases = {

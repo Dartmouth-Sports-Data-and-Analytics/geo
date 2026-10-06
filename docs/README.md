@@ -10,7 +10,7 @@ An interactive map of where Ivy League varsity athletes come from. A Python pipe
 - Filter by school, season, sport and region, and search by name.
 - A separate **State heat maps** page shows all eight schools at once, each a US map shaded by players per state; hover a state for its player count and sports.
 - A person on two teams (for example coed and women's sailing) is one dot with both listed.
-- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport.
+- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport. Seasons run from 2016–17 to the current one; 2020–21 is thin or missing at many schools because of COVID.
 
 ## Structure
 
@@ -57,6 +57,8 @@ python run_pipeline.py --only pull             # one step
 python run_pipeline.py --refresh baseball      # refetch every season of a sport
 python geocode_rosters.py --retry-failed       # retry hometowns with no match
 python run_pipeline.py --verbose               # also print every skipped sport and fetched page
+python pull_rosters.py --retry-empty           # ask again for past seasons that had no roster last time
+python audit_rosters.py                        # checks, including roster rows per school and season
 python build_data_json.py --check-regions      # list hometowns that fell into International / Other
 
 cd ../docs
