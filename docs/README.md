@@ -28,6 +28,7 @@ docs/       The website, published by GitHub Pages
 | `pipeline/geocode_rosters.py` | Turns hometowns into coordinates (OpenStreetMap Nominatim), with a cache |
 | `pipeline/build_data_json.py` | Merges everything into `docs/data.json`, one entry per athlete per sport |
 | `pipeline/roster_lib.py` | Shared helpers and the per-school URL exceptions |
+| `pipeline/stamp_versions.py` | Updates the cache-busting version suffixes in `docs/` from file hashes |
 | `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
 | `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
 | `data/hometown_fixes.csv` | Hand-edited corrections for misspelled hometowns |
@@ -54,6 +55,12 @@ python3 -m http.server 8000                    # preview at http://localhost:800
 ```
 
 The heat maps need US state outlines once: `curl -L -o docs/us-states.json https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json`
+
+Cache-busting `?v=` suffixes in `docs/` are content hashes, stamped automatically at the end of `build_data_json.py`. After editing `app.js`, `heatmaps.js` or the CSS by hand, run `python stamp_versions.py` (or install the pre-commit hook below) so browsers fetch the new files. To stamp automatically on every commit, install this hook once from the repo root:
+
+```bash
+printf '#!/bin/sh\npython3 pipeline/stamp_versions.py && git add docs\n' > .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+```
 
 To publish: commit and push `docs/data.json`. In **Settings → Pages**, deploy from branch `main`, folder `/docs`.
 

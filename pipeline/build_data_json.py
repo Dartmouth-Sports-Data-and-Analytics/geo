@@ -6,6 +6,8 @@ import re
 
 import pandas as pd
 
+import stamp_versions
+
 # Not importing roster_lib: it requires sport_page_reference.xlsx at import time, which is optional here.
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT_DIR, "data")
@@ -276,6 +278,7 @@ def build_data_json():
         json.dump(payload, f, separators=(",", ":"))
 
     print(f"Wrote {OUT_PATH} ({os.path.getsize(OUT_PATH) / 1e6:.2f} MB)")
+    stamp_versions.stamp()
 
 
 if __name__ == "__main__":
