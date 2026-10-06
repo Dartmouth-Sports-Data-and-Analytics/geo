@@ -1,35 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Will Acken,,Jr.,"6'5""",205 lbs,"Middletown, N.J.",mens-rowing,2021
-Alexander McClean,,Fy.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2021
-Felix Mebius,,So.,"6'7""",200 lbs,"Groningen, the Netherlands",mens-rowing,2021
-Hank Michalik,,So.,"6'5""",208 lbs,"Rye, N.Y.",mens-rowing,2021
-Yaroslav Mikhaylov,,Fy.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2021
-Jack Morton,,Sr.,"6'7""",205 lbs,"Summit, N.J.",mens-rowing,2021
-Noah Norman,,Jr.,"6'5""",187 lbs,"London, U.K.",mens-rowing,2021
-Jens Odegard,,Sr.,"6'1""",185 lbs,"Weston, Mass.",mens-rowing,2021
-Alex Potter,,So.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2021
-Danilo Rosich,,So.,"6'3""",213 lbs,"Mequon, Wis.",mens-rowing,2021
-Edward Roy,,Fy.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2021
-Vlad Saigau,,Sr.,,,"London, U.K.",mens-rowing,2021
-Elias Salander,,Jr.,"6'3""",190 lbs,"Millbrook, N.Y.",mens-rowing,2021
-Dan Williamson,,Jr.,"6'6""",195 lbs,"Auckland, New Zealand",mens-rowing,2021
-Edward Sharp,,Fy.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2021
-Matteo Sandrelli,,Sr.,"6'4""",185 lbs,"Rome, Italy",mens-rowing,2021
-Ivan Šaric,,So.,"6'6""",220 lbs,"Makarska, Croatia",mens-rowing,2021
-Syvert Senumstad,,Fy.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2021
-William Sharis,,Fy.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2021
-Archie McChesney,,Jr.,"6'4""",206 lbs,"Oxford, U.K.",mens-rowing,2021
-Nick Rusher,,Jr.,"6'4""",200 lbs,"West Bend, Wis.",mens-rowing,2021
-Honza Vacek,,So.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2021
-Kelly Wei,,Sr.,,,"Brooklyn, N.Y.",mens-rowing,2021
-Benjamin Wiegand,,So.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2021
-Alexander Williams,,Fy.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2021
-Oscar Turner,,So.,"6'6""",205 lbs,"Chichester, U.K.",mens-rowing,2021
-Nick Phillips,,So.,"6'6""",210 lbs,"Melbourne, Australia",mens-rowing,2021
-Cameron Matossian,,Fy.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2021
-William Porter,,Fy.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2021
-Jack Lopas,,Sr.,"6'3""",215 lbs,"Christchurch, New Zealand",mens-rowing,2021
-Noah Daniels,,So.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2021
 Thomas Allen,,Fy.,,,"Mill Valley, Calif.",mens-rowing,2021
 Nikola Bakoc,,Jr.,"6'6""",186 lbs,"Belgrade, Serbia",mens-rowing,2021
 Miles Beeson,,Jr.,"6'7""",210 lbs,"Aberdeen, Scotland",mens-rowing,2021
@@ -42,7 +12,6 @@ Freddie Elwes,,Sr.,"6'6""",205 lbs,"Hampshire, U.K.",mens-rowing,2021
 Marcus Emmett,,Fy.,"6'4""",215 lbs,"Melbourne, Australia",mens-rowing,2021
 Rudd Fawcett,,Jr.,"6'7""",205 lbs,"New York, N.Y.",mens-rowing,2021
 Justin Lobo,,So.,,,"La Jolla, Calif.",mens-rowing,2021
-Guy De La Rosa,,Fy.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2021
 Fergus Hamilton,,Jr.,"6'7""",214 lbs,"Jindera, Australia",mens-rowing,2021
 Josh Hill,,Fy.,"6'5""",205 lbs,"Victoria, Australia",mens-rowing,2021
 Luca Liautaud,,Fy.,"6'3""",200 lbs,"London, UK",mens-rowing,2021
@@ -56,53 +25,52 @@ Sonya Gladstone,,Sr.,,,"Hamden, Conn.",mens-rowing,2021
 Harry Geffen,,Fy.,"6'6""",206 lbs,"London, UK",mens-rowing,2021
 Liam Galloway,,Jr.,"6'4""",210 lbs,"Ridgefield, Conn.",mens-rowing,2021
 Joe Long,,Fy.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2021
-Cameron Matossian,,So.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2022
-Nick Phillips,,Jr.,"6'6""",210 lbs,"Melbourne, Australia",mens-rowing,2022
-Christian Oestergaard,,So.,"6'3""",190 lbs,"Hornbæk, Nordsjaelland, Denmark",mens-rowing,2022
-Shane Keagan,,Fy.,"6'3""",205 lbs,"St. Catharines, Ontario, Canada",mens-rowing,2022
-Yaroslav Mikhaylov,,So.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2022
-Felix Mebius,,Jr.,"6'7""",200 lbs,"Groningen, the Netherlands",mens-rowing,2022
-Joe Long,,So.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2022
-Archie McChesney,,Sr.,"6'4""",206 lbs,"Oxford, U.K.",mens-rowing,2022
-Eleanor Lockhart,,Fy.,"5'3""",,"Dallas, Tex.",mens-rowing,2022
-William Porter,,So.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2022
-Luca Liautaud,,So.,"6'3""",200 lbs,"London, UK",mens-rowing,2022
-Alexander McClean,,So.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2022
-Hank Michalik,,Jr.,"6'5""",208 lbs,"Rye, N.Y.",mens-rowing,2022
-Justin Lobo,,Jr.,,,"La Jolla, Calif.",mens-rowing,2022
-Dan Williamson,,Sr.,"6'6""",195 lbs,"Auckland, New Zealand",mens-rowing,2022
-Alex Potter,,Jr.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2022
-Edward Roy,,So.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2022
-Nick Rusher,,Sr.,"6'4""",200 lbs,"West Bend, Wis.",mens-rowing,2022
-Elias Salander,,Sr.,"6'3""",190 lbs,"Millbrook, N.Y.",mens-rowing,2022
-Syvert Senumstad,,So.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2022
-Ivan Šaric,,Jr.,"6'6""",220 lbs,"Makarska, Croatia",mens-rowing,2022
-Edward Sharp,,So.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2022
-Aksel Wergeland,,Fy.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2022
-Liam White,,Fy.,"6'4""",205 lbs,"Chicago, Ill.",mens-rowing,2022
-Benjamin Wiegand,,Jr.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2022
-Harry Keenan,,Jr.,,,"Sydney, Australia",mens-rowing,2022
-Honza Vacek,,Jr.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2022
-Alexander Williams,,So.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2022
-William Sharis,,So.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2022
-Noah Norman,,Sr.,"6'5""",187 lbs,"London, U.K.",mens-rowing,2022
-Nick Cowling,,Sr.,"6'3""",180 lbs,"London, U.K.",mens-rowing,2022
-Liam Galloway,,Sr.,"6'4""",210 lbs,"Ridgefield, Conn.",mens-rowing,2022
-Croix Black,,So.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2022
-Will Acken,,Sr.,"6'5""",205 lbs,"Middletown, N.J.",mens-rowing,2022
-Nikola Bakoc,,Sr.,"6'6""",186 lbs,"Belgrade, Serbia",mens-rowing,2022
-Andrew Jones,,Fy.,,,"Fairfax Station, Va.",mens-rowing,2022
+Noah Daniels,,So.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2021
+Jack Lopas,,Sr.,"6'3""",215 lbs,"Christchurch, New Zealand",mens-rowing,2021
+Guy De La Rosa,,Fy.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2021
+Cameron Matossian,,Fy.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2021
+William Porter,,Fy.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2021
+Alexander McClean,,Fy.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2021
+Felix Mebius,,So.,"6'7""",200 lbs,"Groningen, the Netherlands",mens-rowing,2021
+Hank Michalik,,So.,"6'5""",208 lbs,"Rye, N.Y.",mens-rowing,2021
+Yaroslav Mikhaylov,,Fy.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2021
+Jack Morton,,Sr.,"6'7""",205 lbs,"Summit, N.J.",mens-rowing,2021
+Noah Norman,,Jr.,"6'5""",187 lbs,"London, U.K.",mens-rowing,2021
+Jens Odegard,,Sr.,"6'1""",185 lbs,"Weston, Mass.",mens-rowing,2021
+Danilo Rosich,,So.,"6'3""",213 lbs,"Mequon, Wis.",mens-rowing,2021
+Edward Roy,,Fy.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2021
+Vlad Saigau,,Sr.,,,"London, U.K.",mens-rowing,2021
+Elias Salander,,Jr.,"6'3""",190 lbs,"Millbrook, N.Y.",mens-rowing,2021
+Dan Williamson,,Jr.,"6'6""",195 lbs,"Auckland, New Zealand",mens-rowing,2021
+Alex Potter,,So.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2021
+Edward Sharp,,Fy.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2021
+Oscar Turner,,So.,"6'6""",205 lbs,"Chichester, U.K.",mens-rowing,2021
+Alexander Williams,,Fy.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2021
+Benjamin Wiegand,,So.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2021
+Kelly Wei,,Sr.,,,"Brooklyn, N.Y.",mens-rowing,2021
+Honza Vacek,,So.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2021
+Nick Rusher,,Jr.,"6'4""",200 lbs,"West Bend, Wis.",mens-rowing,2021
+Nick Phillips,,So.,"6'6""",210 lbs,"Melbourne, Australia",mens-rowing,2021
+William Sharis,,Fy.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2021
+Syvert Senumstad,,Fy.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2021
+Ivan Šaric,,So.,"6'6""",220 lbs,"Makarska, Croatia",mens-rowing,2021
+Matteo Sandrelli,,Sr.,"6'4""",185 lbs,"Rome, Italy",mens-rowing,2021
+Archie McChesney,,Jr.,"6'4""",206 lbs,"Oxford, U.K.",mens-rowing,2021
+Miles Beeson,,Sr.,"6'7""",210 lbs,"Aberdeen, Scotland",mens-rowing,2022
+Noah Daniels,,Jr.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2022
+Patrick Craig,,Sr.,"6'6""",200 lbs,"London, U.K.",mens-rowing,2022
+Zac Day,,Fy.,"6'6""",220 lbs,"London, England",mens-rowing,2022
+Drew Cavanaugh,,Fy.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2022
+William Burges-Watson,,So.,"6'0""",175 lbs,"Devon, England",mens-rowing,2022
 George Beer,,Fy.,"6'5""",190 lbs,"Oxford, U.K.",mens-rowing,2022
 Jakov Bijelic,,So.,"6'3""",195 lbs,"Zagreb, Croatia",mens-rowing,2022
+Andrew Jones,,Fy.,,,"Fairfax Station, Va.",mens-rowing,2022
+Nikola Bakoc,,Sr.,"6'6""",186 lbs,"Belgrade, Serbia",mens-rowing,2022
+Will Acken,,Sr.,"6'5""",205 lbs,"Middletown, N.J.",mens-rowing,2022
+Croix Black,,So.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2022
 Jonathon Catmull,,Fy.,"6'6""",184 lbs,"Norwich, England",mens-rowing,2022
-William Burges-Watson,,So.,"6'0""",175 lbs,"Devon, England",mens-rowing,2022
-Drew Cavanaugh,,Fy.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2022
-Zac Day,,Fy.,"6'6""",220 lbs,"London, England",mens-rowing,2022
-Patrick Craig,,Sr.,"6'6""",200 lbs,"London, U.K.",mens-rowing,2022
-Noah Daniels,,Jr.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2022
-Miles Beeson,,Sr.,"6'7""",210 lbs,"Aberdeen, Scotland",mens-rowing,2022
 Thomas Allen,,So.,,,"Mill Valley, Calif.",mens-rowing,2022
-Max Gillard,,Fy.,"6'2""",195 lbs,"London, England",mens-rowing,2022
+Guy De La Rosa,,So.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2022
 Ben Heathcote,,Fy.,"6'4""",210 lbs,"London, England",mens-rowing,2022
 Josh Hill,,So.,"6'5""",205 lbs,"Victoria, Australia",mens-rowing,2022
 Emerson Harris,,Fy.,"4'11""",,"Southport Island, Maine",mens-rowing,2022
@@ -115,7 +83,66 @@ Clancy Doe,,So.,"6'6""",214 lbs,"Queensland, Australia",mens-rowing,2022
 Grace Dodd,,So.,"5'6""",,"Washington, D.C.",mens-rowing,2022
 Seth Hope,,So.,"6'5""",200 lbs,"Cambridge, New Zealand",mens-rowing,2022
 Rudd Fawcett,,Sr.,"6'7""",205 lbs,"New York, N.Y.",mens-rowing,2022
-Guy De La Rosa,,So.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2022
+Liam Galloway,,Sr.,"6'4""",210 lbs,"Ridgefield, Conn.",mens-rowing,2022
+Max Gillard,,Fy.,"6'2""",195 lbs,"London, England",mens-rowing,2022
+Nick Cowling,,Sr.,"6'3""",180 lbs,"London, U.K.",mens-rowing,2022
+Justin Lobo,,Jr.,,,"La Jolla, Calif.",mens-rowing,2022
+William Sharis,,So.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2022
+Cameron Matossian,,So.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2022
+Nick Phillips,,Jr.,"6'6""",210 lbs,"Melbourne, Australia",mens-rowing,2022
+Noah Norman,,Sr.,"6'5""",187 lbs,"London, U.K.",mens-rowing,2022
+Shane Keagan,,Fy.,"6'3""",205 lbs,"St. Catharines, Ontario, Canada",mens-rowing,2022
+Yaroslav Mikhaylov,,So.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2022
+Felix Mebius,,Jr.,"6'7""",200 lbs,"Groningen, the Netherlands",mens-rowing,2022
+Joe Long,,So.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2022
+Archie McChesney,,Sr.,"6'4""",206 lbs,"Oxford, U.K.",mens-rowing,2022
+Eleanor Lockhart,,Fy.,"5'3""",,"Dallas, Tex.",mens-rowing,2022
+William Porter,,So.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2022
+Luca Liautaud,,So.,"6'3""",200 lbs,"London, UK",mens-rowing,2022
+Alexander McClean,,So.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2022
+Hank Michalik,,Jr.,"6'5""",208 lbs,"Rye, N.Y.",mens-rowing,2022
+Christian Oestergaard,,So.,"6'3""",190 lbs,"Hornbæk, Nordsjaelland, Denmark",mens-rowing,2022
+Honza Vacek,,Jr.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2022
+Alexander Williams,,So.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2022
+Harry Keenan,,Jr.,,,"Sydney, Australia",mens-rowing,2022
+Benjamin Wiegand,,Jr.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2022
+Liam White,,Fy.,"6'4""",205 lbs,"Chicago, Ill.",mens-rowing,2022
+Edward Sharp,,So.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2022
+Aksel Wergeland,,Fy.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2022
+Syvert Senumstad,,So.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2022
+Elias Salander,,Sr.,"6'3""",190 lbs,"Millbrook, N.Y.",mens-rowing,2022
+Nick Rusher,,Sr.,"6'4""",200 lbs,"West Bend, Wis.",mens-rowing,2022
+Edward Roy,,So.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2022
+Alex Potter,,Jr.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2022
+Ivan Šaric,,Jr.,"6'6""",220 lbs,"Makarska, Croatia",mens-rowing,2022
+Dan Williamson,,Sr.,"6'6""",195 lbs,"Auckland, New Zealand",mens-rowing,2022
+Drew Cavanaugh,,So.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2023
+Croix Black,,Jr.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2023
+Noah Daniels,,Sr.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2023
+Stribor Cizmek,,Fy.,"6'5""",212 lbs,"Zagreb, Croatia",mens-rowing,2023
+Jakov Bijelic,,Jr.,"6'3""",195 lbs,"Zagreb, Croatia",mens-rowing,2023
+William Burges-Watson,,Jr.,"6'0""",175 lbs,"Devon, England",mens-rowing,2023
+George Beer,,So.,"6'5""",190 lbs,"Oxford, U.K.",mens-rowing,2023
+Alek Balassa,,Fy.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2023
+Zac Day,,So.,"6'6""",220 lbs,"London, England",mens-rowing,2023
+Einar Bjorvik,,Fy.,"6'4""",184 lbs,"Bergen, Norway",mens-rowing,2023
+Thomas Allen,,Jr.,,,"Mill Valley, Calif.",mens-rowing,2023
+Guy De La Rosa,,Jr.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2023
+Harry Keenan,,Sr.,,,"Sydney, Australia",mens-rowing,2023
+Clancy Doe,,Jr.,"6'6""",214 lbs,"Queensland, Australia",mens-rowing,2023
+Stewart Fuqua,,So.,"6'6""",220 lbs,"Arlington, Va.",mens-rowing,2023
+Emerson Harris,,So.,"4'11""",,"Southport Island, Maine",mens-rowing,2023
+Max Gillard,,So.,"6'2""",195 lbs,"London, England",mens-rowing,2023
+Grace Dodd,,Jr.,"5'6""",,"Washington, D.C.",mens-rowing,2023
+Marcus Emmett,,Jr.,"6'4""",215 lbs,"Melbourne, Australia",mens-rowing,2023
+Matthew Hansen,,Jr.,"6'2""",180 lbs,"London, England",mens-rowing,2023
+Justin Lobo,,Sr.,,,"La Jolla, Calif.",mens-rowing,2023
+Ben Heathcote,,So.,"6'4""",210 lbs,"London, England",mens-rowing,2023
+Josh Hill,,Jr.,"6'5""",205 lbs,"Victoria, Australia",mens-rowing,2023
+Harry Geffen,,Jr.,"6'6""",206 lbs,"London, UK",mens-rowing,2023
+Luca Liautaud,,Jr.,"6'3""",200 lbs,"London, UK",mens-rowing,2023
+Seth Hope,,Jr.,"6'5""",200 lbs,"Cambridge, New Zealand",mens-rowing,2023
+Joe Long,,Jr.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2023
 Scott Moorcroft,,Fy.,"6'3""",194 lbs,"Adelaide, South Africa",mens-rowing,2023
 Hank Michalik,,Sr.,"6'5""",208 lbs,"Rye, N.Y.",mens-rowing,2023
 John Patton,,Fy.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2023
@@ -128,92 +155,33 @@ Max Peel,,Fy.,"6'5""",200 lbs,"London, England",mens-rowing,2023
 Aahana Mehta-Vasisht,,Fy.,"5'3""",,"San Mateo, Calif.",mens-rowing,2023
 Nate Ly,,Fy.,"5'9""",,"St. Louis, MO",mens-rowing,2023
 Ashton Perlroth,,Fy.,,,"Palo Alto, Calif.",mens-rowing,2023
-Alex Potter,,Sr.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2023
+Magnus Randall,,Fy.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2023
 Nick Phillips,,Sr.,"6'6""",210 lbs,"Melbourne, Australia",mens-rowing,2023
-Aksel Wergeland,,So.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2023
-Syvert Senumstad,,Jr.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2023
-Edward Sharp,,Jr.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2023
-William Porter,,Jr.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2023
-Benjamin Wiegand,,Sr.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2023
+Alex Potter,,Sr.,"6'3""",205 lbs,"Sydney, Australia",mens-rowing,2023
+Luka Visacki,,Fy.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2023
+Edward Roy,,Jr.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2023
+William Sharis,,Jr.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2023
 Alexander Williams,,Jr.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2023
 Ulrik Pharo Lohne,,Fy.,"6'4""",210 lbs,"Lier, Norway",mens-rowing,2023
-William Sharis,,Jr.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2023
-Edward Roy,,Jr.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2023
-Luka Visacki,,Fy.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2023
-Joe Long,,Jr.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2023
-Magnus Randall,,Fy.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2023
-Luca Liautaud,,Jr.,"6'3""",200 lbs,"London, UK",mens-rowing,2023
-Jakov Bijelic,,Jr.,"6'3""",195 lbs,"Zagreb, Croatia",mens-rowing,2023
-Zac Day,,So.,"6'6""",220 lbs,"London, England",mens-rowing,2023
-Alek Balassa,,Fy.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2023
-George Beer,,So.,"6'5""",190 lbs,"Oxford, U.K.",mens-rowing,2023
-William Burges-Watson,,Jr.,"6'0""",175 lbs,"Devon, England",mens-rowing,2023
-Thomas Allen,,Jr.,,,"Mill Valley, Calif.",mens-rowing,2023
-Drew Cavanaugh,,So.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2023
-Stribor Cizmek,,Fy.,"6'5""",212 lbs,"Zagreb, Croatia",mens-rowing,2023
-Noah Daniels,,Sr.,"6'4""",210 lbs,"Buffalo, N.Y.",mens-rowing,2023
-Croix Black,,Jr.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2023
-Einar Bjorvik,,Fy.,"6'4""",184 lbs,"Bergen, Norway",mens-rowing,2023
-Guy De La Rosa,,Jr.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2023
-Harry Geffen,,Jr.,"6'6""",206 lbs,"London, UK",mens-rowing,2023
-Clancy Doe,,Jr.,"6'6""",214 lbs,"Queensland, Australia",mens-rowing,2023
-Stewart Fuqua,,So.,"6'6""",220 lbs,"Arlington, Va.",mens-rowing,2023
-Emerson Harris,,So.,"4'11""",,"Southport Island, Maine",mens-rowing,2023
-Max Gillard,,So.,"6'2""",195 lbs,"London, England",mens-rowing,2023
-Grace Dodd,,Jr.,"5'6""",,"Washington, D.C.",mens-rowing,2023
-Seth Hope,,Jr.,"6'5""",200 lbs,"Cambridge, New Zealand",mens-rowing,2023
-Harry Keenan,,Sr.,,,"Sydney, Australia",mens-rowing,2023
-Marcus Emmett,,Jr.,"6'4""",215 lbs,"Melbourne, Australia",mens-rowing,2023
-Matthew Hansen,,Jr.,"6'2""",180 lbs,"London, England",mens-rowing,2023
-Justin Lobo,,Sr.,,,"La Jolla, Calif.",mens-rowing,2023
-Ben Heathcote,,So.,"6'4""",210 lbs,"London, England",mens-rowing,2023
-Josh Hill,,Jr.,"6'5""",205 lbs,"Victoria, Australia",mens-rowing,2023
-Yaroslav Mikhaylov,,Sr.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2024
-Max Jeremijenko,,Fy.,,,"Brisbane, Australia",mens-rowing,2024
-William Porter,,Sr.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2024
-Felix Peerless,,Fy.,,,"Putney, London, England",mens-rowing,2024
-Will O'Donnell,,Fy.,,,"Kenilworth, Ill.",mens-rowing,2024
-Ben Mead,,Fy.,,,"Cambridge, England",mens-rowing,2024
-John Patton,,So.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2024
-Aahana Mehta-Vasisht,,So.,"5'3""",,"San Mateo, Calif.",mens-rowing,2024
-Jakov Bijelic,,Sr.,"6'3""",195 lbs,"Zagreb, Croatia",mens-rowing,2024
-Ulrik Pharo Lohne,,So.,"6'4""",210 lbs,"Lier, Norway",mens-rowing,2024
-George Wiley,,Fy.,,,"Guilford, Conn.",mens-rowing,2024
-Cameron Matossian,,Sr.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2024
-Edward Roy,,Sr.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2024
-Nate Ly,,So.,"5'9""",,"St. Louis, MO",mens-rowing,2024
-Rohan Radhakeesoon,,Fy.,,,Exeter. N.H.,mens-rowing,2024
-Magnus Randall,,So.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2024
-Ashton Perlroth,,So.,,,"Palo Alto, Calif.",mens-rowing,2024
-Clemi Scherzer,,Fy.,,,"Newton, Mass.",mens-rowing,2024
-Syvert Senumstad,,Sr.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2024
-William Sharis,,Sr.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2024
-Aaron Stanger,,Fy.,,,"Newton, Mass.",mens-rowing,2024
-Alexander Williams,,Sr.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2024
-Honza Vacek,,Sr.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2024
-Luka Visacki,,So.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2024
-Aksel Wergeland,,Jr.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2024
-Scott Moorcroft,,So.,"6'3""",194 lbs,"Adelaide, South Africa",mens-rowing,2024
-Edward Sharp,,Sr.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2024
-Alexander McClean,,Sr.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2024
-Joe Long,,Sr.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2024
-Drew Cavanaugh,,Jr.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2024
-Shane Keagan,,So.,,,"St. Catharines, Ontario, Canada",mens-rowing,2024
-Croix Black,,Sr.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2024
-Luca Liautaud,,Sr.,"6'3""",200 lbs,"London, UK",mens-rowing,2024
-Guy De La Rosa,,Sr.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2024
-Max Peel,,So.,"6'5""",200 lbs,"London, England",mens-rowing,2024
-Andrew Bittner,,Fy.,,,"Boston, Mass.",mens-rowing,2024
-Sasha Cafritz,,Fy.,,,"Washington, D.C.",mens-rowing,2024
-Alek Balassa,,So.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2024
-William Burges-Watson,,Sr.,"6'0""",175 lbs,"Devon, England",mens-rowing,2024
-Tane Potts,,Fy.,,,"Sydney, Australia",mens-rowing,2024
-Stribor Cizmek,,So.,"6'5""",212 lbs,"Zagreb, Croatia",mens-rowing,2024
-Grace Dodd,,Sr.,"5'6""",,"Washington, D.C.",mens-rowing,2024
+William Porter,,Jr.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2023
+Edward Sharp,,Jr.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2023
+Syvert Senumstad,,Jr.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2023
+Aksel Wergeland,,So.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2023
+Benjamin Wiegand,,Sr.,"6'3""",185 lbs,"Kenilworth, Ill.",mens-rowing,2023
 Einar Bjorvik,,So.,"6'4""",184 lbs,"Bergen, Norway",mens-rowing,2024
+Tane Potts,,Fy.,,,"Sydney, Australia",mens-rowing,2024
+Grace Dodd,,Sr.,"5'6""",,"Washington, D.C.",mens-rowing,2024
+Stribor Cizmek,,So.,"6'5""",212 lbs,"Zagreb, Croatia",mens-rowing,2024
+William Burges-Watson,,Sr.,"6'0""",175 lbs,"Devon, England",mens-rowing,2024
+Luca Liautaud,,Sr.,"6'3""",200 lbs,"London, UK",mens-rowing,2024
+Sasha Cafritz,,Fy.,,,"Washington, D.C.",mens-rowing,2024
+Andrew Bittner,,Fy.,,,"Boston, Mass.",mens-rowing,2024
+Max Peel,,So.,"6'5""",200 lbs,"London, England",mens-rowing,2024
+Guy De La Rosa,,Sr.,"6'2""",185 lbs,"Windham, N.H.",mens-rowing,2024
 Will Fenton,,Fy.,,,"Cross River, N.Y.",mens-rowing,2024
+Alek Balassa,,So.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2024
 Josh Hill,,Sr.,"6'5""",205 lbs,"Victoria, Australia",mens-rowing,2024
-George Beer,,Jr.,"6'5""",190 lbs,"Oxford, U.K.",mens-rowing,2024
+Thomas Allen,,Sr.,,,"Mill Valley, Calif.",mens-rowing,2024
 Marcus Emmett,,Sr.,"6'4""",215 lbs,"Melbourne, Australia",mens-rowing,2024
 Jan Dziedzic,,Fy.,,,"Warsaw, Poland",mens-rowing,2024
 Zac Day,,Jr.,"6'6""",220 lbs,"London, England",mens-rowing,2024
@@ -225,33 +193,41 @@ Angus Gray-Cheape,,Fy.,,,"Oxford, United Kingdom",mens-rowing,2024
 Max Gillard,,Jr.,"6'2""",195 lbs,"London, England",mens-rowing,2024
 Harry Geffen,,Sr.,"6'6""",206 lbs,"London, UK",mens-rowing,2024
 Stewart Fuqua,,Jr.,"6'6""",220 lbs,"Arlington, Va.",mens-rowing,2024
-Thomas Allen,,Sr.,,,"Mill Valley, Calif.",mens-rowing,2024
+Croix Black,,Sr.,"6'4""",190 lbs,"San Diego, Calif.",mens-rowing,2024
 Seth Hope,,Sr.,"6'5""",200 lbs,"Cambridge, New Zealand",mens-rowing,2024
-Aaron Stanger,,So.,,,"Newton, Mass.",mens-rowing,2025
-Will O'Donnell,,So.,,,"Kenilworth, Ill.",mens-rowing,2025
-Tane Potts,,So.,,,"Sydney, Australia",mens-rowing,2025
-Max Jeremijenko,,So.,"6'2""",200 lbs,"Brisbane, Australia",mens-rowing,2025
-Ulrik Pharo Lohne,,Jr.,"6'4""",210 lbs,"Lier, Norway",mens-rowing,2025
-Ben Mead,,So.,,,"Cambridge, England",mens-rowing,2025
-Aahana Mehta-Vasisht,,Jr.,"5'3""",,"San Mateo, Calif.",mens-rowing,2025
-Max Peel,,Jr.,"6'5""",200 lbs,"London, England",mens-rowing,2025
-Felix Peerless,,So.,,,"Putney, London, England",mens-rowing,2025
-Luca Toner,,Fy.,,,"Auckland, New Zealand",mens-rowing,2025
-Luka Visacki,,Jr.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2025
-Nikolai Rybin,,Fy.,,,"London, England",mens-rowing,2025
-Clemi Scherzer,,So.,,,"Newton, Mass.",mens-rowing,2025
-George Wiley,,So.,,,"Guilford, Conn.",mens-rowing,2025
-Nate Ly,,Jr.,"5'9""",,"St. Louis, MO",mens-rowing,2025
-Rohan Radhakeesoon,,So.,,,Exeter. N.H.,mens-rowing,2025
-Daniel Wagner,,Fy.,,,"Vienna, Austria",mens-rowing,2025
-Aksel Wergeland,,Sr.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2025
-Magnus Randall,,Jr.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2025
-Christian Reese,,Fy.,,,"London, United Kingdom",mens-rowing,2025
-John Patton,,Jr.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2025
-Ben Morganroth,,So.,"6'2""",,"Atherton, Calif.",mens-rowing,2025
-Scott Moorcroft,,Jr.,"6'3""",194 lbs,"Adelaide, South Africa",mens-rowing,2025
-Alek Balassa,,Jr.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2025
-Andrew Bittner,,So.,"6'2""",186 lbs,"Boston, Mass.",mens-rowing,2025
+George Beer,,Jr.,"6'5""",190 lbs,"Oxford, U.K.",mens-rowing,2024
+Shane Keagan,,So.,,,"St. Catharines, Ontario, Canada",mens-rowing,2024
+Alexander McClean,,Sr.,"6'6""",215 lbs,"Sydney, Australia",mens-rowing,2024
+Joe Long,,Sr.,"6'4""",201 lbs,"Chalfont St. Peter, U.K.",mens-rowing,2024
+Yaroslav Mikhaylov,,Sr.,"6'4""",220 lbs,"Brookline, Mass.",mens-rowing,2024
+Max Jeremijenko,,Fy.,,,"Brisbane, Australia",mens-rowing,2024
+William Porter,,Sr.,"6'6""",205 lbs,"Madison, Conn.",mens-rowing,2024
+Drew Cavanaugh,,Jr.,"6'3""",200 lbs,"Riverside, Conn.",mens-rowing,2024
+Will O'Donnell,,Fy.,,,"Kenilworth, Ill.",mens-rowing,2024
+Ben Mead,,Fy.,,,"Cambridge, England",mens-rowing,2024
+John Patton,,So.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2024
+Aahana Mehta-Vasisht,,So.,"5'3""",,"San Mateo, Calif.",mens-rowing,2024
+Jakov Bijelic,,Sr.,"6'3""",195 lbs,"Zagreb, Croatia",mens-rowing,2024
+Ulrik Pharo Lohne,,So.,"6'4""",210 lbs,"Lier, Norway",mens-rowing,2024
+George Wiley,,Fy.,,,"Guilford, Conn.",mens-rowing,2024
+Cameron Matossian,,Sr.,"6'7""",205 lbs,"Rye, N.Y.",mens-rowing,2024
+Edward Roy,,Sr.,"6'6""",205 lbs,"Henley on Thames, U.K.",mens-rowing,2024
+Nate Ly,,So.,"5'9""",,"St. Louis, MO",mens-rowing,2024
+Felix Peerless,,Fy.,,,"Putney, London, England",mens-rowing,2024
+Magnus Randall,,So.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2024
+Rohan Radhakeesoon,,Fy.,,,Exeter. N.H.,mens-rowing,2024
+Scott Moorcroft,,So.,"6'3""",194 lbs,"Adelaide, South Africa",mens-rowing,2024
+Aksel Wergeland,,Jr.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2024
+Luka Visacki,,So.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2024
+Honza Vacek,,Sr.,"6'3""",207 lbs,"Prague, Czech Republic",mens-rowing,2024
+Edward Sharp,,Sr.,"6'4""",205 lbs,"Oxford, UK",mens-rowing,2024
+Aaron Stanger,,Fy.,,,"Newton, Mass.",mens-rowing,2024
+William Sharis,,Sr.,"6'5""",187 lbs,"Bettendorf, Iowa",mens-rowing,2024
+Syvert Senumstad,,Sr.,"6'9""",215 lbs,"Kristiansand, Norway",mens-rowing,2024
+Clemi Scherzer,,Fy.,,,"Newton, Mass.",mens-rowing,2024
+Ashton Perlroth,,So.,,,"Palo Alto, Calif.",mens-rowing,2024
+Alexander Williams,,Sr.,"6'4""",230 lbs,"Ooltewah, Tenn.",mens-rowing,2024
+Stewart Fuqua,,Sr.,"6'6""",220 lbs,"Arlington, Va.",mens-rowing,2025
 George Beer,,Sr.,"6'6""",210 lbs,"Oxford, U.K.",mens-rowing,2025
 Edward Crosthwaite-Eyre,,Fy.,"5'9""",125 lbs,"Bramshaw, United Kingdom",mens-rowing,2025
 Einar Bjorvik,,Jr.,"6'4""",192 lbs,"Bergen, Norway",mens-rowing,2025
@@ -260,19 +236,43 @@ Ben Heathcote,,Sr.,"6'4""",204 lbs,"London, England",mens-rowing,2025
 Ben Ashman,,Fy.,,,"Christchurch, New Zealand",mens-rowing,2025
 Stribor Cizmek,,Jr.,"6'5""",211 lbs,"Zagreb, Croatia",mens-rowing,2025
 Henry Clarke,,Fy.,,,"Windsor, United Kingdom",mens-rowing,2025
-Stewart Fuqua,,Sr.,"6'6""",220 lbs,"Arlington, Va.",mens-rowing,2025
 Max Gillard,,Sr.,"6'2""",203 lbs,"London, England",mens-rowing,2025
-Lawson Banks,,Fy.,"6'3""",197 lbs,"Sydney, Australia",mens-rowing,2025
+Jamie Ginsberg,,So.,"6'1""",180 lbs,"Chelsea, London, England",mens-rowing,2025
 Will Fenton,,So.,"6'5""",190 lbs,"Cross River, N.Y.",mens-rowing,2025
 Bailey Foster,,Fy.,"6'4""",192 lbs,"Ross, Calif.",mens-rowing,2025
 Márton Hajdú,,Fy.,"6'1""",193 lbs,"Szeged, Hungary",mens-rowing,2025
 Emerson Harris,,Sr.,"5'1""",,"Southport Island, Maine",mens-rowing,2025
-Jamie Ginsberg,,So.,"6'1""",180 lbs,"Chelsea, London, England",mens-rowing,2025
+Drew Cavanaugh,,Sr.,"6'4""",205 lbs,"Riverside, Conn.",mens-rowing,2025
 Angus Gray-Cheape,,So.,"6'4""",204 lbs,"Oxford, United Kingdom",mens-rowing,2025
 Henry Cullen,,Fy.,"6'3""",188 lbs,"Greenwich, Conn.",mens-rowing,2025
 Zac Day,,Sr.,"6'6""",220 lbs,"London, England",mens-rowing,2025
 Jan Dziedzic,,So.,"6'4""",212 lbs,"Warsaw, Poland",mens-rowing,2025
-Drew Cavanaugh,,Sr.,"6'4""",205 lbs,"Riverside, Conn.",mens-rowing,2025
+Andrew Bittner,,So.,"6'2""",186 lbs,"Boston, Mass.",mens-rowing,2025
+Lawson Banks,,Fy.,"6'3""",197 lbs,"Sydney, Australia",mens-rowing,2025
+Alek Balassa,,Jr.,"6'3""",185 lbs,"Winnetka, Ill.",mens-rowing,2025
+Ben Mead,,So.,,,"Cambridge, England",mens-rowing,2025
+Ben Morganroth,,So.,"6'2""",,"Atherton, Calif.",mens-rowing,2025
+Scott Moorcroft,,Jr.,"6'3""",194 lbs,"Adelaide, South Africa",mens-rowing,2025
+Aaron Stanger,,So.,,,"Newton, Mass.",mens-rowing,2025
+Will O'Donnell,,So.,,,"Kenilworth, Ill.",mens-rowing,2025
+Tane Potts,,So.,,,"Sydney, Australia",mens-rowing,2025
+Max Jeremijenko,,So.,"6'2""",200 lbs,"Brisbane, Australia",mens-rowing,2025
+Ulrik Pharo Lohne,,Jr.,"6'4""",210 lbs,"Lier, Norway",mens-rowing,2025
+Max Peel,,Jr.,"6'5""",200 lbs,"London, England",mens-rowing,2025
+Felix Peerless,,So.,,,"Putney, London, England",mens-rowing,2025
+Luca Toner,,Fy.,,,"Auckland, New Zealand",mens-rowing,2025
+Luka Visacki,,Jr.,"6'4""",198 lbs,"Belgrade, Serbia",mens-rowing,2025
+Aahana Mehta-Vasisht,,Jr.,"5'3""",,"San Mateo, Calif.",mens-rowing,2025
+Clemi Scherzer,,So.,,,"Newton, Mass.",mens-rowing,2025
+George Wiley,,So.,,,"Guilford, Conn.",mens-rowing,2025
+Nate Ly,,Jr.,"5'9""",,"St. Louis, MO",mens-rowing,2025
+Rohan Radhakeesoon,,So.,,,Exeter. N.H.,mens-rowing,2025
+Daniel Wagner,,Fy.,,,"Vienna, Austria",mens-rowing,2025
+Aksel Wergeland,,Sr.,"6'0""",200 lbs,"Bergen, Vestland, Norway",mens-rowing,2025
+Magnus Randall,,Jr.,"6'3""",200 lbs,"Melbourne, Australia",mens-rowing,2025
+Christian Reese,,Fy.,,,"London, United Kingdom",mens-rowing,2025
+Nikolai Rybin,,Fy.,,,"London, England",mens-rowing,2025
+John Patton,,Jr.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2025
 Felix Peerless,,Jr.,,,"Putney, London, England",mens-rowing,2026
 Max Peel,,Sr.,"6'5""",200 lbs,"London, England",mens-rowing,2026
 John Patton,,Sr.,"6'6""",205 lbs,"Boston, Mass.",mens-rowing,2026

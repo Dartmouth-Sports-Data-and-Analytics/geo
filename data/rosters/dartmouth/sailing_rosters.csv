@@ -1,13 +1,32 @@
 name,position,class,height,weight,hometown,sport,year
 Emma Barska,Crew,Jr.,,,"Hobe Sound, Fla.",sailing,2021
+Faye Benjamin,Crew,Fy.,,,"Bronxville, N.Y.",sailing,2021
+Reese Bragg,Crew,Fy.,,,"Irvington, Va.",sailing,2021
+Eloise Burn,Crew,Sr.,,,"Short HIlls, N.J.",sailing,2021
+Eliza Crocker,Crew,Jr.,,,"New Rochelle, N.Y.",sailing,2021
+Dagny Scannell,,Fy.,,,"Alexandria, Va.",sailing,2021
+Gray Hemans,Helm,Fy.,,,"Costa Mesa, Calif.",sailing,2021
+Elise Donovan,Crew,So.,,,"Arlington, Mass.",sailing,2021
+Maddie Hawkins,Helm,So.,,,"Edgewater, Md.",sailing,2021
+Caroline Oyster,Crew,So.,,,"Honolulu, Hawaii",sailing,2021
+Alexandra Pierce,,Fy.,,,"Prairie Village, Kan.",sailing,2021
+Martha Rand,Helm,Jr.,,,"Ipswich, Mass.",sailing,2021
+Madeleine Regulla,Crew,Fy.,,,"London, England",sailing,2021
+Carlota Hopkins Guerra,Crew,Sr.,,,"Las Palmas De Gran Canaria, Spain",sailing,2021
+Lynne Li,Crew,So.,,,"Leawood, Kan.",sailing,2021
+Maya Nguyen,Crew,So.,,,"New York, N.Y.",sailing,2021
+Annika Rogers,Crew,Sr.,,,"Islesboro, Maine",sailing,2021
+Taylor Eastman,Helm,So.,,,"Barnstable, Mass.",sailing,2021
+Maddie Sharp,Crew,Sr.,,,"Key Biscayne, Fla.",sailing,2021
+Ryan Goldstein,Helm/Crew,Sr.,,,"Weston, Mass.",sailing,2021
 Yumi Yoshiyasu,Crew,So.,,,"Houston, Texas",sailing,2021
 Sarah Young,Helm,Fy.,,,"Tiburon, Calif.",sailing,2021
 Boyd Bragg,Helm,Jr.,,,"Irvington, Va.",sailing,2021
 Drew Clutterbuck,Crew,Jr.,,,"Grosse Pointe, Mich.",sailing,2021
-Aisling Sullivan,Crew,Sr.,,,"Chicago, Ill.",sailing,2021
 Nick Hurley,Helm,Jr.,,,"New York, N.Y.",sailing,2021
 Oliver Hurwitz,Helm,Fy.,,,"New York, N.Y.",sailing,2021
 Mike Hanrahan,Helm,So.,,,"Caledon, Ontario",sailing,2021
+Aisling Sullivan,Crew,Sr.,,,"Chicago, Ill.",sailing,2021
 Will Michels,Helm,Fy.,,,"Riverside, Conn.",sailing,2021
 James Paul,Helm,Jr.,,,"Darien, Conn.",sailing,2021
 Connor Vogel,Helm,Fy.,,,"Lutherville, Md.",sailing,2021
@@ -15,26 +34,27 @@ Justin Assad,,,,,,sailing,2021
 Griffin Lapham,Helm,Fy.,,,"New York, N.Y.",sailing,2021
 Christopher Long,Helm/Crew,Jr.,,,"Parker, Colo.",sailing,2021
 Rob Mailley,Helm/Crew,So.,,,"Washington, D.C.",sailing,2021
-Maddie Sharp,Crew,Sr.,,,"Key Biscayne, Fla.",sailing,2021
-Ryan Goldstein,Helm/Crew,Sr.,,,"Weston, Mass.",sailing,2021
-Annika Rogers,Crew,Sr.,,,"Islesboro, Maine",sailing,2021
-Elise Donovan,Crew,So.,,,"Arlington, Mass.",sailing,2021
-Faye Benjamin,Crew,Fy.,,,"Bronxville, N.Y.",sailing,2021
-Reese Bragg,Crew,Fy.,,,"Irvington, Va.",sailing,2021
-Eloise Burn,Crew,Sr.,,,"Short HIlls, N.J.",sailing,2021
-Eliza Crocker,Crew,Jr.,,,"New Rochelle, N.Y.",sailing,2021
-Dagny Scannell,,Fy.,,,"Alexandria, Va.",sailing,2021
-Gray Hemans,Helm,Fy.,,,"Costa Mesa, Calif.",sailing,2021
-Taylor Eastman,Helm,So.,,,"Barnstable, Mass.",sailing,2021
-Maddie Hawkins,Helm,So.,,,"Edgewater, Md.",sailing,2021
-Maya Nguyen,Crew,So.,,,"New York, N.Y.",sailing,2021
-Caroline Oyster,Crew,So.,,,"Honolulu, Hawaii",sailing,2021
-Alexandra Pierce,,Fy.,,,"Prairie Village, Kan.",sailing,2021
-Martha Rand,Helm,Jr.,,,"Ipswich, Mass.",sailing,2021
-Madeleine Regulla,Crew,Fy.,,,"London, England",sailing,2021
-Carlota Hopkins Guerra,Crew,Sr.,,,"Las Palmas De Gran Canaria, Spain",sailing,2021
-Lynne Li,Crew,So.,,,"Leawood, Kan.",sailing,2021
-Aisling Sullivan,Crew,5th,,,"Chicago, Ill.",sailing,2022
+Maddie Hawkins,Helm,Jr.,,,"Edgewater, Md.",sailing,2022
+Casey Bertocchi,Crew,Fy.,,,"Wilmette, Ill.",sailing,2022
+Reese Bragg,Crew,So.,,,"Irvington, Va.",sailing,2022
+Bella Casaretto,Helm,Fy.,,,"Fort Lauderdale, Fl.",sailing,2022
+Catherine Chu,Crew,Fy.,,,"Palo Alto, CA",sailing,2022
+Eliza Crocker,Crew,Sr.,,,"New Rochelle, N.Y.",sailing,2022
+Alexandra Pierce,Crew,So.,,,"Prairie Village, Kan.",sailing,2022
+Taylor Eastman,Helm,Jr.,,,"Barnstable, Mass.",sailing,2022
+Faye Benjamin,Crew,So.,,,"Bronxville, N.Y.",sailing,2022
+Gray Hemans,Helm,So.,,,"Costa Mesa, Calif.",sailing,2022
+Maddie Hughes,Crew,Fy.,,,"Miami, Fl.",sailing,2022
+Madeline Koelbel,Crew/Helm,Fy.,,,"Duxbury, Mass.",sailing,2022
+Phoebe Lee,Crew,Fy.,,,"Edgewood, R.I.",sailing,2022
+Maya Nguyen,Crew,So.,,,"New York, N.Y.",sailing,2022
+Caroline Oyster,Crew,Jr.,,,"Honolulu, Hawaii",sailing,2022
+Elise Donovan,Crew,Jr.,,,"Arlington, Mass.",sailing,2022
+Dagny Scannell,Crew,So.,,,"Alexandria, Va.",sailing,2022
+Madeleine Regulla,Crew,So.,,,"London, England",sailing,2022
+Oliver Hurwitz,Helm,So.,,,"New York, N.Y.",sailing,2022
+Sarah Young,Helm,So.,,,"Tiburon, Calif.",sailing,2022
+Yumi Yoshiyasu,Crew,Jr.,,,"Houston, Texas",sailing,2022
 Sudi Zhao,Crew,Fy.,,,"Lexington, Mass.",sailing,2022
 Boyd Bragg,Helm,Sr.,,,"Irvington, Va.",sailing,2022
 Drew Clutterbuck,Crew,Sr.,,,"Grosse Pointe, Mich.",sailing,2022
@@ -42,7 +62,7 @@ Caleb Cogan,,Fy.,,,"New York, N.Y.",sailing,2022
 Ryan Goldstein,Helm/Crew,5th,,,"Weston, Mass.",sailing,2022
 Justin Assad,,,,,,sailing,2022
 Nick Hurley,Helm,Sr.,,,"New York, N.Y.",sailing,2022
-Oliver Hurwitz,Helm,So.,,,"New York, N.Y.",sailing,2022
+Aisling Sullivan,Crew,5th,,,"Chicago, Ill.",sailing,2022
 Griffin Lapham,Helm,So.,,,"New York, N.Y.",sailing,2022
 Christopher Long,Helm/Crew,Sr.,,,"Parker, Colo.",sailing,2022
 Rob Mailley,Helm/Crew,Jr.,,,"Washington, D.C.",sailing,2022
@@ -50,109 +70,89 @@ Will Michels,Helm,So.,,,"Riverside, Conn.",sailing,2022
 James Paul,Helm,Sr.,,,"Darien, Conn.",sailing,2022
 Connor Vogel,Helm,So.,,,"Lutherville, Md.",sailing,2022
 Mike Hanrahan,Helm,Jr.,,,"Caledon, Ontario",sailing,2022
-Sarah Young,Helm,So.,,,"Tiburon, Calif.",sailing,2022
-Yumi Yoshiyasu,Crew,Jr.,,,"Houston, Texas",sailing,2022
-Madeleine Regulla,Crew,So.,,,"London, England",sailing,2022
-Elise Donovan,Crew,Jr.,,,"Arlington, Mass.",sailing,2022
-Alexandra Pierce,Crew,So.,,,"Prairie Village, Kan.",sailing,2022
-Casey Bertocchi,Crew,Fy.,,,"Wilmette, Ill.",sailing,2022
-Reese Bragg,Crew,So.,,,"Irvington, Va.",sailing,2022
-Bella Casaretto,Helm,Fy.,,,"Fort Lauderdale, Fl.",sailing,2022
-Catherine Chu,Crew,Fy.,,,"Palo Alto, CA",sailing,2022
-Eliza Crocker,Crew,Sr.,,,"New Rochelle, N.Y.",sailing,2022
-Maddie Hawkins,Helm,Jr.,,,"Edgewater, Md.",sailing,2022
-Taylor Eastman,Helm,Jr.,,,"Barnstable, Mass.",sailing,2022
-Dagny Scannell,Crew,So.,,,"Alexandria, Va.",sailing,2022
-Gray Hemans,Helm,So.,,,"Costa Mesa, Calif.",sailing,2022
-Maddie Hughes,Crew,Fy.,,,"Miami, Fl.",sailing,2022
-Madeline Koelbel,Crew/Helm,Fy.,,,"Duxbury, Mass.",sailing,2022
-Phoebe Lee,Crew,Fy.,,,"Edgewood, R.I.",sailing,2022
-Maya Nguyen,Crew,So.,,,"New York, N.Y.",sailing,2022
-Caroline Oyster,Crew,Jr.,,,"Honolulu, Hawaii",sailing,2022
-Faye Benjamin,Crew,So.,,,"Bronxville, N.Y.",sailing,2022
-Yumi Yoshiyasu,Crew,Sr.,,,"Houston, Texas",sailing,2023
-William Eggena,,Fy.,,,"Rockport, Maine",sailing,2023
-Mike Hanrahan,Helm,Sr.,,,"Caledon, Ontario",sailing,2023
-Will Michels,Helm,Jr.,,,"Riverside, Conn.",sailing,2023
-Boyd Bragg,Helm,5th,,,"Irvington, Va.",sailing,2023
-Ryan Satterberg,,Fy.,,,"Santa Barbara, Calif.",sailing,2023
-Xander Dalke,,Fy.,,,"Steamboat Springs, Colo.",sailing,2023
-Dagny Scannell,Crew,Jr.,,,"Alexandria, Va.",sailing,2023
-Benjamin Sheppard,,Fy.,,,"Riverside, Conn.",sailing,2023
-Caleigh Wiggin,Crew,Fy.,,,"Richmond, Va.",sailing,2023
-Justin Assad,,,,,,sailing,2023
-Faye Benjamin,Crew,Jr.,,,"Bronxville, N.Y.",sailing,2023
-Rob Mailley,Helm/Crew,Sr.,,,"Washington, D.C.",sailing,2023
-James Paul,Helm,5th,,,"Darien, Conn.",sailing,2023
-Oliver Hurwitz,Helm,Jr.,,,"New York, N.Y.",sailing,2023
-Bella Casaretto,Helm,So.,,,"Fort Lauderdale, Fl.",sailing,2023
-Caleb Cogan,,So.,,,"New York, N.Y.",sailing,2023
-Alexandra Pierce,Crew,Jr.,,,"Prairie Village, Kan.",sailing,2023
 Lilly Baker,Crew,Fy.,,,"Annapolis, Md.",sailing,2023
-Olivia Drulard,,Fy.,,,"Coral Gables, Fla.",sailing,2023
 Maddie Hawkins,Helm,Sr.,,,"Edgewater, Md.",sailing,2023
 Reese Bragg,Crew,Jr.,,,"Irvington, Va.",sailing,2023
 Madeline Koelbel,Crew/Helm,So.,,,"Duxbury, Mass.",sailing,2023
 Elise Donovan,Crew,Sr.,,,"Arlington, Mass.",sailing,2023
 Madeleine Regulla,Crew,Jr.,,,"London, England",sailing,2023
 Taylor Eastman,Helm,Sr.,,,"Barnstable, Mass.",sailing,2023
-Gray Hemans,Helm,Jr.,,,"Costa Mesa, Calif.",sailing,2023
-Sophie Menyhart,,Fy.,,,"Marstons Mills, Mass.",sailing,2023
 Sarah Young,Helm,Jr.,,,"Tiburon, Calif.",sailing,2023
+Sophie Menyhart,,Fy.,,,"Marstons Mills, Mass.",sailing,2023
+Alexandra Pierce,Crew,Jr.,,,"Prairie Village, Kan.",sailing,2023
 Vivian Heitkoetter,Crew,Fy.,,,"Austin, Texas",sailing,2023
 Sudi Zhao,Crew,So.,,,"Lexington, Mass.",sailing,2023
 Ava Hurwitz,,Fy.,,,"New York, N.Y.",sailing,2023
 Phoebe Lee,Crew,So.,,,"Edgewood, R.I.",sailing,2023
-Sudi Zhao,Crew,Jr.,,,"Lexington, Mass.",sailing,2024
-Roxy Revel,,Fy.,,,"Los Angeles, Calif.",sailing,2024
-Caleigh Wiggin,Crew,So.,,,"Richmond, Va.",sailing,2024
-Chase Decker,Helm,Fy.,,,"Newport Beach, Calif.",sailing,2024
-Sarah Young,Helm,Sr.,,,"Tiburon, Calif.",sailing,2024
-Justin Assad,,,,,,sailing,2024
-Will Michels,Helm,Sr.,,,"Riverside, Conn.",sailing,2024
-Charlotte West,Helm,Fy.,,,"Scituate, Mass.",sailing,2024
-Oliver Hurwitz,Helm,Sr.,,,"New York, N.Y.",sailing,2024
-Benjamin Sheppard,Helm,So.,,,"Riverside, Conn.",sailing,2024
-Ryan Satterberg,Helm,So.,,,"Santa Barbara, Calif.",sailing,2024
-William Eggena,Helm,So.,,,"Rockport, Maine",sailing,2024
-Vivian Heitkoetter,Crew,So.,,,"Austin, Texas",sailing,2024
-Lilly Baker,Crew,So.,,,"Annapolis, Md.",sailing,2024
+Gray Hemans,Helm,Jr.,,,"Costa Mesa, Calif.",sailing,2023
+Caleb Cogan,,So.,,,"New York, N.Y.",sailing,2023
+Olivia Drulard,,Fy.,,,"Coral Gables, Fla.",sailing,2023
+Oliver Hurwitz,Helm,Jr.,,,"New York, N.Y.",sailing,2023
+Yumi Yoshiyasu,Crew,Sr.,,,"Houston, Texas",sailing,2023
+William Eggena,,Fy.,,,"Rockport, Maine",sailing,2023
+Will Michels,Helm,Jr.,,,"Riverside, Conn.",sailing,2023
+Boyd Bragg,Helm,5th,,,"Irvington, Va.",sailing,2023
+Ryan Satterberg,,Fy.,,,"Santa Barbara, Calif.",sailing,2023
+Xander Dalke,,Fy.,,,"Steamboat Springs, Colo.",sailing,2023
+Dagny Scannell,Crew,Jr.,,,"Alexandria, Va.",sailing,2023
+Mike Hanrahan,Helm,Sr.,,,"Caledon, Ontario",sailing,2023
+Caleigh Wiggin,Crew,Fy.,,,"Richmond, Va.",sailing,2023
+Justin Assad,,,,,,sailing,2023
+Faye Benjamin,Crew,Jr.,,,"Bronxville, N.Y.",sailing,2023
+Rob Mailley,Helm/Crew,Sr.,,,"Washington, D.C.",sailing,2023
+Bella Casaretto,Helm,So.,,,"Fort Lauderdale, Fl.",sailing,2023
+James Paul,Helm,5th,,,"Darien, Conn.",sailing,2023
+Benjamin Sheppard,,Fy.,,,"Riverside, Conn.",sailing,2023
 Madeline Koelbel,Crew/Helm,Jr.,,,"Duxbury, Mass.",sailing,2024
 Sophie Menyhart,Crew,So.,,,"Marstons Mills, Mass.",sailing,2024
 Caroline Leicht,Crew,Fy.,,,"Mamaroneck, N.Y.",sailing,2024
 Ava Hurwitz,Helm,So.,,,"New York, N.Y.",sailing,2024
 Phoebe Lee,Crew,Jr.,,,"Edgewood, R.I.",sailing,2024
-Faye Benjamin,Crew,Sr.,,,"Bronxville, N.Y.",sailing,2024
-Bella Casaretto,Helm,Jr.,,,"Fort Lauderdale, Fl.",sailing,2024
 Alexandra Pierce,Crew,Sr.,,,"Prairie Village, Kan.",sailing,2024
+Bella Casaretto,Helm,Jr.,,,"Fort Lauderdale, Fl.",sailing,2024
 Reese Bragg,Crew,Sr.,,,"Irvington, Va.",sailing,2024
 Olivia Drulard,Helm/Crew,So.,,,"Coral Gables, Fla.",sailing,2024
-Harry Bryan,Helm/Crew,Fy.,6' 1'',,"Pacific Palisades, Calif.",sailing,2025
-Sudi Zhao,Crew,Sr.,,,"Lexington, Mass.",sailing,2025
-Charlotte West,Helm,So.,,,"Scituate, Mass.",sailing,2025
-Finn Cairns,Crew,Fy.,5' 6'',,"Minneapolis, Minn.",sailing,2025
-Benjamin Sheppard,Helm,Jr.,,,"Riverside, Conn.",sailing,2025
-Rebecca McElvain '19,,,,,,sailing,2025
-Turner Ryon,Skipper,Fy.,5' 9'',,"Beach Haven, N.J.",sailing,2025
-Chase Decker,Helm,So.,,,"Newport Beach, Calif.",sailing,2025
-Grace Patterson,Crew,Fy.,5' 4'',,"Middletown, R.I.",sailing,2025
-William Eggena,Helm,Jr.,,,"Rockport, Maine",sailing,2025
-Brad Kirkpatrick,Skipper,Fy.,6' 3'',,"Fairfield, Conn.",sailing,2025
-Blake Oberbauer,,Fy.,,,"Bel Tiburon, Calif.",sailing,2025
-Ryan Satterberg,Helm,Jr.,,,"Santa Barbara, Calif.",sailing,2025
-Alders Kulynych-Irvin,Skipper,Fy.,5' 7'',,"Annapolis, Md.",sailing,2025
-Sophie Menyhart,Crew,Jr.,,,"Marstons Mills, Mass.",sailing,2025
-Phoebe Lee,Crew,Sr.,,,"Edgewood, R.I.",sailing,2025
-Lilly Baker,Crew,Jr.,,,"Annapolis, Md.",sailing,2025
+Lilly Baker,Crew,So.,,,"Annapolis, Md.",sailing,2024
+Faye Benjamin,Crew,Sr.,,,"Bronxville, N.Y.",sailing,2024
+Vivian Heitkoetter,Crew,So.,,,"Austin, Texas",sailing,2024
+Ryan Satterberg,Helm,So.,,,"Santa Barbara, Calif.",sailing,2024
+Caleigh Wiggin,Crew,So.,,,"Richmond, Va.",sailing,2024
+Benjamin Sheppard,Helm,So.,,,"Riverside, Conn.",sailing,2024
+Oliver Hurwitz,Helm,Sr.,,,"New York, N.Y.",sailing,2024
+Charlotte West,Helm,Fy.,,,"Scituate, Mass.",sailing,2024
+Will Michels,Helm,Sr.,,,"Riverside, Conn.",sailing,2024
+Justin Assad,,,,,,sailing,2024
+Sarah Young,Helm,Sr.,,,"Tiburon, Calif.",sailing,2024
+Chase Decker,Helm,Fy.,,,"Newport Beach, Calif.",sailing,2024
+Roxy Revel,,Fy.,,,"Los Angeles, Calif.",sailing,2024
+Sudi Zhao,Crew,Jr.,,,"Lexington, Mass.",sailing,2024
+William Eggena,Helm,So.,,,"Rockport, Maine",sailing,2024
 Bella Casaretto,Helm,Sr.,,,"Fort Lauderdale, Fl.",sailing,2025
+Lilly Baker,Crew,Jr.,,,"Annapolis, Md.",sailing,2025
+Sophie Menyhart,Crew,Jr.,,,"Marstons Mills, Mass.",sailing,2025
 Olivia Drulard,Helm/Crew,Jr.,,,"Coral Gables, Fla.",sailing,2025
-Vivian Heitkoetter,Crew,Jr.,,,"Austin, Texas",sailing,2025
+Phoebe Lee,Crew,Sr.,,,"Edgewood, R.I.",sailing,2025
+Sage Evans,,Fy.,,,"Cape Elizabeth, Maine",sailing,2025
+Madeline Koelbel,Crew/Helm,Sr.,,,"Duxbury, Mass.",sailing,2025
 Lucia Duffy,Crew,Fy.,5' 2'',,"Chicago, Ill.",sailing,2025
 Kathryn McGranahan,Crew,Fy.,5' 5'',,"Larchmont, N.Y.",sailing,2025
 Abbie Deng,Crew/Helm,Fy.,5' 5'',,"Belmont, Mass.",sailing,2025
 Ava Hurwitz,Helm,Jr.,,,"New York, N.Y.",sailing,2025
-Madeline Koelbel,Crew/Helm,Sr.,,,"Duxbury, Mass.",sailing,2025
-Sage Evans,,Fy.,,,"Cape Elizabeth, Maine",sailing,2025
+Vivian Heitkoetter,Crew,Jr.,,,"Austin, Texas",sailing,2025
+Alders Kulynych-Irvin,Skipper,Fy.,5' 7'',,"Annapolis, Md.",sailing,2025
+Turner Ryon,Skipper,Fy.,5' 9'',,"Beach Haven, N.J.",sailing,2025
+Blake Oberbauer,,Fy.,,,"Bel Tiburon, Calif.",sailing,2025
+Ryan Satterberg,Helm,Jr.,,,"Santa Barbara, Calif.",sailing,2025
+Harry Bryan,Helm/Crew,Fy.,6' 1'',,"Pacific Palisades, Calif.",sailing,2025
+Sudi Zhao,Crew,Sr.,,,"Lexington, Mass.",sailing,2025
+Finn Cairns,Crew,Fy.,5' 6'',,"Minneapolis, Minn.",sailing,2025
+Benjamin Sheppard,Helm,Jr.,,,"Riverside, Conn.",sailing,2025
+Charlotte West,Helm,So.,,,"Scituate, Mass.",sailing,2025
+Chase Decker,Helm,So.,,,"Newport Beach, Calif.",sailing,2025
+Grace Patterson,Crew,Fy.,5' 4'',,"Middletown, R.I.",sailing,2025
+William Eggena,Helm,Jr.,,,"Rockport, Maine",sailing,2025
+Brad Kirkpatrick,Skipper,Fy.,6' 3'',,"Fairfield, Conn.",sailing,2025
+Rebecca McElvain '19,,,,,,sailing,2025
 Finn Cairns,Crew,So.,5' 6'',,"Minneapolis, Minn.",sailing,2026
 Sage Sakowicz,Crew,Fy.,5' 3'',,"Lavallette, N.J.",sailing,2026
 Charlotte West,Helm,Jr.,,,"Scituate, Mass.",sailing,2026

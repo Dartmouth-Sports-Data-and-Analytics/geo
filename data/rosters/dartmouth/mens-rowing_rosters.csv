@@ -1,35 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Pia Alexander,Cox,Fy.,,,"Bethesda, Md.",mens-rowing,2021
-David Kogan,Rower,Sr.,,,"Larkspur, Calif.",mens-rowing,2021
-Oscar Lee,Rower,Jr.,,,"Roswell, Ga.",mens-rowing,2021
-Alexander Lehr,Rower,Sr.,,,"Concord, Mass.",mens-rowing,2021
-Billy Lockhart,Rower,So.,,,"Dallas, Texas",mens-rowing,2021
-Sam Lorgen,Rower,So.,,,"Oslo, Norway",mens-rowing,2021
-Henry Lowe,Rower,Jr.,,,"Pacific Palisades, Calif.",mens-rowing,2021
-Sean Mannion,Rower,Sr.,,,"Belmont, Mass.",mens-rowing,2021
-Luke Marshall,Rower,So.,,,"Buckinghamshire, England",mens-rowing,2021
-Ned Rae Smith,Rower,So.,,,"East Sussex, England",mens-rowing,2021
-Alex Robertson,Rower,Jr.,,,"Center Ossipee, N.H.",mens-rowing,2021
-Sam Rothschild,Rower,So.,,,"London, England",mens-rowing,2021
-Clayton Kiyonaga,Rower,5th,,,"Rhoadesville, Va.",mens-rowing,2021
-Wyatt Allen,,,,,,mens-rowing,2021
-Munroe Robinson,Rower,Fy.,,,"Black Mountain, N.C.",mens-rowing,2021
-Isaac Spokes,Rower,Sr.,,,"Baltimore, Md.",mens-rowing,2021
-Richie Santry,Rower,Sr.,,,"Arlington, Va.",mens-rowing,2021
-Christian Sauer,Rower,Jr.,,,"Delmar, N.Y.",mens-rowing,2021
-William Schultz,Rower,Jr.,,,"Evanston, Ill.",mens-rowing,2021
-Conor Shaheen,Rower,Fy.,,,"Kensington, Md.",mens-rowing,2021
-Robert Pare,Rower,Jr.,,,"Bedford, Mass.",mens-rowing,2021
-Harrison Taylor,Rower,5th,,,"Portsmouth, N.H.",mens-rowing,2021
-Jack Taylor,Rower,So.,,,"Chicago, Ill.",mens-rowing,2021
-Julian Thomas,Rower,Fy.,,,"New Hope, Pa.",mens-rowing,2021
-Nathan Thompson,Rower,Fy.,,,"Trappe, Md.",mens-rowing,2021
-Will Kalikman,Rower,So.,,,"San Francisco, Calif.",mens-rowing,2021
-Felix Rawlinson,Rower,Jr.,,,"Moreton-in-Marsh, UK",mens-rowing,2021
-James Isles,Rower,Fy.,,,"Melbourne, Australia",mens-rowing,2021
-Liam Keane,Rower(C),Gr.,,,"Victoria, British Columbia",mens-rowing,2021
-Miles Hudgins,Rower,Fy.,,,"Gloucester, Mass.",mens-rowing,2021
-Gustav Arvidsson,Rower,5th,,,"Helsingborg, Sweden",mens-rowing,2021
 William Bender,Rower,So.,,,"Norwich, Vt.",mens-rowing,2021
 Max Bessler,Rower,Sr.,,,"Tacoma, Wash.",mens-rowing,2021
 Ryan Boyle,Rower,So.,,,"Dallas, Texas",mens-rowing,2021
@@ -40,7 +10,6 @@ Teddy Danziger,Rower,So.,,,"Lincoln, Mass.",mens-rowing,2021
 Max Deering,Rower,Jr.,,,"Richmond, UK",mens-rowing,2021
 Evan Dwinell,Rower,5th,,,"Tallahassee, Fla.",mens-rowing,2021
 Caleb Edmundson,Rower,5th,,,"Greenwich, Conn.",mens-rowing,2021
-Stephen Bacas,Rower,Fy.,,,"Arlington, Va.",mens-rowing,2021
 Sammy Houdaigui,Rower,Fy.,,,"McLean, Va.",mens-rowing,2021
 Harry Beesley-Gilman,Rower,Fy.,,,"Arlington, Va.",mens-rowing,2021
 Bryce Golbus,Rower,Sr.,,,"Hopkins, Minn.",mens-rowing,2021
@@ -56,7 +25,67 @@ Jasper Gleeson,Rower,Fy.,,,"Portland, Ore.",mens-rowing,2021
 Christian Franck,Rower,Sr.,,,"Philadelphia, Pa.",mens-rowing,2021
 Gus Emmett,Rower,Sr.,,,"Hawthorn, Australia",mens-rowing,2021
 Henry Irwin,Rower,Fy.,,,"Washington, D.C.",mens-rowing,2021
-Felix Rawlinson,Rower,Sr.,,,"Moreton-in-Marsh, UK",mens-rowing,2022
+Gustav Arvidsson,Rower,5th,,,"Helsingborg, Sweden",mens-rowing,2021
+Miles Hudgins,Rower,Fy.,,,"Gloucester, Mass.",mens-rowing,2021
+Stephen Bacas,Rower,Fy.,,,"Arlington, Va.",mens-rowing,2021
+James Isles,Rower,Fy.,,,"Melbourne, Australia",mens-rowing,2021
+Liam Keane,Rower(C),Gr.,,,"Victoria, British Columbia",mens-rowing,2021
+Oscar Lee,Rower,Jr.,,,"Roswell, Ga.",mens-rowing,2021
+Alexander Lehr,Rower,Sr.,,,"Concord, Mass.",mens-rowing,2021
+Billy Lockhart,Rower,So.,,,"Dallas, Texas",mens-rowing,2021
+Sam Lorgen,Rower,So.,,,"Oslo, Norway",mens-rowing,2021
+Henry Lowe,Rower,Jr.,,,"Pacific Palisades, Calif.",mens-rowing,2021
+Sean Mannion,Rower,Sr.,,,"Belmont, Mass.",mens-rowing,2021
+Luke Marshall,Rower,So.,,,"Buckinghamshire, England",mens-rowing,2021
+Ned Rae Smith,Rower,So.,,,"East Sussex, England",mens-rowing,2021
+Alex Robertson,Rower,Jr.,,,"Center Ossipee, N.H.",mens-rowing,2021
+Sam Rothschild,Rower,So.,,,"London, England",mens-rowing,2021
+Clayton Kiyonaga,Rower,5th,,,"Rhoadesville, Va.",mens-rowing,2021
+Wyatt Allen,,,,,,mens-rowing,2021
+David Kogan,Rower,Sr.,,,"Larkspur, Calif.",mens-rowing,2021
+Isaac Spokes,Rower,Sr.,,,"Baltimore, Md.",mens-rowing,2021
+Munroe Robinson,Rower,Fy.,,,"Black Mountain, N.C.",mens-rowing,2021
+Will Kalikman,Rower,So.,,,"San Francisco, Calif.",mens-rowing,2021
+Nathan Thompson,Rower,Fy.,,,"Trappe, Md.",mens-rowing,2021
+Julian Thomas,Rower,Fy.,,,"New Hope, Pa.",mens-rowing,2021
+Jack Taylor,Rower,So.,,,"Chicago, Ill.",mens-rowing,2021
+Harrison Taylor,Rower,5th,,,"Portsmouth, N.H.",mens-rowing,2021
+Felix Rawlinson,Rower,Jr.,,,"Moreton-in-Marsh, UK",mens-rowing,2021
+Conor Shaheen,Rower,Fy.,,,"Kensington, Md.",mens-rowing,2021
+William Schultz,Rower,Jr.,,,"Evanston, Ill.",mens-rowing,2021
+Christian Sauer,Rower,Jr.,,,"Delmar, N.Y.",mens-rowing,2021
+Richie Santry,Rower,Sr.,,,"Arlington, Va.",mens-rowing,2021
+Robert Pare,Rower,Jr.,,,"Bedford, Mass.",mens-rowing,2021
+Francesco Dembinski,Rower,Fy.,,,"Craryville, N.Y.",mens-rowing,2022
+Michael Curry,Rower,So.,,,"Dallas, Texas",mens-rowing,2022
+Carsten Carey,Rower,Jr.,,,"Sunderland, Mass.",mens-rowing,2022
+Ryan Boyle,Rower,Jr.,,,"Dallas, Texas",mens-rowing,2022
+Miles Hudgins,Rower,So.,,,"Gloucester, Mass.",mens-rowing,2022
+Harry Beesley-Gilman,Rower,So.,,,"Arlington, Va.",mens-rowing,2022
+Max Deering,Rower,Sr.,,,"Richmond, UK",mens-rowing,2022
+Stephen Bacas,Rower,So.,,,"Arlington, Va.",mens-rowing,2022
+Ellie Anderson,Coxswain,So.,,,St. Petersburg,mens-rowing,2022
+Kane Hall,Rower,5th,,,"Narragansett, R.I.",mens-rowing,2022
+Jessna Brar,Coxswain,Sr.,,,"Chandigarh, India",mens-rowing,2022
+Christian Franck,Rower,5th,,,"Philadelphia, Pa.",mens-rowing,2022
+Cooper Harrison,Rower,5th,,,"Huntsville, Utah",mens-rowing,2022
+JJ Dubois,Rower,Fy.,,,"Gainesville, Fla.",mens-rowing,2022
+Asa Dow,Rower,Fy.,,,"Sitka, Alaska",mens-rowing,2022
+Jasper Gleeson,Rower,So.,,,"Portland, Ore.",mens-rowing,2022
+Nick Hepburn,Rower,Jr.,,,,mens-rowing,2022
+Thomas Harrison,Rower,Fy.,,,"New York, N.Y.",mens-rowing,2022
+Pia Alexander,Coxswain,So.,,,"Bethesda, Md.",mens-rowing,2022
+Jacob Hudgins,Rower,Sr.,,,"Andover, Mass.",mens-rowing,2022
+Ollie Ellis,Rower,Fy.,,,"London, England",mens-rowing,2022
+David Edington,Rower,Sr.,,,"Portland, Ore.",mens-rowing,2022
+Colin Glew,Rower,Jr.,,,"Wilmette, Ill.",mens-rowing,2022
+Sammy Houdaigui,Coxswain,So.,,,"McLean, Va.",mens-rowing,2022
+Teddy Danziger,Rower,Jr.,,,"Lincoln, Mass.",mens-rowing,2022
+William Delaney,Rower,Fy.,,,"Sydney, Australia",mens-rowing,2022
+William Bender,Rower,Jr.,,,"Norwich, Vt.",mens-rowing,2022
+Matt Marks,Rower,Fy.,,,"Bedford, N.H.",mens-rowing,2022
+Ned Rae Smith,Rower,Jr.,,,"East Sussex, England",mens-rowing,2022
+Henry Lowe,Rower,Sr.,,,"Pacific Palisades, Calif.",mens-rowing,2022
 Albie Oliver,Rower,Fy.,,,"London, England",mens-rowing,2022
 Luke Marshall,Rower,Jr.,,,"Buckinghamshire, England",mens-rowing,2022
 Sean Mannion,Rower,5th,,,"Belmont, Mass.",mens-rowing,2022
@@ -66,52 +95,49 @@ James Isles,Rower,So.,,,"Melbourne, Australia",mens-rowing,2022
 Oscar Lee,Rower,Sr.,,,"Roswell, Ga.",mens-rowing,2022
 Joseph Laroski,Coxswain,Fy.,,,"Bethesda, Md.",mens-rowing,2022
 Jack Taylor,Rower,Jr.,,,"Chicago, Ill.",mens-rowing,2022
-Matt Marks,Rower,Fy.,,,"Bedford, N.H.",mens-rowing,2022
 Nathan Thompson,Rower,So.,,,"Trappe, Md.",mens-rowing,2022
 Isaac Spokes,Rower,5th,,,"Baltimore, Md.",mens-rowing,2022
-Munroe Robinson,Rower,So.,,,"Black Mountain, N.C.",mens-rowing,2022
+Felix Rawlinson,Rower,Sr.,,,"Moreton-in-Marsh, UK",mens-rowing,2022
 Will Roesler,Rower,Fy.,,,"Oakland, Calif.",mens-rowing,2022
-Tom Thomas,Rower,Fy.,,,"Leer, Germany",mens-rowing,2022
-Sam Rothschild,Rower,Jr.,,,"London, England",mens-rowing,2022
-Conor Shaheen,Coxswain,So.,,,"Kensington, Md.",mens-rowing,2022
-Alex Robertson,Rower,Sr.,,,"Center Ossipee, N.H.",mens-rowing,2022
-Guy Jones,Rower,Fy.,,,"London, England",mens-rowing,2022
-Nirav Tomasi,Rower,Fy.,,,"London, England",mens-rowing,2022
-Stephen Warming,Rower,Fy.,,,"Newton, Mass.",mens-rowing,2022
-Wyatt Allen,,,,,,mens-rowing,2022
+Munroe Robinson,Rower,So.,,,"Black Mountain, N.C.",mens-rowing,2022
 Julian Thomas,Rower,So.,,,"New Hope, Pa.",mens-rowing,2022
+Wyatt Allen,,,,,,mens-rowing,2022
+Stephen Warming,Rower,Fy.,,,"Newton, Mass.",mens-rowing,2022
+Nirav Tomasi,Rower,Fy.,,,"London, England",mens-rowing,2022
 Robert Pare,Rower,Sr.,,,"Bedford, Mass.",mens-rowing,2022
-Ned Rae Smith,Rower,Jr.,,,"East Sussex, England",mens-rowing,2022
-Henry Lowe,Rower,Sr.,,,"Pacific Palisades, Calif.",mens-rowing,2022
-William Bender,Rower,Jr.,,,"Norwich, Vt.",mens-rowing,2022
-Teddy Danziger,Rower,Jr.,,,"Lincoln, Mass.",mens-rowing,2022
-Ryan Boyle,Rower,Jr.,,,"Dallas, Texas",mens-rowing,2022
-Ellie Anderson,Coxswain,So.,,,St. Petersburg,mens-rowing,2022
-Stephen Bacas,Rower,So.,,,"Arlington, Va.",mens-rowing,2022
-Max Deering,Rower,Sr.,,,"Richmond, UK",mens-rowing,2022
-Harry Beesley-Gilman,Rower,So.,,,"Arlington, Va.",mens-rowing,2022
-Jessna Brar,Coxswain,Sr.,,,"Chandigarh, India",mens-rowing,2022
-Miles Hudgins,Rower,So.,,,"Gloucester, Mass.",mens-rowing,2022
-Carsten Carey,Rower,Jr.,,,"Sunderland, Mass.",mens-rowing,2022
-Michael Curry,Rower,So.,,,"Dallas, Texas",mens-rowing,2022
-Francesco Dembinski,Rower,Fy.,,,"Craryville, N.Y.",mens-rowing,2022
-Kane Hall,Rower,5th,,,"Narragansett, R.I.",mens-rowing,2022
-Christian Franck,Rower,5th,,,"Philadelphia, Pa.",mens-rowing,2022
-William Delaney,Rower,Fy.,,,"Sydney, Australia",mens-rowing,2022
-JJ Dubois,Rower,Fy.,,,"Gainesville, Fla.",mens-rowing,2022
-Asa Dow,Rower,Fy.,,,"Sitka, Alaska",mens-rowing,2022
-Jasper Gleeson,Rower,So.,,,"Portland, Ore.",mens-rowing,2022
-Nick Hepburn,Rower,Jr.,,,,mens-rowing,2022
-Thomas Harrison,Rower,Fy.,,,"New York, N.Y.",mens-rowing,2022
-Cooper Harrison,Rower,5th,,,"Huntsville, Utah",mens-rowing,2022
-Pia Alexander,Coxswain,So.,,,"Bethesda, Md.",mens-rowing,2022
-Jacob Hudgins,Rower,Sr.,,,"Andover, Mass.",mens-rowing,2022
-Ollie Ellis,Rower,Fy.,,,"London, England",mens-rowing,2022
-David Edington,Rower,Sr.,,,"Portland, Ore.",mens-rowing,2022
-Colin Glew,Rower,Jr.,,,"Wilmette, Ill.",mens-rowing,2022
-Sammy Houdaigui,Coxswain,So.,,,"McLean, Va.",mens-rowing,2022
+Alex Robertson,Rower,Sr.,,,"Center Ossipee, N.H.",mens-rowing,2022
+Conor Shaheen,Coxswain,So.,,,"Kensington, Md.",mens-rowing,2022
+Sam Rothschild,Rower,Jr.,,,"London, England",mens-rowing,2022
+Tom Thomas,Rower,Fy.,,,"Leer, Germany",mens-rowing,2022
+Guy Jones,Rower,Fy.,,,"London, England",mens-rowing,2022
+Nick Hepburn,Rower,Sr.,,,,mens-rowing,2023
+Michael Curry,Rower,Jr.,,,"Dallas, Texas",mens-rowing,2023
+Teddy Danziger,Rower,Sr.,,,"Lincoln, Mass.",mens-rowing,2023
+William Bender,Rower,Sr.,,,"Norwich, Vt.",mens-rowing,2023
+William Delaney,Rower,So.,,,"Sydney, Australia",mens-rowing,2023
+Ryan Boyle,Rower,Sr.,,,"Dallas, Texas",mens-rowing,2023
+Guy Jones,Rower,So.,,,"London, England",mens-rowing,2023
+Carsten Carey,Rower,Sr.,,,"Sunderland, Mass.",mens-rowing,2023
+JJ Dubois,Rower,So.,,,"Gainesville, Fla.",mens-rowing,2023
+David Edington,Rower,5th,,,"Portland, Ore.",mens-rowing,2023
+James Frederikson,Rower,Fy.,,,"Sydney, Australia",mens-rowing,2023
+Sammy Houdaigui,Coxswain,Jr.,,,"McLean, Va.",mens-rowing,2023
+Pia Alexander,Coxswain,Jr.,,,"Bethesda, Md.",mens-rowing,2023
+Francesco Dembinski,Rower,So.,,,"Craryville, N.Y.",mens-rowing,2023
+Jasper Gleeson,Rower,Jr.,,,"Portland, Ore.",mens-rowing,2023
+Jacob Hudgins,Rower,5th,,,"Andover, Mass.",mens-rowing,2023
+Michael Bobo,Rower,Fy.,,,"Wellesley, Mass.",mens-rowing,2023
+Colin Glew,Rower,Sr.,,,"Wilmette, Ill.",mens-rowing,2023
+Ellie Anderson,Coxswain,Jr.,,,St. Petersburg,mens-rowing,2023
+Ollie Ellis,Rower,So.,,,"London, England",mens-rowing,2023
+Thomas Harrison,Rower,So.,,,"New York, N.Y.",mens-rowing,2023
+James Isles,Rower,Jr.,,,"Melbourne, Australia",mens-rowing,2023
+Asa Dow,Rower,So.,,,"Sitka, Alaska",mens-rowing,2023
+Jessna Brar,Cox,5th,,,"Chandigarh, India",mens-rowing,2023
+Matthew Johnston,Rower,Fy.,,,"Macclesfield, England",mens-rowing,2023
+Miles Hudgins,Rower,Jr.,,,"Gloucester, Mass.",mens-rowing,2023
+Will Kalikman,Rower,Sr.,,,"San Francisco, Calif.",mens-rowing,2023
 Julian Thomas,Rower,Jr.,,,"New Hope, Pa.",mens-rowing,2023
-Fred Mulford,Rower,Fy.,,,"North Potomac, Md.",mens-rowing,2023
 Albie Oliver,Rower,So.,,,"London, England",mens-rowing,2023
 Auggie Laster,Rower,Fy.,,,"Newport Beach, Calif.",mens-rowing,2023
 Ned Rae Smith,Rower,Sr.,,,"East Sussex, England",mens-rowing,2023
@@ -120,61 +146,60 @@ Felix Rawlinson,Rower,5th,,,"Moreton-in-Marsh, UK",mens-rowing,2023
 Luke Marshall,Rower,Sr.,,,"Buckinghamshire, England",mens-rowing,2023
 Sam Rothschild,Rower,Sr.,,,"London, England",mens-rowing,2023
 Will Roesler,Rower,So.,,,"Oakland, Calif.",mens-rowing,2023
+Conor Shaheen,Coxswain,Jr.,,,"Kensington, Md.",mens-rowing,2023
 Paul Waxman,Rower,Fy.,,,"Bethesda, Md.",mens-rowing,2023
 Jack Taylor,Rower,Sr.,,,"Chicago, Ill.",mens-rowing,2023
-Alice Kim,Cox,Fy.,,,,mens-rowing,2023
+Fred Mulford,Rower,Fy.,,,"North Potomac, Md.",mens-rowing,2023
 Alex Robertson,Rower,5th,,,"Center Ossipee, N.H.",mens-rowing,2023
-Stephen Warming,Rower,So.,,,"Newton, Mass.",mens-rowing,2023
-Jack Stephenson,Rower,Fy.,,,"London, England",mens-rowing,2023
-Isaac Lawrence,Rower,Fy.,,,"Baltimore, Md.",mens-rowing,2023
-Nirav Tomasi,Rower,So.,,,"London, England",mens-rowing,2023
-Skyler Rockmael,Rower,Fy.,,,"Berkeley, Calif.",mens-rowing,2023
-James Wlodarczak,Rower,Fy.,,,"New York, N.Y.",mens-rowing,2023
-Wyatt Allen,,,,,,mens-rowing,2023
-Tom Thomas,Rower,So.,,,"Leer, Germany",mens-rowing,2023
+Alice Kim,Cox,Fy.,,,,mens-rowing,2023
 Munroe Robinson,Rower,Jr.,,,"Black Mountain, N.C.",mens-rowing,2023
+Tom Thomas,Rower,So.,,,"Leer, Germany",mens-rowing,2023
+Wyatt Allen,,,,,,mens-rowing,2023
+James Wlodarczak,Rower,Fy.,,,"New York, N.Y.",mens-rowing,2023
 Matt Marks,Rower,So.,,,"Bedford, N.H.",mens-rowing,2023
-Will Kalikman,Rower,Sr.,,,"San Francisco, Calif.",mens-rowing,2023
-Conor Shaheen,Coxswain,Jr.,,,"Kensington, Md.",mens-rowing,2023
-Matthew Johnston,Rower,Fy.,,,"Macclesfield, England",mens-rowing,2023
-Asa Dow,Rower,So.,,,"Sitka, Alaska",mens-rowing,2023
-Carsten Carey,Rower,Sr.,,,"Sunderland, Mass.",mens-rowing,2023
-Michael Curry,Rower,Jr.,,,"Dallas, Texas",mens-rowing,2023
-Teddy Danziger,Rower,Sr.,,,"Lincoln, Mass.",mens-rowing,2023
-William Bender,Rower,Sr.,,,"Norwich, Vt.",mens-rowing,2023
-William Delaney,Rower,So.,,,"Sydney, Australia",mens-rowing,2023
-Ryan Boyle,Rower,Sr.,,,"Dallas, Texas",mens-rowing,2023
-Guy Jones,Rower,So.,,,"London, England",mens-rowing,2023
-JJ Dubois,Rower,So.,,,"Gainesville, Fla.",mens-rowing,2023
-David Edington,Rower,5th,,,"Portland, Ore.",mens-rowing,2023
-Nick Hepburn,Rower,Sr.,,,,mens-rowing,2023
-James Frederikson,Rower,Fy.,,,"Sydney, Australia",mens-rowing,2023
-Jessna Brar,Cox,5th,,,"Chandigarh, India",mens-rowing,2023
-Pia Alexander,Coxswain,Jr.,,,"Bethesda, Md.",mens-rowing,2023
-Miles Hudgins,Rower,Jr.,,,"Gloucester, Mass.",mens-rowing,2023
-Francesco Dembinski,Rower,So.,,,"Craryville, N.Y.",mens-rowing,2023
-Jasper Gleeson,Rower,Jr.,,,"Portland, Ore.",mens-rowing,2023
-Jacob Hudgins,Rower,5th,,,"Andover, Mass.",mens-rowing,2023
-Sammy Houdaigui,Coxswain,Jr.,,,"McLean, Va.",mens-rowing,2023
-Michael Bobo,Rower,Fy.,,,"Wellesley, Mass.",mens-rowing,2023
-Colin Glew,Rower,Sr.,,,"Wilmette, Ill.",mens-rowing,2023
-Ellie Anderson,Coxswain,Jr.,,,St. Petersburg,mens-rowing,2023
-Ollie Ellis,Rower,So.,,,"London, England",mens-rowing,2023
-Thomas Harrison,Rower,So.,,,"New York, N.Y.",mens-rowing,2023
-James Isles,Rower,Jr.,,,"Melbourne, Australia",mens-rowing,2023
+Nirav Tomasi,Rower,So.,,,"London, England",mens-rowing,2023
+Isaac Lawrence,Rower,Fy.,,,"Baltimore, Md.",mens-rowing,2023
+Jack Stephenson,Rower,Fy.,,,"London, England",mens-rowing,2023
+Stephen Warming,Rower,So.,,,"Newton, Mass.",mens-rowing,2023
+Skyler Rockmael,Rower,Fy.,,,"Berkeley, Calif.",mens-rowing,2023
+Pia Alexander,Coxswain,Sr.,,,"Bethesda, Md.",mens-rowing,2024
+James Isles,Rower,Sr.,,,"Melbourne, Australia",mens-rowing,2024
+Nick Hepburn,Rower,Sr.,,,,mens-rowing,2024
+Ollie Ellis,Rower,Jr.,,,"London, England",mens-rowing,2024
+William Bender,Rower,Sr.,,,"Norwich, Vt.",mens-rowing,2024
+Michael Bobo,Rower,So.,,,"Wellesley, Mass.",mens-rowing,2024
+Carsten Carey,Rower,Sr.,,,"Sunderland, Mass.",mens-rowing,2024
+Francesco Dembinski,Rower,Jr.,,,"Craryville, N.Y.",mens-rowing,2024
+Asa Dow,Rower,Jr.,,,"Sitka, Alaska",mens-rowing,2024
+JJ Dubois,Rower,Jr.,,,"Gainesville, Fla.",mens-rowing,2024
+James Driscoll,Rower,Fy.,,,Lynnfield Mass.,mens-rowing,2024
+Anais Joubert,Cox,Fy.,,,"Alexandria, Va.",mens-rowing,2024
+Sammy Houdaigui,Coxswain,Sr.,,,"McLean, Va.",mens-rowing,2024
+Miles Hudgins,Rower,Sr.,,,"Gloucester, Mass.",mens-rowing,2024
+Matthew Johnston,Rower,So.,,,"Macclesfield, England",mens-rowing,2024
+Kyle Fox,Rower,Fy.,,,"Winnetka, Ill.",mens-rowing,2024
+James Frederikson,Rower,So.,,,"Sydney, Australia",mens-rowing,2024
+William Fuller,Rower,Fy.,,,"Williamsburg, Va.",mens-rowing,2024
+Áron Kalmár,Rower,Fy.,,,"Szolnok, Hungary",mens-rowing,2024
+Jasper Gleeson,Rower,Sr.,,,"Portland, Ore.",mens-rowing,2024
+Isaiah Harrison,Rower,Fy.,,,"Coeur d'Alene, Idaho",mens-rowing,2024
+Evan McDermid,Rower,So.,,,"London, England",mens-rowing,2024
+Thomas Harrison,Rower,Jr.,,,"New York, N.Y.",mens-rowing,2024
+Henry Cooper,Rower,Fy.,,,"Seattle, Wash.",mens-rowing,2024
+Lucas Maroney,Rower,Fy.,,,"Welland, Ont.",mens-rowing,2024
+Matt Marks,Rower,Jr.,,,"Bedford, N.H.",mens-rowing,2024
+Michael Curry,Rower,Sr.,,,"Dallas, Texas",mens-rowing,2024
 Auggie Laster,Rower,So.,,,"Newport Beach, Calif.",mens-rowing,2024
 Paul Waxman,Rower,So.,,,"Bethesda, Md.",mens-rowing,2024
 Nirav Tomasi,Rower,Jr.,,,"London, England",mens-rowing,2024
 Skyler Rockmael,Cox,So.,,,"Berkeley, Calif.",mens-rowing,2024
 Isaac Lawrence,Rower,So.,,,"Baltimore, Md.",mens-rowing,2024
 Benjamin Lee,Rower,So.,,,"Oakland, Calif.",mens-rowing,2024
-Matt Marks,Rower,Jr.,,,"Bedford, N.H.",mens-rowing,2024
 Fred Mulford,Rower,So.,,,"North Potomac, Md.",mens-rowing,2024
 Albie Oliver,Rower,Jr.,,,"London, England",mens-rowing,2024
-Munroe Robinson,Rower,Sr.,,,"Black Mountain, N.C.",mens-rowing,2024
 Will Roesler,Rower,Jr.,,,"Oakland, Calif.",mens-rowing,2024
 Joseph Laroski,Rower,Jr.,,,"Bethesda, Md.",mens-rowing,2024
-Wesley Walker,Rower,Fy.,,,"Charlotte, N.C.",mens-rowing,2024
+Munroe Robinson,Rower,Sr.,,,"Black Mountain, N.C.",mens-rowing,2024
 Stephen Warming,Rower,Jr.,,,"Newton, Mass.",mens-rowing,2024
 James Wlodarczak,Rower,So.,,,"New York, N.Y.",mens-rowing,2024
 Wyatt Allen,,,,,,mens-rowing,2024
@@ -185,73 +210,23 @@ Luke Taylor,Rower,Fy.,,,"Andover, Mass.",mens-rowing,2024
 Julian Thomas,Rower,Sr.,,,"New Hope, Pa.",mens-rowing,2024
 William Delaney,Rower,Jr.,,,"Sydney, Australia",mens-rowing,2024
 Tom Thomas,Rower,Jr.,,,"Leer, Germany",mens-rowing,2024
-Lucas Maroney,Rower,Fy.,,,"Welland, Ont.",mens-rowing,2024
-Michael Curry,Rower,Sr.,,,"Dallas, Texas",mens-rowing,2024
-Henry Cooper,Rower,Fy.,,,"Seattle, Wash.",mens-rowing,2024
-Evan McDermid,Rower,So.,,,"London, England",mens-rowing,2024
-Pia Alexander,Coxswain,Sr.,,,"Bethesda, Md.",mens-rowing,2024
-Nick Hepburn,Rower,Sr.,,,,mens-rowing,2024
-Ollie Ellis,Rower,Jr.,,,"London, England",mens-rowing,2024
-William Bender,Rower,Sr.,,,"Norwich, Vt.",mens-rowing,2024
-Michael Bobo,Rower,So.,,,"Wellesley, Mass.",mens-rowing,2024
-Carsten Carey,Rower,Sr.,,,"Sunderland, Mass.",mens-rowing,2024
-Francesco Dembinski,Rower,Jr.,,,"Craryville, N.Y.",mens-rowing,2024
-Asa Dow,Rower,Jr.,,,"Sitka, Alaska",mens-rowing,2024
-JJ Dubois,Rower,Jr.,,,"Gainesville, Fla.",mens-rowing,2024
-James Isles,Rower,Sr.,,,"Melbourne, Australia",mens-rowing,2024
-James Driscoll,Rower,Fy.,,,Lynnfield Mass.,mens-rowing,2024
-Thomas Harrison,Rower,Jr.,,,"New York, N.Y.",mens-rowing,2024
-Sammy Houdaigui,Coxswain,Sr.,,,"McLean, Va.",mens-rowing,2024
-Miles Hudgins,Rower,Sr.,,,"Gloucester, Mass.",mens-rowing,2024
-Matthew Johnston,Rower,So.,,,"Macclesfield, England",mens-rowing,2024
-Kyle Fox,Rower,Fy.,,,"Winnetka, Ill.",mens-rowing,2024
-Anais Joubert,Cox,Fy.,,,"Alexandria, Va.",mens-rowing,2024
-James Frederikson,Rower,So.,,,"Sydney, Australia",mens-rowing,2024
-William Fuller,Rower,Fy.,,,"Williamsburg, Va.",mens-rowing,2024
-Áron Kalmár,Rower,Fy.,,,"Szolnok, Hungary",mens-rowing,2024
-Jasper Gleeson,Rower,Sr.,,,"Portland, Ore.",mens-rowing,2024
-Isaiah Harrison,Rower,Fy.,,,"Coeur d'Alene, Idaho",mens-rowing,2024
-Luke Taylor,Rower,So.,,,"Andover, Mass.",mens-rowing,2025
-Francis McGrath,Rower,Fy.,,,"Chalfont, Pa.",mens-rowing,2025
-Henrik Neuspiel,Rower,Fy.,,,"Ottawa, Canada",mens-rowing,2025
-Skyler Rockmael,Cox,Jr.,,,"Berkeley, Calif.",mens-rowing,2025
-Fred Mulford,Rower,Jr.,,,"North Potomac, Md.",mens-rowing,2025
-Will Roesler,Rower,Sr.,,,"Oakland, Calif.",mens-rowing,2025
-Lucas Maroney,Rower,So.,,,"Welland, Ont.",mens-rowing,2025
-Benjamin Lee,Rower,Jr.,,,"Oakland, Calif.",mens-rowing,2025
-Matt Marks,Rower,Sr.,,,"Bedford, N.H.",mens-rowing,2025
-Albie Oliver,Rower,Sr.,,,"London, England",mens-rowing,2025
-Evan McDermid,Rower,Jr.,,,"London, England",mens-rowing,2025
-Jack Stephenson,Rower,Jr.,,,"London, England",mens-rowing,2025
-Stephen Warming,Rower,Sr.,,,"Newton, Mass.",mens-rowing,2025
-Tom Thomas,Rower,Sr.,,,"Leer, Germany",mens-rowing,2025
-Wesley Walker,Rower,So.,,,"Charlotte, N.C.",mens-rowing,2025
-Nirav Tomasi,Rower,Sr.,,,"London, England",mens-rowing,2025
-Gabe Umlas,,Fy.,,,"Weston, Mass.",mens-rowing,2025
-Paul Waxman,Rower,Jr.,,,"Bethesda, Md.",mens-rowing,2025
-Will Walton,,Fy.,,,"Concord, Mass.",mens-rowing,2025
-Wyatt Allen,,,,,,mens-rowing,2025
-Orlando Watson,Rower,Fy.,,,"Oyster Bay, N.Y.",mens-rowing,2025
-Gaspard Wenger,Rower,Fy.,,,"Oxford, U.K.",mens-rowing,2025
-James Wlodarczak,Rower,Jr.,,,"New York, N.Y.",mens-rowing,2025
-Hugh Ryan,,Fy.,,,"Sausalito, Calif.",mens-rowing,2025
-Isaac Lawrence,Rower,Jr.,,,"Baltimore, Md.",mens-rowing,2025
-JJ Dubois,Rower,Sr.,,,"Gainesville, Fla.",mens-rowing,2025
-Ollie Ellis,Rower,Sr.,,,"London, England",mens-rowing,2025
-Auggie Laster,Rower,Jr.,,,"Newport Beach, Calif.",mens-rowing,2025
-Joseph Laroski,Rower,Sr.,,,"Bethesda, Md.",mens-rowing,2025
-Michael Bobo,Rower,Jr.,,,"Wellesley, Mass.",mens-rowing,2025
-Payton Cramer,Rower,Fy.,,,"Orlando, Fla.",mens-rowing,2025
-Francesco Dembinski,Rower,Sr.,,,"Craryville, N.Y.",mens-rowing,2025
+Wesley Walker,Rower,Fy.,,,"Charlotte, N.C.",mens-rowing,2024
 Henry Cooper,Rower,So.,,,"Seattle, Wash.",mens-rowing,2025
-James Driscoll,Rower,So.,,,Lynnfield Mass.,mens-rowing,2025
-Julia DiMiceli,Cox,Fy.,,,"Westport, Conn.",mens-rowing,2025
 William Delaney,Rower,Sr.,,,"Sydney, Australia",mens-rowing,2025
+Julia DiMiceli,Cox,Fy.,,,"Westport, Conn.",mens-rowing,2025
+James Driscoll,Rower,So.,,,Lynnfield Mass.,mens-rowing,2025
+Francesco Dembinski,Rower,Sr.,,,"Craryville, N.Y.",mens-rowing,2025
+Ollie Ellis,Rower,Sr.,,,"London, England",mens-rowing,2025
+Michael Bobo,Rower,Jr.,,,"Wellesley, Mass.",mens-rowing,2025
+Joseph Laroski,Rower,Sr.,,,"Bethesda, Md.",mens-rowing,2025
+Auggie Laster,Rower,Jr.,,,"Newport Beach, Calif.",mens-rowing,2025
 Asa Dow,Rower,Sr.,,,"Sitka, Alaska",mens-rowing,2025
+Payton Cramer,Rower,Fy.,,,"Orlando, Fla.",mens-rowing,2025
 James Frederikson,Rower,Jr.,,,"Sydney, Australia",mens-rowing,2025
-Kyle Fox,Rower,So.,,,"Winnetka, Ill.",mens-rowing,2025
+Áron Kalmár,Rower,So.,,,"Szolnok, Hungary",mens-rowing,2025
 Isaiah Harrison,Rower,So.,,,"Coeur d'Alene, Idaho",mens-rowing,2025
 Guy Jones,Rower,Sr.,,,"London, England",mens-rowing,2025
+William Fuller,Rower,So.,,,"Williamsburg, Va.",mens-rowing,2025
 Anais Joubert,Cox,So.,,,"Alexandria, Va.",mens-rowing,2025
 Hector Harvey,Port,Fy.,,,"Oxford, England",mens-rowing,2025
 Matthew Johnston,Rower,Jr.,,,"Macclesfield, England",mens-rowing,2025
@@ -259,8 +234,33 @@ Jack Kastner,Rower,Fy.,,,"Wellesley, Mass.",mens-rowing,2025
 Drew Holevac,Cox,Fy.,,,"Eaton Rapids, Mich.",mens-rowing,2025
 Thomas Harrison,Rower,Sr.,,,"New York, N.Y.",mens-rowing,2025
 Huck Jagerson,,Fy.,,,"Portola Valley, Calif.",mens-rowing,2025
-Áron Kalmár,Rower,So.,,,"Szolnok, Hungary",mens-rowing,2025
-William Fuller,Rower,So.,,,"Williamsburg, Va.",mens-rowing,2025
+Kyle Fox,Rower,So.,,,"Winnetka, Ill.",mens-rowing,2025
+JJ Dubois,Rower,Sr.,,,"Gainesville, Fla.",mens-rowing,2025
+Matt Marks,Rower,Sr.,,,"Bedford, N.H.",mens-rowing,2025
+Hugh Ryan,,Fy.,,,"Sausalito, Calif.",mens-rowing,2025
+Isaac Lawrence,Rower,Jr.,,,"Baltimore, Md.",mens-rowing,2025
+Luke Taylor,Rower,So.,,,"Andover, Mass.",mens-rowing,2025
+Henrik Neuspiel,Rower,Fy.,,,"Ottawa, Canada",mens-rowing,2025
+Skyler Rockmael,Cox,Jr.,,,"Berkeley, Calif.",mens-rowing,2025
+Fred Mulford,Rower,Jr.,,,"North Potomac, Md.",mens-rowing,2025
+Will Roesler,Rower,Sr.,,,"Oakland, Calif.",mens-rowing,2025
+Lucas Maroney,Rower,So.,,,"Welland, Ont.",mens-rowing,2025
+Benjamin Lee,Rower,Jr.,,,"Oakland, Calif.",mens-rowing,2025
+Albie Oliver,Rower,Sr.,,,"London, England",mens-rowing,2025
+Evan McDermid,Rower,Jr.,,,"London, England",mens-rowing,2025
+Jack Stephenson,Rower,Jr.,,,"London, England",mens-rowing,2025
+Francis McGrath,Rower,Fy.,,,"Chalfont, Pa.",mens-rowing,2025
+Tom Thomas,Rower,Sr.,,,"Leer, Germany",mens-rowing,2025
+Stephen Warming,Rower,Sr.,,,"Newton, Mass.",mens-rowing,2025
+Orlando Watson,Rower,Fy.,,,"Oyster Bay, N.Y.",mens-rowing,2025
+Wyatt Allen,,,,,,mens-rowing,2025
+Will Walton,,Fy.,,,"Concord, Mass.",mens-rowing,2025
+Gaspard Wenger,Rower,Fy.,,,"Oxford, U.K.",mens-rowing,2025
+Gabe Umlas,,Fy.,,,"Weston, Mass.",mens-rowing,2025
+Nirav Tomasi,Rower,Sr.,,,"London, England",mens-rowing,2025
+Wesley Walker,Rower,So.,,,"Charlotte, N.C.",mens-rowing,2025
+Paul Waxman,Rower,Jr.,,,"Bethesda, Md.",mens-rowing,2025
+James Wlodarczak,Rower,Jr.,,,"New York, N.Y.",mens-rowing,2025
 Lucas Maroney,Rower,Jr.,,,"Welland, Ont.",mens-rowing,2026
 Derek Rounsavill,,Fy.,,,,mens-rowing,2026
 Evan McDermid,Rower,Sr.,,,"London, England",mens-rowing,2026

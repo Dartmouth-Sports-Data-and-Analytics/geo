@@ -1,35 +1,14 @@
 name,position,class,height,weight,hometown,sport,year
 Chris Aubin,Free,Jr.,,,"Cape Town, South Africa",mens-swimming-and-diving,2021
-John Ehling,,So.,,,"Wexford, Pa.",mens-swimming-and-diving,2021
-Alec Pirone,Diving,So.,,,"West Chester, Penn.",mens-swimming-and-diving,2021
-Jonathan Pollock,,Jr.,,,"Fairfax, Va.",mens-swimming-and-diving,2021
-Dylan Porges,,Jr.,,,"New York, N.Y.",mens-swimming-and-diving,2021
-Quinn Rademaker,,Sr.,,,"Medford, N.J.",mens-swimming-and-diving,2021
-Colin Reilly,,Sr.,,,"Philadelphia, Pa.",mens-swimming-and-diving,2021
-Billy Swartwout,Free/Back,Fr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2021
-Joe Victor,Diving,Fr.,,,"Buffalo, N.Y.",mens-swimming-and-diving,2021
-Cameron Matthews,,Jr.,,,"Dubai, UAE",mens-swimming-and-diving,2021
-Jack Warden,,Jr.,,,"Bradford, Mass.",mens-swimming-and-diving,2021
-Peyton Werner,,So.,,,"Boyds, Md.",mens-swimming-and-diving,2021
-Nathan Yates,,Sr.,,,"San Jose, Calif.",mens-swimming-and-diving,2021
-Colten Young,,Sr.,,,"Coto de Caza, Calif.",mens-swimming-and-diving,2021
-Matt Crispino,,,,,,mens-swimming-and-diving,2021
-Mike Scornavacca,Fly/Free,So.,,,"Denville, N.J.",mens-swimming-and-diving,2021
-Nolan Musslewhite,Free/Back,Fr.,,,"Washington, D.C.",mens-swimming-and-diving,2021
-Max Walther,,Jr.,,,"Neustadt, Germany",mens-swimming-and-diving,2021
-Brett Feyerick,Back/Free,Fr.,,,"Potomac, Md.",mens-swimming-and-diving,2021
-Max Meissner,IM/Breast,Fr.,,,"Greenwich, Conn.",mens-swimming-and-diving,2021
-Tyler Hong,IM/Fly/Back,Fr.,,,"Westlake, Ohio",mens-swimming-and-diving,2021
 Zev Schuman,Fly/Free,Fr.,,,"Fairfax, Calif.",mens-swimming-and-diving,2021
 Joshua Brown,,Jr.,,,"Kobe, Japan",mens-swimming-and-diving,2021
 George Callanan,Diving,Fr.,,,"Columbus, Ohio",mens-swimming-and-diving,2021
 Taso Callanan,Diving,Fr.,,,"Columbus, Ohio",mens-swimming-and-diving,2021
 Matthew Chao,,Jr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2021
 Finn Dowdall,Free/Fly,Fr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2021
-Nicholas Lim,,So.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2021
 Jonathan Geraghty,Diving,Fr.,,,"Fort Pierce, Fla.",mens-swimming-and-diving,2021
+Tyler Hong,IM/Fly/Back,Fr.,,,"Westlake, Ohio",mens-swimming-and-diving,2021
 Adell Sabovic,Free,So.,,,"Manhattan, N.Y.",mens-swimming-and-diving,2021
-Max Hunger,Free,Fr.,,,"Montreal, Quebec",mens-swimming-and-diving,2021
 Miguel Jacome,Free/IM,Sr.,,,"Issaquah, Wash.",mens-swimming-and-diving,2021
 Raunak Khosla,,Jr.,,,"Roswell, Ga.",mens-swimming-and-diving,2021
 Hunter Kim,IM/Fly,Fr.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2021
@@ -37,8 +16,48 @@ Max Kreidl,Fly/Back,So.,,,"Boulder, Colo.",mens-swimming-and-diving,2021
 Xander Gardner,Free,So.,,,"Sarasota, Fla.",mens-swimming-and-diving,2021
 Griffin Brooks,,Jr.,,,"Berkeley Heights, N.J.",mens-swimming-and-diving,2021
 Brian Lou,Free/Breast,So.,,,"Irvine, Calif.",mens-swimming-and-diving,2021
+Max Hunger,Free,Fr.,,,"Montreal, Quebec",mens-swimming-and-diving,2021
+Max Meissner,IM/Breast,Fr.,,,"Greenwich, Conn.",mens-swimming-and-diving,2021
+Nicholas Lim,,So.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2021
+Max Walther,,Jr.,,,"Neustadt, Germany",mens-swimming-and-diving,2021
+Brett Feyerick,Back/Free,Fr.,,,"Potomac, Md.",mens-swimming-and-diving,2021
+Alec Pirone,Diving,So.,,,"West Chester, Penn.",mens-swimming-and-diving,2021
+Jonathan Pollock,,Jr.,,,"Fairfax, Va.",mens-swimming-and-diving,2021
+Dylan Porges,,Jr.,,,"New York, N.Y.",mens-swimming-and-diving,2021
+Quinn Rademaker,,Sr.,,,"Medford, N.J.",mens-swimming-and-diving,2021
+Colin Reilly,,Sr.,,,"Philadelphia, Pa.",mens-swimming-and-diving,2021
+Billy Swartwout,Free/Back,Fr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2021
+Joe Victor,Diving,Fr.,,,"Buffalo, N.Y.",mens-swimming-and-diving,2021
+John Ehling,,So.,,,"Wexford, Pa.",mens-swimming-and-diving,2021
+Jack Warden,,Jr.,,,"Bradford, Mass.",mens-swimming-and-diving,2021
+Peyton Werner,,So.,,,"Boyds, Md.",mens-swimming-and-diving,2021
+Nathan Yates,,Sr.,,,"San Jose, Calif.",mens-swimming-and-diving,2021
+Colten Young,,Sr.,,,"Coto de Caza, Calif.",mens-swimming-and-diving,2021
+Matt Crispino,,,,,,mens-swimming-and-diving,2021
+Mike Scornavacca,Fly/Free,So.,,,"Denville, N.J.",mens-swimming-and-diving,2021
+Nolan Musslewhite,Free/Back,Fr.,,,"Washington, D.C.",mens-swimming-and-diving,2021
+Cameron Matthews,,Jr.,,,"Dubai, UAE",mens-swimming-and-diving,2021
+Brett Feyerick,Back/Free,So.,,,"Potomac, Md.",mens-swimming-and-diving,2022
+Jonathan Geraghty,Diving,So.,,,"Fort Pierce, Fla.",mens-swimming-and-diving,2022
+Max Hunger,Free,So.,,,"Montreal, Quebec",mens-swimming-and-diving,2022
+Hunter Kim,IM/Fly,So.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2022
+Max Kreidl,Fly/Back,Jr.,,,"Boulder, Colo.",mens-swimming-and-diving,2022
+Daniel Kim,Free,Fr.,,,"Demarest, N.J.",mens-swimming-and-diving,2022
+Finn Dowdall,Free/Fly,So.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2022
+Chris Aubin,Free,Sr.,,,"Cape Town, South Africa",mens-swimming-and-diving,2022
+Miguel Jacome,Free/IM,Sr.,,,"Issaquah, Wash.",mens-swimming-and-diving,2022
+Nicholas Lim,,Jr.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2022
+George Callanan,Diving,So.,,,"Columbus, Ohio",mens-swimming-and-diving,2022
+Joshua Brown,Breast/Free,Sr.,,,"Kobe, Japan",mens-swimming-and-diving,2022
+Raunak Khosla,,Sr.,,,"Roswell, Ga.",mens-swimming-and-diving,2022
+John Ehling,,Jr.,,,"Wexford, Pa.",mens-swimming-and-diving,2022
+Rasmus Makela,Free,Fr.,,,"Pori, Finland",mens-swimming-and-diving,2022
+Matthew Chao,,Sr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2022
+Tyler Hong,IM/Fly/Back,So.,,,"Westlake, Ohio",mens-swimming-and-diving,2022
+Touma Mack,,Jr.,,,"Orlando, Fla.",mens-swimming-and-diving,2022
+Taso Callanan,Diving,So.,,,"Columbus, Ohio",mens-swimming-and-diving,2022
+Cameron Matthews,,Sr.,,,"Dubai, UAE",mens-swimming-and-diving,2022
 Adell Sabovic,Free,Jr.,,,"Manhattan, N.Y.",mens-swimming-and-diving,2022
-Mitchell Schott,Free/Fly/IM,Fr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2022
 Mike Scornavacca,Fly/Free,Jr.,,,"Denville, N.J.",mens-swimming-and-diving,2022
 Lucas Tudoras,Free,Fr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2022
 Billy Swartwout,Free/Back,So.,,,"Amityville, N.Y.",mens-swimming-and-diving,2022
@@ -46,53 +65,16 @@ Matt Crispino,,,,,,mens-swimming-and-diving,2022
 Jonathan Pollock,,Sr.,,,"Fairfax, Va.",mens-swimming-and-diving,2022
 Conor McKenna,Free/Fly,Fr.,,,"Frisco, Texas",mens-swimming-and-diving,2022
 Peyton Werner,,Jr.,,,"Boyds, Md.",mens-swimming-and-diving,2022
-Lucas Strøbek,IM/Free,Fr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2022
+Mitchell Schott,Free/Fly/IM,Fr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2022
 Kael Mlinek,Breast/Free,Fr.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2022
-Zev Schuman,Fly/Free,So.,,,"Fairfax, Calif.",mens-swimming-and-diving,2022
-Max Walther,,Sr.,,,"Neustadt, Germany",mens-swimming-and-diving,2022
-Dylan Porges,,Sr.,,,"New York, N.Y.",mens-swimming-and-diving,2022
-Joe Victor,Diving,So.,,,"Buffalo, N.Y.",mens-swimming-and-diving,2022
-Alec Pirone,Diving,Jr.,,,"West Chester, Penn.",mens-swimming-and-diving,2022
+Lucas Strøbek,IM/Free,Fr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2022
 Max Seidel,Breast/IM,So.,,,"Lexington, Mass.",mens-swimming-and-diving,2022
-Cameron Matthews,,Sr.,,,"Dubai, UAE",mens-swimming-and-diving,2022
+Alec Pirone,Diving,Jr.,,,"West Chester, Penn.",mens-swimming-and-diving,2022
+Joe Victor,Diving,So.,,,"Buffalo, N.Y.",mens-swimming-and-diving,2022
 James Pan,Breast/IM,Fr.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2022
-Touma Mack,,Jr.,,,"Orlando, Fla.",mens-swimming-and-diving,2022
-Matthew Chao,,Sr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2022
-Brett Feyerick,Back/Free,So.,,,"Potomac, Md.",mens-swimming-and-diving,2022
-Jonathan Geraghty,Diving,So.,,,"Fort Pierce, Fla.",mens-swimming-and-diving,2022
-Max Hunger,Free,So.,,,"Montreal, Quebec",mens-swimming-and-diving,2022
-Hunter Kim,IM/Fly,So.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2022
-Taso Callanan,Diving,So.,,,"Columbus, Ohio",mens-swimming-and-diving,2022
-Max Kreidl,Fly/Back,Jr.,,,"Boulder, Colo.",mens-swimming-and-diving,2022
-Daniel Kim,Free,Fr.,,,"Demarest, N.J.",mens-swimming-and-diving,2022
-Finn Dowdall,Free/Fly,So.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2022
-Chris Aubin,Free,Sr.,,,"Cape Town, South Africa",mens-swimming-and-diving,2022
-Tyler Hong,IM/Fly/Back,So.,,,"Westlake, Ohio",mens-swimming-and-diving,2022
-Nicholas Lim,,Jr.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2022
-George Callanan,Diving,So.,,,"Columbus, Ohio",mens-swimming-and-diving,2022
-Miguel Jacome,Free/IM,Sr.,,,"Issaquah, Wash.",mens-swimming-and-diving,2022
-Joshua Brown,Breast/Free,Sr.,,,"Kobe, Japan",mens-swimming-and-diving,2022
-Raunak Khosla,,Sr.,,,"Roswell, Ga.",mens-swimming-and-diving,2022
-John Ehling,,Jr.,,,"Wexford, Pa.",mens-swimming-and-diving,2022
-Rasmus Makela,Free,Fr.,,,"Pori, Finland",mens-swimming-and-diving,2022
-Daniel Kim,Free,So.,,,"Demarest, N.J.",mens-swimming-and-diving,2023
-Nicholas Lim,,Sr.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2023
-Kael Mlinek,Breast/Free,So.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2023
-James Pan,Breast/IM,So.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2023
-Zev Schuman,Fly/Free,Jr.,,,"Fairfax, Calif.",mens-swimming-and-diving,2023
-Mike Scornavacca,Fly/Free,Sr.,,,"Denville, N.J.",mens-swimming-and-diving,2023
-Noah Sech,IM/Breast,Fr.,,,"San Clemente, Calif",mens-swimming-and-diving,2023
-Adell Sabovic,Free,Sr.,,,"Manhattan, N.Y.",mens-swimming-and-diving,2023
-Yanning Zhang,Back/Free/IM,Fr.,,,"Melbourne, Australia",mens-swimming-and-diving,2023
-Conor McKenna,Free/Fly,So.,,,"Frisco, Texas",mens-swimming-and-diving,2023
-Max Seidel,Breast/IM,Jr.,,,"Lexington, Mass.",mens-swimming-and-diving,2023
-Lucas Strøbek,IM/Free,So.,,,"Hellerup, Denmark",mens-swimming-and-diving,2023
-Mitchell Schott,Free/Fly/IM,So.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2023
-Billy Swartwout,Free/Back,Jr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2023
-Aidan Wang,Diving,Fr.,,,"North Potomac, Md.",mens-swimming-and-diving,2023
-Matt Crispino,,,,,,mens-swimming-and-diving,2023
-Max Kreidl,Fly/Back,Sr.,,,"Boulder, Colo.",mens-swimming-and-diving,2023
-Max Hunger,Free,Jr.,,,"Montreal, Quebec",mens-swimming-and-diving,2023
+Max Walther,,Sr.,,,"Neustadt, Germany",mens-swimming-and-diving,2022
+Zev Schuman,Fly/Free,So.,,,"Fairfax, Calif.",mens-swimming-and-diving,2022
+Dylan Porges,,Sr.,,,"New York, N.Y.",mens-swimming-and-diving,2022
 Peyton Werner,,Sr.,,,"Boyds, Md.",mens-swimming-and-diving,2023
 Lucas Tudoras,Free,So.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2023
 Rasmus Makela,Free,So.,,,"Pori, Finland",mens-swimming-and-diving,2023
@@ -101,22 +83,59 @@ Finn Dowdall,Free/Fly,Jr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2023
 John Ehling,,Sr.,,,"Wexford, Pa.",mens-swimming-and-diving,2023
 Luca Fassi,Diving,Fr.,,,"Altadena, Calif.",mens-swimming-and-diving,2023
 Connor Buck,Free,Fr.,,,"Durban, South Africa",mens-swimming-and-diving,2023
-Hunter Kim,IM/Fly,Jr.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2023
 Parker Lenoce,Back/Free/IM,Fr.,,,"Westport, Conn.",mens-swimming-and-diving,2023
-Brett Feyerick,Back/Free,Jr.,,,"Potomac, Md.",mens-swimming-and-diving,2023
 Daniel Li,Free/Back/IM,Fr.,,,"Austin, Texas",mens-swimming-and-diving,2023
 Taso Callanan,Diving,Jr.,,,"Columbus, Ohio",mens-swimming-and-diving,2023
 Tyler Hong,IM/Fly/Back,Jr.,,,"Westlake, Ohio",mens-swimming-and-diving,2023
 George Callanan,Diving,Jr.,,,"Columbus, Ohio",mens-swimming-and-diving,2023
-James Pan,Breast/IM,Jr.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2024
+Max Hunger,Free,Jr.,,,"Montreal, Quebec",mens-swimming-and-diving,2023
+Hunter Kim,IM/Fly,Jr.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2023
+Brett Feyerick,Back/Free,Jr.,,,"Potomac, Md.",mens-swimming-and-diving,2023
+Matt Crispino,,,,,,mens-swimming-and-diving,2023
+Aidan Wang,Diving,Fr.,,,"North Potomac, Md.",mens-swimming-and-diving,2023
+Max Kreidl,Fly/Back,Sr.,,,"Boulder, Colo.",mens-swimming-and-diving,2023
+Daniel Kim,Free,So.,,,"Demarest, N.J.",mens-swimming-and-diving,2023
+Nicholas Lim,,Sr.,,,"Hong Kong, Hong Kong",mens-swimming-and-diving,2023
+Kael Mlinek,Breast/Free,So.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2023
+Zev Schuman,Fly/Free,Jr.,,,"Fairfax, Calif.",mens-swimming-and-diving,2023
+Mike Scornavacca,Fly/Free,Sr.,,,"Denville, N.J.",mens-swimming-and-diving,2023
+Noah Sech,IM/Breast,Fr.,,,"San Clemente, Calif",mens-swimming-and-diving,2023
+James Pan,Breast/IM,So.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2023
+Yanning Zhang,Back/Free/IM,Fr.,,,"Melbourne, Australia",mens-swimming-and-diving,2023
+Conor McKenna,Free/Fly,So.,,,"Frisco, Texas",mens-swimming-and-diving,2023
+Max Seidel,Breast/IM,Jr.,,,"Lexington, Mass.",mens-swimming-and-diving,2023
+Lucas Strøbek,IM/Free,So.,,,"Hellerup, Denmark",mens-swimming-and-diving,2023
+Mitchell Schott,Free/Fly/IM,So.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2023
+Billy Swartwout,Free/Back,Jr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2023
+Adell Sabovic,Free,Sr.,,,"Manhattan, N.Y.",mens-swimming-and-diving,2023
+Rasmus Makela,Free,Jr.,,,"Pori, Finland",mens-swimming-and-diving,2024
+Conan Chen,Breast/IM,Fr.,,,"Villanova, Pa.",mens-swimming-and-diving,2024
+George Callanan,Diving,Sr.,,,"Columbus, Ohio",mens-swimming-and-diving,2024
+Devyn Caples,IM/Free,Fr.,,,"Pleasanton, Calif.",mens-swimming-and-diving,2024
+Arthur Balva,IM/Fly,So.,,,"Palo Alto, Calif.",mens-swimming-and-diving,2024
+Tomaz Chevres,Free,Fr.,,,"Princeton Junction, N.J.",mens-swimming-and-diving,2024
+Patrick Dinu,Free,Fr.,,,"Constanta, Romania",mens-swimming-and-diving,2024
+Connor Buck,Free,So.,,,"Durban, South Africa",mens-swimming-and-diving,2024
+Luca Fassi,Diving,So.,,,"Altadena, Calif.",mens-swimming-and-diving,2024
+Max Hunger,Free,Sr.,,,"Montreal, Quebec",mens-swimming-and-diving,2024
+Daniel Kim,Free,Jr.,,,"Demarest, N.J.",mens-swimming-and-diving,2024
+Hunter Kim,IM/Fly,Sr.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2024
+Parker Lenoce,Back/Free/IM,So.,,,"Westport, Conn.",mens-swimming-and-diving,2024
+Daniel Li,Free/Back/IM,So.,,,"Austin, Texas",mens-swimming-and-diving,2024
+Brett Feyerick,Back/Free,Sr.,,,"Potomac, Md.",mens-swimming-and-diving,2024
+Santiago Gutierrez,Free,Fr.,,,Ciudad de México,mens-swimming-and-diving,2024
+Tyler Hong,IM/Fly/Back,Sr.,,,"Westlake, Ohio",mens-swimming-and-diving,2024
+Finn Dowdall,Free/Fly,Sr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2024
 Noah Sech,IM/Breast,So.,,,"San Clemente, Calif",mens-swimming-and-diving,2024
+Billy Swartwout,Free/Back,Sr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2024
+James Pan,Breast/IM,Jr.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2024
 Logan Noguchi,IM/Fly/Back/Free,Fr.,,,"Encinitas, Calif.",mens-swimming-and-diving,2024
 Curan Palmer,Breast/IM,Fr.,,,"Arlington, Va.",mens-swimming-and-diving,2024
-Kael Mlinek,Breast/Free,Jr.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2024
+Zev Schuman,Fly/Free,Sr.,,,"Fairfax, Calif.",mens-swimming-and-diving,2024
 Ben Romig,Diving,Fr.,,,"Houston, Texas",mens-swimming-and-diving,2024
 Mitchell Schott,Free/Fly/IM,Jr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2024
 Max Marcus,Free,Fr.,,,"St. Louis, Missouri",mens-swimming-and-diving,2024
-Matt Crispino,,,,,,mens-swimming-and-diving,2024
+Kael Mlinek,Breast/Free,Jr.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2024
 Lucas Tudoras,Free,Jr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2024
 Aidan Wang,Diving,So.,,,"North Potomac, Md.",mens-swimming-and-diving,2024
 Yanning Zhang,Back/Free/IM,So.,,,"Melbourne, Australia",mens-swimming-and-diving,2024
@@ -124,46 +143,7 @@ Andrew Zou,Breast/IM,Fr.,,,"Austin, Texas",mens-swimming-and-diving,2024
 Conor McKenna,Free/Fly,Jr.,,,"Frisco, Texas",mens-swimming-and-diving,2024
 Max Seidel,Breast/IM,Sr.,,,"Lexington, Mass.",mens-swimming-and-diving,2024
 Lucas Strøbek,IM/Free,Jr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2024
-Billy Swartwout,Free/Back,Sr.,,,"Amityville, N.Y.",mens-swimming-and-diving,2024
-Zev Schuman,Fly/Free,Sr.,,,"Fairfax, Calif.",mens-swimming-and-diving,2024
-Finn Dowdall,Free/Fly,Sr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2024
-Santiago Gutierrez,Free,Fr.,,,Ciudad de México,mens-swimming-and-diving,2024
-Conan Chen,Breast/IM,Fr.,,,"Villanova, Pa.",mens-swimming-and-diving,2024
-George Callanan,Diving,Sr.,,,"Columbus, Ohio",mens-swimming-and-diving,2024
-Devyn Caples,IM/Free,Fr.,,,"Pleasanton, Calif.",mens-swimming-and-diving,2024
-Arthur Balva,IM/Fly,So.,,,"Palo Alto, Calif.",mens-swimming-and-diving,2024
-Tomaz Chevres,Free,Fr.,,,"Princeton Junction, N.J.",mens-swimming-and-diving,2024
-Patrick Dinu,Free,Fr.,,,"Constanta, Romania",mens-swimming-and-diving,2024
-Rasmus Makela,Free,Jr.,,,"Pori, Finland",mens-swimming-and-diving,2024
-Connor Buck,Free,So.,,,"Durban, South Africa",mens-swimming-and-diving,2024
-Tyler Hong,IM/Fly/Back,Sr.,,,"Westlake, Ohio",mens-swimming-and-diving,2024
-Max Hunger,Free,Sr.,,,"Montreal, Quebec",mens-swimming-and-diving,2024
-Daniel Kim,Free,Jr.,,,"Demarest, N.J.",mens-swimming-and-diving,2024
-Hunter Kim,IM/Fly,Sr.,,,"Fort Lee, N.J.",mens-swimming-and-diving,2024
-Parker Lenoce,Back/Free/IM,So.,,,"Westport, Conn.",mens-swimming-and-diving,2024
-Daniel Li,Free/Back/IM,So.,,,"Austin, Texas",mens-swimming-and-diving,2024
-Brett Feyerick,Back/Free,Sr.,,,"Potomac, Md.",mens-swimming-and-diving,2024
-Luca Fassi,Diving,So.,,,"Altadena, Calif.",mens-swimming-and-diving,2024
-Santiago Gutierrez,Free,So.,,,Ciudad de México,mens-swimming-and-diving,2025
-Luka Martinovic,Diving,Fr.,,,"Zagreb, Croatia",mens-swimming-and-diving,2025
-Logan Noguchi,IM/Fly/Back/Free,So.,,,"Encinitas, Calif.",mens-swimming-and-diving,2025
-Curan Palmer,Breast/IM,So.,,,"Arlington, Va.",mens-swimming-and-diving,2025
-James Pan,Breast/IM,Sr.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2025
-John Rusnock,Breast/Fly/IM,Fr.,,,"Suffield, Conn.",mens-swimming-and-diving,2025
-Mitchell Schott,Free/Fly/IM,Sr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2025
-Chase Sorosky,Diving,Fr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2025
-Andrew Zou,Breast/IM,So.,,,"Austin, Texas",mens-swimming-and-diving,2025
-Aidan Wang,Diving,Jr.,,,"North Potomac, Md.",mens-swimming-and-diving,2025
-Jiarui Xue,Free/IM,Fr.,,,"Edina, Minn.",mens-swimming-and-diving,2025
-Yanning Zhang,Back/Free/IM,Jr.,,,"Melbourne, Australia",mens-swimming-and-diving,2025
-Conor McKenna,Free/Fly,Sr.,,,"Frisco, Texas",mens-swimming-and-diving,2025
-Lucas Strøbek,IM/Free,Sr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2025
-Oliver Rowe,Free/Fly,Fr.,,,"Round Rock, Texas",mens-swimming-and-diving,2025
-Matt Crispino,,,,,,mens-swimming-and-diving,2025
-Ben Romig,Diving,So.,,,"Houston, Texas",mens-swimming-and-diving,2025
-Jack Haley,Free/Fly/IM,Fr.,,,"New Canaan, Conn.",mens-swimming-and-diving,2025
-Lucas Tudoras,Free,Sr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2025
-Taso Callanan,Diving,Sr.,,,"Columbus, Ohio",mens-swimming-and-diving,2025
+Matt Crispino,,,,,,mens-swimming-and-diving,2024
 Alex Townsend,Breast/Free/Fly/IM,Fr.,,,"Raleigh, N.C.",mens-swimming-and-diving,2025
 Jake Tarara,Free/Back,Fr.,,,"Carmel, Ind.",mens-swimming-and-diving,2025
 Max Marcus,Free,So.,,,"St. Louis, Missouri",mens-swimming-and-diving,2025
@@ -172,15 +152,35 @@ Arthur Balva,IM/Fly,Jr.,,,"Palo Alto, Calif.",mens-swimming-and-diving,2025
 Conan Chen,Breast/IM,So.,,,"Villanova, Pa.",mens-swimming-and-diving,2025
 Tomaz Chevres,Free,So.,,,"Princeton Junction, N.J.",mens-swimming-and-diving,2025
 Patrick Dinu,Free,So.,,,"Constanta, Romania",mens-swimming-and-diving,2025
-Connor Buck,Free,Jr.,,,"Durban, South Africa",mens-swimming-and-diving,2025
-Cole Kawaja,Free,Fr.,,,"Portola Valley, Calif.",mens-swimming-and-diving,2025
+Daniel Li,Free/Back/IM,Jr.,,,"Austin, Texas",mens-swimming-and-diving,2025
 Daniel Kim,Free,Sr.,,,"Demarest, N.J.",mens-swimming-and-diving,2025
 Keian Lam,Breast/IM,Fr.,,,"Naperville, Ill.",mens-swimming-and-diving,2025
 Parker Lenoce,Back/Free/IM,Jr.,,,"Westport, Conn.",mens-swimming-and-diving,2025
 Rasmus Makela,Free,Sr.,,,"Pori, Finland",mens-swimming-and-diving,2025
 Devyn Caples,IM/Free,So.,,,"Pleasanton, Calif.",mens-swimming-and-diving,2025
-Daniel Li,Free/Back/IM,Jr.,,,"Austin, Texas",mens-swimming-and-diving,2025
+Taso Callanan,Diving,Sr.,,,"Columbus, Ohio",mens-swimming-and-diving,2025
 Luca Fassi,Diving,Jr.,,,"Altadena, Calif.",mens-swimming-and-diving,2025
+Connor Buck,Free,Jr.,,,"Durban, South Africa",mens-swimming-and-diving,2025
+Lucas Tudoras,Free,Sr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2025
+Cole Kawaja,Free,Fr.,,,"Portola Valley, Calif.",mens-swimming-and-diving,2025
+Ben Romig,Diving,So.,,,"Houston, Texas",mens-swimming-and-diving,2025
+Jack Haley,Free/Fly/IM,Fr.,,,"New Canaan, Conn.",mens-swimming-and-diving,2025
+Santiago Gutierrez,Free,So.,,,Ciudad de México,mens-swimming-and-diving,2025
+Luka Martinovic,Diving,Fr.,,,"Zagreb, Croatia",mens-swimming-and-diving,2025
+Logan Noguchi,IM/Fly/Back/Free,So.,,,"Encinitas, Calif.",mens-swimming-and-diving,2025
+Curan Palmer,Breast/IM,So.,,,"Arlington, Va.",mens-swimming-and-diving,2025
+John Rusnock,Breast/Fly/IM,Fr.,,,"Suffield, Conn.",mens-swimming-and-diving,2025
+Mitchell Schott,Free/Fly/IM,Sr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2025
+Chase Sorosky,Diving,Fr.,,,"Phoenix, Ariz.",mens-swimming-and-diving,2025
+James Pan,Breast/IM,Sr.,,,"Maple Grove, Minn.",mens-swimming-and-diving,2025
+Aidan Wang,Diving,Jr.,,,"North Potomac, Md.",mens-swimming-and-diving,2025
+Jiarui Xue,Free/IM,Fr.,,,"Edina, Minn.",mens-swimming-and-diving,2025
+Yanning Zhang,Back/Free/IM,Jr.,,,"Melbourne, Australia",mens-swimming-and-diving,2025
+Conor McKenna,Free/Fly,Sr.,,,"Frisco, Texas",mens-swimming-and-diving,2025
+Lucas Strøbek,IM/Free,Sr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2025
+Oliver Rowe,Free/Fly,Fr.,,,"Round Rock, Texas",mens-swimming-and-diving,2025
+Matt Crispino,,,,,,mens-swimming-and-diving,2025
+Andrew Zou,Breast/IM,So.,,,"Austin, Texas",mens-swimming-and-diving,2025
 Oliver Rowe,Free/Fly,So.,,,"Round Rock, Texas",mens-swimming-and-diving,2026
 Kael Mlinek,Breast/Free,Sr.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2026
 Logan Noguchi,IM/Fly/Back/Free,Jr.,,,"Encinitas, Calif.",mens-swimming-and-diving,2026

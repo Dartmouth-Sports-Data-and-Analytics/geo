@@ -278,7 +278,7 @@ function buildCards() {
 }
 
 async function main() {
-  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=74a3d43c"), fetch("us-states.json?v=91dad8ad")]);
+  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=dc742e66"), fetch("us-states.json?v=91dad8ad")]);
   if (!dataRes.ok) throw new Error("Could not load data.json");
   if (!geoRes.ok) throw new Error("Could not load us-states.json (run pipeline/prepare_states.py)");
   data = await dataRes.json();

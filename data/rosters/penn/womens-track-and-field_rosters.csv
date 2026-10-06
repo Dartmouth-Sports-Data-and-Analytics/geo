@@ -1,31 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Victoria Agyin,,Sr.,,,"Marietta, Ga.",womens-track-and-field,2021
-Christal Facey,,Fr.,,,"Hollywood, Fla.",womens-track-and-field,2021
-Katherine Muccio,,Jr.,,,"Ridgewood, N.J.",womens-track-and-field,2021
-Jocelyn Niemiec,,Fr.,,,"Tustin, Calif.",womens-track-and-field,2021
-Abby Norwillo,,Sr.,,,"Pittston, Pa.",womens-track-and-field,2021
-Nikhila Obbineni,,Jr.,,,"Wycoff, N.J.",womens-track-and-field,2021
-Tumi Onaleye,,Fr.,,,"Katy, Texas",womens-track-and-field,2021
-Lily Orr,,So.,,,"Rumson, N.J.",womens-track-and-field,2021
-Omonye Osezua,,So.,,,"Etobicoke, Ontario",womens-track-and-field,2021
-Caroline O'Sullivan,,Sr.,,,"Northvale, N.J.",womens-track-and-field,2021
-Haley Rizek,,Sr.,,,"Albuquerque, N.M.",womens-track-and-field,2021
-Samantha Schoenberg,,Fr.,,,"Harvard, Mass.",womens-track-and-field,2021
-Maggie Maier,,So.,,,"Atlantic Beach, N.Y.",womens-track-and-field,2021
-Olivia Morganti,,So.,,,"Syracuse, N.Y.",womens-track-and-field,2021
-Miranda Schriver,,Fr.,,,"Los Angeles, Calif.",womens-track-and-field,2021
-Zoe Shetty,,So.,,,"Morgantown, W.Va.",womens-track-and-field,2021
-Maeve Stiles,,So.,,,"Norfolk, Va.",womens-track-and-field,2021
-Skyla Wilson,,Sr.,,,"Susquehanna, Pa.",womens-track-and-field,2021
-Adriel Strickland,,Fr.,,,"Jacksonville, Fla.",womens-track-and-field,2021
-Kirstin West,,Sr.,,,"Palmyra, Pa.",womens-track-and-field,2021
-Phoebe White,,So.,,,"Manlius, N.Y.",womens-track-and-field,2021
-Isabella Whittaker,,So.,,,"Laurel, Md.",womens-track-and-field,2021
-Fabianna Szorenyi,,So.,,,"San Juan, Puerto Rico",womens-track-and-field,2021
-Addie Renner,,So.,,,"Charlotte, N.C.",womens-track-and-field,2021
-Ariana Gardizy,,Sr.,,,"Lansdale, Pa.",womens-track-and-field,2021
-Claire Moreau,,Sr.,,,"Robert, La.",womens-track-and-field,2021
-Aliya Garozzo,,So.,,,"Sicklerville, N.J.",womens-track-and-field,2021
 Katie Pou,,Fr.,,,"Fort Mill, S.C.",womens-track-and-field,2021
 Olivia Babski,,Sr.,,,"Doha, Qatar",womens-track-and-field,2021
 Lizzy Bader,,Jr.,,,"Kennett Square, Pa.",womens-track-and-field,2021
@@ -35,10 +9,9 @@ Ellen Byrnes,,Sr.,,,"Port Washington, N.Y.",womens-track-and-field,2021
 Emma de Boer,,Fr.,,,"Surrey, B.C.",womens-track-and-field,2021
 Trinity Eason,,So.,,,"Woodbridge, N.J.",womens-track-and-field,2021
 Kai Eisenhardt,,Fr.,,,"Montverde, Fla.",womens-track-and-field,2021
-Kira Lindner,,Fr.,,,"Chappaqua, N.Y.",womens-track-and-field,2021
 Caia Gelli,,Fr.,,,"Rockville, Md.",womens-track-and-field,2021
+Aliya Garozzo,,So.,,,"Sicklerville, N.J.",womens-track-and-field,2021
 Bronwyn Patterson,,Fr.,,,"Edgewater, Md.",womens-track-and-field,2021
-Jacinta Arnold,,Jr.,,,"Richmond Hill, Ontario",womens-track-and-field,2021
 Mayyi Mahama,,Sr.,,,"Pullman, Wash.",womens-track-and-field,2021
 Sarah Lavery,,So.,,,"North Andover, Mass.",womens-track-and-field,2021
 Kyla Jamison,,Fr.,,,"Salem, Ohio",womens-track-and-field,2021
@@ -49,102 +22,97 @@ Chloe Hassman,,Fr.,,,"Coppell, Texas",womens-track-and-field,2021
 Meghan Hart,,Fr.,,,"Kennett Square, Pa.",womens-track-and-field,2021
 Tamara Grahovac,,Sr.,,,"Kitchener, Ontario",womens-track-and-field,2021
 Kayla Lee,,Sr.,,,"Mercer Island, Wash.",womens-track-and-field,2021
-Nikhila Obbineni,,Sr.,,,"Wycoff, N.J.",womens-track-and-field,2022
-Katherine Muccio,,Sr.,,,"Ridgewood, N.J.",womens-track-and-field,2022
-Lily Murphy,,Fr.,,,"Summit, N.J.",womens-track-and-field,2022
-Jocelyn Niemiec,,So.,,,"Tustin, Calif.",womens-track-and-field,2022
-Christiana Nwachuku,,Fr.,,,"Vauxhall, N.J.",womens-track-and-field,2022
-Olivia Morganti,,Jr.,,,"Syracuse, N.Y.",womens-track-and-field,2022
-Bronwyn Patterson,,So.,,,"Edgewater, Md.",womens-track-and-field,2022
-Danielle Peck,,Fr.,,,"San Antonio, Texas",womens-track-and-field,2022
-Lily Orr,,Jr.,,,"Rumson, N.J.",womens-track-and-field,2022
-Daniella Oyenuga,,Fr.,,,"Saskatoon, Sask.",womens-track-and-field,2022
-Tumi Onaleye,,So.,,,"Katy, Texas",womens-track-and-field,2022
-Samantha Schoenberg,,So.,,,"Harvard, Mass.",womens-track-and-field,2022
-Anastasia Russell,,So.,,,"Boise, Idaho",womens-track-and-field,2022
-Isabella Whittaker,,Jr.,,,"Laurel, Md.",womens-track-and-field,2022
-Maeve Stiles,,Jr.,,,"Norfolk, Va.",womens-track-and-field,2022
-Miranda Schriver,,So.,,,"Los Angeles, Calif.",womens-track-and-field,2022
-Samantha Smith,,Fr.,,,"Syosset, N.Y.",womens-track-and-field,2022
-Megan Webb,,Fr.,,,"Wellesley, Mass.",womens-track-and-field,2022
-Phoebe White,,Jr.,,,"Manlius, N.Y.",womens-track-and-field,2022
-Kira Lindner,,So.,,,"Chappaqua, N.Y.",womens-track-and-field,2022
-Zoe Shetty,,Jr.,,,"Morgantown, W.Va.",womens-track-and-field,2022
-Annika Topchy,,Fr.,,,"Alexandria, Va.",womens-track-and-field,2022
-Katie Pou,,So.,,,"Fort Mill, S.C.",womens-track-and-field,2022
-Sarah Lavery,,Jr.,,,"North Andover, Mass.",womens-track-and-field,2022
-Fabianna Szorenyi,,Jr.,,,"San Juan, Puerto Rico",womens-track-and-field,2022
-Kyla Jamison,,So.,,,"Salem, Ohio",womens-track-and-field,2022
-Caia Gelli,,So.,,,"Rockville, Md.",womens-track-and-field,2022
-Laura Baeyens,,Jr.,,,"Stirling, N.J.",womens-track-and-field,2022
+Jacinta Arnold,,Jr.,,,"Richmond Hill, Ontario",womens-track-and-field,2021
+Claire Moreau,,Sr.,,,"Robert, La.",womens-track-and-field,2021
+Kira Lindner,,Fr.,,,"Chappaqua, N.Y.",womens-track-and-field,2021
+Addie Renner,,So.,,,"Charlotte, N.C.",womens-track-and-field,2021
+Ariana Gardizy,,Sr.,,,"Lansdale, Pa.",womens-track-and-field,2021
+Katherine Muccio,,Jr.,,,"Ridgewood, N.J.",womens-track-and-field,2021
+Jocelyn Niemiec,,Fr.,,,"Tustin, Calif.",womens-track-and-field,2021
+Abby Norwillo,,Sr.,,,"Pittston, Pa.",womens-track-and-field,2021
+Nikhila Obbineni,,Jr.,,,"Wycoff, N.J.",womens-track-and-field,2021
+Tumi Onaleye,,Fr.,,,"Katy, Texas",womens-track-and-field,2021
+Lily Orr,,So.,,,"Rumson, N.J.",womens-track-and-field,2021
+Omonye Osezua,,So.,,,"Etobicoke, Ontario",womens-track-and-field,2021
+Caroline O'Sullivan,,Sr.,,,"Northvale, N.J.",womens-track-and-field,2021
+Haley Rizek,,Sr.,,,"Albuquerque, N.M.",womens-track-and-field,2021
+Samantha Schoenberg,,Fr.,,,"Harvard, Mass.",womens-track-and-field,2021
+Christal Facey,,Fr.,,,"Hollywood, Fla.",womens-track-and-field,2021
+Olivia Morganti,,So.,,,"Syracuse, N.Y.",womens-track-and-field,2021
+Maggie Maier,,So.,,,"Atlantic Beach, N.Y.",womens-track-and-field,2021
+Isabella Whittaker,,So.,,,"Laurel, Md.",womens-track-and-field,2021
+Phoebe White,,So.,,,"Manlius, N.Y.",womens-track-and-field,2021
+Kirstin West,,Sr.,,,"Palmyra, Pa.",womens-track-and-field,2021
+Adriel Strickland,,Fr.,,,"Jacksonville, Fla.",womens-track-and-field,2021
+Fabianna Szorenyi,,So.,,,"San Juan, Puerto Rico",womens-track-and-field,2021
+Maeve Stiles,,So.,,,"Norfolk, Va.",womens-track-and-field,2021
+Zoe Shetty,,So.,,,"Morgantown, W.Va.",womens-track-and-field,2021
+Miranda Schriver,,Fr.,,,"Los Angeles, Calif.",womens-track-and-field,2021
+Skyla Wilson,,Sr.,,,"Susquehanna, Pa.",womens-track-and-field,2021
+Arielle Breuninger,,So.,,,"Lancaster, Pa.",womens-track-and-field,2022
 Jacinta Arnold,,Sr.,,,"Richmond Hill, Ontario",womens-track-and-field,2022
 Angeludi Asaah,,Fr.,,,"Honolulu, Hawaii",womens-track-and-field,2022
 Olivia Babski,,Sr.,,,"Doha, Qatar",womens-track-and-field,2022
 Lizzy Bader,,Sr.,,,"Kennett Square, Pa.",womens-track-and-field,2022
 Moforehan Abinusawa,,Fr.,,,"Ft. Washington, Pa.",womens-track-and-field,2022
 Emma de Boer,,So.,,,"Surrey, B.C.",womens-track-and-field,2022
+Laura Baeyens,,Jr.,,,"Stirling, N.J.",womens-track-and-field,2022
 Kyra Compton,,Fr.,,,"Carlsbad, Calif.",womens-track-and-field,2022
 Lara Cota,,Fr.,,,"Summit, N.J.",womens-track-and-field,2022
-Arielle Breuninger,,So.,,,"Lancaster, Pa.",womens-track-and-field,2022
 Elliott Bush,,Fr.,,,"Portland, Ore.",womens-track-and-field,2022
-Trinity Eason,,Jr.,,,"Woodbridge, N.J.",womens-track-and-field,2022
+Kiera Duffy,,Fr.,,,"Princeton, N.J.",womens-track-and-field,2022
 Natalia Ilieva,,So.,,,"Bradenton, Fla.",womens-track-and-field,2022
 Kai Eisenhardt,,So.,,,"Montverde, Fla.",womens-track-and-field,2022
 Tamara Grahovac,,Sr.,,,"Kitchener, Ontario",womens-track-and-field,2022
-Kiera Duffy,,Fr.,,,"Princeton, N.J.",womens-track-and-field,2022
 Shevell Higgs,,So.,,,"Atco, N.J.",womens-track-and-field,2022
-Laura Gugliotta,,Fr.,,,"Manalapan, N.J.",womens-track-and-field,2022
 Meghan Hart,,So.,,,"Kennett Square, Pa.",womens-track-and-field,2022
 Aliya Garozzo,,Jr.,,,"Sicklerville, N.J.",womens-track-and-field,2022
 Ijeoma Eziri,,Fr.,,,"Denver, N.C.",womens-track-and-field,2022
 Morayo Kassim,,Fr.,,,"Nashville, Tenn.",womens-track-and-field,2022
 Chloe Hassman,,So.,,,"Coppell, Texas",womens-track-and-field,2022
-Lily Orr,,Sr.,,,"Rumson, N.J.",womens-track-and-field,2023
-Kelly Murray,,So.,,,"Fort Washington, Pa.",womens-track-and-field,2023
-Tumi Onaleye,,Jr.,,,"Katy, Texas",womens-track-and-field,2023
-Katie Pou,,Jr.,,,"Fort Mill, S.C.",womens-track-and-field,2023
-Lily Oliver,,Fr.,,,"Toms River, N.J.",womens-track-and-field,2023
-Christiana Nwachuku,,So.,,,"Vauxhall, N.J.",womens-track-and-field,2023
-Jocelyn Niemiec,,Jr.,,,"Tustin, Calif.",womens-track-and-field,2023
-Raina Pietrzak,,Fr.,,,"Highland Park, Texas",womens-track-and-field,2023
-Lily Murphy,,So.,,,"Summit, N.J.",womens-track-and-field,2023
-Ella Neskora,,Fr.,,,"Jacksonville, Fla.",womens-track-and-field,2023
-Chloe Williams,,Jr.,,,"Fremont, Calif.",womens-track-and-field,2023
-Bronwyn Patterson,,Jr.,,,"Edgewater, Md.",womens-track-and-field,2023
-Maeve Stiles,,Sr.,,,"Norfolk, Va.",womens-track-and-field,2023
-Nora Wollen,,Jr.,,,"Oak Park, Ill.",womens-track-and-field,2023
-Anastasia Russell,,Jr.,,,"Boise, Idaho",womens-track-and-field,2023
-Miranda Schriver,,Jr.,,,"Los Angeles, Calif.",womens-track-and-field,2023
-Annika Topchy,,So.,,,"Alexandria, Va.",womens-track-and-field,2023
-Zoe Shetty,,Sr.,,,"Morgantown, W.Va.",womens-track-and-field,2023
-Samantha Strydesky,,Fr.,,,"Farmingdale, N.J.",womens-track-and-field,2023
-Fabianna Szorenyi,,Sr.,,,"San Juan, Puerto Rico",womens-track-and-field,2023
-Evangeline Thomson,,Fr.,,,"Poway, Calif.",womens-track-and-field,2023
-Y'Lan Nguyen,,Fr.,,,"Austin, Texas",womens-track-and-field,2023
-Megan Webb,,So.,,,"Wellesley, Mass.",womens-track-and-field,2023
-Phoebe White,,Sr.,,,"Manlius, N.Y.",womens-track-and-field,2023
-Isabella Whittaker,,Sr.,,,"Laurel, Md.",womens-track-and-field,2023
-Lindsay Yakaboski,,Fr.,,,"Calverton, N.Y.",womens-track-and-field,2023
-Jordyn Reed,,Fr.,,,"Vancouver, B.C.",womens-track-and-field,2023
-Daniella Oyenuga,,So.,,,"Saskatoon, Sask.",womens-track-and-field,2023
-Sarah Lavery,,Sr.,,,"North Andover, Mass.",womens-track-and-field,2023
-Olivia Morganti,,Sr.,,,"Syracuse, N.Y.",womens-track-and-field,2023
-Madison Knier,,Fr.,,,"Manheim, Pa.",womens-track-and-field,2023
-Amelia Kristen,,Fr.,,,"Vancouver, B.C.",womens-track-and-field,2023
-Angeludi Asaah,,So.,,,"Honolulu, Hawaii",womens-track-and-field,2023
-Elliott Bush,,So.,,,"Portland, Ore.",womens-track-and-field,2023
-Moforehan Abinusawa,,So.,,,"Ft. Washington, Pa.",womens-track-and-field,2023
-Trinity Eason,,Sr.,,,"Woodbridge, N.J.",womens-track-and-field,2023
-Arielle Breuninger,,Jr.,,,"Lancaster, Pa.",womens-track-and-field,2023
-Kiera Duffy,,So.,,,"Princeton, N.J.",womens-track-and-field,2023
-Simone Castelluccio,,Fr.,,,"Baton Rouge, La.",womens-track-and-field,2023
+Caia Gelli,,So.,,,"Rockville, Md.",womens-track-and-field,2022
+Trinity Eason,,Jr.,,,"Woodbridge, N.J.",womens-track-and-field,2022
+Kyla Jamison,,So.,,,"Salem, Ohio",womens-track-and-field,2022
+Laura Gugliotta,,Fr.,,,"Manalapan, N.J.",womens-track-and-field,2022
+Sarah Lavery,,Jr.,,,"North Andover, Mass.",womens-track-and-field,2022
+Fabianna Szorenyi,,Jr.,,,"San Juan, Puerto Rico",womens-track-and-field,2022
+Nikhila Obbineni,,Sr.,,,"Wycoff, N.J.",womens-track-and-field,2022
+Katherine Muccio,,Sr.,,,"Ridgewood, N.J.",womens-track-and-field,2022
+Lily Murphy,,Fr.,,,"Summit, N.J.",womens-track-and-field,2022
+Jocelyn Niemiec,,So.,,,"Tustin, Calif.",womens-track-and-field,2022
+Christiana Nwachuku,,Fr.,,,"Vauxhall, N.J.",womens-track-and-field,2022
+Bronwyn Patterson,,So.,,,"Edgewater, Md.",womens-track-and-field,2022
+Danielle Peck,,Fr.,,,"San Antonio, Texas",womens-track-and-field,2022
+Lily Orr,,Jr.,,,"Rumson, N.J.",womens-track-and-field,2022
+Daniella Oyenuga,,Fr.,,,"Saskatoon, Sask.",womens-track-and-field,2022
+Tumi Onaleye,,So.,,,"Katy, Texas",womens-track-and-field,2022
+Olivia Morganti,,Jr.,,,"Syracuse, N.Y.",womens-track-and-field,2022
+Anastasia Russell,,So.,,,"Boise, Idaho",womens-track-and-field,2022
+Katie Pou,,So.,,,"Fort Mill, S.C.",womens-track-and-field,2022
+Samantha Schoenberg,,So.,,,"Harvard, Mass.",womens-track-and-field,2022
+Annika Topchy,,Fr.,,,"Alexandria, Va.",womens-track-and-field,2022
+Zoe Shetty,,Jr.,,,"Morgantown, W.Va.",womens-track-and-field,2022
+Kira Lindner,,So.,,,"Chappaqua, N.Y.",womens-track-and-field,2022
+Megan Webb,,Fr.,,,"Wellesley, Mass.",womens-track-and-field,2022
+Phoebe White,,Jr.,,,"Manlius, N.Y.",womens-track-and-field,2022
+Samantha Smith,,Fr.,,,"Syosset, N.Y.",womens-track-and-field,2022
+Miranda Schriver,,So.,,,"Los Angeles, Calif.",womens-track-and-field,2022
+Maeve Stiles,,Jr.,,,"Norfolk, Va.",womens-track-and-field,2022
+Isabella Whittaker,,Jr.,,,"Laurel, Md.",womens-track-and-field,2022
 Emma de Boer,,Jr.,,,"Surrey, B.C.",womens-track-and-field,2023
+Adannia Agbo,,Fr.,,,"Rockaway, N.J.",womens-track-and-field,2023
 Lara Cota,,So.,,,"Summit, N.J.",womens-track-and-field,2023
 Kai Eisenhardt,,Jr.,,,"Montverde, Fla.",womens-track-and-field,2023
-Adannia Agbo,,Fr.,,,"Rockaway, N.J.",womens-track-and-field,2023
+Simone Castelluccio,,Fr.,,,"Baton Rouge, La.",womens-track-and-field,2023
+Elliott Bush,,So.,,,"Portland, Ore.",womens-track-and-field,2023
+Arielle Breuninger,,Jr.,,,"Lancaster, Pa.",womens-track-and-field,2023
+Trinity Eason,,Sr.,,,"Woodbridge, N.J.",womens-track-and-field,2023
+Moforehan Abinusawa,,So.,,,"Ft. Washington, Pa.",womens-track-and-field,2023
+Angeludi Asaah,,So.,,,"Honolulu, Hawaii",womens-track-and-field,2023
 Caia Gelli,,Jr.,,,"Rockville, Md.",womens-track-and-field,2023
+Kiera Duffy,,So.,,,"Princeton, N.J.",womens-track-and-field,2023
 Gabrielle Jones,,Fr.,,,"Sarnia, Ont.",womens-track-and-field,2023
-Alexa Dochat,,Fr.,,,"Clifton Park, N.Y.",womens-track-and-field,2023
+Aliya Garozzo,,Sr.,,,"Sicklerville, N.J.",womens-track-and-field,2023
 Sarah Fischer,,Fr.,,,"Hinsdale, Ill.",womens-track-and-field,2023
 Ijeoma Eziri,,So.,,,"Denver, N.C.",womens-track-and-field,2023
 Morayo Kassim,,So.,,,"Nashville, Tenn.",womens-track-and-field,2023
@@ -156,55 +124,55 @@ Laura Baeyens,,Sr.,,,"Stirling, N.J.",womens-track-and-field,2023
 Chloe Hassman,,Jr.,,,"Coppell, Texas",womens-track-and-field,2023
 Meghan Hart,,Jr.,,,"Kennett Square, Pa.",womens-track-and-field,2023
 Laura Gugliotta,,So.,,,"Manalapan, N.J.",womens-track-and-field,2023
-Aliya Garozzo,,Sr.,,,"Sicklerville, N.J.",womens-track-and-field,2023
 Natalia Ilieva,,Jr.,,,"Bradenton, Fla.",womens-track-and-field,2023
 Kyra Compton,,So.,,,"Carlsbad, Calif.",womens-track-and-field,2023
-Raina Pietrzak,,So.,,,"Highland Park, Texas",womens-track-and-field,2024
-Y'Lan Nguyen,,So.,,,"Austin, Texas",womens-track-and-field,2024
-Zofia Limbert,,Fr.,,,"Geneva, Switzerland",womens-track-and-field,2024
-Bronwyn Patterson,,Sr.,,,"Edgewater, Md.",womens-track-and-field,2024
-Daniella Oyenuga,,Jr.,,,"Saskatoon, Sask.",womens-track-and-field,2024
-Lily Murphy,,Jr.,,,"Summit, N.J.",womens-track-and-field,2024
-Christiana Nwachuku,,Jr.,,,"Vauxhall, N.J.",womens-track-and-field,2024
-Mikaela Lyri,,Fr.,,,"Agios Dimitrios, Greece",womens-track-and-field,2024
-Katie Pou,,Sr.,,,"Fort Mill, S.C.",womens-track-and-field,2024
-Jocelyn Niemiec,,Sr.,,,"Tustin, Calif.",womens-track-and-field,2024
-Kyra Compton,,Jr.,,,"Carlsbad, Calif.",womens-track-and-field,2024
-Ella Neskora,,So.,,,"Jacksonville, Fla.",womens-track-and-field,2024
-Imani Pugh,,Fr.,,,"Rome, N.Y.",womens-track-and-field,2024
-Angeludi Asaah,,Jr.,,,"Honolulu, Hawaii",womens-track-and-field,2024
-Jordyn Reed,,So.,,,"Vancouver, B.C.",womens-track-and-field,2024
-Milan Ramey,,Fr.,,,"Ardmore, Pa.",womens-track-and-field,2024
-Anastasia Russell,,Sr.,,,"Boise, Idaho",womens-track-and-field,2024
-Miranda Schriver,,Sr.,,,"Los Angeles, Calif.",womens-track-and-field,2024
-Quin Stovall,,Fr.,,,"Philadelphia, Pa.",womens-track-and-field,2024
-Evangeline Thomson,,So.,,,"Poway, Calif.",womens-track-and-field,2024
-Samantha Strydesky,,So.,,,"Farmingdale, N.J.",womens-track-and-field,2024
-Anna Weirich,,Jr.,,,"Portola Valley, Calif.",womens-track-and-field,2024
-Annika Topchy,,Jr.,,,"Alexandria, Va.",womens-track-and-field,2024
-Chloe Williams,,Sr.,,,"Fremont, Calif.",womens-track-and-field,2024
-Olivia Williams,,Fr.,,,"Lafayette, Calif.",womens-track-and-field,2024
-Nora Wollen,,Sr.,,,"Oak Park, Ill.",womens-track-and-field,2024
-Mary Rozier,,Fr.,,,"McDonough, Ga.",womens-track-and-field,2024
-Lindsay Yakaboski,,So.,,,"Calverton, N.Y.",womens-track-and-field,2024
-Amelia Kristen,,So.,,,"Vancouver, B.C.",womens-track-and-field,2024
-Alexa Dochat,,So.,,,"Clifton Park, N.Y.",womens-track-and-field,2024
-Sara Khiri,,Fr.,,,"Jersey City, N.J.",womens-track-and-field,2024
-Tumi Onaleye,,Sr.,,,"Katy, Texas",womens-track-and-field,2024
-Simone Castelluccio,,So.,,,"Baton Rouge, La.",womens-track-and-field,2024
-Kai Eisenhardt,,Sr.,,,"Montverde, Fla.",womens-track-and-field,2024
-Adannia Agbo,,So.,,,"Rockaway, N.J.",womens-track-and-field,2024
+Alexa Dochat,,Fr.,,,"Clifton Park, N.Y.",womens-track-and-field,2023
+Madison Knier,,Fr.,,,"Manheim, Pa.",womens-track-and-field,2023
+Amelia Kristen,,Fr.,,,"Vancouver, B.C.",womens-track-and-field,2023
+Sarah Lavery,,Sr.,,,"North Andover, Mass.",womens-track-and-field,2023
+Olivia Morganti,,Sr.,,,"Syracuse, N.Y.",womens-track-and-field,2023
+Lily Orr,,Sr.,,,"Rumson, N.J.",womens-track-and-field,2023
+Kelly Murray,,So.,,,"Fort Washington, Pa.",womens-track-and-field,2023
+Tumi Onaleye,,Jr.,,,"Katy, Texas",womens-track-and-field,2023
+Katie Pou,,Jr.,,,"Fort Mill, S.C.",womens-track-and-field,2023
+Lily Oliver,,Fr.,,,"Toms River, N.J.",womens-track-and-field,2023
+Christiana Nwachuku,,So.,,,"Vauxhall, N.J.",womens-track-and-field,2023
+Jocelyn Niemiec,,Jr.,,,"Tustin, Calif.",womens-track-and-field,2023
+Lily Murphy,,So.,,,"Summit, N.J.",womens-track-and-field,2023
+Ella Neskora,,Fr.,,,"Jacksonville, Fla.",womens-track-and-field,2023
+Chloe Williams,,Jr.,,,"Fremont, Calif.",womens-track-and-field,2023
+Bronwyn Patterson,,Jr.,,,"Edgewater, Md.",womens-track-and-field,2023
+Maeve Stiles,,Sr.,,,"Norfolk, Va.",womens-track-and-field,2023
+Nora Wollen,,Jr.,,,"Oak Park, Ill.",womens-track-and-field,2023
+Raina Pietrzak,,Fr.,,,"Highland Park, Texas",womens-track-and-field,2023
+Miranda Schriver,,Jr.,,,"Los Angeles, Calif.",womens-track-and-field,2023
+Anastasia Russell,,Jr.,,,"Boise, Idaho",womens-track-and-field,2023
+Jordyn Reed,,Fr.,,,"Vancouver, B.C.",womens-track-and-field,2023
+Lindsay Yakaboski,,Fr.,,,"Calverton, N.Y.",womens-track-and-field,2023
+Isabella Whittaker,,Sr.,,,"Laurel, Md.",womens-track-and-field,2023
+Phoebe White,,Sr.,,,"Manlius, N.Y.",womens-track-and-field,2023
+Megan Webb,,So.,,,"Wellesley, Mass.",womens-track-and-field,2023
+Daniella Oyenuga,,So.,,,"Saskatoon, Sask.",womens-track-and-field,2023
+Evangeline Thomson,,Fr.,,,"Poway, Calif.",womens-track-and-field,2023
+Fabianna Szorenyi,,Sr.,,,"San Juan, Puerto Rico",womens-track-and-field,2023
+Samantha Strydesky,,Fr.,,,"Farmingdale, N.J.",womens-track-and-field,2023
+Zoe Shetty,,Sr.,,,"Morgantown, W.Va.",womens-track-and-field,2023
+Annika Topchy,,So.,,,"Alexandria, Va.",womens-track-and-field,2023
+Y'Lan Nguyen,,Fr.,,,"Austin, Texas",womens-track-and-field,2023
+L'Mio Edwards,,Fr.,,,"Claremont, Calif.",womens-track-and-field,2024
+Elliott Bush,,Jr.,,,"Portland, Ore.",womens-track-and-field,2024
+Madison Knier,,So.,,,"Manheim, Pa.",womens-track-and-field,2024
+Sarah Dumas,,Fr.,,,"Frankin, Mass.",womens-track-and-field,2024
+Kiera Duffy,,Jr.,,,"Princeton, N.J.",womens-track-and-field,2024
 Chikaodinaka Akazi,,Fr.,,,"Baldwin, N.Y.",womens-track-and-field,2024
 Lara Cota,,Jr.,,,"Summit, N.J.",womens-track-and-field,2024
-Arielle Breuninger,,Sr.,,,"Lancaster, Pa.",womens-track-and-field,2024
-Kiera Duffy,,Jr.,,,"Princeton, N.J.",womens-track-and-field,2024
-Sarah Dumas,,Fr.,,,"Frankin, Mass.",womens-track-and-field,2024
-Madison Knier,,So.,,,"Manheim, Pa.",womens-track-and-field,2024
-Elliott Bush,,Jr.,,,"Portland, Ore.",womens-track-and-field,2024
-L'Mio Edwards,,Fr.,,,"Claremont, Calif.",womens-track-and-field,2024
+Adannia Agbo,,So.,,,"Rockaway, N.J.",womens-track-and-field,2024
+Kai Eisenhardt,,Sr.,,,"Montverde, Fla.",womens-track-and-field,2024
+Simone Castelluccio,,So.,,,"Baton Rouge, La.",womens-track-and-field,2024
 Kelly Murray,,Jr.,,,"Fort Washington, Pa.",womens-track-and-field,2024
+Arielle Breuninger,,Sr.,,,"Lancaster, Pa.",womens-track-and-field,2024
 Moforehan Abinusawa,,Jr.,,,"Ft. Washington, Pa.",womens-track-and-field,2024
-Courtney Kaiser,,Fr.,,,"Martinsville, N.J.",womens-track-and-field,2024
+Tumi Onaleye,,Sr.,,,"Katy, Texas",womens-track-and-field,2024
 Avery Elliott,,Fr.,,,"Chadds Ford, Pa.",womens-track-and-field,2024
 Ijeoma Eziri,,Jr.,,,"Denver, N.C.",womens-track-and-field,2024
 Gabrielle Jones,,So.,,,"Sarnia, Ont.",womens-track-and-field,2024
@@ -218,7 +186,70 @@ Meghan Hart,,Sr.,,,"Kennett Square, Pa.",womens-track-and-field,2024
 Caia Gelli,,Sr.,,,"Rockville, Md.",womens-track-and-field,2024
 Sarah Fischer,,So.,,,"Hinsdale, Ill.",womens-track-and-field,2024
 Camille Jordan,,So.,,,"West Roxbury, Mass.",womens-track-and-field,2024
-Quin Stovall,,So.,,,"Philadelphia, Pa.",womens-track-and-field,2025
+Courtney Kaiser,,Fr.,,,"Martinsville, N.J.",womens-track-and-field,2024
+Sara Khiri,,Fr.,,,"Jersey City, N.J.",womens-track-and-field,2024
+Mikaela Lyri,,Fr.,,,"Agios Dimitrios, Greece",womens-track-and-field,2024
+Amelia Kristen,,So.,,,"Vancouver, B.C.",womens-track-and-field,2024
+Alexa Dochat,,So.,,,"Clifton Park, N.Y.",womens-track-and-field,2024
+Y'Lan Nguyen,,So.,,,"Austin, Texas",womens-track-and-field,2024
+Zofia Limbert,,Fr.,,,"Geneva, Switzerland",womens-track-and-field,2024
+Bronwyn Patterson,,Sr.,,,"Edgewater, Md.",womens-track-and-field,2024
+Daniella Oyenuga,,Jr.,,,"Saskatoon, Sask.",womens-track-and-field,2024
+Lily Murphy,,Jr.,,,"Summit, N.J.",womens-track-and-field,2024
+Christiana Nwachuku,,Jr.,,,"Vauxhall, N.J.",womens-track-and-field,2024
+Katie Pou,,Sr.,,,"Fort Mill, S.C.",womens-track-and-field,2024
+Jocelyn Niemiec,,Sr.,,,"Tustin, Calif.",womens-track-and-field,2024
+Kyra Compton,,Jr.,,,"Carlsbad, Calif.",womens-track-and-field,2024
+Ella Neskora,,So.,,,"Jacksonville, Fla.",womens-track-and-field,2024
+Imani Pugh,,Fr.,,,"Rome, N.Y.",womens-track-and-field,2024
+Angeludi Asaah,,Jr.,,,"Honolulu, Hawaii",womens-track-and-field,2024
+Raina Pietrzak,,So.,,,"Highland Park, Texas",womens-track-and-field,2024
+Milan Ramey,,Fr.,,,"Ardmore, Pa.",womens-track-and-field,2024
+Jordyn Reed,,So.,,,"Vancouver, B.C.",womens-track-and-field,2024
+Mary Rozier,,Fr.,,,"McDonough, Ga.",womens-track-and-field,2024
+Nora Wollen,,Sr.,,,"Oak Park, Ill.",womens-track-and-field,2024
+Olivia Williams,,Fr.,,,"Lafayette, Calif.",womens-track-and-field,2024
+Chloe Williams,,Sr.,,,"Fremont, Calif.",womens-track-and-field,2024
+Anna Weirich,,Jr.,,,"Portola Valley, Calif.",womens-track-and-field,2024
+Annika Topchy,,Jr.,,,"Alexandria, Va.",womens-track-and-field,2024
+Samantha Strydesky,,So.,,,"Farmingdale, N.J.",womens-track-and-field,2024
+Evangeline Thomson,,So.,,,"Poway, Calif.",womens-track-and-field,2024
+Quin Stovall,,Fr.,,,"Philadelphia, Pa.",womens-track-and-field,2024
+Miranda Schriver,,Sr.,,,"Los Angeles, Calif.",womens-track-and-field,2024
+Anastasia Russell,,Sr.,,,"Boise, Idaho",womens-track-and-field,2024
+Lindsay Yakaboski,,So.,,,"Calverton, N.Y.",womens-track-and-field,2024
+Sarah Fischer,,Jr.,,,"Hinsdale, Ill.",womens-track-and-field,2025
+Keira Beaumont,,Fr.,,,"Acworth, Ga.",womens-track-and-field,2025
+L'Mio Edwards,,So.,,,"Claremont, Calif.",womens-track-and-field,2025
+Lara Cota,,Sr.,,,"Summit, N.J.",womens-track-and-field,2025
+Adannia Agbo,,Jr.,,,"Rockaway, N.J.",womens-track-and-field,2025
+Simone Castelluccio,,Jr.,,,"Baton Rouge, La.",womens-track-and-field,2025
+Elliott Bush,,Sr.,,,"Portland, Ore.",womens-track-and-field,2025
+Kiera Duffy,,Sr.,,,"Princeton, N.J.",womens-track-and-field,2025
+Angeludi Asaah,,Sr.,,,"Honolulu, Hawaii",womens-track-and-field,2025
+Giuliana Ligor,,Fr.,,,"North Reading, Mass.",womens-track-and-field,2025
+Kyra Compton,,Sr.,,,"Carlsbad, Calif.",womens-track-and-field,2025
+Chikaodinaka Akazi,,So.,,,"Baldwin, N.Y.",womens-track-and-field,2025
+Ijeoma Eziri,,Sr.,,,"Denver, N.C.",womens-track-and-field,2025
+Rianna Floyd,,Fr.,,,"Kennedale, Texas",womens-track-and-field,2025
+Amelia Kristen,,Jr.,,,"Vancouver, B.C.",womens-track-and-field,2025
+Stella Inman,,Sr.,,,"Windham, Maine",womens-track-and-field,2025
+Avery Elliott,,So.,,,"Chadds Ford, Pa.",womens-track-and-field,2025
+Madison Knier,,Jr.,,,"Manheim, Pa.",womens-track-and-field,2025
+Camille Jordan,,Jr.,,,"West Roxbury, Mass.",womens-track-and-field,2025
+Sara Khiri,,So.,,,"Jersey City, N.J.",womens-track-and-field,2025
+Paris Ivery,,Jr.,,,"Grovetown, Ga.",womens-track-and-field,2025
+Rebecca Hoover,,Fr.,,,"Haddonfield, N.J.",womens-track-and-field,2025
+Kate Hos,,So.,,,"Calgary, Alta.",womens-track-and-field,2025
+Emme Hoarle,,Fr.,,,"Branchburg, N.J.",womens-track-and-field,2025
+Mikaela Lyri,,So.,,,"Agios Dimitrios, Greece",womens-track-and-field,2025
+Moforehan Abinusawa,,Sr.,,,"Ft. Washington, Pa.",womens-track-and-field,2025
+Courtney Kaiser,,So.,,,"Martinsville, N.J.",womens-track-and-field,2025
+Gabrielle Jones,,Jr.,,,"Sarnia, Ont.",womens-track-and-field,2025
+Zofia Limbert,,So.,,,"Geneva, Switzerland",womens-track-and-field,2025
+Alexa Dochat,,Jr.,,,"Clifton Park, N.Y.",womens-track-and-field,2025
+Adèle Martin,,Fr.,,,"Paris, France",womens-track-and-field,2025
+Y'Lan Nguyen,,Jr.,,,"Austin, Texas",womens-track-and-field,2025
 Jailyn Milord,,Fr.,,,"Wellington, Fla.",womens-track-and-field,2025
 Jessica Oji,,Fr.,,,"Livingston, N.J.",womens-track-and-field,2025
 Ella Neskora,,Jr.,,,"Jacksonville, Fla.",womens-track-and-field,2025
@@ -232,52 +263,21 @@ Ava Nebel,,Fr.,,,"Sarasota, Fla.",womens-track-and-field,2025
 Margaret McCabe,,Fr.,,,"Bayonne, N.J.",womens-track-and-field,2025
 Raina Pietrzak,,Jr.,,,"Highland Park, Texas",womens-track-and-field,2025
 Milan Ramey,,So.,,,"Ardmore, Pa.",womens-track-and-field,2025
-Izzy Rodriguez,,Fr.,,,"Fair Haven, N.J.",womens-track-and-field,2025
+Quin Stovall,,So.,,,"Philadelphia, Pa.",womens-track-and-field,2025
 Evangeline Thomson,,Jr.,,,"Poway, Calif.",womens-track-and-field,2025
-Daniella Oyenuga,,Sr.,,,"Saskatoon, Sask.",womens-track-and-field,2025
-Mary Rozier,,So.,,,"McDonough, Ga.",womens-track-and-field,2025
-Svanna Strandberg,,Fr.,,,"Fairless Hills, Pa.",womens-track-and-field,2025
-Aoife Shovlin,,Fr.,,,"Cambridge, Mass.",womens-track-and-field,2025
-Sofia Swindell,,Fr.,,,"Princeton, N.J.",womens-track-and-field,2025
-Isabella Tront,,Fr.,,,"Glen Mills, Pa.",womens-track-and-field,2025
+Lindsay Yakaboski,,Jr.,,,"Calverton, N.Y.",womens-track-and-field,2025
+Samantha Strydesky,,Jr.,,,"Farmingdale, N.J.",womens-track-and-field,2025
+Imani Pugh,,So.,,,"Rome, N.Y.",womens-track-and-field,2025
+Yuliya Maslouskaya,,Fr.,,,"Zhodino, Belarus",womens-track-and-field,2025
+Izzy Rodriguez,,Fr.,,,"Fair Haven, N.J.",womens-track-and-field,2025
 Annika Topchy,,Sr.,,,"Alexandria, Va.",womens-track-and-field,2025
 Anna Weirich,,Sr.,,,"Portola Valley, Calif.",womens-track-and-field,2025
-Yuliya Maslouskaya,,Fr.,,,"Zhodino, Belarus",womens-track-and-field,2025
-Imani Pugh,,So.,,,"Rome, N.Y.",womens-track-and-field,2025
-Samantha Strydesky,,Jr.,,,"Farmingdale, N.J.",womens-track-and-field,2025
-Lindsay Yakaboski,,Jr.,,,"Calverton, N.Y.",womens-track-and-field,2025
-Adèle Martin,,Fr.,,,"Paris, France",womens-track-and-field,2025
-Y'Lan Nguyen,,Jr.,,,"Austin, Texas",womens-track-and-field,2025
-Zofia Limbert,,So.,,,"Geneva, Switzerland",womens-track-and-field,2025
-Moforehan Abinusawa,,Sr.,,,"Ft. Washington, Pa.",womens-track-and-field,2025
-Kyra Compton,,Sr.,,,"Carlsbad, Calif.",womens-track-and-field,2025
-Adannia Agbo,,Jr.,,,"Rockaway, N.J.",womens-track-and-field,2025
-Angeludi Asaah,,Sr.,,,"Honolulu, Hawaii",womens-track-and-field,2025
-Kiera Duffy,,Sr.,,,"Princeton, N.J.",womens-track-and-field,2025
-Elliott Bush,,Sr.,,,"Portland, Ore.",womens-track-and-field,2025
-Simone Castelluccio,,Jr.,,,"Baton Rouge, La.",womens-track-and-field,2025
-Chikaodinaka Akazi,,So.,,,"Baldwin, N.Y.",womens-track-and-field,2025
-Lara Cota,,Sr.,,,"Summit, N.J.",womens-track-and-field,2025
-Sarah Fischer,,Jr.,,,"Hinsdale, Ill.",womens-track-and-field,2025
-L'Mio Edwards,,So.,,,"Claremont, Calif.",womens-track-and-field,2025
-Keira Beaumont,,Fr.,,,"Acworth, Ga.",womens-track-and-field,2025
-Alexa Dochat,,Jr.,,,"Clifton Park, N.Y.",womens-track-and-field,2025
-Giuliana Ligor,,Fr.,,,"North Reading, Mass.",womens-track-and-field,2025
-Ijeoma Eziri,,Sr.,,,"Denver, N.C.",womens-track-and-field,2025
-Gabrielle Jones,,Jr.,,,"Sarnia, Ont.",womens-track-and-field,2025
-Amelia Kristen,,Jr.,,,"Vancouver, B.C.",womens-track-and-field,2025
-Stella Inman,,Sr.,,,"Windham, Maine",womens-track-and-field,2025
-Avery Elliott,,So.,,,"Chadds Ford, Pa.",womens-track-and-field,2025
-Madison Knier,,Jr.,,,"Manheim, Pa.",womens-track-and-field,2025
-Rianna Floyd,,Fr.,,,"Kennedale, Texas",womens-track-and-field,2025
-Camille Jordan,,Jr.,,,"West Roxbury, Mass.",womens-track-and-field,2025
-Sara Khiri,,So.,,,"Jersey City, N.J.",womens-track-and-field,2025
-Paris Ivery,,Jr.,,,"Grovetown, Ga.",womens-track-and-field,2025
-Rebecca Hoover,,Fr.,,,"Haddonfield, N.J.",womens-track-and-field,2025
-Kate Hos,,So.,,,"Calgary, Alta.",womens-track-and-field,2025
-Emme Hoarle,,Fr.,,,"Branchburg, N.J.",womens-track-and-field,2025
-Mikaela Lyri,,So.,,,"Agios Dimitrios, Greece",womens-track-and-field,2025
-Courtney Kaiser,,So.,,,"Martinsville, N.J.",womens-track-and-field,2025
+Sofia Swindell,,Fr.,,,"Princeton, N.J.",womens-track-and-field,2025
+Aoife Shovlin,,Fr.,,,"Cambridge, Mass.",womens-track-and-field,2025
+Svanna Strandberg,,Fr.,,,"Fairless Hills, Pa.",womens-track-and-field,2025
+Mary Rozier,,So.,,,"McDonough, Ga.",womens-track-and-field,2025
+Daniella Oyenuga,,Sr.,,,"Saskatoon, Sask.",womens-track-and-field,2025
+Isabella Tront,,Fr.,,,"Glen Mills, Pa.",womens-track-and-field,2025
 Imani Pugh,,Jr.,,,"Rome, N.Y.",womens-track-and-field,2026
 Michaela Poland,,Fr.,,,"Sicklerville, N.J.",womens-track-and-field,2026
 Jessica Oji,,So.,,,"Livingston, N.J.",womens-track-and-field,2026

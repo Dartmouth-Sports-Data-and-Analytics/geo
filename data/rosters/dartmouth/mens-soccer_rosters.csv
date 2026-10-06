@@ -1,53 +1,36 @@
 name,position,class,height,weight,hometown,sport,year
 Alex Budnik,GK,Sr.,6' 1'',190 lbs,"Arlington Heights, Ill.",mens-soccer,2021
-Eric Sachleben,MF,Jr.,5' 9'',165 lbs,"San Francisco, Calif.",mens-soccer,2021
+Dylan Buchanan,GK,Fy.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2021
+George Altirs,F,Jr.,6' 3'',190 lbs,"Saddle River, N.J.",mens-soccer,2021
+Alex van Schalkwyk,F,Jr.,6' 2'',180 lbs,"Cape Town, South Africa.",mens-soccer,2021
+Phineas Callahan,MF,Fy.,5' 9'',165 lbs,"Norwalk, Conn.",mens-soccer,2021
+Kristian Feed,MF,Fy.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2021
+Ahria Simons,D,Sr.,5' 10'',155 lbs,"Pembroke, Bermuda",mens-soccer,2021
+Pedro Campos,MF,Jr.,5' 9'',140 lbs,"Sao Paulo, Brazil",mens-soccer,2021
+David Alino,F,Jr.,5' 9'',150 lbs,"Stratford, Conn.",mens-soccer,2021
+Ben Jenkins,MF,Fy.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2021
+Louis Weisdorf,D,Fy.,6' 0'',175 lbs,"Copenhagen, Denmark",mens-soccer,2021
+Costi Christodoulou,GK,Fy.,6' 2'',190 lbs,"Gauteng, South Africa",mens-soccer,2021
+Kasper Karlsson,MF,So.,5' 8'',170 lbs,"Stockholm, Sweden",mens-soccer,2021
+Patrick Murphy,F,5th,6' 1'',170 lbs,"Los Angeles, Calif.",mens-soccer,2021
+Andrew Ellis,MF,Fy.,6' 1'',170 lbs,"Minneapolis, Minn.",mens-soccer,2021
+Tom Collins,MF,So.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2021
+Clayton Molter,F,Jr.,5' 11'',160 lbs,"Manhattan Beach, Calif.",mens-soccer,2021
+Quentin Chisholm,F/MF,So.,6' 1'',165 lbs,"Atherton, Calif.",mens-soccer,2021
+Garrett Socas,MF,Jr.,6' 2'',170 lbs,"Mclean, Va.",mens-soccer,2021
 Matt Pickering,D,Sr.,6' 1'',170 lbs,"Heathfield, England",mens-soccer,2021
 Jonathan Preston,MF,Fy.,5' 7'',155 lbs,"Brentwood, Tenn.",mens-soccer,2021
 Garrett Scott,D,Sr.,6' 2'',170 lbs,"Dallas, Texas",mens-soccer,2021
 David Mysiuk,D,Fy.,6' 0'',165 lbs,"Bourbonnais, Ill.",mens-soccer,2021
 Orrett Maine,MF,So.,6' 3'',185 lbs,"Atlanta, Ga.",mens-soccer,2021
 Trevor Gee,MF,Jr.,5' 8'',140 lbs,"Charlotte, N.C.",mens-soccer,2021
-Bo Oshoniyi,,,,,,mens-soccer,2021
+Eric Sachleben,MF,Jr.,5' 9'',165 lbs,"San Francisco, Calif.",mens-soccer,2021
 Ohad Yahalom,MF,Sr.,6' 4'',180 lbs,"Brookline, Mass.",mens-soccer,2021
 Cade Keesling,MF,So.,6' 0'',165 lbs,"Woodbury, Minn.",mens-soccer,2021
 Mothibi Penn-Kekana,D,Sr.,6' 1'',200 lbs,"London, England",mens-soccer,2021
 Jordan Bailon,D,Sr.,5' 11'',165 lbs,"Armonk, N.Y.",mens-soccer,2021
 Daniel Coons,D,So.,6' 2'',170 lbs,"Upper Arlington, Ohio",mens-soccer,2021
-Quentin Chisholm,F/MF,So.,6' 1'',165 lbs,"Atherton, Calif.",mens-soccer,2021
-Garrett Socas,MF,Jr.,6' 2'',170 lbs,"Mclean, Va.",mens-soccer,2021
-Tom Collins,MF,So.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2021
-Andrew Ellis,MF,Fy.,6' 1'',170 lbs,"Minneapolis, Minn.",mens-soccer,2021
-Patrick Murphy,F,5th,6' 1'',170 lbs,"Los Angeles, Calif.",mens-soccer,2021
-Kasper Karlsson,MF,So.,5' 8'',170 lbs,"Stockholm, Sweden",mens-soccer,2021
-Costi Christodoulou,GK,Fy.,6' 2'',190 lbs,"Gauteng, South Africa",mens-soccer,2021
-Louis Weisdorf,D,Fy.,6' 0'',175 lbs,"Copenhagen, Denmark",mens-soccer,2021
-Ben Jenkins,MF,Fy.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2021
-Clayton Molter,F,Jr.,5' 11'',160 lbs,"Manhattan Beach, Calif.",mens-soccer,2021
-David Alino,F,Jr.,5' 9'',150 lbs,"Stratford, Conn.",mens-soccer,2021
-Pedro Campos,MF,Jr.,5' 9'',140 lbs,"Sao Paulo, Brazil",mens-soccer,2021
-Ahria Simons,D,Sr.,5' 10'',155 lbs,"Pembroke, Bermuda",mens-soccer,2021
-Kristian Feed,MF,Fy.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2021
-Phineas Callahan,MF,Fy.,5' 9'',165 lbs,"Norwalk, Conn.",mens-soccer,2021
-Alex van Schalkwyk,F,Jr.,6' 2'',180 lbs,"Cape Town, South Africa.",mens-soccer,2021
-George Altirs,F,Jr.,6' 3'',190 lbs,"Saddle River, N.J.",mens-soccer,2021
-Dylan Buchanan,GK,Fy.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2021
-Sebastián Mañón,D,Fy.,6' 0'',175 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2022
-Pedro Campos,MF,Sr.,5' 9'',140 lbs,"Sao Paulo, Brazil",mens-soccer,2022
-Tom Collins,MF,Jr.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2022
-George Altirs,F,Sr.,6' 3'',190 lbs,"Saddle River, N.J.",mens-soccer,2022
-Sam Fenton,D,Fy.,6' 0'',165 lbs,"Mount Laurel, N.J.",mens-soccer,2022
-Cade Keesling,MF,Jr.,6' 0'',165 lbs,"Woodbury, Minn.",mens-soccer,2022
-Daniel Coons,D,Jr.,6' 2'',170 lbs,"Upper Arlington, Ohio",mens-soccer,2022
-Bo Oshoniyi,,,,,,mens-soccer,2022
-Matt McPherson,GK,Fy.,6' 0'',170 lbs,"Denver, Colo.",mens-soccer,2022
-Raul Vargas,MF,Fy.,5' 8'',147 lbs,"Atenas, Costa Rica",mens-soccer,2022
-David Mysiuk,D,So.,6' 0'',165 lbs,"Bourbonnais, Ill.",mens-soccer,2022
-Orrett Maine,MF,Jr.,6' 3'',185 lbs,"Atlanta, Ga.",mens-soccer,2022
-Jonathan Preston,MF,So.,5' 7'',155 lbs,"Brentwood, Tenn.",mens-soccer,2022
-Garrett Scott,D,5th,6' 2'',170 lbs,"Dallas, Texas",mens-soccer,2022
-James Wilson,F,Fy.,6' 1'',170 lbs,"Toronto, Ontario",mens-soccer,2022
-Ethan McNab,GK,So.,6' 1'',190 lbs,"Geneva, Switzerland",mens-soccer,2022
-Fallou Ndiaye,F,Fy.,6' 0'',180 lbs,"New York, N.Y.",mens-soccer,2022
+Bo Oshoniyi,,,,,,mens-soccer,2021
 Dylan Buchanan,GK,So.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2022
 Eric Sachleben,MF,Sr.,5' 9'',165 lbs,"San Francisco, Calif.",mens-soccer,2022
 Costi Christodoulou,GK,So.,6' 2'',190 lbs,"Gauteng, South Africa",mens-soccer,2022
@@ -55,99 +38,116 @@ Louis Weisdorf,D,So.,6' 0'',175 lbs,"Copenhagen, Denmark",mens-soccer,2022
 Ben Jenkins,MF,So.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2022
 Oskar Magnusson,MF,Fy.,5' 10'',146 lbs,"Reykjavík, Iceland",mens-soccer,2022
 Trevor Gee,MF,Sr.,5' 8'',140 lbs,"Charlotte, N.C.",mens-soccer,2022
-Alex van Schalkwyk,F,Sr.,6' 2'',180 lbs,"Cape Town, South Africa.",mens-soccer,2022
-Kasper Karlsson,MF,Jr.,5' 8'',170 lbs,"Stockholm, Sweden",mens-soccer,2022
 David Alino,F,Sr.,5' 9'',150 lbs,"Stratford, Conn.",mens-soccer,2022
+Kasper Karlsson,MF,Jr.,5' 8'',170 lbs,"Stockholm, Sweden",mens-soccer,2022
 Garrett Socas,MF,Sr.,6' 2'',170 lbs,"Mclean, Va.",mens-soccer,2022
 Phineas Callahan,MF,So.,5' 9'',165 lbs,"Norwalk, Conn.",mens-soccer,2022
 Kristian Feed,MF,So.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2022
 Andrew Ellis,MF,So.,6' 1'',170 lbs,"Minneapolis, Minn.",mens-soccer,2022
-Jonathan Preston,M,Jr.,5' 7'',155 lbs,"Brentwood, Tenn.",mens-soccer,2023
-Cade Keesling,M,Sr.,6' 0'',165 lbs,"Woodbury, Minn.",mens-soccer,2023
-Tom Collins,M,Sr.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2023
-David Mysiuk,D,Jr.,6' 0'',165 lbs,"Bourbonnais, Ill.",mens-soccer,2023
-Bo Oshoniyi,,,,,,mens-soccer,2023
-Raul Vargas,M,So.,5' 8'',147 lbs,"Atenas, Costa Rica",mens-soccer,2023
-Matt McPherson,GK,So.,6' 0'',170 lbs,"Denver, Colo.",mens-soccer,2023
-Trevor Gee,M,5th,5' 8'',140 lbs,"Charlotte, N.C.",mens-soccer,2023
-Will Lulka,F,Fy.,6' 0'',180 lbs,"New York, N.Y.",mens-soccer,2023
-Orrett Maine,M,Sr.,6' 3'',185 lbs,"Atlanta, Ga.",mens-soccer,2023
-Cameron Brayne,F,Fy.,5' 9'',158 lbs,"London, England",mens-soccer,2023
-Sam Fenton,D,So.,6' 0'',165 lbs,"Mount Laurel, N.J.",mens-soccer,2023
-Sebastián Mañón,D,So.,6' 0'',175 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2023
-Aidan Curtis,F,Jr.,6' 2'',185 lbs,"Chappaqua, N.Y.",mens-soccer,2023
-Oskar Magnusson,M,So.,5' 10'',146 lbs,"Reykjavík, Iceland",mens-soccer,2023
-James Wilson,F,So.,6' 1'',170 lbs,"Toronto, Ontario",mens-soccer,2023
+Alex van Schalkwyk,F,Sr.,6' 2'',180 lbs,"Cape Town, South Africa.",mens-soccer,2022
+Fallou Ndiaye,F,Fy.,6' 0'',180 lbs,"New York, N.Y.",mens-soccer,2022
+Cade Keesling,MF,Jr.,6' 0'',165 lbs,"Woodbury, Minn.",mens-soccer,2022
+James Wilson,F,Fy.,6' 1'',170 lbs,"Toronto, Ontario",mens-soccer,2022
+Sebastián Mañón,D,Fy.,6' 0'',175 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2022
+Ethan McNab,GK,So.,6' 1'',190 lbs,"Geneva, Switzerland",mens-soccer,2022
+Tom Collins,MF,Jr.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2022
+George Altirs,F,Sr.,6' 3'',190 lbs,"Saddle River, N.J.",mens-soccer,2022
+Sam Fenton,D,Fy.,6' 0'',165 lbs,"Mount Laurel, N.J.",mens-soccer,2022
+Daniel Coons,D,Jr.,6' 2'',170 lbs,"Upper Arlington, Ohio",mens-soccer,2022
+Pedro Campos,MF,Sr.,5' 9'',140 lbs,"Sao Paulo, Brazil",mens-soccer,2022
+Matt McPherson,GK,Fy.,6' 0'',170 lbs,"Denver, Colo.",mens-soccer,2022
+Raul Vargas,MF,Fy.,5' 8'',147 lbs,"Atenas, Costa Rica",mens-soccer,2022
+David Mysiuk,D,So.,6' 0'',165 lbs,"Bourbonnais, Ill.",mens-soccer,2022
+Orrett Maine,MF,Jr.,6' 3'',185 lbs,"Atlanta, Ga.",mens-soccer,2022
+Jonathan Preston,MF,So.,5' 7'',155 lbs,"Brentwood, Tenn.",mens-soccer,2022
+Garrett Scott,D,5th,6' 2'',170 lbs,"Dallas, Texas",mens-soccer,2022
+Bo Oshoniyi,,,,,,mens-soccer,2022
 Trenton Blake,F,Fy.,5' 7'',145 lbs,"Tallahassee, Fla.",mens-soccer,2023
 Dylan Buchanan,GK,Jr.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2023
 Alexis Huneau,D,Fy.,6' 2'',180 lbs,"Paris, France",mens-soccer,2023
 Andrew Ellis,M,Jr.,6' 1'',170 lbs,"Minneapolis, Minn.",mens-soccer,2023
 Douglas Arveskär,F,Fy.,6' 4'',180 lbs,"Stockholm, Sweden",mens-soccer,2023
-Vasilis Moiras,F,Fy.,5' 9'',161 lbs,"Agios Stefanos, Athens, Greece",mens-soccer,2023
+Kristian Feed,M,Jr.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2023
 Fallou Ndiaye,F,So.,6' 0'',180 lbs,"New York, N.Y.",mens-soccer,2023
 Ben Jenkins,M,Jr.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2023
-Kristian Feed,M,Jr.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2023
-Costi Christodoulou,GK,Jr.,6' 2'',190 lbs,"Gauteng, South Africa",mens-soccer,2023
 Daniel Coons,D,Sr.,6' 2'',170 lbs,"Upper Arlington, Ohio",mens-soccer,2023
 Phineas Callahan,M,Jr.,5' 9'',165 lbs,"Norwalk, Conn.",mens-soccer,2023
-Bo Oshoniyi,,,,,,mens-soccer,2024
+James Wilson,F,So.,6' 1'',170 lbs,"Toronto, Ontario",mens-soccer,2023
+Vasilis Moiras,F,Fy.,5' 9'',161 lbs,"Agios Stefanos, Athens, Greece",mens-soccer,2023
+Oskar Magnusson,M,So.,5' 10'',146 lbs,"Reykjavík, Iceland",mens-soccer,2023
+Costi Christodoulou,GK,Jr.,6' 2'',190 lbs,"Gauteng, South Africa",mens-soccer,2023
+Sebastián Mañón,D,So.,6' 0'',175 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2023
+Jonathan Preston,M,Jr.,5' 7'',155 lbs,"Brentwood, Tenn.",mens-soccer,2023
+Cade Keesling,M,Sr.,6' 0'',165 lbs,"Woodbury, Minn.",mens-soccer,2023
+Aidan Curtis,F,Jr.,6' 2'',185 lbs,"Chappaqua, N.Y.",mens-soccer,2023
+Tom Collins,M,Sr.,6' 1'',170 lbs,"Willingdon, England",mens-soccer,2023
+Bo Oshoniyi,,,,,,mens-soccer,2023
+Raul Vargas,M,So.,5' 8'',147 lbs,"Atenas, Costa Rica",mens-soccer,2023
+David Mysiuk,D,Jr.,6' 0'',165 lbs,"Bourbonnais, Ill.",mens-soccer,2023
+Trevor Gee,M,5th,5' 8'',140 lbs,"Charlotte, N.C.",mens-soccer,2023
+Will Lulka,F,Fy.,6' 0'',180 lbs,"New York, N.Y.",mens-soccer,2023
+Orrett Maine,M,Sr.,6' 3'',185 lbs,"Atlanta, Ga.",mens-soccer,2023
+Cameron Brayne,F,Fy.,5' 9'',158 lbs,"London, England",mens-soccer,2023
+Sam Fenton,D,So.,6' 0'',165 lbs,"Mount Laurel, N.J.",mens-soccer,2023
+Matt McPherson,GK,So.,6' 0'',170 lbs,"Denver, Colo.",mens-soccer,2023
+Symeon Hadjigeorgiou,M,Fy.,5' 9'',140 lbs,"Nicosia, Cyprus",mens-soccer,2024
+Konstantinos Dellas,GK,Fy.,6' 5'',200 lbs,"Thrakomakedones, Athens, Greece",mens-soccer,2024
+Costi Christodoulou,GK,Sr.,6' 2'',180 lbs,"Gauteng, South Africa",mens-soccer,2024
+Alexis Huneau,D,So.,6' 3'',180 lbs,"Paris, France",mens-soccer,2024
+Ben Jenkins,M,Sr.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2024
+Vasilis Moiras,F,So.,5' 9'',170 lbs,"Agios Stefanos, Athens, Greece",mens-soccer,2024
+Douglas Arveskär,F,So.,6' 5'',185 lbs,"Stockholm, Sweden",mens-soccer,2024
+Kristian Feed,M,Sr.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2024
+Phineas Callahan,M/F,Sr.,5' 10'',170 lbs,"Norwalk, Conn.",mens-soccer,2024
+Marios Tziortzis,F,Fy.,5' 11'',155 lbs,"Larnaca, Cyprus",mens-soccer,2024
+Andrew Ellis,M,Sr.,6' 1'',190 lbs,"Minneapolis, Minn.",mens-soccer,2024
+Dylan Buchanan,GK,Sr.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2024
+Nick Kashambuzi,,Fy.,5' 10'',155 lbs,"Jersey City, N.J.",mens-soccer,2024
+Panagiotis Karagiorgis,D,Fy.,6' 1'',180 lbs,"Larnaca, Cyprus",mens-soccer,2024
+Trenton Blake,F,So.,5' 8'',150 lbs,"Tallahassee, Fla.",mens-soccer,2024
+Fallou Ndiaye,F,Jr.,6' 0'',195 lbs,"New York, N.Y.",mens-soccer,2024
+Will Lulka,F,So.,6' 1'',180 lbs,"New York, N.Y.",mens-soccer,2024
 James Wilson,F,Jr.,6' 1'',180 lbs,"Toronto, Ontario",mens-soccer,2024
 Sebastián Mañón,D,Jr.,6' 0'',175 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2024
 Eidur Baldvinsson,F,Fy.,6' 5'',,"Garðabær, Iceland",mens-soccer,2024
 Raphael Oppong Owusu,M,Fy.,5' 11'',160 lbs,"Sunyani, Ghana",mens-soccer,2024
 Raul Vargas,M,Jr.,5' 10'',167 lbs,"Atenas, Costa Rica",mens-soccer,2024
 Orrett Maine,M/D,Sr.,6' 4'',195 lbs,"Atlanta, Ga.",mens-soccer,2024
-David Mysiuk,D,Sr.,6' 1'',185 lbs,"Bourbonnais, Ill.",mens-soccer,2024
+Bo Oshoniyi,,,,,,mens-soccer,2024
 Jonathan Preston,M/D,Sr.,5' 8'',160 lbs,"Brentwood, Tenn.",mens-soccer,2024
 Matt McPherson,GK,Jr.,6' 1'',185 lbs,"Denver, Colo.",mens-soccer,2024
 Oskar Magnusson,M,Jr.,5' 11'',155 lbs,"Reykjavík, Iceland",mens-soccer,2024
 Sam Fenton,D,Jr.,6' 0'',178 lbs,"Mount Laurel, N.J.",mens-soccer,2024
 Cameron Brayne,F,So.,5' 11'',175 lbs,"London, England",mens-soccer,2024
-Will Lulka,F,So.,6' 1'',180 lbs,"New York, N.Y.",mens-soccer,2024
-Fallou Ndiaye,F,Jr.,6' 0'',195 lbs,"New York, N.Y.",mens-soccer,2024
-Trenton Blake,F,So.,5' 8'',150 lbs,"Tallahassee, Fla.",mens-soccer,2024
-Nick Kashambuzi,,Fy.,5' 10'',155 lbs,"Jersey City, N.J.",mens-soccer,2024
-Konstantinos Dellas,GK,Fy.,6' 5'',200 lbs,"Thrakomakedones, Athens, Greece",mens-soccer,2024
-Costi Christodoulou,GK,Sr.,6' 2'',180 lbs,"Gauteng, South Africa",mens-soccer,2024
-Alexis Huneau,D,So.,6' 3'',180 lbs,"Paris, France",mens-soccer,2024
-Ben Jenkins,M,Sr.,6' 3'',195 lbs,"Newburyport, Mass.",mens-soccer,2024
-Symeon Hadjigeorgiou,M,Fy.,5' 9'',140 lbs,"Nicosia, Cyprus",mens-soccer,2024
-Vasilis Moiras,F,So.,5' 9'',170 lbs,"Agios Stefanos, Athens, Greece",mens-soccer,2024
-Panagiotis Karagiorgis,D,Fy.,6' 1'',180 lbs,"Larnaca, Cyprus",mens-soccer,2024
-Kristian Feed,M,Sr.,6' 0'',175 lbs,"Sandnes, Norway",mens-soccer,2024
-Phineas Callahan,M/F,Sr.,5' 10'',170 lbs,"Norwalk, Conn.",mens-soccer,2024
-Marios Tziortzis,F,Fy.,5' 11'',155 lbs,"Larnaca, Cyprus",mens-soccer,2024
-Andrew Ellis,M,Sr.,6' 1'',190 lbs,"Minneapolis, Minn.",mens-soccer,2024
-Dylan Buchanan,GK,Sr.,6' 3'',190 lbs,"Marietta, Ga.",mens-soccer,2024
-Douglas Arveskär,F,So.,6' 5'',185 lbs,"Stockholm, Sweden",mens-soccer,2024
-Will Lulka,F,Jr.,6' 1'',183 lbs,"New York, N.Y.",mens-soccer,2025
-Oskar Magnusson,M,Sr.,5' 11'',170 lbs,"Reykjavík, Iceland",mens-soccer,2025
-Sebastián Mañón,D,Sr.,6' 0'',180 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2025
-Eidur Baldvinsson,F,So.,6' 5'',195 lbs,"Garðabær, Iceland",mens-soccer,2025
-Hudson Kohler,D,Fy.,5' 11'',170 lbs,"Woodside, Calif.",mens-soccer,2025
-Raphael Oppong Owusu,M,So.,5' 11'',173 lbs,"Sunyani, Ghana",mens-soccer,2025
-Ben Bilden,F,Fy.,6' 2'',183 lbs,"New Canaan, Conn.",mens-soccer,2025
-Sam Fenton,D,Sr.,6' 1'',180 lbs,"Mount Laurel, N.J.",mens-soccer,2025
-Matt McPherson,GK,Sr.,6' 1'',185 lbs,"Denver, Colo.",mens-soccer,2025
-James Wilson,F,Sr.,6' 1'',185 lbs,"Toronto, Ontario",mens-soccer,2025
-Bo Oshoniyi,,,,,,mens-soccer,2025
-Raul Vargas,M,Sr.,5' 10'',167 lbs,"Atenas, Costa Rica",mens-soccer,2025
-Milo Peters,M,Fy.,6' 2'',,"Dubai, United Arab Emirates",mens-soccer,2025
-Cameron Brayne,M,Jr.,5' 11'',170 lbs,"London, England",mens-soccer,2025
-Alexis Huneau,D,Jr.,6' 3'',190 lbs,"Paris, France",mens-soccer,2025
-Douglas Arveskär,F,Jr.,6' 5'',185 lbs,"Stockholm, Sweden",mens-soccer,2025
+David Mysiuk,D,Sr.,6' 1'',185 lbs,"Bourbonnais, Ill.",mens-soccer,2024
 Daniel Carey-Evans,D,Fy.,6' 6'',200 lbs,"Cambridge, United Kingdom",mens-soccer,2025
 Panagiotis Karagiorgis,D,So.,6' 1'',185 lbs,"Larnaca, Cyprus",mens-soccer,2025
 Noah Sams,F,Fy.,6' 2'',180 lbs,"Tampa, Fla.",mens-soccer,2025
 Konstantinos Dellas,GK,So.,6' 5'',215 lbs,"Thrakomakedones, Athens, Greece",mens-soccer,2025
 Nick Kashambuzi,M,So.,5' 10'',155 lbs,"Jersey City, N.J.",mens-soccer,2025
 TJ Jeffreys,GK,Fy.,6' 2'',190 lbs,"Naples, Fla.",mens-soccer,2025
-Olly Spicer,M,Fy.,5' 9'',,"Buckinghamshire, England",mens-soccer,2025
 Trenton Blake,F,Jr.,5' 8'',150 lbs,"Tallahassee, Fla.",mens-soccer,2025
+Olly Spicer,M,Fy.,5' 9'',,"Buckinghamshire, England",mens-soccer,2025
 Marios Tziortzis,F,So.,5' 11'',160 lbs,"Larnaca, Cyprus",mens-soccer,2025
 Benny Rolla-Mullis,D,Fy.,6' 4'',180 lbs,"Ann Arbor, Mich.",mens-soccer,2025
 Symeon Hadjigeorgiou,M,So.,5' 9'',150 lbs,"Nicosia, Cyprus",mens-soccer,2025
+Douglas Arveskär,F,Jr.,6' 5'',185 lbs,"Stockholm, Sweden",mens-soccer,2025
 Vasilis Moiras,F,Jr.,5' 9'',165 lbs,"Agios Stefanos, Athens, Greece",mens-soccer,2025
+Alexis Huneau,D,Jr.,6' 3'',190 lbs,"Paris, France",mens-soccer,2025
+Raphael Oppong Owusu,M,So.,5' 11'',173 lbs,"Sunyani, Ghana",mens-soccer,2025
+Milo Peters,M,Fy.,6' 2'',,"Dubai, United Arab Emirates",mens-soccer,2025
+Cameron Brayne,M,Jr.,5' 11'',170 lbs,"London, England",mens-soccer,2025
+Will Lulka,F,Jr.,6' 1'',183 lbs,"New York, N.Y.",mens-soccer,2025
+Oskar Magnusson,M,Sr.,5' 11'',170 lbs,"Reykjavík, Iceland",mens-soccer,2025
+Sebastián Mañón,D,Sr.,6' 0'',180 lbs,"Santo Domingo, Dominican Republic",mens-soccer,2025
+Hudson Kohler,D,Fy.,5' 11'',170 lbs,"Woodside, Calif.",mens-soccer,2025
+Eidur Baldvinsson,F,So.,6' 5'',195 lbs,"Garðabær, Iceland",mens-soccer,2025
+Sam Fenton,D,Sr.,6' 1'',180 lbs,"Mount Laurel, N.J.",mens-soccer,2025
+Matt McPherson,GK,Sr.,6' 1'',185 lbs,"Denver, Colo.",mens-soccer,2025
+James Wilson,F,Sr.,6' 1'',185 lbs,"Toronto, Ontario",mens-soccer,2025
+Bo Oshoniyi,,,,,,mens-soccer,2025
+Raul Vargas,M,Sr.,5' 10'',167 lbs,"Atenas, Costa Rica",mens-soccer,2025
+Ben Bilden,F,Fy.,6' 2'',183 lbs,"New Canaan, Conn.",mens-soccer,2025
 Eidur Baldvinsson,F,Jr.,6' 5'',195 lbs,"Garðabær, Iceland",mens-soccer,2026
 Bo Robbins,M,Fy.,6' 1'',175 lbs,"Nashville, Tenn.",mens-soccer,2026
 Darryl Hage,CB,Fy.,6' 0'',185 lbs,"Pittsfield, Mass.",mens-soccer,2026

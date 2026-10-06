@@ -1,32 +1,10 @@
 name,position,class,height,weight,hometown,sport,year
 Curtis Alter,,Jr.,5' 10'',,"Mamaroneck, N.Y.",rowing,2021
-Grace Paterson,COX,FY,5' 4'',,"Seattle, Wash.",rowing,2021
-Jack Gallagher,,Jr.,6' 0'',,"Newton, Pa.",rowing,2021
-Chris Roman,,FY,,,,rowing,2021
-Ayush Saini,,So.,,,"Mason, Ohio",rowing,2021
-Pedro Santos,,Sr.,5' 10'',,"Lisbon, Portugal",rowing,2021
-Rye Walker,,So.,,,"Cincinnati, Ohio",rowing,2021
-Stone Walker,,FY,,,"Washington, D.C.",rowing,2021
-Michael Ritter,,Sr.,6' 5'',,"Larkspur, Calif.",rowing,2021
-Lucia Nuovo,COX,FY,5' 6'',,"Shelburne, Vt.",rowing,2021
-William West,,So.,,,"Orlando, Fla.",rowing,2021
-Nathaniel Wirth,,FY,,,"Cary, N.C.",rowing,2021
-Peter Woodville,,FY,6' 1'',,"Devon, Pa.",rowing,2021
-Caroline Yu,COX,Sr.,5' 6'',,"Detroit, Mich.",rowing,2021
-Alexandros Zisimidis,,Sr.,5' 8'',,"Limassol, Cyprus",rowing,2021
-Tom Terhaar,,,,,,rowing,2021
-Aidan Walkeryee,,FY,5' 10'',,"Marin, Calif.",rowing,2021
-Sam Weinstein Zimbel,,So.,,,"Toronto, Ontario, Canada",rowing,2021
-Simon Osak,COX,Sr.,5' 7'',,"Toronto, Canada",rowing,2021
-Jackson Gallagher,,So.,,,"Oklahoma City, Okla.",rowing,2021
-Yohann Verma,,FY,,,"Philadelphia, Pa.",rowing,2021
-Stan Mason,,Jr.,6' 1'',,"San Antonio, Texas",rowing,2021
 Dion Ariestanto,COX,Jr.,5' 4'',,"Cincinnati, Ohio",rowing,2021
 Gavin Southerland,,Sr.,6' 0'',,"Vancouver, B.C.",rowing,2021
 Brendan Burbage,,Sr.,5' 10'',,"Bronxville, N.Y.",rowing,2021
 Gil Dexter,,So.,,,"Saratoga Springs, N.Y.",rowing,2021
 Jake Duffy,,Sr.,6' 1'',,"Washington, D.C.",rowing,2021
-Sam Gregoire,,So.,,,"Fairfax, Calif.",rowing,2021
 Reese Gregory,,Jr.,6' 0'',,"Darien, Conn.",rowing,2021
 Aaron Baez,,Jr.,,,"Bronx, N.Y.",rowing,2021
 Tucker McMullen,,Sr.,6' 0'',,"Cincinnati, Ohio",rowing,2021
@@ -39,48 +17,90 @@ Alexandra Mandery,COX,So.,,,"Muttontown, N.Y.",rowing,2021
 Jack Hartman,,Sr.,5' 11'',,"Rye, N.Y.",rowing,2021
 Alptug Kaynar,,FY,,,"Pittsburgh, Pa.",rowing,2021
 Michael Keane,,So.,,,"Victoria, British Columbia, Canada",rowing,2021
-Sam Gregoire,,Jr.,,,"Fairfax, Calif.",rowing,2022
-Grace Paterson,COX,So.,5' 4'',,"Seattle, Wash.",rowing,2022
-Ayush Saini,,Jr.,,,"Mason, Ohio",rowing,2022
-Arnav Sawhney,,Jr.,,,"London, England",rowing,2022
-Ben Sommer,,FY,,,,rowing,2022
-Yohann Verma,,So.,,,"Philadelphia, Pa.",rowing,2022
-Sam Tharp,,FY,6' 0'',,"Dallas, Texas",rowing,2022
-Nitin Rao,,FY,6' 3'',,"Palo Alto, Calif.",rowing,2022
-Kuba Williams,,FY,6' 1'',,"Melbourne, Australia",rowing,2022
-Tom Terhaar,,,,,,rowing,2022
-William West,,Jr.,,,"Orlando, Fla.",rowing,2022
-Aidan Walkeryee,,So.,5' 10'',,"Marin, Calif.",rowing,2022
-Nathaniel Wirth,,So.,,,"Cary, N.C.",rowing,2022
-Josh Wang,,FY,5' 10'',,"Sarasota, Fla.",rowing,2022
-Sam Weinstein Zimbel,,Jr.,,,"Toronto, Ontario, Canada",rowing,2022
-Jack Gallagher,,Sr.,6' 0'',,"Newton, Pa.",rowing,2022
-Tony Valentino,,FY,6' 1'',,"Jacksonville, Fla.",rowing,2022
-Alptug Kaynar,,So.,,,"Pittsburgh, Pa.",rowing,2022
+Stan Mason,,Jr.,6' 1'',,"San Antonio, Texas",rowing,2021
+Yohann Verma,,FY,,,"Philadelphia, Pa.",rowing,2021
+Sam Gregoire,,So.,,,"Fairfax, Calif.",rowing,2021
+Simon Osak,COX,Sr.,5' 7'',,"Toronto, Canada",rowing,2021
+Grace Paterson,COX,FY,5' 4'',,"Seattle, Wash.",rowing,2021
+Jackson Gallagher,,So.,,,"Oklahoma City, Okla.",rowing,2021
+Chris Roman,,FY,,,,rowing,2021
+Ayush Saini,,So.,,,"Mason, Ohio",rowing,2021
+Pedro Santos,,Sr.,5' 10'',,"Lisbon, Portugal",rowing,2021
+Rye Walker,,So.,,,"Cincinnati, Ohio",rowing,2021
+Stone Walker,,FY,,,"Washington, D.C.",rowing,2021
+Michael Ritter,,Sr.,6' 5'',,"Larkspur, Calif.",rowing,2021
+Lucia Nuovo,COX,FY,5' 6'',,"Shelburne, Vt.",rowing,2021
+Jack Gallagher,,Jr.,6' 0'',,"Newton, Pa.",rowing,2021
+Nathaniel Wirth,,FY,,,"Cary, N.C.",rowing,2021
+Peter Woodville,,FY,6' 1'',,"Devon, Pa.",rowing,2021
+Caroline Yu,COX,Sr.,5' 6'',,"Detroit, Mich.",rowing,2021
+Alexandros Zisimidis,,Sr.,5' 8'',,"Limassol, Cyprus",rowing,2021
+Tom Terhaar,,,,,,rowing,2021
+Aidan Walkeryee,,FY,5' 10'',,"Marin, Calif.",rowing,2021
+Sam Weinstein Zimbel,,So.,,,"Toronto, Ontario, Canada",rowing,2021
+William West,,So.,,,"Orlando, Fla.",rowing,2021
 Stone Walker,,So.,6' 4'',,"Washington, D.C.",rowing,2022
 Rye Walker,,Jr.,,,"Cincinnati, Ohio",rowing,2022
 Lucia Nuovo,COX,So.,5' 6'',,"Shelburne, Vt.",rowing,2022
 Eli Bayer,,FY,6' 0'',,"Cincinnati, Ohio",rowing,2022
 Gonzalo Cortes,,FY,6' 0'',,"Miami, Fla",rowing,2022
 Jackson Gallagher,,Jr.,,,"Oklahoma City, Okla.",rowing,2022
-Spencer Fleming,,FY,6' 2'',,"Seattle, Wash.",rowing,2022
 Gil Dexter,,Jr.,,,"Saratoga Springs, N.Y.",rowing,2022
-Michael Keane,,Jr.,,,"Victoria, British Columbia, Canada",rowing,2022
+Olivia McDonald,,So.,,,,rowing,2022
 Caiti Levin,COX,Sr.,,,"Weston, Conn.",rowing,2022
 Reese Gregory,,Sr.,6' 0'',,"Darien, Conn.",rowing,2022
-Olivia McDonald,,So.,,,,rowing,2022
 Alex Kosarek,,So.,6' 3'',,"Charlotte, N.C.",rowing,2022
 Arin Jaff,,FY,5' 11'',,"Kirkland, Wash.",rowing,2022
 Aidan Mahaffey,,Sr.,6' 1'',,"San Mateo, Calif.",rowing,2022
+Alptug Kaynar,,So.,,,"Pittsburgh, Pa.",rowing,2022
+Michael Keane,,Jr.,,,"Victoria, British Columbia, Canada",rowing,2022
+Tony Valentino,,FY,6' 1'',,"Jacksonville, Fla.",rowing,2022
+Spencer Fleming,,FY,6' 2'',,"Seattle, Wash.",rowing,2022
+Sam Weinstein Zimbel,,Jr.,,,"Toronto, Ontario, Canada",rowing,2022
+Jack Gallagher,,Sr.,6' 0'',,"Newton, Pa.",rowing,2022
+Sam Gregoire,,Jr.,,,"Fairfax, Calif.",rowing,2022
+Grace Paterson,COX,So.,5' 4'',,"Seattle, Wash.",rowing,2022
+Ayush Saini,,Jr.,,,"Mason, Ohio",rowing,2022
+Arnav Sawhney,,Jr.,,,"London, England",rowing,2022
+Yohann Verma,,So.,,,"Philadelphia, Pa.",rowing,2022
+Sam Tharp,,FY,6' 0'',,"Dallas, Texas",rowing,2022
+Ben Sommer,,FY,,,,rowing,2022
+Kuba Williams,,FY,6' 1'',,"Melbourne, Australia",rowing,2022
+Tom Terhaar,,,,,,rowing,2022
+William West,,Jr.,,,"Orlando, Fla.",rowing,2022
+Aidan Walkeryee,,So.,5' 10'',,"Marin, Calif.",rowing,2022
+Nathaniel Wirth,,So.,,,"Cary, N.C.",rowing,2022
+Josh Wang,,FY,5' 10'',,"Sarasota, Fla.",rowing,2022
+Nitin Rao,,FY,6' 3'',,"Palo Alto, Calif.",rowing,2022
+Sam Tharp,,So.,6' 0'',,"Dallas, Texas",rowing,2023
+Jaime Biton,,FY,5' 10'',,"Miami, Fla.",rowing,2023
+Grace Paterson,COX,Jr.,5' 4'',,"Seattle, Wash.",rowing,2023
+Ravi Conway,,FY,6' 5'',,"Greenwich, Conn.",rowing,2023
+Amir LaGasse,,FY,5' 8'',,"Newton, Mass.",rowing,2023
+Gonzalo Cortes,,FY,6' 0'',,"Miami, Fla",rowing,2023
+Rasa Audejaitis,COX,Jr.,5' 5'',,"Seattle, Wash.",rowing,2023
+Gil Dexter,,Sr.,,,"Saratoga Springs, N.Y.",rowing,2023
+Alptug Kaynar,,Jr.,,,"Pittsburgh, Pa.",rowing,2023
+Spencer Fleming,,So.,6' 2'',,"Seattle, Wash.",rowing,2023
+Jackson Gallagher,,Sr.,,,"Oklahoma City, Okla.",rowing,2023
+Sam Gregoire,,Sr.,,,"Fairfax, Calif.",rowing,2023
+Reese Gregory,,Sr.,6' 0'',,"Darien, Conn.",rowing,2023
+Edward Habboosh,,FY,5' 11'',,"Hamden, Conn.",rowing,2023
+Arin Jaff,,So.,5' 11'',,"Kirkland, Wash.",rowing,2023
+Sydney England,COX,FY,5' 7'',,"Little Rock, Ark.",rowing,2023
+Caleb Alter,,Jr.,6' 4'',,"Rye, N.Y.",rowing,2023
+Ayush Saini,,Sr.,,,"Mason, Ohio",rowing,2023
+Eli Bayer,,So.,6' 0'',,"Cincinnati, Ohio",rowing,2023
+Nitin Rao,,So.,6' 3'',,"Palo Alto, Calif.",rowing,2023
+Mrin Chilkoti,,FY,5' 10'',,"London, England",rowing,2023
 Michael Keane,,Sr.,,,"Victoria, British Columbia, Canada",rowing,2023
 Arnav Sawhney,,Sr.,,,"London, England",rowing,2023
 Olivia McDonald,COX,Jr.,,,,rowing,2023
 Danny Schaffer,,FY,6' 2'',,"Bradenton, Fla",rowing,2023
-Barnett Pesin,,FY,5' 10'',,"Miami, Fla.",rowing,2023
 Ben Sommer,,So.,,,,rowing,2023
 Finn Regan,,FY,6' 1'',,"London, England",rowing,2023
 Sam Subramaniam,,FY,6' 2'',,"Greenwich, Conn",rowing,2023
-Kuba Williams,,So.,6' 1'',,"Melbourne, Australia",rowing,2023
+Barnett Pesin,,FY,5' 10'',,"Miami, Fla.",rowing,2023
 Tony Valentino,,So.,6' 1'',,"Jacksonville, Fla.",rowing,2023
 Rye Walker,,Sr.,,,"Cincinnati, Ohio",rowing,2023
 Aidan Walkeryee,,Jr.,5' 10'',,"Marin, Calif.",rowing,2023
@@ -88,57 +108,16 @@ Peter Walter,,FY,6' 4'',,"Frankfurt, Germany",rowing,2023
 Josh Wang,,So.,5' 10'',,"Sarasota, Fla.",rowing,2023
 Sam Weinstein Zimbel,,Sr.,,,"Toronto, Ontario, Canada",rowing,2023
 Tom Terhaar,,,,,,rowing,2023
-Nitin Rao,,So.,6' 3'',,"Palo Alto, Calif.",rowing,2023
-Mrin Chilkoti,,FY,5' 10'',,"London, England",rowing,2023
-Ayush Saini,,Sr.,,,"Mason, Ohio",rowing,2023
-Eli Bayer,,So.,6' 0'',,"Cincinnati, Ohio",rowing,2023
-Sam Tharp,,So.,6' 0'',,"Dallas, Texas",rowing,2023
-Grace Paterson,COX,Jr.,5' 4'',,"Seattle, Wash.",rowing,2023
-Ravi Conway,,FY,6' 5'',,"Greenwich, Conn.",rowing,2023
-Amir LaGasse,,FY,5' 8'',,"Newton, Mass.",rowing,2023
-Gonzalo Cortes,,FY,6' 0'',,"Miami, Fla",rowing,2023
-Rasa Audejaitis,COX,Jr.,5' 5'',,"Seattle, Wash.",rowing,2023
-Jaime Biton,,FY,5' 10'',,"Miami, Fla.",rowing,2023
-Gil Dexter,,Sr.,,,"Saratoga Springs, N.Y.",rowing,2023
-Caleb Alter,,Jr.,6' 4'',,"Rye, N.Y.",rowing,2023
-Spencer Fleming,,So.,6' 2'',,"Seattle, Wash.",rowing,2023
-Jackson Gallagher,,Sr.,,,"Oklahoma City, Okla.",rowing,2023
-Sam Gregoire,,Sr.,,,"Fairfax, Calif.",rowing,2023
-Reese Gregory,,Sr.,6' 0'',,"Darien, Conn.",rowing,2023
-Edward Habboosh,,FY,5' 11'',,"Hamden, Conn.",rowing,2023
-Arin Jaff,,So.,5' 11'',,"Kirkland, Wash.",rowing,2023
-Alptug Kaynar,,Jr.,,,"Pittsburgh, Pa.",rowing,2023
-Sydney England,COX,FY,5' 7'',,"Little Rock, Ark.",rowing,2023
-Ethan Lee,,FY,6' 0'',,"Villanova, Pa.",rowing,2024
-Jane Park,COX,FY,5' 3'',,"New York, N.Y.",rowing,2024
-Grace Paterson,COX,Sr.,5' 4'',,"Seattle, Wash.",rowing,2024
-Barnett Pesin,,So.,5' 10'',,"Miami, Fla.",rowing,2024
-Nitin Rao,,Jr.,6' 3'',,"Palo Alto, Calif.",rowing,2024
-Sam Subramaniam,,So.,6' 2'',,"Greenwich, Conn",rowing,2024
-Finn Regan,,So.,6' 1'',,"London, England",rowing,2024
-Danny Schaffer,,So.,6' 2'',,"Bradenton, Fla",rowing,2024
-Ben Sommer,,Jr.,,,,rowing,2024
-Kuba Williams,,Jr.,6' 1'',,"Melbourne, Australia",rowing,2024
-Sam Wilson,,So.,6' 4'',,"Cos Cob, Conn.",rowing,2024
-Ray Wu,COX,FY,5' 10'',,"Toronto, Ontario, Canada",rowing,2024
-Olivia McDonald,COX,Sr.,,,,rowing,2024
-Tony Valentino,,Jr.,6' 1'',,"Jacksonville, Fla.",rowing,2024
-Sam Tharp,,Jr.,6' 0'',,"Dallas, Texas",rowing,2024
-Peter Walter,,So.,6' 4'',,"Frankfurt, Germany",rowing,2024
-Aidan Walkeryee,,Sr.,5' 10'',,"Marin, Calif.",rowing,2024
-Josh Wang,,Jr.,5' 10'',,"Sarasota, Fla.",rowing,2024
-Tom Terhaar,,,,,,rowing,2024
-Amir LaGasse,,So.,5' 8'',,"Newton, Mass.",rowing,2024
-Spencer Fleming,,Jr.,6' 2'',,"Seattle, Wash.",rowing,2024
+Kuba Williams,,So.,6' 1'',,"Melbourne, Australia",rowing,2023
+Sam Allen,,FY,6' 1'',,"Seattle, Wash.",rowing,2024
 Caleb Alter,,Sr.,6' 4'',,"Rye, N.Y.",rowing,2024
 Owen Anawalt,,FY,5' 11'',,"Corte Madera, Calif.",rowing,2024
 Rasa Audejaitis,COX,Sr.,5' 5'',,"Seattle, Wash.",rowing,2024
 Eli Bayer,,Jr.,6' 0'',,"Cincinnati, Ohio",rowing,2024
 Jaime Biton,,So.,5' 10'',,"Miami, Fla.",rowing,2024
 Oscar Bletoux,,FY,5' 11'',,"Navy, France",rowing,2024
-Sam Allen,,FY,6' 1'',,"Seattle, Wash.",rowing,2024
 Mrin Chilkoti,,So.,5' 10'',,"London, England",rowing,2024
-William Gokey,,FY,6' 3'',,"Oyster Bay, N.Y.",rowing,2024
+Ravi Conway,,So.,6' 5'',,"Greenwich, Conn.",rowing,2024
 Edward Habboosh,,So.,5' 11'',,"Hamden, Conn.",rowing,2024
 Arin Jaff,,Jr.,5' 11'',,"Kirkland, Wash.",rowing,2024
 Gonzalo Cortes,,So.,6' 0'',,"Miami, Fla",rowing,2024
@@ -146,36 +125,36 @@ Alptug Kaynar,,Sr.,,,"Pittsburgh, Pa.",rowing,2024
 Sydney England,COX,So.,5' 7'',,"Little Rock, Ark.",rowing,2024
 James Dodman,,FY,5' 11'',,"Buffalo, N.Y.",rowing,2024
 Owen Geiger,,FY,6' 2'',,"Portland, Ore.",rowing,2024
-Ravi Conway,,So.,6' 5'',,"Greenwich, Conn.",rowing,2024
-Diya Mullick,COX,FY,5' 3'',,"Bethesda, Md.",rowing,2025
-Nikola Nacic,,FY,6' 1'',,"Belgrade, Serbia",rowing,2025
-Jane Park,COX,So.,5' 3'',,"New York, N.Y.",rowing,2025
-Amir LaGasse,,Jr.,5' 8'',,"Newton, Mass.",rowing,2025
-Diego Lasso,,FY,6' 0'',,"Los Gatos, C.A.",rowing,2025
-Avril Callanan,,FY,5' 0'',,"Montclair, NJ.",rowing,2025
-Paul Josenhans,,FY,,,"Frankfurt, Germany",rowing,2025
-Brendan Savell,,FY,5' 11'',,"Haddon Township, NJ.",rowing,2025
-Danny Schaffer,,Jr.,6' 2'',,"Bradenton, Fla",rowing,2025
-Ben Sommer,,Sr.,,,,rowing,2025
-Adi Timblo,,FY,5' 8'',,"London, United Kingdom",rowing,2025
-Tony Valentino,,Sr.,6' 1'',,"Jacksonville, Fla.",rowing,2025
-Josh Wang,,Sr.,5' 10'',,"Sarasota, Fla.",rowing,2025
-Andrew Kim,,Jr.,5' 11'',,"Seoul, South Korea",rowing,2025
-George Pesin,,FY,5' 11'',,"Miami, F.L",rowing,2025
-James Moncur,,So.,,,,rowing,2025
-Ethan Lee,,So.,6' 0'',,"Villanova, Pa.",rowing,2025
-Dillon Chen,,FY,6' 3'',,"Franconia, N.H.",rowing,2025
-Nitin Rao,,Sr.,6' 3'',,"Palo Alto, Calif.",rowing,2025
-Eli Bayer,,Sr.,6' 0'',,"Cincinnati, Ohio",rowing,2025
+Spencer Fleming,,Jr.,6' 2'',,"Seattle, Wash.",rowing,2024
+William Gokey,,FY,6' 3'',,"Oyster Bay, N.Y.",rowing,2024
+Amir LaGasse,,So.,5' 8'',,"Newton, Mass.",rowing,2024
+Ethan Lee,,FY,6' 0'',,"Villanova, Pa.",rowing,2024
+Josh Wang,,Jr.,5' 10'',,"Sarasota, Fla.",rowing,2024
+Jane Park,COX,FY,5' 3'',,"New York, N.Y.",rowing,2024
+Grace Paterson,COX,Sr.,5' 4'',,"Seattle, Wash.",rowing,2024
+Barnett Pesin,,So.,5' 10'',,"Miami, Fla.",rowing,2024
+Nitin Rao,,Jr.,6' 3'',,"Palo Alto, Calif.",rowing,2024
+Finn Regan,,So.,6' 1'',,"London, England",rowing,2024
+Danny Schaffer,,So.,6' 2'',,"Bradenton, Fla",rowing,2024
+Ben Sommer,,Jr.,,,,rowing,2024
+Sam Subramaniam,,So.,6' 2'',,"Greenwich, Conn",rowing,2024
+Sam Wilson,,So.,6' 4'',,"Cos Cob, Conn.",rowing,2024
+Ray Wu,COX,FY,5' 10'',,"Toronto, Ontario, Canada",rowing,2024
+Olivia McDonald,COX,Sr.,,,,rowing,2024
+Tony Valentino,,Jr.,6' 1'',,"Jacksonville, Fla.",rowing,2024
+Sam Tharp,,Jr.,6' 0'',,"Dallas, Texas",rowing,2024
+Peter Walter,,So.,6' 4'',,"Frankfurt, Germany",rowing,2024
+Aidan Walkeryee,,Sr.,5' 10'',,"Marin, Calif.",rowing,2024
+Kuba Williams,,Jr.,6' 1'',,"Melbourne, Australia",rowing,2024
+Tom Terhaar,,,,,,rowing,2024
+Arin Jaff,,Sr.,5' 11'',,"Kirkland, Wash.",rowing,2025
 Andrew Blelloch,,Sr.,6' 3'',,"San Francisco, Calif.",rowing,2025
 Oscar Bletoux,,So.,5' 11'',,"Navy, France",rowing,2025
 Sam Allen,,So.,6' 1'',,"Seattle, Wash.",rowing,2025
 Owen Anawalt,,So.,5' 11'',,"Corte Madera, Calif.",rowing,2025
 Tom Terhaar,,,,,,rowing,2025
 Barnett Pesin,,Jr.,5' 10'',,"Miami, Fla.",rowing,2025
-Arin Jaff,,Sr.,5' 11'',,"Kirkland, Wash.",rowing,2025
-Tina Cho,COX,FY,5' 4'',,"Fort Lee, N.J.",rowing,2025
-Liam Bauchspies,,FY,6' 2'',,"Warrenton, Va.",rowing,2025
+Ross Claytor,,Jr.,5' 7'',,"Winston-Salem, N.C.",rowing,2025
 Gonzalo Cortes,,Jr.,6' 0'',,"Miami, Fla",rowing,2025
 James Dodman,,So.,5' 11'',,"Buffalo, N.Y.",rowing,2025
 Patrick Finnerty,,FY,6' 3'',,"Ardmore, PA.",rowing,2025
@@ -183,7 +162,28 @@ Owen Geiger,,So.,6' 2'',,"Portland, Ore.",rowing,2025
 William Gokey,,So.,6' 3'',,"Oyster Bay, N.Y.",rowing,2025
 Ethan Holmes,,FY,6' 3'',,"Flourtown, PA.",rowing,2025
 Jaime Biton,,Jr.,5' 10'',,"Miami, Fla.",rowing,2025
-Ross Claytor,,Jr.,5' 7'',,"Winston-Salem, N.C.",rowing,2025
+Eli Bayer,,Sr.,6' 0'',,"Cincinnati, Ohio",rowing,2025
+Liam Bauchspies,,FY,6' 2'',,"Warrenton, Va.",rowing,2025
+Nitin Rao,,Sr.,6' 3'',,"Palo Alto, Calif.",rowing,2025
+Tina Cho,COX,FY,5' 4'',,"Fort Lee, N.J.",rowing,2025
+Ethan Lee,,So.,6' 0'',,"Villanova, Pa.",rowing,2025
+Diya Mullick,COX,FY,5' 3'',,"Bethesda, Md.",rowing,2025
+Nikola Nacic,,FY,6' 1'',,"Belgrade, Serbia",rowing,2025
+Jane Park,COX,So.,5' 3'',,"New York, N.Y.",rowing,2025
+Amir LaGasse,,Jr.,5' 8'',,"Newton, Mass.",rowing,2025
+Dillon Chen,,FY,6' 3'',,"Franconia, N.H.",rowing,2025
+Avril Callanan,,FY,5' 0'',,"Montclair, NJ.",rowing,2025
+Paul Josenhans,,FY,,,"Frankfurt, Germany",rowing,2025
+Brendan Savell,,FY,5' 11'',,"Haddon Township, NJ.",rowing,2025
+Diego Lasso,,FY,6' 0'',,"Los Gatos, C.A.",rowing,2025
+Ben Sommer,,Sr.,,,,rowing,2025
+Adi Timblo,,FY,5' 8'',,"London, United Kingdom",rowing,2025
+Tony Valentino,,Sr.,6' 1'',,"Jacksonville, Fla.",rowing,2025
+Josh Wang,,Sr.,5' 10'',,"Sarasota, Fla.",rowing,2025
+Andrew Kim,,Jr.,5' 11'',,"Seoul, South Korea",rowing,2025
+George Pesin,,FY,5' 11'',,"Miami, F.L",rowing,2025
+James Moncur,,So.,,,,rowing,2025
+Danny Schaffer,,Jr.,6' 2'',,"Bradenton, Fla",rowing,2025
 Diego Lasso,,So.,6' 0'',,"Los Gatos, C.A.",rowing,2026
 Ethan Lee,,Jr.,6' 0'',,"Villanova, Pa.",rowing,2026
 Dean Metropoulos,,FY,5' 10'',,"Wilton, Conn.",rowing,2026

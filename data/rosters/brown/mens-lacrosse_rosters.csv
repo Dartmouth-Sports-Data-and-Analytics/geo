@@ -1,34 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Nicholas Cioe,D,R-Sr.,5' 8'',155 lbs,"Cranston, RI",mens-lacrosse,2021
-Connor Theriault,G,So.,5' 7'',210 lbs,"Mount Hermon, Mass.",mens-lacrosse,2021
-Cameron Fiore,G,Sr.,6' 1'',190 lbs,"Long Valley, N.J.",mens-lacrosse,2021
-Henry Niehaus,M,Fr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2021
-Oscar Hertz,D,Jr.,6' 4'',210 lbs,"La Jolla, Calif.",mens-lacrosse,2021
-JP Lannig,A,Sr.,5' 11'',190 lbs,"Syosset, N.Y.",mens-lacrosse,2021
-Mark Witt,D,So.,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2021
-Christian Rasmussen,A,Fr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2021
-Griffin King,M,Jr.,6' 2'',215 lbs,"Niskayuna, N.Y.",mens-lacrosse,2021
-Ben Locke,A,So.,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2021
-Colin Hart,D,Jr.,6' 1'',175 lbs,"Garden City, N.Y.",mens-lacrosse,2021
-Tyler Blackburn,D,Fr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2021
-Curtis Russo,A,So.,5' 11'',195 lbs,"Sayville, N.Y.",mens-lacrosse,2021
-Trevor Glavin,A,Jr.,5' 11'',190 lbs,"Mountain Lakes, N.J.",mens-lacrosse,2021
-Nolen Rockefeller,M,Sr.,6' 3'',210 lbs,"New York, N.Y.",mens-lacrosse,2021
-Wells Bligh,A,Fr.,6' 1'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2021
-Spencer Graham,FO,Sr.,5' 10'',185 lbs,"New York, N.Y.",mens-lacrosse,2021
-Ben Palin,D,Jr.,5' 10'',190 lbs,"New York, N.Y.",mens-lacrosse,2021
-Matthew Gunty,FO,Jr.,5' 10'',180 lbs,"Bethesda, Md.",mens-lacrosse,2021
-Eric Raguin,A,So.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2021
-Zander Valentini,D,So.,6' 0'',190 lbs,"Jupiter, Fla.",mens-lacrosse,2021
-Jake Demert,D,Fr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2021
-Forrest Demetri,A,Fr.,5' 8'',180 lbs,"Glen Head, N.Y.",mens-lacrosse,2021
-Dash Sachs,FO,Fr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2021
-Isaac Sacks,LSM,So.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2021
-Mike Daly,,,,,,mens-lacrosse,2021
-Devon McLane,A,Jr.,5' 11'',185 lbs,"Westfield, N.J.",mens-lacrosse,2021
-Topher Bligh,M,Jr.,5' 10'',175 lbs,"San Francisco, Calif.",mens-lacrosse,2021
-Ryan Aughavin,M,Sr.,6' 0'',195 lbs,"Glen Head, N.Y.",mens-lacrosse,2021
-Colby Gendron,M,Sr.,6' 7'',245 lbs,"Bedford, N.H.",mens-lacrosse,2021
 Brandon Bergner,M,Fr.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2021
 Darian Cook,A,Sr.,6' 1'',175 lbs,"Redding, Conn.",mens-lacrosse,2021
 George Pike,M,Sr.,6' 0'',210 lbs,"Woodside, Calif.",mens-lacrosse,2021
@@ -39,7 +10,6 @@ Greyson Wolfram,M,Sr.,6' 4'',210 lbs,"Riverside, Conn.",mens-lacrosse,2021
 Porter Hollen,M,So.,6' 0'',180 lbs,"San Diego, Calif.",mens-lacrosse,2021
 Andrew Geppert,D,Sr.,6' 1'',200 lbs,"Dover, N.H.",mens-lacrosse,2021
 Jack Kelly,M,So.,6' 4'',200 lbs,"Zionsville, Ind.",mens-lacrosse,2021
-Bryan Anderson,LSM,Fr.,6' 0'',190 lbs,"Westwood, Mass.",mens-lacrosse,2021
 Andy Demopoulos,G,Fr.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2021
 Logan Paff,M,Jr.,6' 3'',195 lbs,"Towson, Md.",mens-lacrosse,2021
 Scotty Hilgartner,D,Fr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2021
@@ -55,6 +25,65 @@ Luke Gaydos,D,Sr.,5' 11'',185 lbs,"Ridgefield, Conn.",mens-lacrosse,2021
 Eli Butler,M,Jr.,6' 1'',185 lbs,"Poway, Calif.",mens-lacrosse,2021
 Patrick O'Neill,D,Jr.,6' 1'',175 lbs,"East Setauket, N.Y.",mens-lacrosse,2021
 Reed Moshyedi,M,Sr.,6' 4'',220 lbs,"Potomac, Md.",mens-lacrosse,2021
+Colby Gendron,M,Sr.,6' 7'',245 lbs,"Bedford, N.H.",mens-lacrosse,2021
+Ryan Aughavin,M,Sr.,6' 0'',195 lbs,"Glen Head, N.Y.",mens-lacrosse,2021
+Bryan Anderson,LSM,Fr.,6' 0'',190 lbs,"Westwood, Mass.",mens-lacrosse,2021
+Devon McLane,A,Jr.,5' 11'',185 lbs,"Westfield, N.J.",mens-lacrosse,2021
+Topher Bligh,M,Jr.,5' 10'',175 lbs,"San Francisco, Calif.",mens-lacrosse,2021
+Cameron Fiore,G,Sr.,6' 1'',190 lbs,"Long Valley, N.J.",mens-lacrosse,2021
+Henry Niehaus,M,Fr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2021
+Oscar Hertz,D,Jr.,6' 4'',210 lbs,"La Jolla, Calif.",mens-lacrosse,2021
+JP Lannig,A,Sr.,5' 11'',190 lbs,"Syosset, N.Y.",mens-lacrosse,2021
+Mark Witt,D,So.,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2021
+Christian Rasmussen,A,Fr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2021
+Griffin King,M,Jr.,6' 2'',215 lbs,"Niskayuna, N.Y.",mens-lacrosse,2021
+Ben Locke,A,So.,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2021
+Colin Hart,D,Jr.,6' 1'',175 lbs,"Garden City, N.Y.",mens-lacrosse,2021
+Tyler Blackburn,D,Fr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2021
+Curtis Russo,A,So.,5' 11'',195 lbs,"Sayville, N.Y.",mens-lacrosse,2021
+Trevor Glavin,A,Jr.,5' 11'',190 lbs,"Mountain Lakes, N.J.",mens-lacrosse,2021
+Connor Theriault,G,So.,5' 7'',210 lbs,"Mount Hermon, Mass.",mens-lacrosse,2021
+Wells Bligh,A,Fr.,6' 1'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2021
+Nolen Rockefeller,M,Sr.,6' 3'',210 lbs,"New York, N.Y.",mens-lacrosse,2021
+Isaac Sacks,LSM,So.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2021
+Dash Sachs,FO,Fr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2021
+Forrest Demetri,A,Fr.,5' 8'',180 lbs,"Glen Head, N.Y.",mens-lacrosse,2021
+Jake Demert,D,Fr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2021
+Mike Daly,,,,,,mens-lacrosse,2021
+Eric Raguin,A,So.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2021
+Matthew Gunty,FO,Jr.,5' 10'',180 lbs,"Bethesda, Md.",mens-lacrosse,2021
+Ben Palin,D,Jr.,5' 10'',190 lbs,"New York, N.Y.",mens-lacrosse,2021
+Spencer Graham,FO,Sr.,5' 10'',185 lbs,"New York, N.Y.",mens-lacrosse,2021
+Zander Valentini,D,So.,6' 0'',190 lbs,"Jupiter, Fla.",mens-lacrosse,2021
+Ryan Behrens,M,So.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2022
+Luke Dellicicchi,A,Fr.,5' 7'',160 lbs,"Locust Valley, N.Y.",mens-lacrosse,2022
+Jake Demert,D,So.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2022
+Kevin Sweeney,M,Jr.,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2022
+Luke Colannino,,Fr.,,,"Warwick, R.I.",mens-lacrosse,2022
+Curtis Russo,A,Jr.,5' 11'',195 lbs,"Sayville, N.Y.",mens-lacrosse,2022
+Jack Kelly,M,Jr.,6' 5'',210 lbs,"Zionsville, Ind.",mens-lacrosse,2022
+Andy Demopoulos,G,So.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2022
+Topher Bligh,M,Sr.,5' 10'',175 lbs,"San Francisco, Calif.",mens-lacrosse,2022
+Eli Butler,M,Sr.,6' 1'',185 lbs,"Poway, Calif.",mens-lacrosse,2022
+Teagan Bultman,M,Jr.,5' 11'',195 lbs,"San Diego, Calif.",mens-lacrosse,2022
+Porter Hollen,M,Jr.,6' 0'',180 lbs,"San Diego, Calif.",mens-lacrosse,2022
+Forrest Demetri,A,So.,5' 9'',180 lbs,"Glen Head, N.Y.",mens-lacrosse,2022
+Logan Paff,M,Sr.,6' 3'',195 lbs,"Towson, Md.",mens-lacrosse,2022
+Spencer Hughes,M,So.,6' 3'',180 lbs,"Rockville, Md.",mens-lacrosse,2022
+George Wandoff,D,Fr.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2022
+Marcus Wertheim,M,Fr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2022
+Trevor Yeboah-Kodie,M,Sr.,6' 0'',205 lbs,"Garden City, N.Y.",mens-lacrosse,2022
+Drew Morris,M,Fr.,6' 3'',215 lbs,"Bronxville, N.Y.",mens-lacrosse,2022
+Tanner Burns,M,So.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2022
+Gibson Linnehan,D,So.,5' 11'',190 lbs,"Pennington, N.J.",mens-lacrosse,2022
+Samari Staten,M,Fr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2022
+Charlie Cave,D,Fr.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2022
+Henry Niehaus,M,So.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2022
+Brandon Bergner,M,So.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2022
+Teddy Rockefeller,M,Fr.,6' 0'',205 lbs,"New York, N.Y.",mens-lacrosse,2022
+Griffin King,M,Sr.,6' 2'',215 lbs,"Niskayuna, N.Y.",mens-lacrosse,2022
+Trevor Glavin,A,Sr.,5' 11'',190 lbs,"Mountain Lakes, N.J.",mens-lacrosse,2022
+PJ Behan,M,Fr.,6' 2'',190 lbs,"St. Louis, Mo.",mens-lacrosse,2022
 Brosnan Lopez,G,Fr.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2022
 Ben Palin,D,Sr.,5' 10'',190 lbs,"New York, N.Y.",mens-lacrosse,2022
 Ben Locke,A,Jr.,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2022
@@ -62,94 +91,36 @@ Mark Witt,D,Jr.,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2022
 Tyler Blackburn,D,So.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2022
 Oscar Hertz,D,Sr.,6' 4'',210 lbs,"La Jolla, Calif.",mens-lacrosse,2022
 Colin Hart,D,Sr.,6' 1'',175 lbs,"Garden City, N.Y.",mens-lacrosse,2022
-Harry Laferriere,G,Fr.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2022
 Scotty Hilgartner,D,So.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2022
 Zander Valentini,D,Jr.,6' 0'',190 lbs,"Jupiter, Fla.",mens-lacrosse,2022
 Christian Rasmussen,A,So.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2022
-Griffin King,M,Sr.,6' 2'',215 lbs,"Niskayuna, N.Y.",mens-lacrosse,2022
 John Parsons,D,Jr.,6' 5'',235 lbs,"Hanover, N.H.",mens-lacrosse,2022
-Devon McLane,A,Sr.,5' 11'',185 lbs,"Westfield, N.J.",mens-lacrosse,2022
-Matteo Corsi,A/M,So.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2022
-Eric Raguin,A,Jr.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2022
-Trey Taylor,D,Fr.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2022
-Wells Bligh,A,So.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2022
-Dash Sachs,FO,So.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2022
-Isaac Sacks,LSM,Jr.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2022
-Mike Daly,,,,,,mens-lacrosse,2022
-Aidan McLane,A/M,So.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2022
-Matthew Gunty,FO,Sr.,5' 10'',180 lbs,"Bethesda, Md.",mens-lacrosse,2022
+Harry Laferriere,G,Fr.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2022
 Kieran Anzelone,M,Fr.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2022
 Connor Theriault,G,Jr.,5' 7'',210 lbs,"Mount Hermon, Mass.",mens-lacrosse,2022
-Trevor Glavin,A,Sr.,5' 11'',190 lbs,"Mountain Lakes, N.J.",mens-lacrosse,2022
-PJ Behan,M,Fr.,6' 2'',190 lbs,"St. Louis, Mo.",mens-lacrosse,2022
-Teddy Rockefeller,M,Fr.,6' 0'',205 lbs,"New York, N.Y.",mens-lacrosse,2022
-Henry Niehaus,M,So.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2022
-Kevin Sweeney,M,Jr.,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2022
-Topher Bligh,M,Sr.,5' 10'',175 lbs,"San Francisco, Calif.",mens-lacrosse,2022
-Andy Demopoulos,G,So.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2022
-Jack Kelly,M,Jr.,6' 5'',210 lbs,"Zionsville, Ind.",mens-lacrosse,2022
-Curtis Russo,A,Jr.,5' 11'',195 lbs,"Sayville, N.Y.",mens-lacrosse,2022
-Teagan Bultman,M,Jr.,5' 11'',195 lbs,"San Diego, Calif.",mens-lacrosse,2022
-Luke Colannino,,Fr.,,,"Warwick, R.I.",mens-lacrosse,2022
-Jake Demert,D,So.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2022
-Luke Dellicicchi,A,Fr.,5' 7'',160 lbs,"Locust Valley, N.Y.",mens-lacrosse,2022
-Ryan Behrens,M,So.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2022
-Eli Butler,M,Sr.,6' 1'',185 lbs,"Poway, Calif.",mens-lacrosse,2022
-Porter Hollen,M,Jr.,6' 0'',180 lbs,"San Diego, Calif.",mens-lacrosse,2022
-Brandon Bergner,M,So.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2022
-Logan Paff,M,Sr.,6' 3'',195 lbs,"Towson, Md.",mens-lacrosse,2022
-Spencer Hughes,M,So.,6' 3'',180 lbs,"Rockville, Md.",mens-lacrosse,2022
-George Wandoff,D,Fr.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2022
-Marcus Wertheim,M,Fr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2022
-Forrest Demetri,A,So.,5' 9'',180 lbs,"Glen Head, N.Y.",mens-lacrosse,2022
-Trevor Yeboah-Kodie,M,Sr.,6' 0'',205 lbs,"Garden City, N.Y.",mens-lacrosse,2022
-Drew Morris,M,Fr.,6' 3'',215 lbs,"Bronxville, N.Y.",mens-lacrosse,2022
-Tanner Burns,M,So.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2022
-Gibson Linnehan,D,So.,5' 11'',190 lbs,"Pennington, N.J.",mens-lacrosse,2022
-Samari Staten,M,Fr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2022
-Charlie Cave,D,Fr.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2022
-Felix Rockefeller,M,Fr.,6' 4'',205 lbs,"New York, N.Y.",mens-lacrosse,2023
-Brosnan Lopez,G,So.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2023
-Christian Rasmussen,A,Jr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2023
-Colin Hart,D,Sr.,6' 1'',175 lbs,"Garden City, N.Y.",mens-lacrosse,2023
-Mark Witt,D,Sr.,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2023
-Gibson Linnehan,D,Jr.,5' 11'',190 lbs,"Pennington, N.J.",mens-lacrosse,2023
-Harry Laferriere,G,So.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2023
-Scotty Hilgartner,D,Jr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2023
-Kieran Anzelone,M,So.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2023
-Connor Foley,G,Fr.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2023
-Henry Niehaus,M,Jr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2023
-Brandon Bergner,M,Jr.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2023
-Isaac Sacks,LSM,Sr.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2023
-Aidan McLane,A/M,Jr.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2023
-Trey Taylor,D,So.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2023
-Wells Bligh,A,Jr.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2023
-John Parsons,D,Sr.,6' 5'',235 lbs,"Hanover, N.H.",mens-lacrosse,2023
-Murphy Paul,M,Fr.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2023
-Ben Scandone,M,So.,5' 9'',180 lbs,"Allentown, Pa.",mens-lacrosse,2023
-Eric Raguin,A,Sr.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2023
-Matteo Corsi,A/M,Jr.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2023
-Brady O'Sullivan,D,Fr.,6' 4'',220 lbs,"Madison, N.J.",mens-lacrosse,2023
-Jeremy Hopsicker,A,So.,6' 3'',210 lbs,"Brockport, N.Y.",mens-lacrosse,2023
-Dash Sachs,FO,Jr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2023
-Tyler Blackburn,D,Jr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2023
-Ben Locke,A,Sr.,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2023
-Charlie Cave,D,So.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2023
-Zander Valentini,D,Sr.,6' 0'',190 lbs,"Jupiter, Fla.",mens-lacrosse,2023
-PJ Behan,M,So.,6' 2'',205 lbs,"St. Louis, Mo.",mens-lacrosse,2023
-Henry Brayer,FO/M,Fr.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2023
-Ethan Rubenstein,A/M,Fr.,5' 10'',175 lbs,"Fort Lauderdale, Fla.",mens-lacrosse,2023
-Jack Kelly,M,Sr.,6' 5'',210 lbs,"Zionsville, Ind.",mens-lacrosse,2023
-Luke Colannino,,So.,,,"Warwick, R.I.",mens-lacrosse,2023
-Andy Demopoulos,G,Jr.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2023
-Ryan Behrens,M,Jr.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2023
+Devon McLane,A,Sr.,5' 11'',185 lbs,"Westfield, N.J.",mens-lacrosse,2022
+Matthew Gunty,FO,Sr.,5' 10'',180 lbs,"Bethesda, Md.",mens-lacrosse,2022
+Aidan McLane,A/M,So.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2022
+Isaac Sacks,LSM,Jr.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2022
+Mike Daly,,,,,,mens-lacrosse,2022
+Wells Bligh,A,So.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2022
+Trey Taylor,D,Fr.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2022
+Eric Raguin,A,Jr.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2022
+Matteo Corsi,A/M,So.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2022
+Dash Sachs,FO,So.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2022
 Jon Torpey,,,,,,mens-lacrosse,2023
-Jake Demert,D,Jr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2023
-Kevin Sweeney,M,Sr.,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2023
 Curtis Russo,A,Sr.,5' 11'',195 lbs,"Sayville, N.Y.",mens-lacrosse,2023
+Kevin Sweeney,M,Sr.,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2023
+Jake Demert,D,Jr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2023
+Ryan Behrens,M,Jr.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2023
+Henry Brayer,FO/M,Fr.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2023
+Luke Colannino,,So.,,,"Warwick, R.I.",mens-lacrosse,2023
+Jack Kelly,M,Sr.,6' 5'',210 lbs,"Zionsville, Ind.",mens-lacrosse,2023
+Ethan Rubenstein,A/M,Fr.,5' 10'',175 lbs,"Fort Lauderdale, Fla.",mens-lacrosse,2023
 Jackson Wolfram,A,Fr.,6' 1'',185 lbs,"Riverside, Conn.",mens-lacrosse,2023
+Andy Demopoulos,G,Jr.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2023
 Connor Theriault,G,Sr.,5' 7'',210 lbs,"Mount Hermon, Mass.",mens-lacrosse,2023
-Porter Hollen,M,Sr.,6' 0'',180 lbs,"San Diego, Calif.",mens-lacrosse,2023
+Tanner Burns,M,Jr.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2023
 Marcus Wertheim,M,So.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2023
 Oliver Bligh,M,Fr.,5' 11'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2023
 Spencer Hughes,M,Jr.,6' 3'',180 lbs,"Rockville, Md.",mens-lacrosse,2023
@@ -161,54 +132,51 @@ Teagan Bultman,M,Sr.,5' 11'',195 lbs,"San Diego, Calif.",mens-lacrosse,2023
 George Wandoff,D,So.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2023
 Ben Bavar,LSM,Fr.,6' 2'',190 lbs,"Owings Mills, Md.",mens-lacrosse,2023
 Drew Morris,M,So.,6' 3'',215 lbs,"Bronxville, N.Y.",mens-lacrosse,2023
-Tanner Burns,M,Jr.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2023
+PJ Behan,M,So.,6' 2'',205 lbs,"St. Louis, Mo.",mens-lacrosse,2023
+Porter Hollen,M,Sr.,6' 0'',180 lbs,"San Diego, Calif.",mens-lacrosse,2023
+Zander Valentini,D,Sr.,6' 0'',190 lbs,"Jupiter, Fla.",mens-lacrosse,2023
 Matthew Bockelmann,LSM,Fr.,6' 0'',180 lbs,"Fairhaven, N.J.",mens-lacrosse,2023
-Jeremy Hopsicker,A,Jr.,6' 3'',210 lbs,"Brockport, N.Y.",mens-lacrosse,2024
-Ben Locke,A,5th,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2024
-Owen Richter,D,Fr.,6' 1'',200 lbs,"Lincroft, N.J.",mens-lacrosse,2024
-Henry Niehaus,M,Sr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2024
-Wells Bligh,A,Sr.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2024
-Matteo Corsi,A/M,Sr.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2024
-Connor Foley,G,So.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2024
-Scotty Hilgartner,D,Sr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2024
-Christian Rasmussen,A,Sr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2024
-Brandon Bergner,M,Sr.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2024
-Andy Demopoulos,G,Sr.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2024
-Aidan McLane,A/M,Sr.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2024
-Trey Taylor,D,Jr.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2024
-Matteo Rottura,M,Fr.,5' 9'',180 lbs,"Wilmington, Del.",mens-lacrosse,2024
-Kyle Bilello,M,Fr.,5' 9'',170 lbs,"Amityville, N.Y.",mens-lacrosse,2024
-Ryan Pels,SSDM,Fr.,6' 2'',195 lbs,"Bethesda, Md.",mens-lacrosse,2024
-Brady O'Kane,A,Fr.,6' 1'',180 lbs,"West Chester, Pa.",mens-lacrosse,2024
-Michael Moon,FO,Fr.,5' 10'',175 lbs,"Manhasset, N.Y.",mens-lacrosse,2024
-Anthony Noto,SSDM,Fr.,6' 0'',195 lbs,"Atherton, Calif.",mens-lacrosse,2024
-Brady O'Sullivan,D,So.,6' 4'',220 lbs,"Madison, N.J.",mens-lacrosse,2024
-Murphy Paul,M,So.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2024
-Mark Witt,D,5th,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2024
-Alex Fontecchio,FO/M,Fr.,5' 9'',175 lbs,"Englewood Cliffs, N.J.",mens-lacrosse,2024
-Dash Sachs,FO,Sr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2024
-Isaac Sacks,LSM,5th,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2024
-Tucker Williams,G,Fr.,6' 0'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2024
-Jon Torpey,,,,,,mens-lacrosse,2024
-Max Warden,A,Fr.,5' 10'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2024
-Henry Brayer,FO/M,So.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2024
-Tanner Burns,M,Sr.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2024
-Michael Dowd,D,Fr.,6' 2'',185 lbs,"Ridgefield, Conn.",mens-lacrosse,2024
-Spencer Hughes,M,Sr.,6' 3'',180 lbs,"Rockville, Md.",mens-lacrosse,2024
-Ennis Udo,A,Fr.,6' 2'',205 lbs,"West Chester, Pa.",mens-lacrosse,2024
-Jackson Wolfram,A,So.,6' 1'',185 lbs,"Riverside, Conn.",mens-lacrosse,2024
-Tyler Blackburn,D,Sr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2024
+Ben Locke,A,Sr.,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2023
+Charlie Cave,D,So.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2023
+Felix Rockefeller,M,Fr.,6' 4'',205 lbs,"New York, N.Y.",mens-lacrosse,2023
+Brosnan Lopez,G,So.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2023
+Christian Rasmussen,A,Jr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2023
+Colin Hart,D,Sr.,6' 1'',175 lbs,"Garden City, N.Y.",mens-lacrosse,2023
+Mark Witt,D,Sr.,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2023
+Gibson Linnehan,D,Jr.,5' 11'',190 lbs,"Pennington, N.J.",mens-lacrosse,2023
+Scotty Hilgartner,D,Jr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2023
+Kieran Anzelone,M,So.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2023
+Connor Foley,G,Fr.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2023
+Henry Niehaus,M,Jr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2023
+Brandon Bergner,M,Jr.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2023
+Harry Laferriere,G,So.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2023
+Aidan McLane,A/M,Jr.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2023
+Isaac Sacks,LSM,Sr.,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2023
+Dash Sachs,FO,Jr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2023
+Jeremy Hopsicker,A,So.,6' 3'',210 lbs,"Brockport, N.Y.",mens-lacrosse,2023
+Brady O'Sullivan,D,Fr.,6' 4'',220 lbs,"Madison, N.J.",mens-lacrosse,2023
+Matteo Corsi,A/M,Jr.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2023
+Eric Raguin,A,Sr.,6' 2'',185 lbs,"Acton, Mass.",mens-lacrosse,2023
+Tyler Blackburn,D,Jr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2023
+Murphy Paul,M,Fr.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2023
+John Parsons,D,Sr.,6' 5'',235 lbs,"Hanover, N.H.",mens-lacrosse,2023
+Wells Bligh,A,Jr.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2023
+Trey Taylor,D,So.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2023
+Ben Scandone,M,So.,5' 9'',180 lbs,"Allentown, Pa.",mens-lacrosse,2023
+Samari Staten,M,Jr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2024
+Ryan Behrens,M,Sr.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2024
+Kevin Sweeney,M,5th,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2024
+Brosnan Lopez,G,Jr.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2024
+Marcus Wertheim,M,Jr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2024
+Jake Demert,D,Sr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2024
 PJ Behan,M,Jr.,6' 2'',205 lbs,"St. Louis, Mo.",mens-lacrosse,2024
 Teagan Bultman,M,5th,5' 11'',195 lbs,"San Diego, Calif.",mens-lacrosse,2024
+Tyler Blackburn,D,Sr.,6' 0'',195 lbs,"La Jolla, Calif.",mens-lacrosse,2024
+Jackson Wolfram,A,So.,6' 1'',185 lbs,"Riverside, Conn.",mens-lacrosse,2024
+Ennis Udo,A,Fr.,6' 2'',205 lbs,"West Chester, Pa.",mens-lacrosse,2024
 Cole Frood,M,Fr.,6' 2'',185 lbs,"Davidson, N.C.",mens-lacrosse,2024
-Jake Demert,D,Sr.,6' 0'',205 lbs,"Bay Shore, N.Y.",mens-lacrosse,2024
-Marcus Wertheim,M,Jr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2024
-Brosnan Lopez,G,Jr.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2024
-Kevin Sweeney,M,5th,5' 10'',190 lbs,"Mount Sinai, N.Y.",mens-lacrosse,2024
-Ryan Behrens,M,Sr.,5' 11'',160 lbs,"West Islip, N.Y.",mens-lacrosse,2024
-Samari Staten,M,Jr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2024
 Oliver Bligh,M,So.,5' 11'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2024
-Harry Laferriere,G,Jr.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2024
+Kieran Anzelone,M,Jr.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2024
 George Wandoff,D,Jr.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2024
 Kurt Dillmeier,D/LSM,Fr.,6' 1'',200 lbs,"Manhasset, N.Y.",mens-lacrosse,2024
 Ben Scandone,M,Jr.,5' 9'',180 lbs,"Allentown, Pa.",mens-lacrosse,2024
@@ -221,21 +189,80 @@ Forrest Demetri,A,Sr.,5' 9'',180 lbs,"Glen Head, N.Y.",mens-lacrosse,2024
 Charlie Cave,D,Jr.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2024
 Luke Dellicicchi,A,Jr.,5' 7'',160 lbs,"Locust Valley, N.Y.",mens-lacrosse,2024
 Gibson Linnehan,D,Sr.,5' 11'',190 lbs,"Pennington, N.J.",mens-lacrosse,2024
-Kieran Anzelone,M,Jr.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2024
+Spencer Hughes,M,Sr.,6' 3'',180 lbs,"Rockville, Md.",mens-lacrosse,2024
+Harry Laferriere,G,Jr.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2024
+Michael Dowd,D,Fr.,6' 2'',185 lbs,"Ridgefield, Conn.",mens-lacrosse,2024
+Henry Brayer,FO/M,So.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2024
+Ben Locke,A,5th,5' 10'',185 lbs,"Norfolk, Va.",mens-lacrosse,2024
+Jeremy Hopsicker,A,Jr.,6' 3'',210 lbs,"Brockport, N.Y.",mens-lacrosse,2024
+Tanner Burns,M,Sr.,6' 1'',185 lbs,"Fayetteville, N.Y.",mens-lacrosse,2024
+Owen Richter,D,Fr.,6' 1'',200 lbs,"Lincroft, N.J.",mens-lacrosse,2024
+Henry Niehaus,M,Sr.,6' 3'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2024
+Wells Bligh,A,Sr.,6' 1'',195 lbs,"San Francisco, Calif.",mens-lacrosse,2024
+Matteo Corsi,A/M,Sr.,5' 11'',190 lbs,"Plymouth, Mich.",mens-lacrosse,2024
+Connor Foley,G,So.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2024
+Scotty Hilgartner,D,Sr.,5' 10'',185 lbs,"Baltimore, Md.",mens-lacrosse,2024
+Brandon Bergner,M,Sr.,6' 1'',215 lbs,"Denver, Colo.",mens-lacrosse,2024
+Andy Demopoulos,G,Sr.,6' 4'',215 lbs,"Darien, Conn.",mens-lacrosse,2024
+Aidan McLane,A/M,Sr.,5' 11'',180 lbs,"Westfield, N.J.",mens-lacrosse,2024
+Trey Taylor,D,Jr.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2024
+Matteo Rottura,M,Fr.,5' 9'',180 lbs,"Wilmington, Del.",mens-lacrosse,2024
+Christian Rasmussen,A,Sr.,5' 7'',160 lbs,"San Diego, Calif.",mens-lacrosse,2024
+Ryan Pels,SSDM,Fr.,6' 2'',195 lbs,"Bethesda, Md.",mens-lacrosse,2024
+Max Warden,A,Fr.,5' 10'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2024
+Kyle Bilello,M,Fr.,5' 9'',170 lbs,"Amityville, N.Y.",mens-lacrosse,2024
+Tucker Williams,G,Fr.,6' 0'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2024
+Isaac Sacks,LSM,5th,5' 11'',185 lbs,"New York, N.Y.",mens-lacrosse,2024
+Dash Sachs,FO,Sr.,5' 7'',180 lbs,"Westport, Conn.",mens-lacrosse,2024
+Alex Fontecchio,FO/M,Fr.,5' 9'',175 lbs,"Englewood Cliffs, N.J.",mens-lacrosse,2024
+Jon Torpey,,,,,,mens-lacrosse,2024
+Murphy Paul,M,So.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2024
+Brady O'Sullivan,D,So.,6' 4'',220 lbs,"Madison, N.J.",mens-lacrosse,2024
+Anthony Noto,SSDM,Fr.,6' 0'',195 lbs,"Atherton, Calif.",mens-lacrosse,2024
+Michael Moon,FO,Fr.,5' 10'',175 lbs,"Manhasset, N.Y.",mens-lacrosse,2024
+Brady O'Kane,A,Fr.,6' 1'',180 lbs,"West Chester, Pa.",mens-lacrosse,2024
+Mark Witt,D,5th,6' 4'',215 lbs,"Andover, Mass.",mens-lacrosse,2024
+Jack Curran,D/LSM,Fr.,6' 3'',205 lbs,"Needham Heights, Mass.",mens-lacrosse,2025
+Brady O'Kane,A,So.,6' 1'',180 lbs,"West Chester, Pa.",mens-lacrosse,2025
+Michael Dowd,D,So.,6' 2'',185 lbs,"Ridgefield, Conn.",mens-lacrosse,2025
+Murphy Paul,M,Jr.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2025
+Felix Rockefeller,M,Jr.,6' 4'',205 lbs,"New York, N.Y.",mens-lacrosse,2025
+PJ Behan,M,Sr.,6' 2'',205 lbs,"St. Louis, Mo.",mens-lacrosse,2025
+Matteo Rottura,M,So.,5' 9'',180 lbs,"Wilmington, Del.",mens-lacrosse,2025
+Nicholas Snyder,D,Fr.,5' 10'',190 lbs,"Boca Raton, Fla.",mens-lacrosse,2025
+Anthony Koehler,M,Jr.,6' 2'',190 lbs,"East Islip, N.Y.",mens-lacrosse,2025
+Cole Frood,M,So.,6' 2'',185 lbs,"Davidson, N.C.",mens-lacrosse,2025
+Jackson Wolfram,A,Jr.,6' 1'',185 lbs,"Riverside, Conn.",mens-lacrosse,2025
+Henry Brayer,FO/M,Jr.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2025
+Ennis Udo,A,So.,6' 2'',205 lbs,"West Chester, Pa.",mens-lacrosse,2025
+Matt Egan,M,Fr.,6' 2'',200 lbs,"Waltham, Mass.",mens-lacrosse,2025
+George Wandoff,D,Sr.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2025
+Kurt Dillmeier,D/LSM,So.,6' 1'',200 lbs,"Manhasset, N.Y.",mens-lacrosse,2025
+Liam Appleton,M,Fr.,6' 3'',220 lbs,"Cohasset, Mass.",mens-lacrosse,2025
+Luke Dellicicchi,A,Sr.,5' 7'',160 lbs,"Locust Valley, N.Y.",mens-lacrosse,2025
+Charlie Cave,D,Sr.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2025
+Michael Moon,FO,So.,5' 10'',175 lbs,"Manhasset, N.Y.",mens-lacrosse,2025
+Samari Staten,M,Sr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2025
+Jayden Vega,A/M,Fr.,6' 1'',215 lbs,"Port St. Lucie, Fla.",mens-lacrosse,2025
+Alex Fontecchio,FO/M,So.,5' 9'',175 lbs,"Englewood Cliffs, N.J.",mens-lacrosse,2025
+Marcus Wertheim,M,Sr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2025
+Drew Morris,M,Sr.,6' 3'',215 lbs,"Bronxville, N.Y.",mens-lacrosse,2025
+Angus Miller,D,Fr.,6' 1'',200 lbs,"Jackson, Wyo.",mens-lacrosse,2025
+Preston Evans,A,Fr.,5' 11'',180 lbs,"Sudbury, Mass.",mens-lacrosse,2025
+Ethan Rubenstein,A/M,Jr.,5' 10'',175 lbs,"Fort Lauderdale, Fla.",mens-lacrosse,2025
 Brosnan Lopez,G,Sr.,6' 1'',170 lbs,"Miami, Fla.",mens-lacrosse,2025
 Kieran Anzelone,M,Sr.,5' 10'',180 lbs,"Potomac, Md.",mens-lacrosse,2025
 Phin Gibbs,M,Fr.,5' 11'',175 lbs,"Providence, R.I.",mens-lacrosse,2025
 Ben Michels,D,Fr.,6' 6'',225 lbs,"Pittsburgh, Pa.",mens-lacrosse,2025
 Oliver Bligh,M,Jr.,5' 11'',185 lbs,"San Francisco, Calif.",mens-lacrosse,2025
 Harry Laferriere,G,Sr.,5' 9'',165 lbs,"Chatham, N.J.",mens-lacrosse,2025
-Owen Richter,D,So.,6' 1'',200 lbs,"Lincroft, N.J.",mens-lacrosse,2025
+Luke Colannino,,Sr.,,,"Warwick, R.I.",mens-lacrosse,2025
 Ben Scandone,M,Sr.,5' 9'',180 lbs,"Allentown, Pa.",mens-lacrosse,2025
 Mason Kelly,M,Fr.,6' 1'',200 lbs,"Granite Springs, N.Y.",mens-lacrosse,2025
-Preston Evans,A,Fr.,5' 11'',180 lbs,"Sudbury, Mass.",mens-lacrosse,2025
 Connor Foley,G,Jr.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2025
 Xander Ring,D,Fr.,6' 1'',195 lbs,"Tega Cay, S.C.",mens-lacrosse,2025
 Trey Taylor,D,Sr.,6' 2'',205 lbs,"Tampa, Fla.",mens-lacrosse,2025
-Max Warden,A,So.,5' 10'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2025
+Owen Richter,D,So.,6' 1'',200 lbs,"Lincroft, N.J.",mens-lacrosse,2025
 Ryan Pels,SSDM,So.,6' 2'',195 lbs,"Bethesda, Md.",mens-lacrosse,2025
 Kyle Bilello,M,So.,5' 9'',170 lbs,"Amityville, N.Y.",mens-lacrosse,2025
 Sawyer English,M,Fr.,5' 10'',,"Burlington, ON",mens-lacrosse,2025
@@ -247,34 +274,7 @@ Tucker Williams,G,So.,6' 0'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2025
 Baden Brown,A,Fr.,5' 9'',170 lbs,"Lone Tree, Colo.",mens-lacrosse,2025
 Jon Torpey,,,,,,mens-lacrosse,2025
 Ryan Mauer,FO,Fr.,5' 10'',170 lbs,"Fanwood, N.J.",mens-lacrosse,2025
-Ethan Rubenstein,A/M,Jr.,5' 10'',175 lbs,"Fort Lauderdale, Fla.",mens-lacrosse,2025
-Luke Colannino,,Sr.,,,"Warwick, R.I.",mens-lacrosse,2025
-Angus Miller,D,Fr.,6' 1'',200 lbs,"Jackson, Wyo.",mens-lacrosse,2025
-Ennis Udo,A,So.,6' 2'',205 lbs,"West Chester, Pa.",mens-lacrosse,2025
-Anthony Koehler,M,Jr.,6' 2'',190 lbs,"East Islip, N.Y.",mens-lacrosse,2025
-Nicholas Snyder,D,Fr.,5' 10'',190 lbs,"Boca Raton, Fla.",mens-lacrosse,2025
-PJ Behan,M,Sr.,6' 2'',205 lbs,"St. Louis, Mo.",mens-lacrosse,2025
-Matteo Rottura,M,So.,5' 9'',180 lbs,"Wilmington, Del.",mens-lacrosse,2025
-Jackson Wolfram,A,Jr.,6' 1'',185 lbs,"Riverside, Conn.",mens-lacrosse,2025
-Felix Rockefeller,M,Jr.,6' 4'',205 lbs,"New York, N.Y.",mens-lacrosse,2025
-Murphy Paul,M,Jr.,5' 11'',185 lbs,"Dallas, Texas",mens-lacrosse,2025
-Michael Dowd,D,So.,6' 2'',185 lbs,"Ridgefield, Conn.",mens-lacrosse,2025
-Brady O'Kane,A,So.,6' 1'',180 lbs,"West Chester, Pa.",mens-lacrosse,2025
-Jack Curran,D/LSM,Fr.,6' 3'',205 lbs,"Needham Heights, Mass.",mens-lacrosse,2025
-Cole Frood,M,So.,6' 2'',185 lbs,"Davidson, N.C.",mens-lacrosse,2025
-Henry Brayer,FO/M,Jr.,5' 10'',180 lbs,"Piedmont, Calif.",mens-lacrosse,2025
-Drew Morris,M,Sr.,6' 3'',215 lbs,"Bronxville, N.Y.",mens-lacrosse,2025
-Matt Egan,M,Fr.,6' 2'',200 lbs,"Waltham, Mass.",mens-lacrosse,2025
-Kurt Dillmeier,D/LSM,So.,6' 1'',200 lbs,"Manhasset, N.Y.",mens-lacrosse,2025
-Liam Appleton,M,Fr.,6' 3'',220 lbs,"Cohasset, Mass.",mens-lacrosse,2025
-Luke Dellicicchi,A,Sr.,5' 7'',160 lbs,"Locust Valley, N.Y.",mens-lacrosse,2025
-Charlie Cave,D,Sr.,5' 9'',165 lbs,"Arlington, Mass.",mens-lacrosse,2025
-Michael Moon,FO,So.,5' 10'',175 lbs,"Manhasset, N.Y.",mens-lacrosse,2025
-Samari Staten,M,Sr.,5' 11'',175 lbs,"Corona, Calif.",mens-lacrosse,2025
-Jayden Vega,A/M,Fr.,6' 1'',215 lbs,"Port St. Lucie, Fla.",mens-lacrosse,2025
-Alex Fontecchio,FO/M,So.,5' 9'',175 lbs,"Englewood Cliffs, N.J.",mens-lacrosse,2025
-Marcus Wertheim,M,Sr.,6' 0'',195 lbs,"St. James, N.Y.",mens-lacrosse,2025
-George Wandoff,D,Sr.,6' 3'',215 lbs,"Jupiter, Fla.",mens-lacrosse,2025
+Max Warden,A,So.,5' 10'',175 lbs,"Greenwich, Conn.",mens-lacrosse,2025
 Connor Foley,G,Sr.,5' 9'',160 lbs,"Grafton, Mass.",mens-lacrosse,2026
 Xander Ring,D,So.,6' 1'',195 lbs,"Tega Cay, S.C.",mens-lacrosse,2026
 Mason Kelly,M,So.,6' 1'',200 lbs,"Granite Springs, N.Y.",mens-lacrosse,2026

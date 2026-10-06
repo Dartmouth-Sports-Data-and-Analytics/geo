@@ -1,28 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Aanika Beller,,Jr.,,,"Eugene, Ore.",womens-rowing,2021
-Bella Dibbini,,Jr.,,,"Bronxville, N.Y.",womens-rowing,2021
-Sophie Lovering,,Sr.,"5'10""",,"Ellicott City, Md.",womens-rowing,2021
-Kate Maietta,,Jr.,,,"Wayland, Mass.",womens-rowing,2021
-Lily Mersky,,So.,"6'0""",,"Haddonfield, N.J.",womens-rowing,2021
-Catherine Moore,,So.,"5'10""",,"Dallas, Texas",womens-rowing,2021
-Sophia Pappano,,Fr.,,,"Villanova, Pa.",womens-rowing,2021
-Sophia Poersch,,Jr.,"5'3""",,"Bethesda, Md.",womens-rowing,2021
-Samantha Ronca,,So.,"5'9""",,"Westport, Conn.",womens-rowing,2021
-Chloe Rosenberg,,Sr.,"5'5""",,"Montclair, N.J.",womens-rowing,2021
-Samy Morton,,Jr.,,,Hong Kong,womens-rowing,2021
-Clara Sutherland,,So.,"5'9""",,"Rye, N.Y.",womens-rowing,2021
-Ella Valencia,,Fr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2021
-Julie Valois,,So.,"5'11""",,"Dallas, Texas",womens-rowing,2021
-Simone Vorperian,,So.,"5'11""",,"Fitchburg, Wis.",womens-rowing,2021
-Halle Wasser,,Sr.,,,"Brecksville, Ohio",womens-rowing,2021
-Alexandra Wiley,,So.,"6'0""",,"Niagara-on-the-Lake, Ontario",womens-rowing,2021
-Annelise Rowling,,Sr.,"5'9""",,"Haddonfield, N.J.",womens-rowing,2021
-Jackie Oruci,,Fr.,"5'8""",,"Oyster Bay, N.Y.",womens-rowing,2021
-Helena Wolk,,Jr.,"5'5""",,"Princeton, N.J.",womens-rowing,2021
-Michelle Lu,,Jr.,"5'9""",,"Bridgewater, N.J.",womens-rowing,2021
-Cami Edwards,,Fr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2021
-Aislinn Sullivan,,Jr.,"5'10""",,"Boca Raton, Fla.",womens-rowing,2021
-Josie Konopka,,Jr.,"5'10""",,"Philadelphia, Pa.",womens-rowing,2021
 Emily Strambi,,Sr.,"5'10""",,"Burlingame, Calif.",womens-rowing,2021
 Caroline Soska,,Fr.,"5'8""",,"Dover, Mass.",womens-rowing,2021
 Hannah Lemanowicz,,Fr.,"5'9""",,"Ambler, Pa.",womens-rowing,2021
@@ -33,7 +10,6 @@ Ashley Cotter,,So.,"5'11""",,"Winnetka, Ill.",womens-rowing,2021
 Amelia Demopoulos,,So.,"5'8""",,"Durham, N.H.",womens-rowing,2021
 Maddie Dempsey,,So.,"5'7""",,"West Simsbury, Conn.",womens-rowing,2021
 Marren Burgess,,Fr.,,,"Wilmette, Ill.",womens-rowing,2021
-Celia Gallagher,,Fr.,"5'8""",,"Wayne, Pa.",womens-rowing,2021
 Samantha Green,,Jr.,,,"Park Ridge, N.J.",womens-rowing,2021
 Izzy Harrington,,Sr.,"5'10""",,"Dallas, Texas",womens-rowing,2021
 Isabella Humbert,,Fr.,"5'8""",,"Raleigh, N.C.",womens-rowing,2021
@@ -43,8 +19,60 @@ Claire Devine,,Fr.,"5'6""",,"Norwalk, Conn.",womens-rowing,2021
 Brooke Caragher,,Fr.,"5'8""",,"Seattle, Wash.",womens-rowing,2021
 Kate Butcher,,Fr.,"5'9""",,Singapore,womens-rowing,2021
 Sophie Klessel,,Fr.,"5'10""",,"Bronxville, N.Y.",womens-rowing,2021
+Josie Konopka,,Jr.,"5'10""",,"Philadelphia, Pa.",womens-rowing,2021
+Aislinn Sullivan,,Jr.,"5'10""",,"Boca Raton, Fla.",womens-rowing,2021
+Celia Gallagher,,Fr.,"5'8""",,"Wayne, Pa.",womens-rowing,2021
+Michelle Lu,,Jr.,"5'9""",,"Bridgewater, N.J.",womens-rowing,2021
+Cami Edwards,,Fr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2021
+Bella Dibbini,,Jr.,,,"Bronxville, N.Y.",womens-rowing,2021
+Sophie Lovering,,Sr.,"5'10""",,"Ellicott City, Md.",womens-rowing,2021
+Kate Maietta,,Jr.,,,"Wayland, Mass.",womens-rowing,2021
+Lily Mersky,,So.,"6'0""",,"Haddonfield, N.J.",womens-rowing,2021
+Sophia Pappano,,Fr.,,,"Villanova, Pa.",womens-rowing,2021
+Sophia Poersch,,Jr.,"5'3""",,"Bethesda, Md.",womens-rowing,2021
+Samantha Ronca,,So.,"5'9""",,"Westport, Conn.",womens-rowing,2021
+Chloe Rosenberg,,Sr.,"5'5""",,"Montclair, N.J.",womens-rowing,2021
+Catherine Moore,,So.,"5'10""",,"Dallas, Texas",womens-rowing,2021
+Clara Sutherland,,So.,"5'9""",,"Rye, N.Y.",womens-rowing,2021
+Ella Valencia,,Fr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2021
+Julie Valois,,So.,"5'11""",,"Dallas, Texas",womens-rowing,2021
+Simone Vorperian,,So.,"5'11""",,"Fitchburg, Wis.",womens-rowing,2021
+Halle Wasser,,Sr.,,,"Brecksville, Ohio",womens-rowing,2021
+Alexandra Wiley,,So.,"6'0""",,"Niagara-on-the-Lake, Ontario",womens-rowing,2021
+Annelise Rowling,,Sr.,"5'9""",,"Haddonfield, N.J.",womens-rowing,2021
+Jackie Oruci,,Fr.,"5'8""",,"Oyster Bay, N.Y.",womens-rowing,2021
+Samy Morton,,Jr.,,,Hong Kong,womens-rowing,2021
+Helena Wolk,,Jr.,"5'5""",,"Princeton, N.J.",womens-rowing,2021
+Alexandra Wiley,,Jr.,"6'0""",,"Niagara-on-the-Lake, Ontario",womens-rowing,2022
+Kate Butcher,,So.,"5'9""",,Singapore,womens-rowing,2022
+Anna Bellows,,Fr.,"6'0""",,"Cambridge, Mass.",womens-rowing,2022
+Brenna Cotter,,Fr.,"5'11""",,"Winnetka, Ill.",womens-rowing,2022
+Eve Chiarello,,Jr.,"5'7""",,"Ocean City, N.J.",womens-rowing,2022
+Julia DiMeo,,Fr.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2022
+Amelia Demopoulos,,Jr.,"5'8""",,"Durham, N.H.",womens-rowing,2022
+Marren Burgess,,So.,,,"Wilmette, Ill.",womens-rowing,2022
+Dillon Brown,,So.,"5'5""",,"Wellesley, Mass.",womens-rowing,2022
+Bella Dibbini,,Sr.,,,"Bronxville, N.Y.",womens-rowing,2022
+Alessandra Bennion,,So.,"5'8""",,"Seattle, Wash.",womens-rowing,2022
+Brooke Caragher,,So.,"5'8""",,"Seattle, Wash.",womens-rowing,2022
+Evan Humphrey,,Fr.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2022
+Christina Kamenev,,Fr.,"5'7""",,"Melbourne, Australia",womens-rowing,2022
+Sophie Klessel,,So.,"5'10""",,"Bronxville, N.Y.",womens-rowing,2022
+Isabella Humbert,,So.,"5'8""",,"Raleigh, N.C.",womens-rowing,2022
+Cypress Kaulbach,,Fr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2022
+Ellie Johnson,,Fr.,"5'8""",,"Point Pleasant, N.J.",womens-rowing,2022
+Cami Edwards,,So.,"5'5""",,"Sarasota, Fla.",womens-rowing,2022
+Lauren Freillat,,Fr.,"5'11""",,"London, England",womens-rowing,2022
+Silvia Harrop-Lopez,,Fr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2022
+Rose Baharie,,Jr.,"5'9""",,"London, England",womens-rowing,2022
+Thea Kerekes,,So.,"5'8""",,"Wynnewood, Pa.",womens-rowing,2022
+Aislinn Sullivan,,Sr.,"5'10""",,"Boca Raton, Fla.",womens-rowing,2022
+Bianca Granitto,,Fr.,"5'7""",,"Greenwich, Conn.",womens-rowing,2022
+Catherine Kiyonaga,,Sr.,"6'1""",,"Chevy Chase, Md.",womens-rowing,2022
+Caroline Soska,,So.,"5'8""",,"Dover, Mass.",womens-rowing,2022
+Josie Konopka,,Sr.,"5'10""",,"Philadelphia, Pa.",womens-rowing,2022
 Giselle Jones-Mollod,,Fr.,"5'9""",,"Harvard, Mass.",womens-rowing,2022
-Catherine Moore,,Jr.,"5'10""",,"Dallas, Texas",womens-rowing,2022
+Celia Gallagher,,So.,"5'8""",,"Wayne, Pa.",womens-rowing,2022
 Caroline Schuldt,,Fr.,"5'11""",,"St. Louis, Mo.",womens-rowing,2022
 Jackie Oruci,,So.,"5'8""",,"Oyster Bay, N.Y.",womens-rowing,2022
 Brittany Newman,,Fr.,"5'4""",,"Princeton, N.J.",womens-rowing,2022
@@ -55,48 +83,45 @@ Kate Maietta,,Sr.,,,"Wayland, Mass.",womens-rowing,2022
 Griffin Pitt,,Fr.,"5'10""",,"Charlotte, N.C.",womens-rowing,2022
 Hannah Lemanowicz,,So.,"5'9""",,"Ambler, Pa.",womens-rowing,2022
 Samy Morton,,Sr.,,,Hong Kong,womens-rowing,2022
-Helena Wolk,,Sr.,"5'5""",,"Princeton, N.J.",womens-rowing,2022
+Catherine Moore,,Jr.,"5'10""",,"Dallas, Texas",womens-rowing,2022
 Maya Spunberg,,Fr.,"5'8""",,"Pelham, N.Y.",womens-rowing,2022
-Madeline Lach,,Fr.,"5'6""",,"Chicago, Ill.",womens-rowing,2022
-Ella Valencia,,So.,"5'1""",,"Lansdale, Pa.",womens-rowing,2022
-Caroline Soska,,So.,"5'8""",,"Dover, Mass.",womens-rowing,2022
-Rebekah Sun,,Fr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2022
-Lia Simmons,,Fr.,"5'10""",,"Oakland, Calif.",womens-rowing,2022
-Maddie Shelton,,Fr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2022
-Julie Valois,,Jr.,"5'11""",,"Dallas, Texas",womens-rowing,2022
-Enise Kupa,,Fr.,"5'10""",,"Hainesport, N.J.",womens-rowing,2022
-Clara Sutherland,,Jr.,"5'9""",,"Rye, N.Y.",womens-rowing,2022
+Helena Wolk,,Sr.,"5'5""",,"Princeton, N.J.",womens-rowing,2022
 Emma Gray,,Fr.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2022
+Clara Sutherland,,Jr.,"5'9""",,"Rye, N.Y.",womens-rowing,2022
+Enise Kupa,,Fr.,"5'10""",,"Hainesport, N.J.",womens-rowing,2022
+Julie Valois,,Jr.,"5'11""",,"Dallas, Texas",womens-rowing,2022
 Simone Vorperian,,Jr.,"5'11""",,"Fitchburg, Wis.",womens-rowing,2022
-Josie Konopka,,Sr.,"5'10""",,"Philadelphia, Pa.",womens-rowing,2022
-Celia Gallagher,,So.,"5'8""",,"Wayne, Pa.",womens-rowing,2022
-Catherine Kiyonaga,,Sr.,"6'1""",,"Chevy Chase, Md.",womens-rowing,2022
-Aislinn Sullivan,,Sr.,"5'10""",,"Boca Raton, Fla.",womens-rowing,2022
-Alexandra Wiley,,Jr.,"6'0""",,"Niagara-on-the-Lake, Ontario",womens-rowing,2022
-Julia DiMeo,,Fr.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2022
-Dillon Brown,,So.,"5'5""",,"Wellesley, Mass.",womens-rowing,2022
-Marren Burgess,,So.,,,"Wilmette, Ill.",womens-rowing,2022
-Amelia Demopoulos,,Jr.,"5'8""",,"Durham, N.H.",womens-rowing,2022
-Alessandra Bennion,,So.,"5'8""",,"Seattle, Wash.",womens-rowing,2022
-Eve Chiarello,,Jr.,"5'7""",,"Ocean City, N.J.",womens-rowing,2022
-Brenna Cotter,,Fr.,"5'11""",,"Winnetka, Ill.",womens-rowing,2022
-Anna Bellows,,Fr.,"6'0""",,"Cambridge, Mass.",womens-rowing,2022
-Kate Butcher,,So.,"5'9""",,Singapore,womens-rowing,2022
-Bella Dibbini,,Sr.,,,"Bronxville, N.Y.",womens-rowing,2022
-Brooke Caragher,,So.,"5'8""",,"Seattle, Wash.",womens-rowing,2022
-Bianca Granitto,,Fr.,"5'7""",,"Greenwich, Conn.",womens-rowing,2022
-Christina Kamenev,,Fr.,"5'7""",,"Melbourne, Australia",womens-rowing,2022
-Sophie Klessel,,So.,"5'10""",,"Bronxville, N.Y.",womens-rowing,2022
-Isabella Humbert,,So.,"5'8""",,"Raleigh, N.C.",womens-rowing,2022
-Cypress Kaulbach,,Fr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2022
-Ellie Johnson,,Fr.,"5'8""",,"Point Pleasant, N.J.",womens-rowing,2022
-Cami Edwards,,So.,"5'5""",,"Sarasota, Fla.",womens-rowing,2022
-Lauren Freillat,,Fr.,"5'11""",,"London, England",womens-rowing,2022
-Silvia Harrop-Lopez,,Fr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2022
-Evan Humphrey,,Fr.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2022
-Rose Baharie,,Jr.,"5'9""",,"London, England",womens-rowing,2022
-Thea Kerekes,,So.,"5'8""",,"Wynnewood, Pa.",womens-rowing,2022
-Cassidy McKee,,Fr.,"6'0""",,"Greenwich, Conn.",womens-rowing,2023
+Lia Simmons,,Fr.,"5'10""",,"Oakland, Calif.",womens-rowing,2022
+Rebekah Sun,,Fr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2022
+Ella Valencia,,So.,"5'1""",,"Lansdale, Pa.",womens-rowing,2022
+Madeline Lach,,Fr.,"5'6""",,"Chicago, Ill.",womens-rowing,2022
+Maddie Shelton,,Fr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2022
+Brooke Caragher,,Jr.,"5'8""",,"Seattle, Wash.",womens-rowing,2023
+Alessandra Bennion,,Jr.,"5'8""",,"Seattle, Wash.",womens-rowing,2023
+Eve Chiarello,,Sr.,"5'7""",,"Ocean City, N.J.",womens-rowing,2023
+Avery Cook,,Fr.,"5'8""",,"Indianapolis, Ind.",womens-rowing,2023
+Amelia Demopoulos,,Sr.,"5'8""",,"Durham, N.H.",womens-rowing,2023
+Natasha Kobelsky,,Fr.,"5'9""",,"Northville, Mich.",womens-rowing,2023
+Makeda Harrison,,Fr.,"5'7""",,"St. Catharines, Ontario",womens-rowing,2023
+Evan Humphrey,,So.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2023
+Julia DiMeo,,So.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2023
+Cami Edwards,,Jr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2023
+Marren Burgess,,Jr.,,,"Wilmette, Ill.",womens-rowing,2023
+Anna Bellows,,So.,"6'0""",,"Cambridge, Mass.",womens-rowing,2023
+Silvia Harrop-Lopez,,So.,"5'9""",,"Vancouver, B.C.",womens-rowing,2023
+Giselle Jones-Mollod,,So.,"5'9""",,"Harvard, Mass.",womens-rowing,2023
+Cypress Kaulbach,,So.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2023
+Lauren Freillat,,So.,"5'11""",,"London, England",womens-rowing,2023
+Celia Gallagher,,Jr.,"5'8""",,"Wayne, Pa.",womens-rowing,2023
+Anna Johnson,,Fr.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2023
+Ayesha Eriksrud,,Fr.,"5'9""",,"Hosle, Norway",womens-rowing,2023
+Bianca Granitto,,So.,"5'7""",,"Greenwich, Conn.",womens-rowing,2023
+Christina Kamenev,,So.,"5'7""",,"Melbourne, Australia",womens-rowing,2023
+Hannah Bazylevsky,,So.,"5'10""",,"Tuxedo Park, N.Y.",womens-rowing,2023
+Emma Gray,,So.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2023
+Mehreen Khan,,Fr.,"5'0""",,"Sydney, Australia",womens-rowing,2023
+Ella Kalmbach,,Fr.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2023
+Madeline Lach,,So.,"5'6""",,"Chicago, Ill.",womens-rowing,2023
 Coco Lucarelli,,Fr.,"5'3""",,"Paoli, Pa.",womens-rowing,2023
 Maxine Moody,,Fr.,"5'10""",,"Seattle, Wash.",womens-rowing,2023
 Catherine Moore,,Sr.,"5'10""",,"Dallas, Texas",womens-rowing,2023
@@ -104,10 +129,11 @@ Sophia Pappano,,Jr.,,,"Villanova, Pa.",womens-rowing,2023
 Riya Patel,,Fr.,"5'3""",,"Collegeville, Pa.",womens-rowing,2023
 Lia Simmons,,So.,"5'10""",,"Oakland, Calif.",womens-rowing,2023
 Maya Spunberg,,So.,"5'8""",,"Pelham, N.Y.",womens-rowing,2023
+Ella Valencia,,Jr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2023
 Griffin Pitt,,So.,"5'10""",,"Charlotte, N.C.",womens-rowing,2023
 Alex Piven,,So.,"5'3""",,"Philadelphia, Pa.",womens-rowing,2023
 Maggie McGuinness,,Fr.,"5'8""",,"Cuddesdon, England",womens-rowing,2023
-Hannah Lemanowicz,,Jr.,"5'9""",,"Ambler, Pa.",womens-rowing,2023
+Cassidy McKee,,Fr.,"6'0""",,"Greenwich, Conn.",womens-rowing,2023
 Caroline Soska,,Jr.,"5'8""",,"Dover, Mass.",womens-rowing,2023
 Clara Sutherland,,Sr.,"5'9""",,"Rye, N.Y.",womens-rowing,2023
 Simone Vorperian,,Sr.,"5'11""",,"Fitchburg, Wis.",womens-rowing,2023
@@ -119,107 +145,56 @@ Maddie Shelton,,So.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2023
 Julie Valois,,Sr.,"5'11""",,"Dallas, Texas",womens-rowing,2023
 Georgia Sackrey,,Fr.,"5'10""",,"Sunderland, Mass.",womens-rowing,2023
 Claire Shepley,,So.,"5'8""",,"Madison, Wis.",womens-rowing,2023
-Madeline Lach,,So.,"5'6""",,"Chicago, Ill.",womens-rowing,2023
-Ella Valencia,,Jr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2023
-Mehreen Khan,,Fr.,"5'0""",,"Sydney, Australia",womens-rowing,2023
-Hannah Bazylevsky,,So.,"5'10""",,"Tuxedo Park, N.Y.",womens-rowing,2023
-Brooke Caragher,,Jr.,"5'8""",,"Seattle, Wash.",womens-rowing,2023
-Eve Chiarello,,Sr.,"5'7""",,"Ocean City, N.J.",womens-rowing,2023
-Avery Cook,,Fr.,"5'8""",,"Indianapolis, Ind.",womens-rowing,2023
-Amelia Demopoulos,,Sr.,"5'8""",,"Durham, N.H.",womens-rowing,2023
-Natasha Kobelsky,,Fr.,"5'9""",,"Northville, Mich.",womens-rowing,2023
-Makeda Harrison,,Fr.,"5'7""",,"St. Catharines, Ontario",womens-rowing,2023
-Evan Humphrey,,So.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2023
-Julia DiMeo,,So.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2023
-Cami Edwards,,Jr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2023
-Alessandra Bennion,,Jr.,"5'8""",,"Seattle, Wash.",womens-rowing,2023
-Marren Burgess,,Jr.,,,"Wilmette, Ill.",womens-rowing,2023
-Emma Gray,,So.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2023
-Silvia Harrop-Lopez,,So.,"5'9""",,"Vancouver, B.C.",womens-rowing,2023
-Giselle Jones-Mollod,,So.,"5'9""",,"Harvard, Mass.",womens-rowing,2023
-Ella Kalmbach,,Fr.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2023
-Cypress Kaulbach,,So.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2023
-Lauren Freillat,,So.,"5'11""",,"London, England",womens-rowing,2023
-Anna Bellows,,So.,"6'0""",,"Cambridge, Mass.",womens-rowing,2023
-Celia Gallagher,,Jr.,"5'8""",,"Wayne, Pa.",womens-rowing,2023
-Anna Johnson,,Fr.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2023
-Ayesha Eriksrud,,Fr.,"5'9""",,"Hosle, Norway",womens-rowing,2023
-Bianca Granitto,,So.,"5'7""",,"Greenwich, Conn.",womens-rowing,2023
-Christina Kamenev,,So.,"5'7""",,"Melbourne, Australia",womens-rowing,2023
+Hannah Lemanowicz,,Jr.,"5'9""",,"Ambler, Pa.",womens-rowing,2023
+Juliet Arena,,Fr.,"5'11""",,"San Francisco, Calif.",womens-rowing,2024
+Julia DiMeo,,Jr.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2024
+Cami Edwards,,Sr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2024
+Avery Cook,,So.,"5'8""",,"Indianapolis, Ind.",womens-rowing,2024
+Brooke Caragher,,Sr.,"5'8""",,"Seattle, Wash.",womens-rowing,2024
+Marren Burgess,,Sr.,"6'0""",,"Wilmette, Ill.",womens-rowing,2024
+Alessandra Bennion,,Sr.,"5'8""",,"Seattle, Wash.",womens-rowing,2024
+Ali Gallacher,,Fr.,"5'9""",,"Piedmont, Calif.",womens-rowing,2024
+Maia Bentley,,Fr.,"6'2""",,"Surrey, U.K.",womens-rowing,2024
+Lauren Freillat,,Jr.,"5'11""",,"London, England",womens-rowing,2024
+Charlotte Dosier,,Fr.,"5'9""",,"Huntington Beach, Calif.",womens-rowing,2024
+Ella Kalmbach,,So.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2024
+Evan Humphrey,,Jr.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2024
+Mehreen Khan,,So.,"5'0""",,"Sydney, Australia",womens-rowing,2024
+Cypress Kaulbach,,Jr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2024
+Christina Kamenev,,Jr.,"5'7""",,"Melbourne, Australia",womens-rowing,2024
+Emma Gray,,Jr.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2024
+Silvia Harrop-Lopez,,Jr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2024
+Makeda Harrison,,So.,"5'7""",,"St. Catharines, Ontario",womens-rowing,2024
+Anna Johnson,,So.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2024
+Natasha Kobelsky,,So.,"5'9""",,"Northville, Mich.",womens-rowing,2024
+Celia Gallagher,,Sr.,"5'8""",,"Wayne, Pa.",womens-rowing,2024
+Ellie Johnson,,Jr.,,,"Point Pleasant, N.J.",womens-rowing,2024
+Hannah Lemanowicz,,Sr.,"5'9""",,"Ambler, Pa.",womens-rowing,2024
+Serena Lowy,,Fr.,"5'10""",,"Kent, Conn.",womens-rowing,2024
+Maya Spunberg,,Jr.,"5'8""",,"Pelham, N.Y.",womens-rowing,2024
 Margot McAuliffe,,Fr.,"5'11""",,"East Hampton, N.Y.",womens-rowing,2024
 Jordan Reed,,So.,"5'8""",,"Orlando, Fla.",womens-rowing,2024
 Fallon Perry-Pelletier,,Fr.,"5'10""",,"San Diego, Calif.",womens-rowing,2024
 Sophia Pappano,,Sr.,"5'10""",,"Villanova, Pa.",womens-rowing,2024
 Maxine Moody,,So.,"5'10""",,"Seattle, Wash.",womens-rowing,2024
 Sabrina Moffa,,Fr.,"5'8""",,"Watertown, Conn.",womens-rowing,2024
-Maggie McGuinness,,So.,"5'8""",,"Cuddesdon, England",womens-rowing,2024
 Anya Prokopchuk,,Fr.,"5'9""",,"Duncan, B.C.",womens-rowing,2024
 Cassidy McKee,,So.,"6'0""",,"Greenwich, Conn.",womens-rowing,2024
 Emma Plante,,Fr.,"5'3""",,"Wellesley, Mass.",womens-rowing,2024
 Riya Patel,,So.,"5'3""",,"Collegeville, Pa.",womens-rowing,2024
-Caroline Soska,,Sr.,"5'8""",,"Dover, Mass.",womens-rowing,2024
+Maggie McGuinness,,So.,"5'8""",,"Cuddesdon, England",womens-rowing,2024
 Isabella Tapper,,Fr.,"5'2""",,"Atherton, Calif.",womens-rowing,2024
-Rebekah Sun,,Jr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2024
-Maddie Shelton,,Jr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2024
-Lia Simmons,,Jr.,"5'10""",,"Oakland, Calif.",womens-rowing,2024
-Georgia Sackrey,,So.,"5'10""",,"Sunderland, Mass.",womens-rowing,2024
-Ella Valencia,,Sr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2024
-Jemima Wilcox,,Fr.,"5'8""",,"Victoria, Australia",womens-rowing,2024
-Zola Young,,Fr.,"5'6""",,"Portland, Ore.",womens-rowing,2024
+Caroline Soska,,Sr.,"5'8""",,"Dover, Mass.",womens-rowing,2024
 Coco Lucarelli,,So.,"5'3""",,"Paoli, Pa.",womens-rowing,2024
+Zola Young,,Fr.,"5'6""",,"Portland, Ore.",womens-rowing,2024
+Jemima Wilcox,,Fr.,"5'8""",,"Victoria, Australia",womens-rowing,2024
+Ella Valencia,,Sr.,"5'1""",,"Lansdale, Pa.",womens-rowing,2024
 Caroline Schuldt,,Jr.,"5'11""",,"St. Louis, Mo.",womens-rowing,2024
-Maya Spunberg,,Jr.,"5'8""",,"Pelham, N.Y.",womens-rowing,2024
-Serena Lowy,,Fr.,"5'10""",,"Kent, Conn.",womens-rowing,2024
-Hannah Lemanowicz,,Sr.,"5'9""",,"Ambler, Pa.",womens-rowing,2024
-Celia Gallagher,,Sr.,"5'8""",,"Wayne, Pa.",womens-rowing,2024
-Brooke Caragher,,Sr.,"5'8""",,"Seattle, Wash.",womens-rowing,2024
-Ali Gallacher,,Fr.,"5'9""",,"Piedmont, Calif.",womens-rowing,2024
-Alessandra Bennion,,Sr.,"5'8""",,"Seattle, Wash.",womens-rowing,2024
-Marren Burgess,,Sr.,"6'0""",,"Wilmette, Ill.",womens-rowing,2024
-Lauren Freillat,,Jr.,"5'11""",,"London, England",womens-rowing,2024
-Avery Cook,,So.,"5'8""",,"Indianapolis, Ind.",womens-rowing,2024
-Cami Edwards,,Sr.,"5'5""",,"Sarasota, Fla.",womens-rowing,2024
-Julia DiMeo,,Jr.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2024
-Juliet Arena,,Fr.,"5'11""",,"San Francisco, Calif.",womens-rowing,2024
-Maia Bentley,,Fr.,"6'2""",,"Surrey, U.K.",womens-rowing,2024
-Charlotte Dosier,,Fr.,"5'9""",,"Huntington Beach, Calif.",womens-rowing,2024
-Ellie Johnson,,Jr.,,,"Point Pleasant, N.J.",womens-rowing,2024
-Evan Humphrey,,Jr.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2024
-Mehreen Khan,,So.,"5'0""",,"Sydney, Australia",womens-rowing,2024
-Cypress Kaulbach,,Jr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2024
-Christina Kamenev,,Jr.,"5'7""",,"Melbourne, Australia",womens-rowing,2024
-Ella Kalmbach,,So.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2024
-Emma Gray,,Jr.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2024
-Silvia Harrop-Lopez,,Jr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2024
-Makeda Harrison,,So.,"5'7""",,"St. Catharines, Ontario",womens-rowing,2024
-Anna Johnson,,So.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2024
-Natasha Kobelsky,,So.,"5'9""",,"Northville, Mich.",womens-rowing,2024
-Kathryn McBride,,Fr.,"5'11""",,"Austin, Texas",womens-rowing,2025
-Cassidy McKee,,Jr.,"6'0""",,"Greenwich, Conn.",womens-rowing,2025
-Jordan Reed,,Jr.,"5'8""",,"Orlando, Fla.",womens-rowing,2025
-Coco Lucarelli,,Jr.,"5'3""",,"Paoli, Pa.",womens-rowing,2025
-Margot McAuliffe,,So.,"5'11""",,"East Hampton, N.Y.",womens-rowing,2025
-Maxine Moody,,Jr.,"5'10""",,"Seattle, Wash.",womens-rowing,2025
-Clare Padula,,Fr.,"58'8""",,"Philadelphia, Pa.",womens-rowing,2025
-Riya Patel,,Jr.,"5'3""",,"Collegeville, Pa.",womens-rowing,2025
-Emma Plante,,So.,"5'3""",,"Wellesley, Mass.",womens-rowing,2025
-Flora Populorum,,Fr.,"5'7""",,"Linz, Austria",womens-rowing,2025
-Anya Prokopchuk,,So.,"5'9""",,"Duncan, B.C.",womens-rowing,2025
-Isabella Tapper,,So.,"5'2""",,"Atherton, Calif.",womens-rowing,2025
-Maddie Shelton,,Sr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2025
-Lia Simmons,,Sr.,"5'10""",,"Oakland, Calif.",womens-rowing,2025
-Georgia Sackrey,,Jr.,"5'10""",,"Sunderland, Mass.",womens-rowing,2025
-Claire Sopko,,Fr.,"5'8""",,"Portland, Ore.",womens-rowing,2025
-Tenji Sithole,,Fr.,"5'6""",,"Johannesburg, South Africa",womens-rowing,2025
-Zola Young,,So.,"5'6""",,"Portland, Ore.",womens-rowing,2025
-Rebekah Sun,,Sr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2025
-Maya Spunberg,,Sr.,"5'8""",,"Pelham, N.Y.",womens-rowing,2025
-Jessica Luo,,So.,"5'7""",,"Newark, Del.",womens-rowing,2025
-Caroline Schuldt,,Sr.,"5'11""",,"St. Louis, Mo.",womens-rowing,2025
-Jemima Wilcox,,So.,"5'8""",,"Victoria, Australia",womens-rowing,2025
-Maggie McGuinness,,Jr.,"5'8""",,"Cuddesdon, England",womens-rowing,2025
-Juliet Arena,,So.,"5'11""",,"San Francisco, Calif.",womens-rowing,2025
-Silvia Harrop-Lopez,,Sr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2025
+Lia Simmons,,Jr.,"5'10""",,"Oakland, Calif.",womens-rowing,2024
+Maddie Shelton,,Jr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2024
+Rebekah Sun,,Jr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2024
+Georgia Sackrey,,So.,"5'10""",,"Sunderland, Mass.",womens-rowing,2024
+Eden Alfi,,Fr.,"5'11""",,"Miami, Fla.",womens-rowing,2025
 Avery Cook,,Jr.,"5'8""",,"Indianapolis, Ind.",womens-rowing,2025
 Maia Bentley,,So.,"6'2""",,"Surrey, U.K.",womens-rowing,2025
 Julia DiMeo,,Sr.,"5'9""",,"Mill Neck, N.Y.",womens-rowing,2025
@@ -229,19 +204,44 @@ Lauren Dubarry,,Fr.,"5'10""",,"East London, Ontario",womens-rowing,2025
 Lauren Freillat,,Sr.,"5'11""",,"London, England",womens-rowing,2025
 Ali Gallacher,,So.,"5'9""",,"Piedmont, Calif.",womens-rowing,2025
 Emma Gray,,Sr.,"5'8""",,"Johannesburg, South Africa",womens-rowing,2025
-Eden Alfi,,Fr.,"5'11""",,"Miami, Fla.",womens-rowing,2025
 Makeda Harrison,,Jr.,"5'7""",,"St. Catharines, Ontario",womens-rowing,2025
-Isobel Jeans,,Fr.,"5'9""",,"Oxford, U.K.",womens-rowing,2025
+Anna Johnson,,Jr.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2025
 Mehreen Khan,,Jr.,"5'0""",,"Sydney, Australia",womens-rowing,2025
 Natasha Kobelsky,,Jr.,"5'9""",,"Northville, Mich.",womens-rowing,2025
 Evan Humphrey,,Sr.,"5'8""",,"Mercer Island, Wash.",womens-rowing,2025
 Cypress Kaulbach,,Sr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2025
 Christina Kamenev,,Sr.,"5'7""",,"Melbourne, Australia",womens-rowing,2025
+Ella Kalmbach,,Jr.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2025
 Ellie Johnson,,Sr.,,,"Point Pleasant, N.J.",womens-rowing,2025
 Eloise Johnston,,Fr.,"6'2""",,"Winter Park, Fla.",womens-rowing,2025
 Mimi Kovriga,,So.,"5'2""",,"San Francisco, Calif.",womens-rowing,2025
-Anna Johnson,,Jr.,"6'2""",,"Newtown Square, Pa.",womens-rowing,2025
-Ella Kalmbach,,Jr.,"5'11""",,"Laguna Beach, Calif.",womens-rowing,2025
+Silvia Harrop-Lopez,,Sr.,"5'9""",,"Vancouver, B.C.",womens-rowing,2025
+Isobel Jeans,,Fr.,"5'9""",,"Oxford, U.K.",womens-rowing,2025
+Juliet Arena,,So.,"5'11""",,"San Francisco, Calif.",womens-rowing,2025
+Margot McAuliffe,,So.,"5'11""",,"East Hampton, N.Y.",womens-rowing,2025
+Jemima Wilcox,,So.,"5'8""",,"Victoria, Australia",womens-rowing,2025
+Maggie McGuinness,,Jr.,"5'8""",,"Cuddesdon, England",womens-rowing,2025
+Kathryn McBride,,Fr.,"5'11""",,"Austin, Texas",womens-rowing,2025
+Cassidy McKee,,Jr.,"6'0""",,"Greenwich, Conn.",womens-rowing,2025
+Coco Lucarelli,,Jr.,"5'3""",,"Paoli, Pa.",womens-rowing,2025
+Maxine Moody,,Jr.,"5'10""",,"Seattle, Wash.",womens-rowing,2025
+Clare Padula,,Fr.,"58'8""",,"Philadelphia, Pa.",womens-rowing,2025
+Riya Patel,,Jr.,"5'3""",,"Collegeville, Pa.",womens-rowing,2025
+Emma Plante,,So.,"5'3""",,"Wellesley, Mass.",womens-rowing,2025
+Flora Populorum,,Fr.,"5'7""",,"Linz, Austria",womens-rowing,2025
+Anya Prokopchuk,,So.,"5'9""",,"Duncan, B.C.",womens-rowing,2025
+Jordan Reed,,Jr.,"5'8""",,"Orlando, Fla.",womens-rowing,2025
+Maddie Shelton,,Sr.,"5'6""",,"Philadelphia, Pa.",womens-rowing,2025
+Isabella Tapper,,So.,"5'2""",,"Atherton, Calif.",womens-rowing,2025
+Jessica Luo,,So.,"5'7""",,"Newark, Del.",womens-rowing,2025
+Caroline Schuldt,,Sr.,"5'11""",,"St. Louis, Mo.",womens-rowing,2025
+Rebekah Sun,,Sr.,"5'3""",,"Bellevue, Wash.",womens-rowing,2025
+Maya Spunberg,,Sr.,"5'8""",,"Pelham, N.Y.",womens-rowing,2025
+Tenji Sithole,,Fr.,"5'6""",,"Johannesburg, South Africa",womens-rowing,2025
+Claire Sopko,,Fr.,"5'8""",,"Portland, Ore.",womens-rowing,2025
+Georgia Sackrey,,Jr.,"5'10""",,"Sunderland, Mass.",womens-rowing,2025
+Lia Simmons,,Sr.,"5'10""",,"Oakland, Calif.",womens-rowing,2025
+Zola Young,,So.,"5'6""",,"Portland, Ore.",womens-rowing,2025
 Kathryn McBride,,So.,"5'11""",,"Austin, Texas",womens-rowing,2026
 Maggie McGuinness,,Sr.,"5'8""",,"Cuddesdon, England",womens-rowing,2026
 Cassidy McKee,,Sr.,"6'0""",,"Greenwich, Conn.",womens-rowing,2026

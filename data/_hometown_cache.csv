@@ -317,6 +317,7 @@ Singapore,1.357107,103.8194992
 "Missouri City, Texas",29.6185669,-95.5377215
 "Miramar, Fla.",25.9873137,-80.2322706
 "Aurora, Colo.",39.7401441,-104.8733376
+"Odense, Fyn, Denmark",55.3997225,10.3852104
 "Lagos, Nigeria",6.4550575,3.3941795
 "Auburn, Calif.",38.8945939,-121.0739897
 "Rochester, N.Y.",43.157285,-77.615214
@@ -448,6 +449,7 @@ Singapore,1.357107,103.8194992
 "Port St. Lucie, Fla.",27.2939333,-80.3503283
 "Chester Springs, Pa.",40.0951038,-75.6168681
 "Houston, Texas",29.7589382,-95.3676974
+"New Canann, Conn.",41.146763,-73.4948446
 "Villanova, Pa.",40.0411671,-75.3310527
 "Hingham, Mass.",42.2417669,-70.8897676
 "Akron, Ohio",41.083064,-81.518485
@@ -516,6 +518,7 @@ Singapore,1.357107,103.8194992
 "Rocky River, Ohio",41.4756031,-81.8393034
 "Issaquah, Wash.",47.5348778,-122.043297
 "Summit, N.J.",40.7182356,-74.3592296
+"Moreland Hill, Ohio",41.447831,-81.427615
 "Lawrenceville, N.J.",40.3009876,-74.7373728
 "Cleveland Heights, Ohio",41.5200518,-81.556235
 "Monterey Park, Calif.",34.051522,-118.129807
@@ -734,6 +737,7 @@ Singapore,1.357107,103.8194992
 "Huntersville, N.C.",35.4108278,-80.8429304
 "North Potomac, Md.",39.0985183,-77.2377429
 "Tijuana, Mexico",32.5364775,-117.0371232
+"Caracas, Venezuela/Westport, Conn.",10.5060934,-66.9146008
 "Boulder City, Nev.",35.9787649,-114.8337574
 "Great Neck, N.Y.",40.80292,-73.7360177
 "Spring Lake, Mich.",43.076963,-86.196997
@@ -779,6 +783,7 @@ Singapore,1.357107,103.8194992
 "Culver City, Calif.",34.0211224,-118.396466
 "Ajax, Ontario",43.8505287,-79.0208814
 "Douglas, Mass.",42.0531661,-71.7397682
+"Stuffville, Ontario",43.9717581,-79.2454446
 "Lower Saxony, Germany",52.8398531,9.075962
 "Edison, N.J.",40.5005351,-74.3983939
 "Pawleys Island, S.C.",33.4293486,-79.1215912
@@ -969,6 +974,7 @@ Singapore,1.357107,103.8194992
 "Rollinsford, N.H.",43.236199,-70.820618
 "Aspen, Colo.",39.1911128,-106.82356
 "Cambridge, Ont.",43.3600536,-80.3123023
+"Eau Claire, Wisc.",44.811349,-91.4984941
 "Warren, Ohio",39.4203978,-84.180897
 "Conrad, Mont.",48.170251,-111.943019
 "Knoxville, Tenn.",35.9603948,-83.9210261
@@ -982,6 +988,7 @@ Singapore,1.357107,103.8194992
 "Dorado, Puerto Rico",18.4317317,-66.2796684
 "West Windsor, N.J.",40.2971798,-74.6206496
 "Raynham, Mass.",41.9487118,-71.0731008
+"Loucust Valley, N.Y.",40.8775225,-73.5723052
 "Enfield, Conn.",41.9767721,-72.5917113
 "West Lake Hills, Texas",30.2877039,-97.8068157
 "Brela, Croatia",43.3684379,16.9321158
@@ -1129,6 +1136,7 @@ Singapore,1.357107,103.8194992
 "Havertown, Pa.",39.9809452,-75.3085201
 "Marshfield, Mass.",42.091769,-70.7055941
 "Stockholm, Sweden",59.3251172,18.0710935
+"Maroubra, Aus.",-33.9453441,151.2456824
 "Hoboken, N.J.",40.7433066,-74.0323752
 "Paramus, N.J.",40.9452911,-74.0735899
 "Lake Worth, Fla.",26.615891,-80.0691435
@@ -1164,6 +1172,7 @@ Singapore,1.357107,103.8194992
 "Smithtown, N.Y.",40.8559314,-73.2006687
 "Dearborn, Mich.",42.3222599,-83.1763145
 "Ballston Lake, N.Y.",42.9343617,-73.8596218
+"Palos Versed Estates, Calif.",33.7872386,-118.401813
 "Haworth, N.J.",40.9609315,-73.9901383
 "Pinckney, Mich.",42.4567013,-83.9463359
 "Exeter, N.H.",42.981477,-70.9478343
@@ -1181,6 +1190,7 @@ Singapore,1.357107,103.8194992
 "Princeton Junction, N.J.",40.3159898,-74.6241189
 "Mechanicville, N.Y.",42.9028547,-73.6873405
 St. Lucia,13.8250489,-60.975036
+"Holmdell, N.J.",40.3451095,-74.1840322
 "Keyport, N.J.",40.4331631,-74.1995883
 "Cave Creek, Ariz.",33.8333333,-111.950833
 "Clovis, Calif.",36.8252277,-119.7029194
@@ -1273,6 +1283,7 @@ Czech Republic,49.7439047,15.3381061
 "Falls Church, Va.",38.882334,-77.1710914
 "Tewksbury, N.J.",40.68446,-74.77873
 "Webster, N.Y.",43.212285,-77.429994
+"Newtown Square, Penn.",39.9868117,-75.4007633
 "Park City, Utah",40.6460921,-111.4979963
 "Bronxville, NY",40.9381544,-73.8320784
 "Denver, Col.",40.625321,-80.5922397
@@ -1312,6 +1323,7 @@ Czech Republic,49.7439047,15.3381061
 "Carmel, Ind.",39.9784186,-86.1283681
 "Fresno, Calif.",36.7394421,-119.78483
 "Bridgewater, N.J.",40.5598127,-74.5517146
+"Phoeniz, Ariz.",33.4484367,-112.074141
 "Redwood City, Calif.",37.4863239,-122.232523
 "Stafford, Va.",38.4167265,-77.4579783
 "Briarcliff, N.Y.",41.1456512,-73.8237456
@@ -1410,12 +1422,14 @@ CA,61.0666922,-107.991707
 "Istanbul, Turkiye",41.006381,28.9758715
 "York, North Yorkshire, U.K.",53.9590555,-1.0815361
 "Flemington, N.J.",40.5130953,-74.8591333
+"Seoul, South Korea/Katy, Texas",37.5666791,126.9782914
 "Rowland Heights, Calif.",33.9734043,-117.8941305
 "Hangzhou, China",30.2489634,120.2052342
 "Quebec, Canada",52.4760892,-71.8258668
 "Clearwater, Fla.",27.9658533,-82.8001026
 "Charlottenlund, Denmark",55.7552973,12.5671103
 "Napa, Calif.",38.4898675,-122.3218414
+"Ipswich, Mass./Windermere, Fla.",42.679273,-70.8411583
 "Lisbon, N.Y.",44.727467,-75.321236
 "Goyang-si, Republic of Korea",37.6581862,126.8319452
 "Farmingdale, N.Y.",40.7328811,-73.4458564
@@ -1463,11 +1477,13 @@ CA,61.0666922,-107.991707
 "Rocky Hill, Conn.",41.6648216,-72.6392587
 "Danvers, Mass.",42.5664984,-70.9362957
 "Saddle River, N.J.",41.0317637,-74.1020866
+"Streatley on Thames, U.K",51.5219349,-1.1502738
 "Windham, N.H.",42.8006441,-71.304229
 "Wauwatosa, Wis.",43.0494122,-88.0079271
 "Montville, N.J.",40.9148209,-74.383763
 "Lake Bluff, Ill.",42.2789117,-87.8342362
 "Hobart, Tasmania, Australia",-42.8825088,147.3281233
+"Aukland, New Zealand",-36.852095,174.7631803
 "Medford Lakes, N.J.",39.857984,-74.8128639
 "Glenelg, Md.",39.2644382,-76.9899134
 "Santiago, Chile",-33.4376995,-70.6510671
@@ -1695,9 +1711,12 @@ CA,61.0666922,-107.991707
 "Weehawken, N.J.",40.7695457,-74.0204177
 "Suffern, N.Y.",41.1151372,-74.1493948
 "Urbana, Ill.",40.1117174,-88.207301
+"Exter, N.H.",42.981477,-70.9478343
 "Perrysburg, Ohio",41.5571178,-83.6279321
 "West Lafayette, Ind.",40.4258686,-86.9080655
+"Madiosn, N.J.",40.7598227,-74.417097
 "West Chester, Ohio",39.3303357,-84.408275
+"Easchester, N.Y.",40.9610563,-73.8064739
 "McAllen, Texas",26.204114,-98.2300605
 "Otsego, Minn.",45.2812733,-93.614857
 "Loudon, N.H.",43.2860271,-71.4677384
@@ -1794,7 +1813,9 @@ CA,61.0666922,-107.991707
 "Saint Louis, Mo.",38.6254063,-90.190009
 "Larnaca, Cyprus",34.9236095,33.6236184
 "Broad Run, Va.",38.9914999,-77.4773508
+Richmond Vir.,37.5385087,-77.43428
 "Cameron Park, Calif.",38.672181,-120.980977
+"Arlington, Vir.",38.8769326,-77.0893094
 "Lititz, Pa.",40.1571324,-76.307162
 "Leawood, Kan.",38.966673,-94.6169012
 "Newark, N.J.",40.735657,-74.1723667
@@ -1881,6 +1902,7 @@ CA,61.0666922,-107.991707
 "Lewis Center, Ohio",40.1983958,-83.0101843
 "Courtice, Ontario",43.9117719,-78.7780464
 "Harveys Lake, Pa.",41.3525797,-76.0324241
+"Charlottesville, Vir.",38.029306,-78.4766781
 "Mississauga, Ontario",43.5884727,-79.643658
 "Jamesville, N.Y.",42.9920106,-76.0715887
 "Minoa, N.Y.",43.076178,-76.000753
@@ -1996,6 +2018,7 @@ Washington D.C.,38.8950982,-77.0363849
 "Belle Vernon, Pa.",40.1250725,-79.8664356
 "Caledonia, Canada",43.6923229,-79.4653403
 "Swiftwater, Pa.",41.0953683,-75.3249054
+"Stroughton, Mass.",42.1252079,-71.1022015
 "Lakewood, Wash.",47.1717649,-122.518458
 "Matlock, Wash.",47.2378698,-123.407938
 "Elmwood Park, N.J.",40.9074237,-74.1183543
@@ -2018,6 +2041,7 @@ Washington D.C.,38.8950982,-77.0363849
 "Mutare, Zimbabwe",-18.974656,32.670473
 "Morris Township, N.J.",40.798799,-74.5208469
 "Ostrava, Czechia",49.8354045,18.292978
+"Claredon Hills, Ill.",41.7961237,-87.9551429
 "Tujunga, Calif.",34.252225,-118.2884105
 "Wall Township, N.J.",40.1743052,-74.0902219
 "Roslyn Heights, N.Y.",40.7766105,-73.6339769
@@ -2040,11 +2064,13 @@ Washington D.C.,38.8950982,-77.0363849
 "Lake Zurich, Ill.",42.1969689,-88.0934108
 Fort Wayne Ind.,41.0799898,-85.1386015
 "Los Angeles, Calif",34.0536909,-118.242766
+"Matzenback, Germany",49.4954267,7.4592064
 "Lake Elsinore, Calif.",33.6680772,-117.3272615
 "Parma, Ohi.",41.3822398,-81.7355692
 "Midland, Tex.",31.83688,-102.0103767
 "Houston, Tex.",29.7589382,-95.3676974
 "Columbia, S.C.",34.000754,-81.0352313
+"Potomac Falls, Vir.",39.0473728,-77.3849117
 "Spring, Tex.",30.070979,-95.4013419
 "New Albany, Ind.",38.2856247,-85.8241312
 "Phoenix, AZ",33.4484367,-112.074141
@@ -2079,6 +2105,7 @@ Irvine Calif.,33.6856969,-117.825981
 "Manorville, N.Y.",40.862559,-72.7860928
 "Waterloo, Ontario",43.4652699,-80.5222961
 "Landenberg, Pa.",39.7773329,-75.7713264
+"Sevenoaks, Kent (U.K.)",51.2745219,0.1961299
 "Bury St. Edmunds, Suffolk, England",52.2460367,0.7125173
 "Glenmoore, Pa.",40.0889905,-75.7718794
 "Cranbury, N.J.",40.3133907,-74.5201927
@@ -2322,6 +2349,7 @@ Evans. Ga.,52.0338065,-0.7596818
 "Porter Ranch, Calif.",34.2818164,-118.5612714
 "Ellensburg, Wash.",46.9970635,-120.545122
 "Woolwich, N.J.",39.7381913,-75.3253882
+"Altherton, Calif.",37.453773,-122.2058272
 "Bethlehem, PA",-1.45056,-48.4682453
 "Alexandria, VA",38.8051095,-77.0470229
 "Gijon, Spain",43.5449422,-5.66275
@@ -2343,6 +2371,7 @@ Evans. Ga.,52.0338065,-0.7596818
 Keene,42.933597,-72.2784264
 "Alta, Utah",40.5904037,-111.635216
 "Soddy Daisy, Tenn.",35.2359025,-85.1907904
+"Salt Late City, Utah",40.7596198,-111.886797
 "South Salem, N.Y.",41.2738221,-73.5561711
 "Salt Point, N.Y.",41.8046512,-73.7903622
 "Healdsburg, Calif.",38.6106812,-122.870138
@@ -2360,6 +2389,7 @@ Keene,42.933597,-72.2784264
 "Rolling Hills Estates, Calif.",33.7877943,-118.3581284
 "Charlotte, Vt.",44.3105141,-73.2531419
 "Maui, Hawaii",20.8029568,-156.3106833
+"Whitefish Bay, Wisc.",43.1185591,-87.906804
 "Ringwood, N.J.",41.113429,-74.2454254
 "Sheridan, Wyo.",44.7947537,-106.8222688
 "Exmore, VA",37.5318069,-75.8229914
@@ -2374,8 +2404,10 @@ Keene,42.933597,-72.2784264
 "Sandnes, Norway",58.9831321,6.394641
 "Cape Town, South Africa.",-33.9288301,18.4172197
 "Atenas, Costa Rica",9.9794934,-84.3990263
+"Agios Stefanos, Athens, Greece",38.1410051,23.8575845
 "Garðabær, Iceland",64.0880255,-21.9193961
 "Sunyani, Ghana",7.3384389,-2.3309226
+"Thrakomakedones, Athens, Greece",38.1294473,23.7573686
 "Nicosia, Cyprus",35.1746503,33.3638783
 "Cambridge, United Kingdom",52.1975846,0.1391537
 "Buckinghamshire, England",51.840894,-0.8998074
@@ -2387,6 +2419,7 @@ Keene,42.933597,-72.2784264
 "Rockville, Conn.",41.8655808,-72.4559661
 "Corning, N.Y.",42.1435257,-77.0543408
 "Prosper, Tex.",33.2371585,-96.7977048
+"Boise, Ida.",43.6166163,-116.200886
 "Cos Cob, CT",41.0510193,-73.5919491
 "Kingston, United Kingdom",52.1791855,-0.0321477
 "Homewood, Ala.",33.4737098,-86.8084509
@@ -2433,6 +2466,7 @@ Indore Madiya Pradesh,22.7203616,75.8681996
 "North Branford, Conn.",41.3275971,-72.7673198
 "Lisle, Ill.",41.801159,-88.0747687
 "Shreveport, La.",32.5135356,-93.7477839
+"Wyndmoor, Penn.",40.0853435,-75.1940207
 "Lyons, Colo.",40.224432,-105.270532
 "Markham, Ontario",43.8563707,-79.3376825
 "Guadalajara, Mexico",20.6720375,-103.338396
@@ -2465,6 +2499,7 @@ Indore Madiya Pradesh,22.7203616,75.8681996
 "Carlton, Ore.",45.2942822,-123.176494
 "Meridian, Idaho",43.6086295,-116.392326
 "Sinajana, Guam",13.4612716,144.7550014
+"Wilsborough Green, England",51.1415683,0.8948952
 "Colgate, Wis.",43.1928301,-88.2067737
 "Salem, Ore.",44.9391565,-123.033121
 "Usk, Wales",51.7045076,-2.9026437
@@ -2472,6 +2507,7 @@ Indore Madiya Pradesh,22.7203616,75.8681996
 "Jakarta, Indonesia",-6.1754049,106.827168
 "Fallbrook, Calif.",33.3663105,-117.2232672
 "Franklin, Ga.",34.3678347,-83.2107222
+"Laie Malo'o, Hawaii",21.6438449,-157.924442
 "Nome, Alaska",64.4975098,-165.4061701
 "Ramona, Calif.",33.0472806,-116.8776005
 "West Sacramento, Calif.",38.5804609,-121.530234
@@ -2614,6 +2650,7 @@ Lynnfield Mass.,42.5389836,-71.0481084
 "Lorton, Va.",38.6946355,-77.2199931
 "Techiman, Ghana",7.584971,-1.936401
 "Atlanta, Ga",33.7544657,-84.3898151
+"Phoenix, Ari.",33.4484367,-112.074141
 "Wayne, Penn.",40.3291135,-79.6432817
 "Dayton, Md.",39.2392725,-76.9866438
 "Dreieich, Germany",50.011974,8.7123912
@@ -2633,6 +2670,7 @@ Lynnfield Mass.,42.5389836,-71.0481084
 "Castelldefels, Spain",41.2861022,1.9824173
 "Hobart, Australia",-42.8825088,147.3281233
 "Roseland, N.J.",40.8206555,-74.2937595
+"Glasglow, Scotland",55.861155,-4.2501687
 "Round Lake, Ill.",42.353355,-88.0934145
 "Anaheim, Calif.",33.8347516,-117.911732
 "Rochester, N.H.",43.3050758,-70.9753978
@@ -2776,6 +2814,7 @@ Sishya School,12.7263015,77.8145241
 "Pickering, Ont.",43.835765,-79.090576
 "Kelowna, British Columbia",49.8879177,-119.495902
 "Prior Lake, Minn.",44.7133271,-93.4226873
+"St. Alban's, Vt.",44.8107911,-73.0833607
 "Cordast, Switzerland",46.8756322,7.1484443
 "Bogota DC, Colombia",4.6608326,-74.1381717
 "Durban, South Africa",-29.8618145,31.009909
@@ -2784,6 +2823,7 @@ Sishya School,12.7263015,77.8145241
 "Waite Hill, Ohio",41.618659,-81.384
 "Ikskile, Lativa",56.8375098,24.4975204
 "Barranquilla, Columbia",11.0101922,-74.8231794
+"Siauliai Vijoliai, Lithuania",55.9340823,23.3157775
 "Port Moody, British Columbia",49.2821981,-122.8293554
 "Union City, Calif.",37.5872576,-122.0215737
 "Joplin, Mo.",37.0841838,-94.5133385
@@ -2904,6 +2944,7 @@ San Francisco Calif.,37.7879363,-122.4075201
 "Naples, Florida",26.1421976,-81.7942944
 "Seekonk, Mass.",41.808434,-71.3369973
 "Givataim, Israel",32.0671919,34.8039491
+"Edgarton, Mass.",41.3894198,-70.5129682
 "Averill Park, N.Y.",42.6391711,-73.5581729
 "Bath, U.K.",29.9586012,31.2596564
 "Cumberland Foreside, Me.",43.7700803,-70.197549
@@ -2922,11 +2963,13 @@ San Francisco Calif.,37.7879363,-122.4075201
 "Portland, Or.",45.5202471,-122.674194
 "Cleveland, Oh.",41.4996574,-81.6936772
 "Cardiff, U.K.",33.6879703,-117.8073342
+"Goteburg, Sweden",57.7072326,11.9670171
 "South Hadley, Mass.",42.2591392,-72.5751341
 "Luxembourg City, Luxembourg",49.601051,6.0639946
 "Reading, United Kingdom",51.4564242,-0.9700664
 "Rožnov pod Radhoštem, Czech Republic",49.4587958,18.1429843
 "Starec, Czech Republic",49.3780113,12.9947733
+"Kikenny, Ireland",52.6506255,-7.2514438
 "Lapeer, Mich.",43.0904764,-83.2333705
 "Lawrence, KS",38.9719137,-95.2359403
 "Orange, N.J.",40.7709499,-74.2264601
@@ -2935,8 +2978,10 @@ San Francisco Calif.,37.7879363,-122.4075201
 "Drammen, Norway",59.6964936,10.175642
 "Evanston, IL",42.0470043,-87.6846053
 "Preston, England",53.7593363,-2.6992717
+"Thiensville, Wisc.",43.2359729,-87.9843784
 "Peachtree City, Ga.",33.3975472,-84.5898256
 "Torokbalint, Hungary",47.4349579,18.9130312
+"Prauge, Czech Republic",50.0874654,14.4212535
 "Sanford, Fl.",28.8117345,-81.2680223
 "Milford, CT.",41.2222218,-73.0570603
 "Friedrichsdorf, Germany",50.2620906,8.6248898
@@ -2993,6 +3038,7 @@ San Francisco Calif.,37.7879363,-122.4075201
 "Frankfort, Ill.",41.4979467,-87.8495946
 "South Hamilton, Mass.",42.6130398,-70.8723954
 "Auburn, N.Y.",42.9320202,-76.5672029
+"Cutchouge, N.Y.",41.018683,-72.4891577
 "South Orange, New Jersey",40.7474966,-74.2635376
 "Wollerau, Switzerland",47.1957261,8.7194595
 "Var, France",43.4173551,6.2664637
@@ -3032,12 +3078,14 @@ Philadelphia,39.9527237,-75.1635262
 "Kadikoy, Turkey",40.9912955,29.0245631
 "Noblesville, Ind.",40.0460881,-86.0139854
 "Santa Rosa Valley, Calif.",34.244042,-118.9018744
+Birthplace: Nigeria / Resident: United Kingdom,54.7023545,-3.2765753
 "Okotoks, Alberta",50.7253685,-113.975082
 "Cedar Hills, Utah",40.4141174,-111.758541
 "Fremont, Neb.",41.4338363,-96.4960449
 "Lantau Island, Hong Kong",22.2714281,113.9440813
 "Ketsch, Germany",49.3675019,8.5237267
 "Sparta, Mich.",43.160858,-85.710039
+"Kahuku, (O'ahu) Hawai'i",21.6844495,-157.9416673
 "Joppa, Md.",39.433719,-76.3577373
 "Chatham, Mass.",41.6822748,-69.9595161
 "Gridley, Calif.",39.3637773,-121.693583
@@ -3052,11 +3100,13 @@ Philadelphia,39.9527237,-75.1635262
 "Alma, Mich.",43.37892,-84.659727
 "South San Francisco, Calif.",37.6535403,-122.4168664
 "Chadds Ford, Pa.",39.872027,-75.5914213
+"Santa Rosa Valey, Calif.",34.244042,-118.9018744
 "Westminster, Mass.",42.5449024,-71.9107903
 "Claridon, Ohio",41.5321816,-81.1441001
 "Queen Creek, Ariz.",33.2483858,-111.634158
 "Marlton, N.J.",39.9005585,-74.9338911
 "Timnath, Colo.",40.5294388,-104.982086
+"Honululu, Hawaii",21.304547,-157.855676
 "Pensacola, Fla.",30.421309,-87.2169149
 "Grasston, Minn.",45.7946814,-93.1491067
 "Highland, Md.",39.5209339,-77.518043
@@ -3065,6 +3115,7 @@ Philadelphia,39.9527237,-75.1635262
 "Watertown, Conn.",41.6062078,-73.1181658
 "Putnam, Conn.",41.9153094,-71.9092563
 "Cotuit, Mass.",41.6174943,-70.435116
+"Syksville, Md.",39.365992,-76.9688737
 "Ariana, Tunisia",36.9685735,10.1219855
 "Wolfeboro, N.H.",43.6093756,-71.1748676
 "Asunción, Paraguay",-25.2800459,-57.6343814
@@ -3085,6 +3136,7 @@ Philadelphia,39.9527237,-75.1635262
 "Hamilton, New Zealand",-37.7878809,175.281788
 "Carlisle, Pa.",40.201499,-77.1890783
 Zimbabwe,-18.4554963,29.7468414
+"Hasting, New Zealand",-39.6417678,176.8430781
 "Bathurst, Australia",-33.4166482,149.5803725
 "Salisbury, England",51.0690613,-1.7954134
 "Brisbane, Queensland, Australia",-27.4689623,153.0235009
@@ -3103,6 +3155,7 @@ Zimbabwe,-18.4554963,29.7468414
 "Henley on Thames, England",51.5375786,-0.9050287
 "Woolwich, Maine",43.9170048,-69.8015193
 "Cologne, Germany",50.938361,6.959974
+"Melborne, Australia",-37.8142454,144.9631732
 "Bellagio, Italy",45.9872549,9.2613001
 "Ardmore, PA",40.004128,-75.2882893
 "Napoli, Italy",40.8358846,14.2487679
@@ -3112,6 +3165,7 @@ Zimbabwe,-18.4554963,29.7468414
 "Toorak, Australia",-37.850751,145.0136989
 "Halifax, United Kingdom",53.7229229,-1.8604874
 "Boston, MA",42.3588336,-71.0578303
+"Moreto-in-Marsh, United Kingdom",51.9906413,-1.7023018
 "Limerick, Ireland",52.661252,-8.6301239
 "Baumgartenberg, Austria",48.2091891,14.7451588
 "Grand Island, Neb.",40.924271,-98.338685
@@ -3130,6 +3184,7 @@ Zimbabwe,-18.4554963,29.7468414
 "Kostrena, Croatia",45.2981626,14.510908
 "Pleven, Bulgaria",43.4809895,24.6060665
 "Brasília, Brazil",-15.7939869,-47.8828
+"Pleven, Buglaria",43.4809895,24.6060665
 "Oak Ridge, N.C.",36.1736211,-79.9892172
 "Üröm, Hungary",47.5987004,19.0134262
 "Izmir, Turkey",38.4192537,27.128469
@@ -3420,6 +3475,7 @@ Westport. Mass.,41.6220399,-71.0780195
 "Gonars, Italy",45.895917,13.237131
 Dubai,25.0742823,55.1885624
 "Gloucestershire, U.K.",51.7643786,-2.1880662
+"Campbells Bay, N.Z.",-36.7454921,174.7619515
 "Upper Moreland, Pa.",40.1437722,-75.1210142
 "Madison, Ohio",39.8868227,-83.3937233
 "Exeter, Pa.",41.3206358,-75.8190835
@@ -3446,6 +3502,7 @@ Dubai,25.0742823,55.1885624
 "Lakin, Kans.",37.9405751,-101.254892
 "Peterborough, Ont.",44.3048009,-78.3199496
 "McClean, Va.",37.6125057,-75.8654249
+"Hummelston, Pa.",40.2653927,-76.7082778
 "Califon, N.J.",40.7195448,-74.8357215
 "Canonsburg, Pa.",40.2588173,-80.1867206
 "Patterson, N.Y.",41.513726,-73.6062323
@@ -3457,6 +3514,7 @@ Hungary,47.1817585,19.5060937
 "Shelby Township, Mich.",43.5974492,-86.3379509
 "Safety Harbor, Fla.",27.9908529,-82.6931553
 "Beaconsfield, Canada",45.4289766,-73.8654387
+"Rancho Palos Verde, Calif.",33.7483311,-118.3707683
 "San Fernando, Philippines",15.0283014,120.6938038
 "Denver, Co.",39.7392364,-104.984862
 "Buffalo Grove, Ill.",42.1544205,-87.9589621
@@ -3504,6 +3562,7 @@ Hungary,47.1817585,19.5060937
 "Grovetown, Ga.",33.4504157,-82.1981764
 "Agios Dimitrios, Greece",37.9395104,23.7315951
 "Rome, N.Y.",43.2102196,-75.4583956
+"Frankin, Mass.",42.5896205,-72.6110645
 "Freedom, Wis.",45.4146045,-88.7393853
 "Zhodino, Belarus",54.0963334,28.3224192
 "North Reading, Mass.",42.5750939,-71.0786653
@@ -3518,6 +3577,7 @@ Hungary,47.1817585,19.5060937
 "Palm Beach County, Fla.",26.6279798,-80.4494174
 "Mission Hills, Calif.",34.687584,-120.4390175
 "Covington, La.",30.4753525,-90.1010474
+"Rancho Sante Fe, Calif.",33.0242314,-117.1979781
 "Fairview, Pa.",41.0145075,-79.7428275
 "Neptune, N.J.",39.2191278,-74.7129026
 "King of Prussia, Pa.",40.0947625,-75.3851334
@@ -3603,6 +3663,7 @@ Hungary,47.1817585,19.5060937
 "Waterloo, Ont.",43.4652699,-80.5222961
 "Holyoke, Mass.",42.2071184,-72.6075851
 "White Rock, B.C.",49.0235357,-122.797924
+"Middleton, Wisc.",43.0962919,-89.5119565
 "Whistler, B.C.",50.1171903,-122.9543022
 "Kings Park, N.Y.",40.8890985,-73.246843
 "Gladstone, Man.",50.2254903,-98.9510661
@@ -3632,12 +3693,14 @@ Hungary,47.1817585,19.5060937
 "Elmira, N.Y.",42.0897965,-76.8077338
 "Gravesend, Eng.",51.4424747,0.3694468
 "Wahroonga, New South Wales, Australia",-33.7183413,151.1174435
+"Cheltenham, Great Britain",51.8995685,-2.0711559
 "Richland, Wash.",46.2804298,-119.275205
 "Pärnu, Estonia",58.3870659,24.5026059
 "Hammonton, N.J.",39.6366543,-74.8027651
 "Chearsley, United Kingdom",51.7894856,-0.9597017
 "Rhineland-Palatinate, Germany",49.9531599,7.310646
 "Allendale, NJ",41.0413199,-74.1291407
+"Okehampton, Great Britain",50.7376667,-4.000316
 "Columbus, Ind.",39.2014405,-85.9213796
 "Groningen, Netherlands",53.2190652,6.5680077
 "Winston Salem, N.C.",36.0998131,-80.2440518
@@ -3671,6 +3734,7 @@ Hungary,47.1817585,19.5060937
 "Lynchburg, Va.",37.4137536,-79.1422464
 "Canberra, Australia",-35.2975906,149.1012676
 "Monroe Township, N.J.",40.335756,-74.4334464
+"Glastonbury, C.T.",41.7123218,-72.608146
 "Loveland, Colo.",40.3977612,-105.07498
 "Bronx, N.Y,",40.8466508,-73.8785937
 "Painted Post, N.Y.",42.1620186,-77.0941366
@@ -3700,6 +3764,7 @@ Hungary,47.1817585,19.5060937
 "Parkton, Md.",39.6409378,-76.6591376
 "Urbana, Md.",39.3206075,-77.3416402
 "Blairstown, N.J.",40.9831598,-74.9602972
+"Setauklet, N.Y.",40.9467545,-73.115916
 "San Francisco, Calif",37.7879363,-122.4075201
 "Monroe, N.J.",41.114541,-74.6340505
 "Solihull, England",52.4130189,-1.7768935
@@ -3723,6 +3788,7 @@ Guelph,43.5460516,-80.2493276
 "Forsyth, Ill.",39.9325368,-88.9511912
 "Topanga, Calif.",34.0675866,-118.595672
 "Mission Hills, Kan.",39.0177834,-94.6169014
+"Brookfield, Wisc.",43.0615578,-88.1260678
 "Decorah, Iowa",43.3041609,-91.7859098
 "Valley Center, Calif.",33.2272406,-117.0291893
 "Llandogo, Wales",51.7336903,-2.6875211
@@ -3748,6 +3814,7 @@ San Ramon Calif.,37.7648021,-121.9544387
 "Castletroy, Ireland",52.6654318,-8.5712428
 "North Garden, Va.",37.9573535,-78.6375087
 "Putney, New South, Australia",-33.826067,151.1064224
+"Terramungamine, New South Whales, Australia",-32.1485,148.5679
 "Holland, Pa.",40.1728871,-74.9926688
 "Forth Worth, Texas.",32.7369895,-97.4629893
 "Melbourne, Aust.",-37.7253581,144.9509254
@@ -3757,8 +3824,10 @@ San Ramon Calif.,37.7648021,-121.9544387
 "Utrecht, Netherlands",52.0907006,5.1215634
 "Oberhof, Thuringia, Germany",50.7067756,10.7257435
 "Wimbledon, Eng.",51.4214787,-0.2064027
+"Wauwatosa, Wisc.",43.0494122,-88.0079271
 "Milford, N.J.",40.5687128,-75.0946169
 "North York, Ontario, Can.",43.7570209,-79.3526399
+"Milwaukee, Wisc.",43.0386475,-87.9090751
 "Fisherman Bay, South Wales, Australia",-28.6364417,153.6283779
 "Worthing, England",50.8115402,-0.3699697
 "Berkshire, United Kingdom",51.4534889,-1.031873
@@ -3767,6 +3836,7 @@ San Ramon Calif.,37.7648021,-121.9544387
 "Cremorne Point, Australia",-33.8409547,151.2279762
 Portola Valley Calif.,37.3736298,-122.219047
 "Windsor, England",51.4837886,-0.6040419
+"Chatanooga, Tenn.",35.0457219,-85.3094883
 "Seillans, France",43.6364106,6.6445779
 "Meilen, Switzerland",47.270428,8.6412249
 "Bayport, N.Y.",40.74885,-73.052214
@@ -3777,6 +3847,7 @@ Portola Valley Calif.,37.3736298,-122.219047
 "Lusaka, Zambia",-15.4163395,28.2818414
 Aliso Viejo,33.5761376,-117.7258122
 "Millersville, Pa.",39.997998,-76.3545372
+"Mlada Bolesav, Czech Republic",50.4116187,14.9031301
 "Kiryat Ono, Israel",32.0591691,34.8594303
 "Dalgety Bay, Scotland",56.0422731,-3.367249
 "Midland, Mich.",43.6155825,-84.2472117
@@ -3786,6 +3857,7 @@ Aliso Viejo,33.5761376,-117.7258122
 "Kirkwood, Mo.",38.5800713,-90.4069177
 "Lebanon Township, N.J.",40.729147,-74.897122
 "Madison, Kan.",38.1355772,-96.135829
+"Pekasie, Penn.",40.372048,-75.292676
 "Reidsville, N.C.",36.3548586,-79.6644748
 Georgetown Prep,30.7338393,-97.6436206
 "Venice, Calif.",33.995044,-118.4668875
@@ -3843,11 +3915,13 @@ Rumson,40.372054,-73.9990269
 "Vosselaar, Belgium",51.3129153,4.8878026
 "Aberdeen, N.J.",40.4071138,-74.2216287
 "Wexford, Penn.",40.4451436,-79.8111323
+"Ambler, Penn.",40.1544727,-75.2221643
 "Itasca, Ill.",41.9712977,-88.0129164
 "Churchville, Penn.",40.1665175,-78.5177284
 "Dixon, Calif.",38.4454641,-121.8232958
 "Hod Hasharon, Israel",32.1561974,34.8930354
 "Maypool, U.K.",50.3784616,-3.5797628
+"Puemerend, Netherlands",52.5024789,4.9614827
 "Hatfields Beach, New Zealand",-36.5709944,174.6892499
 "Gelsenkirchen, Germany",51.5110321,7.0960124
 "Almere, Netherlands",52.3705038,5.2185859
@@ -3858,14 +3932,18 @@ Rumson,40.372054,-73.9990269
 "Schwabenheim, Germany",49.929002,8.0955343
 "Twickenham, England",51.4467444,-0.3281887
 "Twickenham, Eng.",51.4467444,-0.3281887
+"Woking, Great Britain",51.3201891,-0.5564726
 "Hessen, Germany",50.6080651,9.0284647
 "Newry, Northern Ireland",54.1775283,-6.337506
+"Marlow, Great Britain",51.5718706,-0.7769654
+"Narbeth, Pa.",40.00726,-75.2624168
 "Laurel Hollow, N.Y.",40.8567653,-73.4695665
 "Cork City, Ireland",51.8897795,-8.4653846
 "Bremen, Germany",53.0758196,8.8071646
 "Amsterdam, Noord-Holland",52.4015863,4.9330316
 "Scarsdale, New York",40.9885221,-73.8085608
 "Newport, Calif.",39.5773839,-123.7747388
+"Toorak, Aus.",-37.850751,145.0136989
 "Cabot, Ark.",34.974532,-92.0165336
 "Perry, Ohio",39.6370289,-82.2044367
 "Parnell, New Zealand",-36.8554763,174.7805576
@@ -3926,6 +4004,7 @@ Rumson,40.372054,-73.9990269
 "Little Egg Harbor, N.J.",39.5799861,-74.2789147
 "Bradford Woods, Pa.",40.637567,-80.0817249
 "Dusseldorf, Germany",51.2254018,6.7763137
+"Alameda, Calf.",37.6090291,-121.899142
 "Conneaut, Ohio",41.9440977,-80.5561011
 "Lewisville, N.C.",36.0970819,-80.4192216
 "Washington, Mich.",42.3021687,-83.257153
@@ -4009,11 +4088,16 @@ Freehold Borough,40.2680814,-74.2684496
 "Bellingham, Mass.",42.0869493,-71.4746436
 "Greenland, N.H.",43.0361995,-70.8328322
 "Des Moines, Iowa",41.5868654,-93.6249494
+"Birkereod, Denmark",55.8403369,12.4287796
 "Ashburton, New Zealand",-43.9024396,171.7503327
+"Addlestone, Great Britain",51.3711193,-0.4895776
 "Lubeck, Germany",53.866444,10.684738
 "Asuncion, Paraguay",-25.2800459,-57.6343814
+"North Molton, Great Britain",51.0539523,-3.8033031
+"Harrogate, England & Cape Town, South Africa",53.9921491,-1.5391039
 "Amersham, England",51.676685,-0.607692
 "Braselton, Georgia",34.1092735,-83.7626729
+"North Yorkshire, Great Britain",54.1345328,-1.4986285
 Sydney Australia,-33.8698439,151.2082848
 "Belfast, Ireland",54.596391,-5.9301829
 "Breclav, Czech Republic",48.7594008,16.8813137
@@ -4024,6 +4108,7 @@ Sydney Australia,-33.8698439,151.2082848
 "Riverside, R.I.",41.7673231,-71.3647759
 "Henley on Thames, United Kingdom",51.5375786,-0.9050287
 "Jesenice, Slovenia",46.4459152,14.0663103
+"Ioannia, Greece",39.6639818,20.8522784
 "Buninyong, Australia",-37.6502361,143.8839811
 "Thessaloníki, Greece",40.6403167,22.9352716
 "Friedrichshafen, Germany",47.6500279,9.4800858
@@ -4036,6 +4121,7 @@ Sydney Australia,-33.8698439,151.2082848
 "Livingston, Mont.",45.6623873,-110.5615899
 "Superior Township, Mich.",42.3049933,-83.6041183
 "Asaba, Nigeria",6.1858825,6.7297071
+"Reykjavic, Iceland",64.145981,-21.9422367
 "Ellington, Conn.",41.9039863,-72.4698071
 "Happy Valley, Hong Kong",22.267237,114.1869671
 "Hopkinton, N.H.",43.191595,-71.6748735
@@ -4044,11 +4130,13 @@ Sydney Australia,-33.8698439,151.2082848
 "Bedford, Texas",32.844017,-97.1430671
 "Lebanon, N.H.",43.643032,-72.251587
 "Nazareth, Penn.",48.5541428,-3.1046135
+"Hibat Tzionm, Israel",32.3987871,34.9120169
 "Leyden, Mass.",42.7017395,-72.6305336
 "Bonita, Calif.",32.6649141,-117.0170334
 "Killingworth, Conn.",41.3581545,-72.5637023
 "Odiham, England",51.2496285,-0.9346917
 "Wan Chai, Hong Kong",22.2790146,114.1724833
+"Kenosha, Wisc.",42.5846773,-87.8212263
 "Canton, Ohio",40.7985464,-81.3749508
 "High Wycombe, England",51.6317449,-0.75596
 "St. Thomas, U.S. Virgin Islands",18.3429082,-64.9188997
@@ -4094,8 +4182,10 @@ USA,39.7837304,-100.445882
 "Franklin, MA",42.5896205,-72.6110645
 "Menlo Park, CA",37.4519671,-122.177992
 "Duxbury, MA",42.0417695,-70.672259
+"Edina, MN & Dallas, TX",44.8897027,-93.3501222
 "Palisades Park, N.J.",40.8481556,-73.997639
 "Bangor, Northern Ireland",54.662595,-5.6679127
+"Morgantown, WVa.",39.6296809,-79.9559437
 "NewYork, N.Y.",40.6678376,-73.9791449
 "Seven Fields, Pa.",40.6846423,-80.0615292
 "Huldenberg, Belgium",50.7881181,4.6023539
@@ -4106,6 +4196,7 @@ USA,39.7837304,-100.445882
 "Philadelphia, PA",39.9527237,-75.1635262
 "Mississauga ,Ontario",43.5884727,-79.643658
 "Newport, RI",41.4899827,-71.3137707
+"Los Altos, Calif. and Karmei Yosef, Israel",37.3790629,-122.116578
 "Long Grove, Ill.",42.1783584,-87.9978518
 "Pontefract, England",53.6917422,-1.3105722
 "Alor Setar, Kedah, Malaysia",6.1231908,100.3683962
@@ -4126,6 +4217,7 @@ USA,39.7837304,-100.445882
 "Lompoc, Calif.",34.6391501,-120.4579009
 "Murrysville, Pa.",40.4284015,-79.697545
 "Bonaire, Ga.",32.5438429,-83.5960264
+"Neenah, Wisc.",44.1858193,-88.462609
 "Brookshire, Texas",29.7860643,-95.9510661
 "Buckley, Wash.",47.1622483,-122.027746
 "Potomac, Mary.",38.1995717,-76.5644014
@@ -4135,6 +4227,7 @@ USA,39.7837304,-100.445882
 "Waterford, Conn.",41.343025,-72.1290542
 "Newport Beach, California",33.6170092,-117.9294401
 "San Diego, Cal.",5.6656835,-74.9336693
+"Vufflens-leChateau, Switzerland",46.5264596,6.4690909
 "Miami, Flo.",25.9382266,-80.1961713
 "Washington, DC",38.8950982,-77.0363849
 "San Diego, CA",32.7157062,-117.1638284
@@ -4151,6 +4244,7 @@ USA,39.7837304,-100.445882
 "Jindera, Australia",-35.9534811,146.8890303
 "Clonmel, Ireland",52.3610817,-7.6991241
 "Chalfont St. Peter, U.K.",51.607174,-0.5565681
+"Hornbæk, Nordsjaelland, Denmark",56.0879176,12.4587803
 "Dallas, Tex.",32.7762719,-96.7968559
 "Bergen, Vestland, Norway",60.3943055,5.3259192
 "Devon, England",50.7241405,-3.6607788
@@ -4271,6 +4365,7 @@ Australia,-24.7761086,134.755
 "Galloway, Ohio",39.9139207,-83.1633336
 "Oxford, M.S.",51.7515077,-1.2590897
 "Sturbridge, Mass.",42.1084385,-72.0807772
+"Lake Mills, Wisc.",43.0798032,-88.9125723
 "Coppell, Tex.",32.9552598,-97.0155703
 "Flower Mound, Tex.",33.0283854,-97.0867203
 "Van Alstyne, Tex.",33.4220266,-96.5764834
@@ -4304,6 +4399,7 @@ Australia,-24.7761086,134.755
 "Holt, Mich.",42.6414805,-84.5201719
 "Rimouski, Que.",48.450155,-68.529968
 "Kingston, Ont.",44.3054151,-76.4283781
+"Appleton, Wisc.",44.2613967,-88.4069744
 "Burlington, Ontario",43.3248924,-79.7966835
 "Elora, Ontario",43.681148,-80.429581
 "Burlington, Conn.",41.7692648,-72.9645484
@@ -4367,99 +4463,4 @@ Belgrade-Novi Beograd,44.8133048,20.4183382
 "Chester, U.K.",40.3064316,-121.231668
 "Erwin, Tenn.",36.1451082,-82.4168055
 "Lima, Ohio",40.7399785,-84.105006
-"Caracas, Venezuela/Westport, Conn.",10.5060934,-66.9146008
-"Eau Claire, Wisc.",44.811349,-91.4984941
-"Loucust Valley, N.Y.",40.8775225,-73.5723052
-"Moreland Hill, Ohio",41.447831,-81.427615
-"New Canann, Conn.",41.146763,-73.4948446
-"Odense, Fyn, Denmark",55.3997225,10.3852104
-"Stuffville, Ontario",43.9717581,-79.2454446
-"Aukland, New Zealand",-36.852095,174.7631803
-"Holmdell, N.J.",40.3451095,-74.1840322
-"Ipswich, Mass./Windermere, Fla.",42.679273,-70.8411583
-"Maroubra, Aus.",-33.9453441,151.2456824
-"Newtown Square, Penn.",39.9868117,-75.4007633
-"Palos Versed Estates, Calif.",33.7872386,-118.401813
-"Phoeniz, Ariz.",33.4484367,-112.074141
-"Seoul, South Korea/Katy, Texas",37.5666791,126.9782914
-"Streatley on Thames, U.K",51.5219349,-1.1502738
-"Arlington, Vir.",38.8769326,-77.0893094
-"Charlottesville, Vir.",38.029306,-78.4766781
-"Claredon Hills, Ill.",41.7961237,-87.9551429
-"Easchester, N.Y.",40.9610563,-73.8064739
-"Exter, N.H.",42.981477,-70.9478343
-"Madiosn, N.J.",40.7598227,-74.417097
-"Matzenback, Germany",49.4954267,7.4592064
-"Potomac Falls, Vir.",39.0473728,-77.3849117
-Richmond Vir.,37.5385087,-77.43428
-"Sevenoaks, Kent (U.K.)",51.2745219,0.1961299
-"Stroughton, Mass.",42.1252079,-71.1022015
-"Agios Stefanos, Athens, Greece",38.1410051,23.8575845
-"Altherton, Calif.",37.453773,-122.2058272
-"Boise, Ida.",43.6166163,-116.200886
-"Glasglow, Scotland",55.861155,-4.2501687
-"Laie Malo'o, Hawaii",21.6438449,-157.924442
-"Phoenix, Ari.",33.4484367,-112.074141
-"Salt Late City, Utah",40.7596198,-111.886797
-"St. Alban's, Vt.",44.8107911,-73.0833607
-"Thrakomakedones, Athens, Greece",38.1294473,23.7573686
-"Whitefish Bay, Wisc.",43.1185591,-87.906804
-"Wilsborough Green, England",51.1415683,0.8948952
-"Wyndmoor, Penn.",40.0853435,-75.1940207
-Birthplace: Nigeria / Resident: United Kingdom,54.7023545,-3.2765753
-"Cutchouge, N.Y.",41.018683,-72.4891577
-"Edgarton, Mass.",41.3894198,-70.5129682
-"Goteburg, Sweden",57.7072326,11.9670171
-"Hasting, New Zealand",-39.6417678,176.8430781
-"Honululu, Hawaii",21.304547,-157.855676
-"Kahuku, (O'ahu) Hawai'i",21.6844495,-157.9416673
-"Kikenny, Ireland",52.6506255,-7.2514438
-"Melborne, Australia",-37.8142454,144.9631732
-"Moreto-in-Marsh, United Kingdom",51.9906413,-1.7023018
-"Pleven, Buglaria",43.4809895,24.6060665
-"Prauge, Czech Republic",50.0874654,14.4212535
-"Santa Rosa Valey, Calif.",34.244042,-118.9018744
-"Siauliai Vijoliai, Lithuania",55.9340823,23.3157775
-"Syksville, Md.",39.365992,-76.9688737
-"Thiensville, Wisc.",43.2359729,-87.9843784
-"Campbells Bay, N.Z.",-36.7454921,174.7619515
-"Frankin, Mass.",42.5896205,-72.6110645
-"Hummelston, Pa.",40.2653927,-76.7082778
-"Rancho Palos Verde, Calif.",33.7483311,-118.3707683
-"Rancho Sante Fe, Calif.",33.0242314,-117.1979781
-"Alameda, Calf.",37.6090291,-121.899142
-"Ambler, Penn.",40.1544727,-75.2221643
-"Brookfield, Wisc.",43.0615578,-88.1260678
-"Chatanooga, Tenn.",35.0457219,-85.3094883
-"Cheltenham, Great Britain",51.8995685,-2.0711559
-"Glastonbury, C.T.",41.7123218,-72.608146
-"Marlow, Great Britain",51.5718706,-0.7769654
-"Middleton, Wisc.",43.0962919,-89.5119565
-"Milwaukee, Wisc.",43.0386475,-87.9090751
-"Mlada Bolesav, Czech Republic",50.4116187,14.9031301
-"Narbeth, Pa.",40.00726,-75.2624168
-"Okehampton, Great Britain",50.7376667,-4.000316
-"Pekasie, Penn.",40.372048,-75.292676
-"Puemerend, Netherlands",52.5024789,4.9614827
-"Setauklet, N.Y.",40.9467545,-73.115916
-"Terramungamine, New South Whales, Australia",-32.1485,148.5679
-"Toorak, Aus.",-37.850751,145.0136989
-"Wauwatosa, Wisc.",43.0494122,-88.0079271
-"Woking, Great Britain",51.3201891,-0.5564726
-"Addlestone, Great Britain",51.3711193,-0.4895776
-"Appleton, Wisc.",44.2613967,-88.4069744
-"Birkereod, Denmark",55.8403369,12.4287796
-"Edina, MN & Dallas, TX",44.8897027,-93.3501222
-"Harrogate, England & Cape Town, South Africa",53.9921491,-1.5391039
-"Hibat Tzionm, Israel",32.3987871,34.9120169
-"Hornbæk, Nordsjaelland, Denmark",56.0879176,12.4587803
-"Ioannia, Greece",39.6639818,20.8522784
-"Kenosha, Wisc.",42.5846773,-87.8212263
-"Lake Mills, Wisc.",43.0798032,-88.9125723
-"Los Altos, Calif. and Karmei Yosef, Israel",37.3790629,-122.116578
-"Morgantown, WVa.",39.6296809,-79.9559437
-"Neenah, Wisc.",44.1858193,-88.462609
-"North Molton, Great Britain",51.0539523,-3.8033031
-"North Yorkshire, Great Britain",54.1345328,-1.4986285
-"Reykjavic, Iceland",64.145981,-21.9422367
-"Vufflens-leChateau, Switzerland",46.5264596,6.4690909
+"Elkridge, Md.",39.1938632,-76.7420903

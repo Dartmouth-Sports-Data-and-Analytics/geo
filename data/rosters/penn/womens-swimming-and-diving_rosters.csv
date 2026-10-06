@@ -1,33 +1,10 @@
 name,position,class,height,weight,hometown,sport,year
 Jill Anderson,,So.,,,"West Chester, Pa.",womens-swimming-and-diving,2021
-Anderson Myers,,Sr.,,,"Orlando, Fla.",womens-swimming-and-diving,2021
-Anna Newnam,,Sr.,,,"Asheville, N.C.",womens-swimming-and-diving,2021
-Kiani Morisi,,Fr.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2021
-Rina Nagatani,,Jr.,,,"Nagoya, Japan",womens-swimming-and-diving,2021
-Eliza Normark,,Jr.,,,"Atlanta, Ga.",womens-swimming-and-diving,2021
-Keren Makhervaks,,Jr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2021
-Izzy Pytel,,Fr.,,,"Naperville, Ill.",womens-swimming-and-diving,2021
-Keara McGowan,,Fr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2021
-Paula Scanlan,,Sr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2021
-Jenessa Schwarz,,So.,,,"Windermere, Fla.",womens-swimming-and-diving,2021
-Samantha Stein,,So.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2021
-Lia Thomas,,Sr.,,,"Austin, Texas",womens-swimming-and-diving,2021
-Dora Wu,,So.,,,"McLean, Va.",womens-swimming-and-diving,2021
-Katie Kiely,,Sr.,,,"Mountain Lakes, N.J.",womens-swimming-and-diving,2021
-Madeleine Parker,,Fr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2021
-Hannah Liu,,Fr.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2021
-Lyndsey Reeve,,Jr.,,,"Emerald Isle, N.C.",womens-swimming-and-diving,2021
-Rachel Maizes,,Sr.,,,"Scotch Plains, N.J.",womens-swimming-and-diving,2021
-Hannah Kannan,,Sr.,,,"Bethesda, Md.",womens-swimming-and-diving,2021
-Bridget O'Leary,,Jr.,,,"Barrington, Ill.",womens-swimming-and-diving,2021
-Margot Kaczorowski,,Jr.,,,"Haddon Heights, N.J.",womens-swimming-and-diving,2021
-Anna Kalandadze,,Jr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2021
 Vanessa Chong,,Fr.,,,"New York, N.Y.",womens-swimming-and-diving,2021
 Caroline Dobbs,,Sr.,,,"New York, N.Y.",womens-swimming-and-diving,2021
 Camryn Carter,,Jr.,,,"West Chester, Pa.",womens-swimming-and-diving,2021
 Hadley DeBruyn,,So.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2021
 Anna Boeckman,,Fr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2021
-Anna Feng,,Jr.,,,"Hopkinton, Mass.",womens-swimming-and-diving,2021
 Catherine Buroker,,Jr.,,,"Trumbull, Conn.",womens-swimming-and-diving,2021
 Grace Giddings,,Sr.,,,"Olney, Md.",womens-swimming-and-diving,2021
 Monika Burzynska,,Sr.,,,"Colonia, N.J.",womens-swimming-and-diving,2021
@@ -40,25 +17,29 @@ Rachel Blackwell,,So.,,,"Silver Spring, Md.",womens-swimming-and-diving,2021
 Olivia Francella,,Jr.,,,"Virginia Beach, Va.",womens-swimming-and-diving,2021
 Brooke Blom,,Fr.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2021
 Amelia Girotto,,Fr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2021
-Anna Moehn,,Fr.,,,"Alton, Ill.",womens-swimming-and-diving,2022
-Rina Nagatani,,Sr.,,,"Nagoya, Japan",womens-swimming-and-diving,2022
-Madeleine Parker,,So.,,,"San Mateo, Calif.",womens-swimming-and-diving,2022
-Amber Smith,,Fr.,,,"Lutherville, Md.",womens-swimming-and-diving,2022
-Keren Makhervaks,,Sr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2022
-Abby Wickersham,,Fr.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2022
-Keara McGowan,,So.,,,"New Lenox, Ill.",womens-swimming-and-diving,2022
-Lyndsey Reeve,,Sr.,,,"Emerald Isle, N.C.",womens-swimming-and-diving,2022
-Hannah Liu,,So.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2022
-Izzy Pytel,,So.,,,"Naperville, Ill.",womens-swimming-and-diving,2022
-Brooke Blom,,So.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2022
-Jenessa Schwarz,,Jr.,,,"Windermere, Fla.",womens-swimming-and-diving,2022
-Samantha Stein,,Jr.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2022
-Catherine Buroker,,Sr.,,,"Trumbull, Conn.",womens-swimming-and-diving,2022
-Emma Stolberg,,Fr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2022
-Anna Kalandadze,,Sr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2022
-Vanessa Chong,,So.,,,"New York, N.Y.",womens-swimming-and-diving,2022
-Jillian Johnson,,So.,,,"McLean, Va.",womens-swimming-and-diving,2022
-Bridget O'Leary,,Sr.,,,"Barrington, Ill.",womens-swimming-and-diving,2022
+Anna Kalandadze,,Jr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2021
+Margot Kaczorowski,,Jr.,,,"Haddon Heights, N.J.",womens-swimming-and-diving,2021
+Anna Feng,,Jr.,,,"Hopkinton, Mass.",womens-swimming-and-diving,2021
+Hannah Kannan,,Sr.,,,"Bethesda, Md.",womens-swimming-and-diving,2021
+Anderson Myers,,Sr.,,,"Orlando, Fla.",womens-swimming-and-diving,2021
+Anna Newnam,,Sr.,,,"Asheville, N.C.",womens-swimming-and-diving,2021
+Bridget O'Leary,,Jr.,,,"Barrington, Ill.",womens-swimming-and-diving,2021
+Rina Nagatani,,Jr.,,,"Nagoya, Japan",womens-swimming-and-diving,2021
+Eliza Normark,,Jr.,,,"Atlanta, Ga.",womens-swimming-and-diving,2021
+Keren Makhervaks,,Jr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2021
+Izzy Pytel,,Fr.,,,"Naperville, Ill.",womens-swimming-and-diving,2021
+Keara McGowan,,Fr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2021
+Paula Scanlan,,Sr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2021
+Kiani Morisi,,Fr.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2021
+Samantha Stein,,So.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2021
+Lia Thomas,,Sr.,,,"Austin, Texas",womens-swimming-and-diving,2021
+Dora Wu,,So.,,,"McLean, Va.",womens-swimming-and-diving,2021
+Katie Kiely,,Sr.,,,"Mountain Lakes, N.J.",womens-swimming-and-diving,2021
+Madeleine Parker,,Fr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2021
+Hannah Liu,,Fr.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2021
+Lyndsey Reeve,,Jr.,,,"Emerald Isle, N.C.",womens-swimming-and-diving,2021
+Rachel Maizes,,Sr.,,,"Scotch Plains, N.J.",womens-swimming-and-diving,2021
+Jenessa Schwarz,,So.,,,"Windermere, Fla.",womens-swimming-and-diving,2021
 Anna Boeckman,,So.,,,"Greenwich, Conn.",womens-swimming-and-diving,2022
 Camryn Carter,,Sr.,,,"West Chester, Pa.",womens-swimming-and-diving,2022
 Jill Anderson,,Jr.,,,"West Chester, Pa.",womens-swimming-and-diving,2022
@@ -66,103 +47,122 @@ Ellen Holmquist,,Jr.,,,"Wilton, Conn.",womens-swimming-and-diving,2022
 Sydney Bergstrom,,Fr.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2022
 Hadley DeBruyn,,Jr.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2022
 Rachel Blackwell,,Jr.,,,"Silver Spring, Md.",womens-swimming-and-diving,2022
-Joy Jiang,,So.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2022
+Amelia Girotto,,So.,,,"Bellevue, Wash.",womens-swimming-and-diving,2022
 Margot Kaczorowski,,Sr.,,,"Haddon Heights, N.J.",womens-swimming-and-diving,2022
 Olivia Francella,,Sr.,,,"Virginia Beach, Va.",womens-swimming-and-diving,2022
-Amelia Girotto,,So.,,,"Bellevue, Wash.",womens-swimming-and-diving,2022
 Kiani Morisi,,So.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2022
 Sophie Henriksen,,Fr.,,,"St. Louis, Mo.",womens-swimming-and-diving,2022
 Sadie Howard,,Fr.,,,"Vancouver, B.C.",womens-swimming-and-diving,2022
-Keara McGowan,,Jr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2023
-Anna Moehn,,So.,,,"Alton, Ill.",womens-swimming-and-diving,2023
-Kiani Morisi,,Jr.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2023
-Madeleine Parker,,Jr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2023
-Samantha Stein,,Sr.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2023
-Abby Wickersham,,So.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2023
-Izzy Pytel,,Jr.,,,"Naperville, Ill.",womens-swimming-and-diving,2023
-Maggie Straley,,Fr.,,,"Seattle, Wash.",womens-swimming-and-diving,2023
-Sophie Slayden,,Fr.,,,"Austin, Texas",womens-swimming-and-diving,2023
-Meredith Holcomb,,Fr.,,,"San Antonio, Texas",womens-swimming-and-diving,2023
-Amber Smith,,So.,,,"Lutherville, Md.",womens-swimming-and-diving,2023
-Kate Levensten,,Fr.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2023
-Sadie Howard,,So.,,,"Vancouver, B.C.",womens-swimming-and-diving,2023
-Hannah Liu,,Jr.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2023
-Margot Kaczorowski,,Sr.,,,"Haddon Heights, N.J.",womens-swimming-and-diving,2023
-Jillian Johnson,,Jr.,,,"McLean, Va.",womens-swimming-and-diving,2023
-Joy Jiang,,Jr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2023
-Anna Kalandadze,,Sr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2023
+Bridget O'Leary,,Sr.,,,"Barrington, Ill.",womens-swimming-and-diving,2022
+Joy Jiang,,So.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2022
+Jillian Johnson,,So.,,,"McLean, Va.",womens-swimming-and-diving,2022
+Amber Smith,,Fr.,,,"Lutherville, Md.",womens-swimming-and-diving,2022
+Anna Kalandadze,,Sr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2022
+Vanessa Chong,,So.,,,"New York, N.Y.",womens-swimming-and-diving,2022
+Rina Nagatani,,Sr.,,,"Nagoya, Japan",womens-swimming-and-diving,2022
+Madeleine Parker,,So.,,,"San Mateo, Calif.",womens-swimming-and-diving,2022
+Keren Makhervaks,,Sr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2022
+Abby Wickersham,,Fr.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2022
+Keara McGowan,,So.,,,"New Lenox, Ill.",womens-swimming-and-diving,2022
+Lyndsey Reeve,,Sr.,,,"Emerald Isle, N.C.",womens-swimming-and-diving,2022
+Anna Moehn,,Fr.,,,"Alton, Ill.",womens-swimming-and-diving,2022
+Izzy Pytel,,So.,,,"Naperville, Ill.",womens-swimming-and-diving,2022
+Brooke Blom,,So.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2022
+Jenessa Schwarz,,Jr.,,,"Windermere, Fla.",womens-swimming-and-diving,2022
+Samantha Stein,,Jr.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2022
+Catherine Buroker,,Sr.,,,"Trumbull, Conn.",womens-swimming-and-diving,2022
+Emma Stolberg,,Fr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2022
+Hannah Liu,,So.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2022
 Vanessa Chong,,Jr.,,,"New York, N.Y.",womens-swimming-and-diving,2023
 Hadley DeBruyn,,Sr.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2023
 Katya Eruslanova,,Fr.,,,"Havertown, Pa.",womens-swimming-and-diving,2023
 Amelia Girotto,,Jr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2023
 Ellen Holmquist,,Sr.,,,"Wilton, Conn.",womens-swimming-and-diving,2023
 Jenna Jacobs,,Fr.,,,"Raleigh, N.C.",womens-swimming-and-diving,2023
-Brooke Blom,,Jr.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2023
+Jill Anderson,,Sr.,,,"West Chester, Pa.",womens-swimming-and-diving,2023
 Kaitlyn Girotto,,Fr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2023
 Sophie Henriksen,,So.,,,"St. Louis, Mo.",womens-swimming-and-diving,2023
-Jill Anderson,,Sr.,,,"West Chester, Pa.",womens-swimming-and-diving,2023
 Emma Stolberg,,So.,,,"Mooresville, N.C.",womens-swimming-and-diving,2023
 Charlotte Holliday,,Fr.,,,"Warren, N.J.",womens-swimming-and-diving,2023
 Sydney Bergstrom,,So.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2023
-Kate Levensten,,So.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2024
-Erica Maltsev,,Fr.,,,"Staten Island, N.Y.",womens-swimming-and-diving,2024
-Keara McGowan,,Sr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2024
-Anna Moehn,,Jr.,,,"Alton, Ill.",womens-swimming-and-diving,2024
-Abby Druhan,,Fr.,,,"Charlotte, N.C.",womens-swimming-and-diving,2024
-Madeleine Parker,,Sr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2024
-Rachel Yang,,Fr.,,,"Brooklyn, N.Y.",womens-swimming-and-diving,2024
-Jillian Johnson,,Sr.,,,"McLean, Va.",womens-swimming-and-diving,2024
-Lily Zhang,,Fr.,,,"Vancouver, British Columbia",womens-swimming-and-diving,2024
-Amy Qin,,Fr.,,,"North Potomac, Md.",womens-swimming-and-diving,2024
-Sophie Slayden,,So.,,,"Austin, Texas",womens-swimming-and-diving,2024
-Amber Smith,,Jr.,,,"Lutherville, Md.",womens-swimming-and-diving,2024
-Emma Stolberg,,Jr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2024
-Maggie Straley,,So.,,,"Seattle, Wash.",womens-swimming-and-diving,2024
-Jenna Jacobs,,So.,,,"Raleigh, N.C.",womens-swimming-and-diving,2024
-Joy Jiang,,Sr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2024
-Sophie Henriksen,,Jr.,,,"St. Louis, Mo.",womens-swimming-and-diving,2024
+Anna Kalandadze,,Sr.,,,"Ardmore, Pa.",womens-swimming-and-diving,2023
+Brooke Blom,,Jr.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2023
+Joy Jiang,,Jr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2023
+Meredith Holcomb,,Fr.,,,"San Antonio, Texas",womens-swimming-and-diving,2023
+Margot Kaczorowski,,Sr.,,,"Haddon Heights, N.J.",womens-swimming-and-diving,2023
+Jillian Johnson,,Jr.,,,"McLean, Va.",womens-swimming-and-diving,2023
+Anna Moehn,,So.,,,"Alton, Ill.",womens-swimming-and-diving,2023
+Kiani Morisi,,Jr.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2023
+Madeleine Parker,,Jr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2023
+Samantha Stein,,Sr.,,,"Paradise Valley, Ariz.",womens-swimming-and-diving,2023
+Abby Wickersham,,So.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2023
+Izzy Pytel,,Jr.,,,"Naperville, Ill.",womens-swimming-and-diving,2023
+Keara McGowan,,Jr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2023
+Sophie Slayden,,Fr.,,,"Austin, Texas",womens-swimming-and-diving,2023
+Amber Smith,,So.,,,"Lutherville, Md.",womens-swimming-and-diving,2023
+Kate Levensten,,Fr.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2023
+Sadie Howard,,So.,,,"Vancouver, B.C.",womens-swimming-and-diving,2023
+Maggie Straley,,Fr.,,,"Seattle, Wash.",womens-swimming-and-diving,2023
+Hannah Liu,,Jr.,,,"Lincolnshire, Ill.",womens-swimming-and-diving,2023
 Sydney Bergstrom,,Jr.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2024
 Brooke Blom,,Sr.,,,"Barboursville, W.Va.",womens-swimming-and-diving,2024
 Anna Boeckman,,Jr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2024
 Vanessa Chong,,Sr.,,,"New York, N.Y.",womens-swimming-and-diving,2024
 Kiani Morisi,,Sr.,,,"Massapequa, N.Y.",womens-swimming-and-diving,2024
 Katya Eruslanova,,So.,,,"Havertown, Pa.",womens-swimming-and-diving,2024
-Izzy Pytel,,Sr.,,,"Naperville, Ill.",womens-swimming-and-diving,2024
-Charlotte Holliday,,So.,,,"Warren, N.J.",womens-swimming-and-diving,2024
 Sadie Howard,,Jr.,,,"Vancouver, B.C.",womens-swimming-and-diving,2024
 Maggie Hu,,Fr.,,,"Richmond Hill, Ontario",womens-swimming-and-diving,2024
 Kayla Fu,,Fr.,,,"Sugar Land, Texas",womens-swimming-and-diving,2024
 Amelia Girotto,,Sr.,,,"Bellevue, Wash.",womens-swimming-and-diving,2024
 Kate Handley,,So.,,,"Weston, Mass.",womens-swimming-and-diving,2024
+Sophie Henriksen,,Jr.,,,"St. Louis, Mo.",womens-swimming-and-diving,2024
 Meredith Holcomb,,So.,,,"San Antonio, Texas",womens-swimming-and-diving,2024
-Olivia Safarikova,,Fr.,,,"Winnetka, Ill.",womens-swimming-and-diving,2025
-Erica Maltsev,,So.,,,"Staten Island, N.Y.",womens-swimming-and-diving,2025
-Anna Moehn,,Sr.,,,"Alton, Ill.",womens-swimming-and-diving,2025
-Mads Morawski,,Fr.,,,"Belmont, Mass.",womens-swimming-and-diving,2025
-Amy Qin,,So.,,,"North Potomac, Md.",womens-swimming-and-diving,2025
-Amber Smith,,Sr.,,,"Lutherville, Md.",womens-swimming-and-diving,2025
-Sophie Slayden,,Jr.,,,"Austin, Texas",womens-swimming-and-diving,2025
-Emma Stolberg,,Sr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2025
-Maggie Straley,,Jr.,,,"Seattle, Wash.",womens-swimming-and-diving,2025
-Connie Wang,,Fr.,,,"Nashville, Tenn.",womens-swimming-and-diving,2025
-Armina Li,,Fr.,,,"Pasadena, Calif.",womens-swimming-and-diving,2025
-Sienna Wiggins,,Fr.,,,"New York, N.Y.",womens-swimming-and-diving,2025
-Jenna Jacobs,,Jr.,,,"Raleigh, N.C.",womens-swimming-and-diving,2025
-Kate Levensten,,Jr.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2025
-Sophie Henriksen,,Sr.,,,"St. Louis, Mo.",womens-swimming-and-diving,2025
-Maggie Hu,,So.,,,"Richmond Hill, Ontario",womens-swimming-and-diving,2025
-Rachel Yang,,So.,,,"Brooklyn, N.Y.",womens-swimming-and-diving,2025
+Charlotte Holliday,,So.,,,"Warren, N.J.",womens-swimming-and-diving,2024
+Joy Jiang,,Sr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2024
+Izzy Pytel,,Sr.,,,"Naperville, Ill.",womens-swimming-and-diving,2024
+Maggie Straley,,So.,,,"Seattle, Wash.",womens-swimming-and-diving,2024
+Kate Levensten,,So.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2024
+Erica Maltsev,,Fr.,,,"Staten Island, N.Y.",womens-swimming-and-diving,2024
+Keara McGowan,,Sr.,,,"New Lenox, Ill.",womens-swimming-and-diving,2024
+Anna Moehn,,Jr.,,,"Alton, Ill.",womens-swimming-and-diving,2024
+Jenna Jacobs,,So.,,,"Raleigh, N.C.",womens-swimming-and-diving,2024
+Madeleine Parker,,Sr.,,,"San Mateo, Calif.",womens-swimming-and-diving,2024
+Abby Druhan,,Fr.,,,"Charlotte, N.C.",womens-swimming-and-diving,2024
+Jillian Johnson,,Sr.,,,"McLean, Va.",womens-swimming-and-diving,2024
+Lily Zhang,,Fr.,,,"Vancouver, British Columbia",womens-swimming-and-diving,2024
+Amy Qin,,Fr.,,,"North Potomac, Md.",womens-swimming-and-diving,2024
+Sophie Slayden,,So.,,,"Austin, Texas",womens-swimming-and-diving,2024
+Amber Smith,,Jr.,,,"Lutherville, Md.",womens-swimming-and-diving,2024
+Emma Stolberg,,Jr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2024
+Rachel Yang,,Fr.,,,"Brooklyn, N.Y.",womens-swimming-and-diving,2024
 Katya Eruslanova,,Jr.,,,"Havertown, Pa.",womens-swimming-and-diving,2025
 Charlotte Holliday,,Jr.,,,"Warren, N.J.",womens-swimming-and-diving,2025
 Meredith Holcomb,,Jr.,,,"San Antonio, Texas",womens-swimming-and-diving,2025
 Caroline Holcomb,,Fr.,,,"San Antonio, Texas",womens-swimming-and-diving,2025
 Kayla Fu,,So.,,,"Sugar Land, Texas",womens-swimming-and-diving,2025
-Kate Handley,,Jr.,,,"Weston, Mass.",womens-swimming-and-diving,2025
+Brianna Cong,,Fr.,,,"Johnston, Iowa",womens-swimming-and-diving,2025
 Abby Druhan,,So.,,,"Charlotte, N.C.",womens-swimming-and-diving,2025
 Caroline Cancelmo,,Fr.,,,"Seattle, Wash.",womens-swimming-and-diving,2025
 Anna Boeckman,,Sr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2025
 Sydney Bergstrom,,Sr.,,,"Swarthmore, Pa.",womens-swimming-and-diving,2025
 Sadie Howard,,Sr.,,,"Vancouver, B.C.",womens-swimming-and-diving,2025
-Brianna Cong,,Fr.,,,"Johnston, Iowa",womens-swimming-and-diving,2025
+Rachel Yang,,So.,,,"Brooklyn, N.Y.",womens-swimming-and-diving,2025
+Kate Handley,,Jr.,,,"Weston, Mass.",womens-swimming-and-diving,2025
+Maggie Hu,,So.,,,"Richmond Hill, Ontario",womens-swimming-and-diving,2025
+Emma Stolberg,,Sr.,,,"Mooresville, N.C.",womens-swimming-and-diving,2025
+Kate Levensten,,Jr.,,,"Lower Merion, Pa.",womens-swimming-and-diving,2025
+Jenna Jacobs,,Jr.,,,"Raleigh, N.C.",womens-swimming-and-diving,2025
+Sienna Wiggins,,Fr.,,,"New York, N.Y.",womens-swimming-and-diving,2025
+Armina Li,,Fr.,,,"Pasadena, Calif.",womens-swimming-and-diving,2025
+Connie Wang,,Fr.,,,"Nashville, Tenn.",womens-swimming-and-diving,2025
+Maggie Straley,,Jr.,,,"Seattle, Wash.",womens-swimming-and-diving,2025
+Sophie Slayden,,Jr.,,,"Austin, Texas",womens-swimming-and-diving,2025
+Amber Smith,,Sr.,,,"Lutherville, Md.",womens-swimming-and-diving,2025
+Amy Qin,,So.,,,"North Potomac, Md.",womens-swimming-and-diving,2025
+Mads Morawski,,Fr.,,,"Belmont, Mass.",womens-swimming-and-diving,2025
+Anna Moehn,,Sr.,,,"Alton, Ill.",womens-swimming-and-diving,2025
+Erica Maltsev,,So.,,,"Staten Island, N.Y.",womens-swimming-and-diving,2025
+Olivia Safarikova,,Fr.,,,"Winnetka, Ill.",womens-swimming-and-diving,2025
 Hannah Pecze,,Fr.,,,"Round Rock, Texas",womens-swimming-and-diving,2025
+Sophie Henriksen,,Sr.,,,"St. Louis, Mo.",womens-swimming-and-diving,2025
 Lily Zhang,,So.,,,"Vancouver, British Columbia",womens-swimming-and-diving,2025

@@ -1,27 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Isabelle Arevalo,Free,Jr.,,,"Spring Valley, N.Y.",womens-swimming-and-diving,2021
-Ashley Hu,Breast,FY,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2021
-Jazlynn Pak,Fly/Free,So.,,,"Bothell, Wash.",womens-swimming-and-diving,2021
-Jessica Peng,Fly/Free,Jr.,,,"College Station, Texas",womens-swimming-and-diving,2021
-Macy Pine,Diving,FY,,,"Los Angeles, Calif.",womens-swimming-and-diving,2021
-Mary Pruden,IM/Back/DIst,Sr.,,,"Raleigh, N.C.",womens-swimming-and-diving,2021
-Riley Pujadas,Back,FY,,,"Devon, Pa.",womens-swimming-and-diving,2021
-Olivia Ricard,Diving,Jr.,,,"Naples, Fla.",womens-swimming-and-diving,2021
-Jing Tan,Fly/Back/IM,Jr.,,,"Rockville, Md.",womens-swimming-and-diving,2021
-Julia Unas,IM/Breast,FY,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2021
-Kaleigh McGrady,Free,Jr.,,,"Atlanta, Ga.",womens-swimming-and-diving,2021
-Elif Ozyurekoglu,Back,So.,,,"Louisville, Ky.",womens-swimming-and-diving,2021
-Allegra Walker,Breast,So.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2021
-Emily Wang,Fly,Sr.,,,"Potomac, Md.",womens-swimming-and-diving,2021
-Diana Caskey,,,,,,womens-swimming-and-diving,2021
-Taylor Whang,Breast/IM,FY,,,"Park Ridge, N.J.",womens-swimming-and-diving,2021
-Carly Yasko,Free,So.,,,"Newport Beach, Calif.",womens-swimming-and-diving,2021
-Georgia Young,Free,So.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2021
-Anthea Wong,Fly,FY,,,Hong Kong,womens-swimming-and-diving,2021
-Mia Saenger,Back/Free,So.,,,"Eugene, Ore.",womens-swimming-and-diving,2021
-Olivia Jubin,Free,Jr.,,,"Alexandria, Va.",womens-swimming-and-diving,2021
-Aastha Mehta,Free/Back,FY,,,"Mountain View, Calif.",womens-swimming-and-diving,2021
-Kasey Karkoska,Back,Sr.,,,"Laguna Beach, Calif.",womens-swimming-and-diving,2021
 Briget Rosendahl,Diving,Sr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2021
 Callie Breiter,Free,So.,,,"Lincoln, Mass.",womens-swimming-and-diving,2021
 Alice Diakova,Diving,So.,,,"Rochester, N.Y.",womens-swimming-and-diving,2021
@@ -29,10 +7,9 @@ Aniston Eyre,Free,So.,,,"Makawao, Hawaii",womens-swimming-and-diving,2021
 Isabella Fratesi,Breast/Free,Jr.,,,"Scottsdale, Ariz.",womens-swimming-and-diving,2021
 Aziza Ganihanova,Free/Back,So.,,,"Annandale, N.J.",womens-swimming-and-diving,2021
 Hannah Hailu,Back/Fly,FY,,,"Omaha, Neb.",womens-swimming-and-diving,2021
-Emily MacDonald,Free,FY,,,"Kingston, Jamaica",womens-swimming-and-diving,2021
 Clare Larsen,Free/IM,Sr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2021
+Kasey Karkoska,Back,Sr.,,,"Laguna Beach, Calif.",womens-swimming-and-diving,2021
 Lindsay Rispoli,Breast,Sr.,,,"New Providence, N.J.",womens-swimming-and-diving,2021
-Emma Babashak,Free/Fly,So.,,,"Wilton, Conn.",womens-swimming-and-diving,2021
 Allison Martin,Free/IM,FY,,,"McLean, Va.",womens-swimming-and-diving,2021
 Claire Lin,Free,Sr.,,,"Palo Alto, Calif.",womens-swimming-and-diving,2021
 Cleo Lim,Fly/IM,Sr.,,,"Tenafly, N.J.",womens-swimming-and-diving,2021
@@ -41,16 +18,59 @@ Michelle Lee,Diving,Sr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2021
 Yani Le,Breast,Sr.,,,"Bellingham, Wash.",womens-swimming-and-diving,2021
 Tina Le,Free,Jr.,,,"Santa Clara, Calif.",womens-swimming-and-diving,2021
 Karen Liu,IM/Free,Jr.,5' 5'',,Hong Kong,womens-swimming-and-diving,2021
+Emma Babashak,Free/Fly,So.,,,"Wilton, Conn.",womens-swimming-and-diving,2021
+Aastha Mehta,Free/Back,FY,,,"Mountain View, Calif.",womens-swimming-and-diving,2021
+Emily MacDonald,Free,FY,,,"Kingston, Jamaica",womens-swimming-and-diving,2021
+Mia Saenger,Back/Free,So.,,,"Eugene, Ore.",womens-swimming-and-diving,2021
+Olivia Jubin,Free,Jr.,,,"Alexandria, Va.",womens-swimming-and-diving,2021
+Jazlynn Pak,Fly/Free,So.,,,"Bothell, Wash.",womens-swimming-and-diving,2021
+Jessica Peng,Fly/Free,Jr.,,,"College Station, Texas",womens-swimming-and-diving,2021
+Macy Pine,Diving,FY,,,"Los Angeles, Calif.",womens-swimming-and-diving,2021
+Mary Pruden,IM/Back/DIst,Sr.,,,"Raleigh, N.C.",womens-swimming-and-diving,2021
+Riley Pujadas,Back,FY,,,"Devon, Pa.",womens-swimming-and-diving,2021
+Olivia Ricard,Diving,Jr.,,,"Naples, Fla.",womens-swimming-and-diving,2021
+Jing Tan,Fly/Back/IM,Jr.,,,"Rockville, Md.",womens-swimming-and-diving,2021
+Julia Unas,IM/Breast,FY,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2021
+Ashley Hu,Breast,FY,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2021
+Elif Ozyurekoglu,Back,So.,,,"Louisville, Ky.",womens-swimming-and-diving,2021
+Kaleigh McGrady,Free,Jr.,,,"Atlanta, Ga.",womens-swimming-and-diving,2021
+Georgia Young,Free,So.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2021
+Carly Yasko,Free,So.,,,"Newport Beach, Calif.",womens-swimming-and-diving,2021
+Taylor Whang,Breast/IM,FY,,,"Park Ridge, N.J.",womens-swimming-and-diving,2021
+Anthea Wong,Fly,FY,,,Hong Kong,womens-swimming-and-diving,2021
+Emily Wang,Fly,Sr.,,,"Potomac, Md.",womens-swimming-and-diving,2021
+Allegra Walker,Breast,So.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2021
+Diana Caskey,,,,,,womens-swimming-and-diving,2021
+Alice Diakova,Diving,Jr.,,,"Rochester, N.Y.",womens-swimming-and-diving,2022
+Grace Dunn,Distance,FY,,,"Phoeniz, Ariz.",womens-swimming-and-diving,2022
+Isabella Fratesi,Breast/Free,Sr.,,,"Scottsdale, Ariz.",womens-swimming-and-diving,2022
+Isabelle Arevalo,Free,Sr.,,,"Spring Valley, N.Y.",womens-swimming-and-diving,2022
+Emma Babashak,Free/Fly,Jr.,,,"Wilton, Conn.",womens-swimming-and-diving,2022
+Hannah Hailu,Back/Fly,So.,,,"Omaha, Neb.",womens-swimming-and-diving,2022
+Callie Breiter,Free,Jr.,,,"Lincoln, Mass.",womens-swimming-and-diving,2022
+Karen Liu,IM/Free,Sr.,5' 5'',,Hong Kong,womens-swimming-and-diving,2022
+Ashley Hu,Breast,So.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2022
+Tina Le,Free,Sr.,,,"Santa Clara, Calif.",womens-swimming-and-diving,2022
+Chloe Leung,Diving,FY,,,"Menlo Park, Calif.",womens-swimming-and-diving,2022
+Sally Ma,Free/Fly,FY,,,"Champaign, Ill.",womens-swimming-and-diving,2022
+Emily MacDonald,Free,So.,,,"Kingston, Jamaica",womens-swimming-and-diving,2022
+Olivia Jubin,Free,Sr.,,,"Alexandria, Va.",womens-swimming-and-diving,2022
+Aniston Eyre,Free,Jr.,,,"Makawao, Hawaii",womens-swimming-and-diving,2022
+Olivia Kim,Free,FY,,,"Pleasanton, Calif.",womens-swimming-and-diving,2022
+Allison Martin,Free/IM,So.,,,"McLean, Va.",womens-swimming-and-diving,2022
+Aziza Ganihanova,Free/Back,Jr.,,,"Annandale, N.J.",womens-swimming-and-diving,2022
+Theadora Leimone,Fly/Free/IM,FY,,,"Los Angeles, Calif.",womens-swimming-and-diving,2022
+Georgia Young,Free,Jr.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2022
+Aastha Mehta,Free/Back,So.,,,"Mountain View, Calif.",womens-swimming-and-diving,2022
+Taylor Whang,Breast/IM,So.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2022
 Riley Pujadas,Back,So.,,,"Devon, Pa.",womens-swimming-and-diving,2022
 Hayley Reed,Fly/Free,FY,,,"Carmel, Ind.",womens-swimming-and-diving,2022
 Olivia Ricard,Diving,Sr.,,,"Naples, Fla.",womens-swimming-and-diving,2022
 Jessica Peng,Fly/Free,Sr.,,,"College Station, Texas",womens-swimming-and-diving,2022
 Charlize Phillips,Fly/Free,FY,,,"Fresno, Calif.",womens-swimming-and-diving,2022
-Mia Saenger,Back/Free,Jr.,,,"Eugene, Ore.",womens-swimming-and-diving,2022
 Macy Pine,Diving,So.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2022
-Georgia Young,Free,Jr.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2022
 Diana Caskey,,,,,,womens-swimming-and-diving,2022
-Allegra Walker,Breast,Jr.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2022
+Mia Saenger,Back/Free,Jr.,,,"Eugene, Ore.",womens-swimming-and-diving,2022
 Anthea Wong,Fly,So.,,,Hong Kong,womens-swimming-and-diving,2022
 Grace Zhou,Fly/Back/IM,FY,,,"Bridgewater, N.J.",womens-swimming-and-diving,2022
 Lindsay Orringer,ly/Back/Free,FY,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2022
@@ -58,58 +78,16 @@ Jing Tan,Fly/Back/IM,Sr.,,,"Rockville, Md.",womens-swimming-and-diving,2022
 Hutton Saunders,Free,FY,,,"Greenwich, Conn.",womens-swimming-and-diving,2022
 Julia Unas,IM/Breast,So.,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2022
 Jazlynn Pak,Fly/Free,Jr.,,,"Bothell, Wash.",womens-swimming-and-diving,2022
-Aastha Mehta,Free/Back,So.,,,"Mountain View, Calif.",womens-swimming-and-diving,2022
-Taylor Whang,Breast/IM,So.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2022
-Theadora Leimone,Fly/Free/IM,FY,,,"Los Angeles, Calif.",womens-swimming-and-diving,2022
-Allison Martin,Free/IM,So.,,,"McLean, Va.",womens-swimming-and-diving,2022
-Hannah Hailu,Back/Fly,So.,,,"Omaha, Neb.",womens-swimming-and-diving,2022
-Grace Dunn,Distance,FY,,,"Phoeniz, Ariz.",womens-swimming-and-diving,2022
-Isabella Fratesi,Breast/Free,Sr.,,,"Scottsdale, Ariz.",womens-swimming-and-diving,2022
-Isabelle Arevalo,Free,Sr.,,,"Spring Valley, N.Y.",womens-swimming-and-diving,2022
-Emma Babashak,Free/Fly,Jr.,,,"Wilton, Conn.",womens-swimming-and-diving,2022
-Callie Breiter,Free,Jr.,,,"Lincoln, Mass.",womens-swimming-and-diving,2022
-Alice Diakova,Diving,Jr.,,,"Rochester, N.Y.",womens-swimming-and-diving,2022
-Karen Liu,IM/Free,Sr.,5' 5'',,Hong Kong,womens-swimming-and-diving,2022
-Aziza Ganihanova,Free/Back,Jr.,,,"Annandale, N.J.",womens-swimming-and-diving,2022
-Tina Le,Free,Sr.,,,"Santa Clara, Calif.",womens-swimming-and-diving,2022
-Chloe Leung,Diving,FY,,,"Menlo Park, Calif.",womens-swimming-and-diving,2022
-Sally Ma,Free/Fly,FY,,,"Champaign, Ill.",womens-swimming-and-diving,2022
-Ashley Hu,Breast,So.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2022
-Emily MacDonald,Free,So.,,,"Kingston, Jamaica",womens-swimming-and-diving,2022
-Olivia Jubin,Free,Sr.,,,"Alexandria, Va.",womens-swimming-and-diving,2022
-Aniston Eyre,Free,Jr.,,,"Makawao, Hawaii",womens-swimming-and-diving,2022
-Olivia Kim,Free,FY,,,"Pleasanton, Calif.",womens-swimming-and-diving,2022
-Jazlynn Pak,Fly/Free,Sr.,,,"Bothell, Wash.",womens-swimming-and-diving,2023
-Hutton Saunders,Free,So.,,,"Greenwich, Conn.",womens-swimming-and-diving,2023
-Charlize Phillips,Fly/Free,So.,,,"Fresno, Calif.",womens-swimming-and-diving,2023
-Macy Pine,Diving,Jr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2023
-Riley Pujadas,Back,Jr.,,,"Devon, Pa.",womens-swimming-and-diving,2023
-Hayley Reed,Fly/Free,So.,,,"Carmel, Ind.",womens-swimming-and-diving,2023
-Mia Saenger,Back/Free,Sr.,,,"Eugene, Ore.",womens-swimming-and-diving,2023
-Julia Unas,IM/Breast,Jr.,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2023
-Emily Wang,Back/IM,FY,5' 7'',,"Basking Ridge, N.J.",womens-swimming-and-diving,2023
-Sophia Wells,Diving,FY,5' 5'',,"Redwood City, Calif.",womens-swimming-and-diving,2023
-Taylor Whang,Breast/IM,Jr.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2023
-Anthea Wong,Fly,Jr.,,,Hong Kong,womens-swimming-and-diving,2023
-Georgia Young,Free,Sr.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2023
-Grace Zhou,Fly/Back/IM,So.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2023
-Lorelai Page,Free/Back,FY,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2023
-Allegra Walker,Breast,Sr.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2023
-Lindsay Orringer,Fly/Back/Free,So.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2023
-Hannah Hailu,Back/Fly,Jr.,,,"Omaha, Neb.",womens-swimming-and-diving,2023
-Ashley Hu,Breast,Jr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2023
-Ashley Wang,Back/Fly,FY,5' 6'',,"Stafford, Va.",womens-swimming-and-diving,2023
-Meredith Stewart,Free,FY,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2023
+Allegra Walker,Breast,Jr.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2022
 Mia Avansino,Free/Fly/Back,FY,5' 3'',,"Bellevue, Wash.",womens-swimming-and-diving,2023
+Aziza Ganihanova,Free/Back,Sr.,,,"Annandale, N.J.",womens-swimming-and-diving,2023
 Callie Breiter,Free,Sr.,,,"Lincoln, Mass.",womens-swimming-and-diving,2023
 Alice Diakova,Diving,Sr.,,,"Rochester, N.Y.",womens-swimming-and-diving,2023
 Natalia Diaz,Breast,FY,5' 7'',,"Clarksville, Md.",womens-swimming-and-diving,2023
 Grace Dunn,Distance,So.,,,"Phoeniz, Ariz.",womens-swimming-and-diving,2023
 Aniston Eyre,Free,Sr.,,,"Makawao, Hawaii",womens-swimming-and-diving,2023
-Aziza Ganihanova,Free/Back,Sr.,,,"Annandale, N.J.",womens-swimming-and-diving,2023
-Olivia Kim,Free,So.,,,"Pleasanton, Calif.",womens-swimming-and-diving,2023
 Emma Babashak,Free/Fly,Sr.,,,"Wilton, Conn.",womens-swimming-and-diving,2023
-Diana Caskey,,,,,,womens-swimming-and-diving,2023
+Sophie Kloppenburg,Free,FY,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2023
 Annabelle Kung,Free/Fly,FY,5' 8'',,"Briarcliff, N.Y.",womens-swimming-and-diving,2023
 Theadora Leimone,Fly/Free/IM,So.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2023
 Chloe Leung,Diving,So.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2023
@@ -117,26 +95,29 @@ Sally Ma,Free/Fly,So.,,,"Champaign, Ill.",womens-swimming-and-diving,2023
 Emily MacDonald,Free,Jr.,,,"Kingston, Jamaica",womens-swimming-and-diving,2023
 Allison Martin,Free/IM,Jr.,,,"McLean, Va.",womens-swimming-and-diving,2023
 Aastha Mehta,Free/Back,Jr.,,,"Mountain View, Calif.",womens-swimming-and-diving,2023
-Sophie Kloppenburg,Free,FY,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2023
-Riley Pujadas,Back,Sr.,,,"Devon, Pa.",womens-swimming-and-diving,2024
-Hayley Reed,Fly/Free,Jr.,,,"Carmel, Ind.",womens-swimming-and-diving,2024
-Hutton Saunders,Free,Jr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2024
-Meredith Stewart,Free,So.,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2024
-Julia Unas,IM/Breast,Sr.,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2024
-Lorelai Page,Free/Back,So.,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2024
-Macy Pine,Diving,Sr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2024
-Lindsay Orringer,Fly/Back/Free,Jr.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2024
-Kayla Zeng,Free/IM,FY,,,"Longmeadow, Mass.",womens-swimming-and-diving,2024
-Diana Caskey,,,,,,womens-swimming-and-diving,2024
-Anthea Wong,Fly,Sr.,,,Hong Kong,womens-swimming-and-diving,2024
-Jilly MacNamara,Back,FY,,,"River Forrest, Ill.",womens-swimming-and-diving,2024
-Grace Zhou,Fly/Back/IM,Jr.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2024
-Sophie Kloppenburg,Free,So.,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2024
-Audrey Wolk,Free/IM,FY,,,"Chapel Hill, N.C.",womens-swimming-and-diving,2024
-Aastha Mehta,Free/Back,Sr.,,,"Mountain View, Calif.",womens-swimming-and-diving,2024
-Annabelle Kung,Free/Fly,So.,5' 8'',,"Briarcliff, N.Y.",womens-swimming-and-diving,2024
-Zoe Marshalleck,,So.,,,"New York, N.Y.",womens-swimming-and-diving,2024
-Taylor Whang,Breast/IM,Sr.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2024
+Meredith Stewart,Free,FY,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2023
+Diana Caskey,,,,,,womens-swimming-and-diving,2023
+Ashley Wang,Back/Fly,FY,5' 6'',,"Stafford, Va.",womens-swimming-and-diving,2023
+Olivia Kim,Free,So.,,,"Pleasanton, Calif.",womens-swimming-and-diving,2023
+Hannah Hailu,Back/Fly,Jr.,,,"Omaha, Neb.",womens-swimming-and-diving,2023
+Jazlynn Pak,Fly/Free,Sr.,,,"Bothell, Wash.",womens-swimming-and-diving,2023
+Charlize Phillips,Fly/Free,So.,,,"Fresno, Calif.",womens-swimming-and-diving,2023
+Macy Pine,Diving,Jr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2023
+Riley Pujadas,Back,Jr.,,,"Devon, Pa.",womens-swimming-and-diving,2023
+Hayley Reed,Fly/Free,So.,,,"Carmel, Ind.",womens-swimming-and-diving,2023
+Mia Saenger,Back/Free,Sr.,,,"Eugene, Ore.",womens-swimming-and-diving,2023
+Julia Unas,IM/Breast,Jr.,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2023
+Emily Wang,Back/IM,FY,5' 7'',,"Basking Ridge, N.J.",womens-swimming-and-diving,2023
+Hutton Saunders,Free,So.,,,"Greenwich, Conn.",womens-swimming-and-diving,2023
+Ashley Hu,Breast,Jr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2023
+Taylor Whang,Breast/IM,Jr.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2023
+Anthea Wong,Fly,Jr.,,,Hong Kong,womens-swimming-and-diving,2023
+Georgia Young,Free,Sr.,,,"Santa Monica, Calif.",womens-swimming-and-diving,2023
+Grace Zhou,Fly/Back/IM,So.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2023
+Lorelai Page,Free/Back,FY,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2023
+Allegra Walker,Breast,Sr.,,,"Dunbarton, N.H.",womens-swimming-and-diving,2023
+Lindsay Orringer,Fly/Back/Free,So.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2023
+Sophia Wells,Diving,FY,5' 5'',,"Redwood City, Calif.",womens-swimming-and-diving,2023
 Grace Dunn,Distance,Jr.,,,"Phoeniz, Ariz.",womens-swimming-and-diving,2024
 Hannah Hailu,Back/Fly,Sr.,,,"Omaha, Neb.",womens-swimming-and-diving,2024
 Ashley Hong,IM/Breast,FY,,,"Los Altos, Calif.",womens-swimming-and-diving,2024
@@ -144,31 +125,32 @@ Ashley Hu,Breast,Sr.,,,"Scarsdale, N.Y.",womens-swimming-and-diving,2024
 Mia Avansino,Free/Fly/Back,So.,5' 3'',,"Bellevue, Wash.",womens-swimming-and-diving,2024
 Valeriya Bondarenko,Diving,FY,,,"Larkspur, Calif.",womens-swimming-and-diving,2024
 Natalia Diaz,Breast,So.,5' 7'',,"Clarksville, Md.",womens-swimming-and-diving,2024
-Isabel Lee,Free/Fly,FY,,,"Ridgewood, N.J.",womens-swimming-and-diving,2024
+Allison Martin,Free/IM,Sr.,,,"McLean, Va.",womens-swimming-and-diving,2024
 Sally Ma,Free/Fly,Jr.,,,"Champaign, Ill.",womens-swimming-and-diving,2024
 Olivia Kim,Free,Jr.,,,"Pleasanton, Calif.",womens-swimming-and-diving,2024
-Allison Martin,Free/IM,Sr.,,,"McLean, Va.",womens-swimming-and-diving,2024
 Chloe Leung,Diving,Jr.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2024
 Emily Wang,Back/IM,So.,5' 7'',,"Basking Ridge, N.J.",womens-swimming-and-diving,2024
 Emily MacDonald,Free,Sr.,,,"Kingston, Jamaica",womens-swimming-and-diving,2024
-Lily Sherman,Diving,FY,5' 2'',,"Papillion, Neb.",womens-swimming-and-diving,2025
-Alex Moore,Back/IM,FY,5' 6'',,"Greenwich, Conn.",womens-swimming-and-diving,2025
-Lindsay Orringer,Fly/Back/Free,Sr.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2025
-Lorelai Page,Free/Back,Jr.,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2025
-Hutton Saunders,Free,Sr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2025
-Samantha Segerson,Distance/IM,FY,5' 6'',,"Bainbridge Island, Wash.",womens-swimming-and-diving,2025
-Hayley Reed,Fly/Free,Sr.,,,"Carmel, Ind.",womens-swimming-and-diving,2025
-Sophia Wells,Diving,FY,5' 5'',,"Redwood City, Calif.",womens-swimming-and-diving,2025
-Shaelyn Shields,Back/IM,FY,5' 5'',,"Charlotte, N.C.",womens-swimming-and-diving,2025
-Audrey Wolk,Free/IM,So.,,,"Chapel Hill, N.C.",womens-swimming-and-diving,2025
-Grace Zhou,Fly/Back/IM,Sr.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2025
-Victoria Mori,Free,FY,5' 5'',,"Irvine, Calif.",womens-swimming-and-diving,2025
-Diana Caskey,,,,,,womens-swimming-and-diving,2025
-Meredith Stewart,Free,Jr.,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2025
-Emily Wang,Back/IM,Jr.,5' 7'',,"Basking Ridge, N.J.",womens-swimming-and-diving,2025
-Madeleine Rivard,Breast,FY,5' 5'',,"Seattle, Wash.",womens-swimming-and-diving,2025
-Ella Chan,Free,FY,5' 9'',,"Tasmania, Australia",womens-swimming-and-diving,2025
-Annabelle Kung,Free/Fly,Jr.,5' 8'',,"Briarcliff, N.Y.",womens-swimming-and-diving,2025
+Taylor Whang,Breast/IM,Sr.,,,"Park Ridge, N.J.",womens-swimming-and-diving,2024
+Isabel Lee,Free/Fly,FY,,,"Ridgewood, N.J.",womens-swimming-and-diving,2024
+Zoe Marshalleck,,So.,,,"New York, N.Y.",womens-swimming-and-diving,2024
+Audrey Wolk,Free/IM,FY,,,"Chapel Hill, N.C.",womens-swimming-and-diving,2024
+Aastha Mehta,Free/Back,Sr.,,,"Mountain View, Calif.",womens-swimming-and-diving,2024
+Annabelle Kung,Free/Fly,So.,5' 8'',,"Briarcliff, N.Y.",womens-swimming-and-diving,2024
+Hayley Reed,Fly/Free,Jr.,,,"Carmel, Ind.",womens-swimming-and-diving,2024
+Hutton Saunders,Free,Jr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2024
+Meredith Stewart,Free,So.,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2024
+Julia Unas,IM/Breast,Sr.,,,"Santa Clarita, Calif.",womens-swimming-and-diving,2024
+Lorelai Page,Free/Back,So.,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2024
+Macy Pine,Diving,Sr.,,,"Los Angeles, Calif.",womens-swimming-and-diving,2024
+Riley Pujadas,Back,Sr.,,,"Devon, Pa.",womens-swimming-and-diving,2024
+Kayla Zeng,Free/IM,FY,,,"Longmeadow, Mass.",womens-swimming-and-diving,2024
+Diana Caskey,,,,,,womens-swimming-and-diving,2024
+Anthea Wong,Fly,Sr.,,,Hong Kong,womens-swimming-and-diving,2024
+Jilly MacNamara,Back,FY,,,"River Forrest, Ill.",womens-swimming-and-diving,2024
+Grace Zhou,Fly/Back/IM,Jr.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2024
+Sophie Kloppenburg,Free,So.,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2024
+Lindsay Orringer,Fly/Back/Free,Jr.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2024
 Natalia Diaz,Breast,Jr.,5' 7'',,"Clarksville, Md.",womens-swimming-and-diving,2025
 Ashley Hong,IM/Breast,So.,,,"Los Altos, Calif.",womens-swimming-and-diving,2025
 Adya Mohan,Diving,So.,5' 2'',,"Bellevue, Wash.",womens-swimming-and-diving,2025
@@ -176,13 +158,31 @@ Mia Avansino,Free/Fly/Back,Jr.,5' 3'',,"Bellevue, Wash.",womens-swimming-and-div
 Grace Dunn,Distance,Sr.,,,"Phoeniz, Ariz.",womens-swimming-and-diving,2025
 Reese Heidenreich,Free/Breast,FY,5' 7'',,"Ann Arbor, Mich.",womens-swimming-and-diving,2025
 Valeriya Bondarenko,Diving,So.,,,"Larkspur, Calif.",womens-swimming-and-diving,2025
-Sophie Kloppenburg,Free,Jr.,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2025
 Chloe Leung,Diving,Sr.,,,"Menlo Park, Calif.",womens-swimming-and-diving,2025
+Sophie Kloppenburg,Free,Jr.,5' 7'',,"Mount Vernon, Ind.",womens-swimming-and-diving,2025
 Sally Ma,Free/Fly,Sr.,,,"Champaign, Ill.",womens-swimming-and-diving,2025
 Jilly MacNamara,Back,So.,,,"River Forrest, Ill.",womens-swimming-and-diving,2025
 Zoe Marshalleck,,FY,,,"New York, N.Y.",womens-swimming-and-diving,2025
 Olivia Kim,Free,Sr.,,,"Pleasanton, Calif.",womens-swimming-and-diving,2025
+Annabelle Kung,Free/Fly,Jr.,5' 8'',,"Briarcliff, N.Y.",womens-swimming-and-diving,2025
 Isabel Lee,Free/Fly,So.,,,"Ridgewood, N.J.",womens-swimming-and-diving,2025
+Ella Chan,Free,FY,5' 9'',,"Tasmania, Australia",womens-swimming-and-diving,2025
+Hayley Reed,Fly/Free,Sr.,,,"Carmel, Ind.",womens-swimming-and-diving,2025
+Emily Wang,Back/IM,Jr.,5' 7'',,"Basking Ridge, N.J.",womens-swimming-and-diving,2025
+Madeleine Rivard,Breast,FY,5' 5'',,"Seattle, Wash.",womens-swimming-and-diving,2025
+Lily Sherman,Diving,FY,5' 2'',,"Papillion, Neb.",womens-swimming-and-diving,2025
+Alex Moore,Back/IM,FY,5' 6'',,"Greenwich, Conn.",womens-swimming-and-diving,2025
+Lindsay Orringer,Fly/Back/Free,Sr.,,,"Ann Arbor, Mich.",womens-swimming-and-diving,2025
+Hutton Saunders,Free,Sr.,,,"Greenwich, Conn.",womens-swimming-and-diving,2025
+Samantha Segerson,Distance/IM,FY,5' 6'',,"Bainbridge Island, Wash.",womens-swimming-and-diving,2025
+Lorelai Page,Free/Back,Jr.,5' 10'',,"Mountain Lakes, N.J.",womens-swimming-and-diving,2025
+Shaelyn Shields,Back/IM,FY,5' 5'',,"Charlotte, N.C.",womens-swimming-and-diving,2025
+Audrey Wolk,Free/IM,So.,,,"Chapel Hill, N.C.",womens-swimming-and-diving,2025
+Grace Zhou,Fly/Back/IM,Sr.,,,"Bridgewater, N.J.",womens-swimming-and-diving,2025
+Victoria Mori,Free,FY,5' 5'',,"Irvine, Calif.",womens-swimming-and-diving,2025
+Diana Caskey,,,,,,womens-swimming-and-diving,2025
+Meredith Stewart,Free,Jr.,5' 10'',,"Cleveland Heights, Ohio",womens-swimming-and-diving,2025
+Sophia Wells,Diving,FY,5' 5'',,"Redwood City, Calif.",womens-swimming-and-diving,2025
 Madeleine Rivard,Breast,So.,5' 5'',,"Seattle, Wash.",womens-swimming-and-diving,2026
 Alex Moore,Back/IM,So.,5' 6'',,"Greenwich, Conn.",womens-swimming-and-diving,2026
 Victoria Mori,Free,So.,5' 5'',,"Irvine, Calif.",womens-swimming-and-diving,2026

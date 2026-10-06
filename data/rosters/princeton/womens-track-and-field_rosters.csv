@@ -1,16 +1,43 @@
 name,position,class,height,weight,hometown,sport,year
 Angie Allen,Distance,Fr.,,,"Lincolnton, N.C.",womens-track-and-field,2021
+Charlotte O'Toole,Mid. Distance,Jr.,,,"Weston, Mass.",womens-track-and-field,2021
+Tia Rozario,Jumps,Jr.,,,Singapore,womens-track-and-field,2021
+Grace Lanouette,Sprints,Sr.,,,"Devon, Pa.",womens-track-and-field,2021
+Lexi Allen,Distance,Fr.,,,"Canton, Ga.",womens-track-and-field,2021
+Samantha Anderson,Mid. Distance,Sr.,,,"Aberdeen, N.J.",womens-track-and-field,2021
+Amy Aririguzoh,Jumps,So.,,,"Trenton, N.J.",womens-track-and-field,2021
+Madeleine Burns,Distance,So.,,,"Durango, Colo.",womens-track-and-field,2021
+Casey Burton,Sprints/Jumps,So.,,,"Wexford, Penn.",womens-track-and-field,2021
+Luisa Chantler Edmond,Throws,Sr.,,,"Oxford, England",womens-track-and-field,2021
+SJ Cohen,Jumps,So.,,,"Ambler, Penn.",womens-track-and-field,2021
+Luci Doogan,Distance,So.,,,"New York, N.Y.",womens-track-and-field,2021
+Lucca Fulkerson,Distance,Fr.,,,"Niwot, Colo.",womens-track-and-field,2021
+Andelyn Granskog,Combined,Jr.,,,"Itasca, Ill.",womens-track-and-field,2021
+Lauren Harris,Sprints,Fr.,,,"Omaha, Neb.",womens-track-and-field,2021
+Olivia Hee,Sprints/Jumps,Jr.,,,"Charlotte, N.C.",womens-track-and-field,2021
+Isabella Hilditch,Sprints/Hurdles,Sr.,,,"London, England",womens-track-and-field,2021
+Maggie Hock,Mid. Distance,Jr.,,,"Avon, Conn.",womens-track-and-field,2021
+Lucy Huelskamp,Distance,So.,,,"Portland, Ore.",womens-track-and-field,2021
+Sydney Hwang,Distance,So.,,,"Claremont, Calif.",womens-track-and-field,2021
+Siniru Iheoma,Throws,Fr.,,,"Churchville, Penn.",womens-track-and-field,2021
+India Ingemi,Sprints,So.,,,"Beverly, Mass.",womens-track-and-field,2021
+Kate Joyce,Throws,So.,,,"Weston, Conn.",womens-track-and-field,2021
+Annika Kelly,Throws,So.,,,"Barrington, R.I.",womens-track-and-field,2021
+Mari Noble,Distance,Fr.,,,"Greenwich, Conn.",womens-track-and-field,2021
+Adelaide Asante,Hurdles/Sprints,Fr.,,,"North Brunswick, N.J.",womens-track-and-field,2021
+Abby Loveys,Distance,Jr.,,,"Randolph, N.J.",womens-track-and-field,2021
+Hanne Borstlap,Pole Vault,Sr.,,,"Vosselaar, Belgium",womens-track-and-field,2021
 Harlowe Brumett-Dunn,Sprints,So.,,,"Seattle, Wash.",womens-track-and-field,2021
 Maggie Liebich,Mid. Distance,So.,,,"Boise, Idaho",womens-track-and-field,2021
 Fiona Max,Distance,So.,,,"Bend, Ore.",womens-track-and-field,2021
 Jalah Morris,Throws,Sr.,,,"Zion, Ill.",womens-track-and-field,2021
 Nia Mosby,Sprints/Jumps,So.,,,"Inglewood, Calif.",womens-track-and-field,2021
-Brianna Mponzi,Sprints/Multis,So.,,,"Forth Worth, Texas",womens-track-and-field,2021
 Megan Ogawa,Jumps,Jr.,,,"Bristow, Va.",womens-track-and-field,2021
 Oluwatise Okeremi,Throws,So.,,,"Houston, Texas",womens-track-and-field,2021
 Lily Parris,Hurdles,Fr.,,,"Ingatestone, U.K.",womens-track-and-field,2021
 Rylie Pease,Throws,Sr.,,,"Cheney, Wash.",womens-track-and-field,2021
 Paola Rodriguez,Mid. Distance,Fr.,,,"San Juan, Puerto Rico",womens-track-and-field,2021
+Brianna Mponzi,Sprints/Multis,So.,,,"Forth Worth, Texas",womens-track-and-field,2021
 Mena Scatchard,Mid. Distance,Fr.,,,"North Yorkshire, U.K.",womens-track-and-field,2021
 Arianna Smith,Hurdles/Sprints,Jr.,,,"Pennsville, N.J.",womens-track-and-field,2021
 Sophie Steidle,Distance,Fr.,,,"Collingswood, N.J.",womens-track-and-field,2021
@@ -22,77 +49,20 @@ Madeline Wolford,Throws,Fr.,,,"Laguna Niguel, Calif.",womens-track-and-field,202
 Madeleine Wood,Jumps,Fr.,,,"Leicestershire, U.K.",womens-track-and-field,2021
 Tsion Yared,Distance,So.,,,"Fort Lauderdale, Fla.",womens-track-and-field,2021
 Michelle Eisenreich,,,,,,womens-track-and-field,2021
-Abby Loveys,Distance,Jr.,,,"Randolph, N.J.",womens-track-and-field,2021
-Hanne Borstlap,Pole Vault,Sr.,,,"Vosselaar, Belgium",womens-track-and-field,2021
-Mari Noble,Distance,Fr.,,,"Greenwich, Conn.",womens-track-and-field,2021
-Luci Doogan,Distance,So.,,,"New York, N.Y.",womens-track-and-field,2021
-Charlotte O'Toole,Mid. Distance,Jr.,,,"Weston, Mass.",womens-track-and-field,2021
-Tia Rozario,Jumps,Jr.,,,Singapore,womens-track-and-field,2021
-Grace Lanouette,Sprints,Sr.,,,"Devon, Pa.",womens-track-and-field,2021
-Lexi Allen,Distance,Fr.,,,"Canton, Ga.",womens-track-and-field,2021
-Samantha Anderson,Mid. Distance,Sr.,,,"Aberdeen, N.J.",womens-track-and-field,2021
-Amy Aririguzoh,Jumps,So.,,,"Trenton, N.J.",womens-track-and-field,2021
-Madeleine Burns,Distance,So.,,,"Durango, Colo.",womens-track-and-field,2021
-Casey Burton,Sprints/Jumps,So.,,,"Wexford, Penn.",womens-track-and-field,2021
-Luisa Chantler Edmond,Throws,Sr.,,,"Oxford, England",womens-track-and-field,2021
-SJ Cohen,Jumps,So.,,,"Ambler, Penn.",womens-track-and-field,2021
-Lucca Fulkerson,Distance,Fr.,,,"Niwot, Colo.",womens-track-and-field,2021
-Adelaide Asante,Hurdles/Sprints,Fr.,,,"North Brunswick, N.J.",womens-track-and-field,2021
-Annika Kelly,Throws,So.,,,"Barrington, R.I.",womens-track-and-field,2021
-Andelyn Granskog,Combined,Jr.,,,"Itasca, Ill.",womens-track-and-field,2021
-Lauren Harris,Sprints,Fr.,,,"Omaha, Neb.",womens-track-and-field,2021
-Olivia Hee,Sprints/Jumps,Jr.,,,"Charlotte, N.C.",womens-track-and-field,2021
-Isabella Hilditch,Sprints/Hurdles,Sr.,,,"London, England",womens-track-and-field,2021
-Maggie Hock,Mid. Distance,Jr.,,,"Avon, Conn.",womens-track-and-field,2021
-Lucy Huelskamp,Distance,So.,,,"Portland, Ore.",womens-track-and-field,2021
-Sydney Hwang,Distance,So.,,,"Claremont, Calif.",womens-track-and-field,2021
-Siniru Iheoma,Throws,Fr.,,,"Churchville, Penn.",womens-track-and-field,2021
-India Ingemi,Sprints,So.,,,"Beverly, Mass.",womens-track-and-field,2021
-Kate Joyce,Throws,So.,,,"Weston, Conn.",womens-track-and-field,2021
-Mari Noble,Distance,So.,,,"Greenwich, Conn.",womens-track-and-field,2022
-Makenna Marshall,Throws,Fr.,,,"Houston, Texas",womens-track-and-field,2022
-Katelyn Peterson,Throws,Fr.,,,"Dixon, Calif.",womens-track-and-field,2022
-Oluwatise Okeremi,Throws,Jr.,,,"Houston, Texas",womens-track-and-field,2022
-Paola Rodriguez,Mid. Distance,So.,,,"San Juan, Puerto Rico",womens-track-and-field,2022
-Tia Rozario,Jumps,Sr.,,,Singapore,womens-track-and-field,2022
-Tessa Mudd,Jumps,Fr.,,,"Mount Pleasant, S.C.",womens-track-and-field,2022
-Nia Mosby,Sprints/Jumps,Jr.,,,"Inglewood, Calif.",womens-track-and-field,2022
-Isabel Max,Mid. Distance,So.,,,"Bend, Ore.",womens-track-and-field,2022
-Sophie Steidle,Distance,So.,,,"Collingswood, N.J.",womens-track-and-field,2022
-Charlotte O'Toole,Mid. Distance,Sr.,,,"Weston, Mass.",womens-track-and-field,2022
-Morgan Monesmith,Distance,Fr.,,,"Cleveland, Ohio",womens-track-and-field,2022
-Ella Rubinshtein,Jumps,Fr.,,,"Hod Hasharon, Israel",womens-track-and-field,2022
-Tsion Yared,Distance,Jr.,,,"Fort Lauderdale, Fla.",womens-track-and-field,2022
-Georgina Scoot,Jumps,Fr.,,,"Maypool, U.K.",womens-track-and-field,2022
-Arianna Smith,Hurdles/Sprints,Sr.,,,"Pennsville, N.J.",womens-track-and-field,2022
-India Weir,Distance,Sr.,,,"London, England",womens-track-and-field,2022
-Stella Vieth,Distance,Fr.,,,"Boulder, Colo.",womens-track-and-field,2022
-Gillian Wagner,Distance,Sr.,,,"Fairfax, Calif.",womens-track-and-field,2022
-Fiona Max,Distance,Jr.,,,"Bend, Ore.",womens-track-and-field,2022
-Emily Wilson,Throws,Sr.,,,"San Antonio, Texas",womens-track-and-field,2022
-Mena Scatchard,Mid. Distance,So.,,,"North Yorkshire, U.K.",womens-track-and-field,2022
-Madeleine Wood,Jumps,So.,,,"Leicestershire, U.K.",womens-track-and-field,2022
-Nicole Woods,Throws,Fr.,,,"Demarest, N.J.",womens-track-and-field,2022
-Madeline Wolford,Throws,So.,,,"Laguna Niguel, Calif.",womens-track-and-field,2022
-Brianna Mponzi,Sprints/Multis,Jr.,,,"Forth Worth, Texas",womens-track-and-field,2022
-Lily Parris,Hurdles,So.,,,"Ingatestone, U.K.",womens-track-and-field,2022
-Michelle Eisenreich,,,,,,womens-track-and-field,2022
-India Ingemi,Sprints,Jr.,,,"Beverly, Mass.",womens-track-and-field,2022
-Amy Aririguzoh,Jumps,Jr.,,,"Trenton, N.J.",womens-track-and-field,2022
-Peyton Leigh,Distance,Fr.,,,"Auckland, N.Z.",womens-track-and-field,2022
-Luci Doogan,Distance,Jr.,,,"New York, N.Y.",womens-track-and-field,2022
-Abby Loveys,Distance,Sr.,,,"Randolph, N.J.",womens-track-and-field,2022
-Lexi Allen,Distance,So.,,,"Canton, Ga.",womens-track-and-field,2022
-Adelaide Asante,Hurdles/Sprints,So.,,,"North Brunswick, N.J.",womens-track-and-field,2022
-Angie Allen,Distance,So.,,,"Lincolnton, N.C.",womens-track-and-field,2022
-Madeline Cramer,Mid. Distance,Fr.,,,"La Jolla, Calif.",womens-track-and-field,2022
-Harlowe Brumett-Dunn,Sprints,Jr.,,,"Seattle, Wash.",womens-track-and-field,2022
-SJ Cohen,Jumps,Jr.,,,"Ambler, Penn.",womens-track-and-field,2022
-Olivia Hee,Sprints/Jumps,Sr.,,,"Charlotte, N.C.",womens-track-and-field,2022
 Maisha Atkinson,Sprints,Fr.,,,"West Palm Beach, Fla.",womens-track-and-field,2022
+Olivia Hee,Sprints/Jumps,Sr.,,,"Charlotte, N.C.",womens-track-and-field,2022
+SJ Cohen,Jumps,Jr.,,,"Ambler, Penn.",womens-track-and-field,2022
+Harlowe Brumett-Dunn,Sprints,Jr.,,,"Seattle, Wash.",womens-track-and-field,2022
+Madeline Cramer,Mid. Distance,Fr.,,,"La Jolla, Calif.",womens-track-and-field,2022
+Luci Doogan,Distance,Jr.,,,"New York, N.Y.",womens-track-and-field,2022
+Adelaide Asante,Hurdles/Sprints,So.,,,"North Brunswick, N.J.",womens-track-and-field,2022
+Lexi Allen,Distance,So.,,,"Canton, Ga.",womens-track-and-field,2022
+Abby Loveys,Distance,Sr.,,,"Randolph, N.J.",womens-track-and-field,2022
+Peyton Leigh,Distance,Fr.,,,"Auckland, N.Z.",womens-track-and-field,2022
 Daphne Banino,Distance,Fr.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2022
+Angie Allen,Distance,So.,,,"Lincolnton, N.C.",womens-track-and-field,2022
 Lucca Fulkerson,Distance,So.,,,"Niwot, Colo.",womens-track-and-field,2022
-Casey Burton,Sprints/Jumps,Jr.,,,"Wexford, Penn.",womens-track-and-field,2022
+Lauren Harris,Sprints,So.,,,"Omaha, Neb.",womens-track-and-field,2022
 Shea Greene,Throws,Fr.,,,"Weston, Conn.",womens-track-and-field,2022
 Andelyn Granskog,Combined,Sr.,,,"Itasca, Ill.",womens-track-and-field,2022
 Kate Joyce,Throws,Jr.,,,"Weston, Conn.",womens-track-and-field,2022
@@ -103,9 +73,69 @@ Julia Jongejeugd,Multis,Fr.,,,"Puemerend, Netherlands",womens-track-and-field,20
 Madeleine Burns,Distance,Jr.,,,"Durango, Colo.",womens-track-and-field,2022
 Siniru Iheoma,Throws,So.,,,"Churchville, Penn.",womens-track-and-field,2022
 Maggie Hock,Mid. Distance,Sr.,,,"Avon, Conn.",womens-track-and-field,2022
-Lauren Harris,Sprints,So.,,,"Omaha, Neb.",womens-track-and-field,2022
 Page Lester,Distance,Sr.,,,"Washington, D.C.",womens-track-and-field,2022
-Morgan Monesmith,Distance,So.,,,"Cleveland, Ohio",womens-track-and-field,2023
+Amy Aririguzoh,Jumps,Jr.,,,"Trenton, N.J.",womens-track-and-field,2022
+Casey Burton,Sprints/Jumps,Jr.,,,"Wexford, Penn.",womens-track-and-field,2022
+India Ingemi,Sprints,Jr.,,,"Beverly, Mass.",womens-track-and-field,2022
+India Weir,Distance,Sr.,,,"London, England",womens-track-and-field,2022
+Lily Parris,Hurdles,So.,,,"Ingatestone, U.K.",womens-track-and-field,2022
+Michelle Eisenreich,,,,,,womens-track-and-field,2022
+Mari Noble,Distance,So.,,,"Greenwich, Conn.",womens-track-and-field,2022
+Makenna Marshall,Throws,Fr.,,,"Houston, Texas",womens-track-and-field,2022
+Katelyn Peterson,Throws,Fr.,,,"Dixon, Calif.",womens-track-and-field,2022
+Oluwatise Okeremi,Throws,Jr.,,,"Houston, Texas",womens-track-and-field,2022
+Paola Rodriguez,Mid. Distance,So.,,,"San Juan, Puerto Rico",womens-track-and-field,2022
+Tia Rozario,Jumps,Sr.,,,Singapore,womens-track-and-field,2022
+Tessa Mudd,Jumps,Fr.,,,"Mount Pleasant, S.C.",womens-track-and-field,2022
+Isabel Max,Mid. Distance,So.,,,"Bend, Ore.",womens-track-and-field,2022
+Sophie Steidle,Distance,So.,,,"Collingswood, N.J.",womens-track-and-field,2022
+Charlotte O'Toole,Mid. Distance,Sr.,,,"Weston, Mass.",womens-track-and-field,2022
+Morgan Monesmith,Distance,Fr.,,,"Cleveland, Ohio",womens-track-and-field,2022
+Ella Rubinshtein,Jumps,Fr.,,,"Hod Hasharon, Israel",womens-track-and-field,2022
+Nia Mosby,Sprints/Jumps,Jr.,,,"Inglewood, Calif.",womens-track-and-field,2022
+Georgina Scoot,Jumps,Fr.,,,"Maypool, U.K.",womens-track-and-field,2022
+Tsion Yared,Distance,Jr.,,,"Fort Lauderdale, Fla.",womens-track-and-field,2022
+Madeline Wolford,Throws,So.,,,"Laguna Niguel, Calif.",womens-track-and-field,2022
+Nicole Woods,Throws,Fr.,,,"Demarest, N.J.",womens-track-and-field,2022
+Madeleine Wood,Jumps,So.,,,"Leicestershire, U.K.",womens-track-and-field,2022
+Mena Scatchard,Mid. Distance,So.,,,"North Yorkshire, U.K.",womens-track-and-field,2022
+Emily Wilson,Throws,Sr.,,,"San Antonio, Texas",womens-track-and-field,2022
+Brianna Mponzi,Sprints/Multis,Jr.,,,"Forth Worth, Texas",womens-track-and-field,2022
+Gillian Wagner,Distance,Sr.,,,"Fairfax, Calif.",womens-track-and-field,2022
+Stella Vieth,Distance,Fr.,,,"Boulder, Colo.",womens-track-and-field,2022
+Arianna Smith,Hurdles/Sprints,Sr.,,,"Pennsville, N.J.",womens-track-and-field,2022
+Fiona Max,Distance,Jr.,,,"Bend, Ore.",womens-track-and-field,2022
+Maisha Atkinson,Sprints,So.,,,"West Palm Beach, Fla.",womens-track-and-field,2023
+Angie Allen,Distance,Jr.,,,"Lincolnton, N.C.",womens-track-and-field,2023
+Angela McAuslan-Kelly,Throws,Fr.,,,"Aberdeen, Scotland",womens-track-and-field,2023
+Anna Chittenden,Distance,Fr.,,,"Manhattan Beach, Calif.",womens-track-and-field,2023
+Shea Burke,Hurdles,Fr.,,,"Point Pleasant, N.J.",womens-track-and-field,2023
+Daphne Banino,Distance,So.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2023
+Adelaide Asante,Hurdles/Sprints,Jr.,,,"North Brunswick, N.J.",womens-track-and-field,2023
+Lexi Allen,Distance,Jr.,,,"Canton, Ga.",womens-track-and-field,2023
+Emily Cooper,Distance,Fr.,,,"Ann Arbor, Mich.",womens-track-and-field,2023
+Oluwatise Okeremi,Throws,Sr.,,,"Houston, Texas",womens-track-and-field,2023
+SJ Cohen,Jumps,Sr.,,,"Ambler, Penn.",womens-track-and-field,2023
+Franziska Burchett,Sprints,Fr.,,,"Gelsenkirchen, Germany",womens-track-and-field,2023
+Harlowe Brumett-Dunn,Sprints,Sr.,,,"Seattle, Wash.",womens-track-and-field,2023
+Shantell Kwofie,Multis,Fr.,,,"Almere, Netherlands",womens-track-and-field,2023
+India Ingemi,Sprints,Sr.,,,"Beverly, Mass.",womens-track-and-field,2023
+Audrey Kirkutis,Jumps,Fr.,,,"West Hartford, Conn.",womens-track-and-field,2023
+Annika Kelly,Throws,Sr.,,,"Barrington, R.I.",womens-track-and-field,2023
+Alexandra Kelly,Jumps,So.,,,"Long Island, N.Y.",womens-track-and-field,2023
+Kate Joyce,Throws,Sr.,,,"Weston, Conn.",womens-track-and-field,2023
+Luci Doogan,Distance,Sr.,,,"New York, N.Y.",womens-track-and-field,2023
+Maggie Liebich,Mid. Distance,Sr.,,,"Boise, Idaho",womens-track-and-field,2023
+Siniru Iheoma,Throws,Jr.,,,"Churchville, Penn.",womens-track-and-field,2023
+Lauren Harris,Sprints,Jr.,,,"Omaha, Neb.",womens-track-and-field,2023
+Shea Greene,Throws,So.,,,"Weston, Conn.",womens-track-and-field,2023
+Lucca Fulkerson,Distance,Jr.,,,"Niwot, Colo.",womens-track-and-field,2023
+Madeline Cramer,Mid. Distance,So.,,,"La Jolla, Calif.",womens-track-and-field,2023
+Julia Jongejeugd,Multis,So.,,,"Puemerend, Netherlands",womens-track-and-field,2023
+Fiona Max,Distance,Sr.,,,"Bend, Ore.",womens-track-and-field,2023
+Katelyn Maley,Distance,Fr.,,,"Basalt, Colo.",womens-track-and-field,2023
+Michelle Eisenreich,,,,,,womens-track-and-field,2023
+Casey Burton,Sprints/Jumps,Sr.,,,"Wexford, Penn.",womens-track-and-field,2023
 Hannah Riggins,Mid. Distance,Fr.,,,"San Diego, Calif.",womens-track-and-field,2023
 Makenna Marshall,Throws,So.,,,"Houston, Texas",womens-track-and-field,2023
 Lily Parris,Hurdles,Jr.,,,"Ingatestone, U.K.",womens-track-and-field,2023
@@ -118,105 +148,106 @@ Amy Aririguzoh,Jumps,Sr.,,,"Trenton, N.J.",womens-track-and-field,2023
 Soraya Patterson,,So.,,,"Houston, Texas",womens-track-and-field,2023
 Mari Noble,Distance,Jr.,,,"Greenwich, Conn.",womens-track-and-field,2023
 Tessa Mudd,Jumps,So.,,,"Mount Pleasant, S.C.",womens-track-and-field,2023
-Sophie Williams,Sprints,Fr.,,,"Hatfields Beach, New Zealand",womens-track-and-field,2023
+Morgan Monesmith,Distance,So.,,,"Cleveland, Ohio",womens-track-and-field,2023
 Rachael Wilson,Sprints,Fr.,,,"Fairfax, Va.",womens-track-and-field,2023
-Mena Scatchard,Mid. Distance,Jr.,,,"North Yorkshire, U.K.",womens-track-and-field,2023
-Georgina Scoot,Jumps,So.,,,"Maypool, U.K.",womens-track-and-field,2023
-Sophie Steidle,Distance,Jr.,,,"Collingswood, N.J.",womens-track-and-field,2023
-Stella Vieth,Distance,So.,,,"Boulder, Colo.",womens-track-and-field,2023
-Paola Rodriguez,Mid. Distance,Jr.,,,"San Juan, Puerto Rico",womens-track-and-field,2023
-Olivia Martin,Distance,Fr.,,,"Oxford, England",womens-track-and-field,2023
-Madeline Wolford,Throws,Jr.,,,"Laguna Niguel, Calif.",womens-track-and-field,2023
-Madeleine Wood,Jumps,Jr.,,,"Leicestershire, U.K.",womens-track-and-field,2023
-Nicole Woods,Throws,So.,,,"Demarest, N.J.",womens-track-and-field,2023
+Sophie Williams,Sprints,Fr.,,,"Hatfields Beach, New Zealand",womens-track-and-field,2023
 Tsion Yared,Distance,Sr.,,,"Fort Lauderdale, Fla.",womens-track-and-field,2023
+Nicole Woods,Throws,So.,,,"Demarest, N.J.",womens-track-and-field,2023
+Madeleine Wood,Jumps,Jr.,,,"Leicestershire, U.K.",womens-track-and-field,2023
+Madeline Wolford,Throws,Jr.,,,"Laguna Niguel, Calif.",womens-track-and-field,2023
 Ella Rubinshtein,Jumps,So.,,,"Hod Hasharon, Israel",womens-track-and-field,2023
-Michelle Eisenreich,,,,,,womens-track-and-field,2023
-Casey Burton,Sprints/Jumps,Sr.,,,"Wexford, Penn.",womens-track-and-field,2023
-Fiona Max,Distance,Sr.,,,"Bend, Ore.",womens-track-and-field,2023
-Madeline Cramer,Mid. Distance,So.,,,"La Jolla, Calif.",womens-track-and-field,2023
-Oluwatise Okeremi,Throws,Sr.,,,"Houston, Texas",womens-track-and-field,2023
-Emily Cooper,Distance,Fr.,,,"Ann Arbor, Mich.",womens-track-and-field,2023
-Katelyn Maley,Distance,Fr.,,,"Basalt, Colo.",womens-track-and-field,2023
-Lexi Allen,Distance,Jr.,,,"Canton, Ga.",womens-track-and-field,2023
-Adelaide Asante,Hurdles/Sprints,Jr.,,,"North Brunswick, N.J.",womens-track-and-field,2023
-Daphne Banino,Distance,So.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2023
-Franziska Burchett,Sprints,Fr.,,,"Gelsenkirchen, Germany",womens-track-and-field,2023
-Shea Burke,Hurdles,Fr.,,,"Point Pleasant, N.J.",womens-track-and-field,2023
-Anna Chittenden,Distance,Fr.,,,"Manhattan Beach, Calif.",womens-track-and-field,2023
-Angela McAuslan-Kelly,Throws,Fr.,,,"Aberdeen, Scotland",womens-track-and-field,2023
-Angie Allen,Distance,Jr.,,,"Lincolnton, N.C.",womens-track-and-field,2023
-Maisha Atkinson,Sprints,So.,,,"West Palm Beach, Fla.",womens-track-and-field,2023
-SJ Cohen,Jumps,Sr.,,,"Ambler, Penn.",womens-track-and-field,2023
-Harlowe Brumett-Dunn,Sprints,Sr.,,,"Seattle, Wash.",womens-track-and-field,2023
-Julia Jongejeugd,Multis,So.,,,"Puemerend, Netherlands",womens-track-and-field,2023
-India Ingemi,Sprints,Sr.,,,"Beverly, Mass.",womens-track-and-field,2023
-Audrey Kirkutis,Jumps,Fr.,,,"West Hartford, Conn.",womens-track-and-field,2023
-Annika Kelly,Throws,Sr.,,,"Barrington, R.I.",womens-track-and-field,2023
-Alexandra Kelly,Jumps,So.,,,"Long Island, N.Y.",womens-track-and-field,2023
-Kate Joyce,Throws,Sr.,,,"Weston, Conn.",womens-track-and-field,2023
-Luci Doogan,Distance,Sr.,,,"New York, N.Y.",womens-track-and-field,2023
-Maggie Liebich,Mid. Distance,Sr.,,,"Boise, Idaho",womens-track-and-field,2023
-Siniru Iheoma,Throws,Jr.,,,"Churchville, Penn.",womens-track-and-field,2023
-Lauren Harris,Sprints,Jr.,,,"Omaha, Neb.",womens-track-and-field,2023
-Shea Greene,Throws,So.,,,"Weston, Conn.",womens-track-and-field,2023
-Lucca Fulkerson,Distance,Jr.,,,"Niwot, Colo.",womens-track-and-field,2023
-Shantell Kwofie,Multis,Fr.,,,"Almere, Netherlands",womens-track-and-field,2023
-Morgan Monesmith,Distance,Jr.,,,"Cleveland, Ohio",womens-track-and-field,2024
-Sofia Lieberman,Mid. Distance,Fr.,,,"Murrieta, Calif.",womens-track-and-field,2024
-Olivia Martin,Distance,So.,,,"Oxford, England",womens-track-and-field,2024
-Soraya Patterson,,Jr.,,,"Houston, Texas",womens-track-and-field,2024
-Isabel Max,Mid. Distance,Sr.,,,"Bend, Ore.",womens-track-and-field,2024
-Mari Noble,Distance,Sr.,,,"Greenwich, Conn.",womens-track-and-field,2024
-Nicole Rodriguez,,Fr.,,,"Miami, Fla.",womens-track-and-field,2024
-Makenna Marshall,Throws,Jr.,,,"Houston, Texas",womens-track-and-field,2024
-Hannah Riggins,Mid. Distance,So.,,,"San Diego, Calif.",womens-track-and-field,2024
-Lucca Fulkerson,Distance,Sr.,,,"Niwot, Colo.",womens-track-and-field,2024
-Anna McNatt,Distance,So.,,,"Sacramento, Calif.",womens-track-and-field,2024
-Tessa Mudd,Jumps,Jr.,,,"Mount Pleasant, S.C.",womens-track-and-field,2024
-Fleur Todd-Warmoth,Distance,Fr.,,,"London, England",womens-track-and-field,2024
-Stella Vieth,Distance,Jr.,,,"Boulder, Colo.",womens-track-and-field,2024
-Paola Rodriguez,Mid. Distance,Sr.,,,"San Juan, Puerto Rico",womens-track-and-field,2024
-Jazmyn Singh,Sprints,Fr.,,,"San Antonio, Texas",womens-track-and-field,2024
-Sophie Steidle,Distance,Sr.,,,"Collingswood, N.J.",womens-track-and-field,2024
-Jana Ter Wee,Throws,Fr.,,,"Larchwood, Iowa",womens-track-and-field,2024
-Khushi Umesh,Sprints,Fr.,,,"Pune, India",womens-track-and-field,2024
-Madeline Wolford,Throws,Sr.,,,"Laguna Niguel, Calif.",womens-track-and-field,2024
-Madeleine Wood,Jumps,Sr.,,,"Leicestershire, U.K.",womens-track-and-field,2024
-Nicole Woods,Throws,Jr.,,,"Demarest, N.J.",womens-track-and-field,2024
-Meg Madison,Distance,Fr.,,,"Newton, Mass.",womens-track-and-field,2024
-Angela McAuslan-Kelly,Throws,So.,,,"Aberdeen, Scotland",womens-track-and-field,2024
-Michelle Eisenreich,,,,,,womens-track-and-field,2024
-Lily Parris,Hurdles,Sr.,,,"Ingatestone, U.K.",womens-track-and-field,2024
-Emma de Jong,Distance,Fr.,,,"Melbourne, Australia",womens-track-and-field,2024
-Margaret Thompson,Distance,Fr.,,,"Dallas, Texas",womens-track-and-field,2024
-Adelaide Asante,Hurdles/Sprints,Sr.,,,"North Brunswick, N.J.",womens-track-and-field,2024
-Georgina Scoot,Jumps,Jr.,,,"Maypool, U.K.",womens-track-and-field,2024
-Franziska Burchett,Sprints,So.,,,"Gelsenkirchen, Germany",womens-track-and-field,2024
-Peyton Leigh,,So.,,,"Auckland, N.Z.",womens-track-and-field,2024
-Kameil Crane,Throws,Fr.,,,"Hannibal, Mo.",womens-track-and-field,2024
+Paola Rodriguez,Mid. Distance,Jr.,,,"San Juan, Puerto Rico",womens-track-and-field,2023
+Stella Vieth,Distance,So.,,,"Boulder, Colo.",womens-track-and-field,2023
+Sophie Steidle,Distance,Jr.,,,"Collingswood, N.J.",womens-track-and-field,2023
+Georgina Scoot,Jumps,So.,,,"Maypool, U.K.",womens-track-and-field,2023
+Mena Scatchard,Mid. Distance,Jr.,,,"North Yorkshire, U.K.",womens-track-and-field,2023
+Olivia Martin,Distance,Fr.,,,"Oxford, England",womens-track-and-field,2023
+Daphne Banino,Distance,Jr.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2024
+Mena Scatchard,Mid. Distance,Sr.,,,"North Yorkshire, U.K.",womens-track-and-field,2024
+Angie Allen,Distance,Sr.,,,"Lincolnton, N.C.",womens-track-and-field,2024
+Emily Cooper,Distance,So.,,,"Ann Arbor, Mich.",womens-track-and-field,2024
 Lexi Allen,,Sr.,,,"Canton, Ga.",womens-track-and-field,2024
 Alysa Carrigan,Jumps,Fr.,,,"Leesburg, Va.",womens-track-and-field,2024
-Maisha Atkinson,Sprints,Jr.,,,"West Palm Beach, Fla.",womens-track-and-field,2024
-Emily Cooper,Distance,So.,,,"Ann Arbor, Mich.",womens-track-and-field,2024
-Angie Allen,Distance,Sr.,,,"Lincolnton, N.C.",womens-track-and-field,2024
-Mena Scatchard,Mid. Distance,Sr.,,,"North Yorkshire, U.K.",womens-track-and-field,2024
-Daphne Banino,Distance,Jr.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2024
+Kameil Crane,Throws,Fr.,,,"Hannibal, Mo.",womens-track-and-field,2024
+Peyton Leigh,,So.,,,"Auckland, N.Z.",womens-track-and-field,2024
 Madeline Cramer,Mid. Distance,Jr.,,,"La Jolla, Calif.",womens-track-and-field,2024
-Anna Chittenden,Distance,So.,,,"Manhattan Beach, Calif.",womens-track-and-field,2024
-Julia Jongejeugd,Multis,Jr.,,,"Puemerend, Netherlands",womens-track-and-field,2024
+Georgina Scoot,Jumps,Jr.,,,"Maypool, U.K.",womens-track-and-field,2024
+Maisha Atkinson,Sprints,Jr.,,,"West Palm Beach, Fla.",womens-track-and-field,2024
+Franziska Burchett,Sprints,So.,,,"Gelsenkirchen, Germany",womens-track-and-field,2024
+Alexandra Kelly,Jumps,Jr.,,,"Long Island, N.Y.",womens-track-and-field,2024
 Siniru Iheoma,Throws,Sr.,,,"Churchville, Penn.",womens-track-and-field,2024
 Shea Burke,Hurdles,So.,,,"Point Pleasant, N.J.",womens-track-and-field,2024
 Mirtel Klaar,Multis,Fr.,,,"Tallinn, Estonia",womens-track-and-field,2024
 Audrey Kirkutis,Jumps,So.,,,"West Hartford, Conn.",womens-track-and-field,2024
-Alexandra Kelly,Jumps,Jr.,,,"Long Island, N.Y.",womens-track-and-field,2024
 Giselle Kirchner,Hurdles,Fr.,,,"Rocklin, Calif.",womens-track-and-field,2024
 Finia Kretschmann,Mid. Distance,Fr.,,,"Bonn, Germany",womens-track-and-field,2024
 Lauren Harris,Sprints,Sr.,,,"Omaha, Neb.",womens-track-and-field,2024
 Shea Greene,Throws,Jr.,,,"Weston, Conn.",womens-track-and-field,2024
 Layla Giordano,Throws,Fr.,,,"Northvale, N.J.",womens-track-and-field,2024
 Shantell Kwofie,Multis,So.,,,"Almere, Netherlands",womens-track-and-field,2024
+Adelaide Asante,Hurdles/Sprints,Sr.,,,"North Brunswick, N.J.",womens-track-and-field,2024
 Brooke Jackson,Sprints,Fr.,,,"Katy, Texas",womens-track-and-field,2024
+Anna Chittenden,Distance,So.,,,"Manhattan Beach, Calif.",womens-track-and-field,2024
+Margaret Thompson,Distance,Fr.,,,"Dallas, Texas",womens-track-and-field,2024
+Julia Jongejeugd,Multis,Jr.,,,"Puemerend, Netherlands",womens-track-and-field,2024
+Lily Parris,Hurdles,Sr.,,,"Ingatestone, U.K.",womens-track-and-field,2024
+Emma de Jong,Distance,Fr.,,,"Melbourne, Australia",womens-track-and-field,2024
+Morgan Monesmith,Distance,Jr.,,,"Cleveland, Ohio",womens-track-and-field,2024
+Sofia Lieberman,Mid. Distance,Fr.,,,"Murrieta, Calif.",womens-track-and-field,2024
+Olivia Martin,Distance,So.,,,"Oxford, England",womens-track-and-field,2024
+Soraya Patterson,,Jr.,,,"Houston, Texas",womens-track-and-field,2024
+Isabel Max,Mid. Distance,Sr.,,,"Bend, Ore.",womens-track-and-field,2024
+Mari Noble,Distance,Sr.,,,"Greenwich, Conn.",womens-track-and-field,2024
+Makenna Marshall,Throws,Jr.,,,"Houston, Texas",womens-track-and-field,2024
+Hannah Riggins,Mid. Distance,So.,,,"San Diego, Calif.",womens-track-and-field,2024
+Lucca Fulkerson,Distance,Sr.,,,"Niwot, Colo.",womens-track-and-field,2024
+Anna McNatt,Distance,So.,,,"Sacramento, Calif.",womens-track-and-field,2024
+Tessa Mudd,Jumps,Jr.,,,"Mount Pleasant, S.C.",womens-track-and-field,2024
+Nicole Rodriguez,,Fr.,,,"Miami, Fla.",womens-track-and-field,2024
+Stella Vieth,Distance,Jr.,,,"Boulder, Colo.",womens-track-and-field,2024
+Fleur Todd-Warmoth,Distance,Fr.,,,"London, England",womens-track-and-field,2024
+Angela McAuslan-Kelly,Throws,So.,,,"Aberdeen, Scotland",womens-track-and-field,2024
+Meg Madison,Distance,Fr.,,,"Newton, Mass.",womens-track-and-field,2024
+Nicole Woods,Throws,Jr.,,,"Demarest, N.J.",womens-track-and-field,2024
+Madeline Wolford,Throws,Sr.,,,"Laguna Niguel, Calif.",womens-track-and-field,2024
+Madeleine Wood,Jumps,Sr.,,,"Leicestershire, U.K.",womens-track-and-field,2024
+Michelle Eisenreich,,,,,,womens-track-and-field,2024
+Jana Ter Wee,Throws,Fr.,,,"Larchwood, Iowa",womens-track-and-field,2024
+Sophie Steidle,Distance,Sr.,,,"Collingswood, N.J.",womens-track-and-field,2024
+Jazmyn Singh,Sprints,Fr.,,,"San Antonio, Texas",womens-track-and-field,2024
+Paola Rodriguez,Mid. Distance,Sr.,,,"San Juan, Puerto Rico",womens-track-and-field,2024
+Khushi Umesh,Sprints,Fr.,,,"Pune, India",womens-track-and-field,2024
+Anna Chittenden,Distance,Jr.,,,"Manhattan Beach, Calif.",womens-track-and-field,2025
+Franziska Burchett,Sprints,Jr.,,,"Gelsenkirchen, Germany",womens-track-and-field,2025
+Emily Cooper,Distance,Jr.,,,"Ann Arbor, Mich.",womens-track-and-field,2025
+Shea Burke,Hurdles,Jr.,,,"Point Pleasant, N.J.",womens-track-and-field,2025
+Daphne Banino,Distance,Sr.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2025
+Alysa Carrigan,Jumps,So.,,,"Leesburg, Va.",womens-track-and-field,2025
+Caroline Barton,Distance,Fr.,,,"Asheville, N.C.",womens-track-and-field,2025
+Maisha Atkinson,Sprints,Sr.,,,"West Palm Beach, Fla.",womens-track-and-field,2025
+Madeline Cramer,Mid. Distance,Sr.,,,"La Jolla, Calif.",womens-track-and-field,2025
+Pia Beaulieu,,Sr.,,,"Boca Raton, Fla.",womens-track-and-field,2025
+Kyah Anderson,Distance,Fr.,,,"Mermaid Waters, Australia",womens-track-and-field,2025
+Kameil Crane,Throws,So.,,,"Hannibal, Mo.",womens-track-and-field,2025
+Emma de Jong,Distance,So.,,,"Melbourne, Australia",womens-track-and-field,2025
+Abigail Errington,Distance,Fr.,,,"South Pasadena, Calif.",womens-track-and-field,2025
+Nelly Floutakou,Mid. Distance,Fr.,,,"Athens, Greece",womens-track-and-field,2025
+Lotte Gretzler,Pole Vault/Multis,Fr.,,,"Schwabenheim, Germany",womens-track-and-field,2025
+Brooke Jackson,Sprints,So.,,,"Katy, Texas",womens-track-and-field,2025
+Ava John,Multis,Fr.,,,"Twickenham, England",womens-track-and-field,2025
+Julia Jongejeugd,Multis,Sr.,,,"Puemerend, Netherlands",womens-track-and-field,2025
+Alexandra Kelly,Jumps,Sr.,,,"Long Island, N.Y.",womens-track-and-field,2025
+Jane Kennedy,Sprints,Fr.,,,"Cleveland Heights, Ohio",womens-track-and-field,2025
+Giselle Kirchner,Hurdles,So.,,,"Rocklin, Calif.",womens-track-and-field,2025
+Elizabeth Yeboah-Kodie,Hurdles/Jumps,Fr.,,,"Woodbridge, Va.",womens-track-and-field,2025
+Layla Giordano,Throws,So.,,,"Northvale, N.J.",womens-track-and-field,2025
+Shea Greene,Throws,Sr.,,,"Weston, Conn.",womens-track-and-field,2025
+Audrey Kirkutis,Jumps,Jr.,,,"West Hartford, Conn.",womens-track-and-field,2025
+Mirtel Klaar,Multis,So.,,,"Tallinn, Estonia",womens-track-and-field,2025
+Abigail Kolbe,,So.,,,"Doylestown, Pa.",womens-track-and-field,2025
+Anika Scott,Hurdles/Jumps,Fr.,,,"Bedford, N.H.",womens-track-and-field,2025
+Shantell Kwofie,Multis,Jr.,,,"Almere, Netherlands",womens-track-and-field,2025
+Georgina Scoot,Jumps,Sr.,,,"Maypool, U.K.",womens-track-and-field,2025
 Morgan Monesmith,Distance,Sr.,,,"Cleveland, Ohio",womens-track-and-field,2025
 Caroline Mauro,Jumps,Fr.,,,"Portland, Ore.",womens-track-and-field,2025
 Tessa Mudd,Jumps,Sr.,,,"Mount Pleasant, S.C.",womens-track-and-field,2025
@@ -232,7 +263,6 @@ Soraya Patterson,,Sr.,,,"Houston, Texas",womens-track-and-field,2025
 Laila Payne,Hurdles/Sprints,Fr.,,,"Houston, Texas",womens-track-and-field,2025
 Hannah Riggins,Mid. Distance,Jr.,,,"San Diego, Calif.",womens-track-and-field,2025
 Nicole Rodriguez,Throws,Sr.,,,"Miami, Fla.",womens-track-and-field,2025
-Anika Scott,Hurdles/Jumps,Fr.,,,"Bedford, N.H.",womens-track-and-field,2025
 Jazmyn Singh,Sprints,So.,,,"San Antonio, Texas",womens-track-and-field,2025
 Jana Ter Wee,Throws,So.,,,"Larchwood, Iowa",womens-track-and-field,2025
 Margaret Thompson,Distance,So.,,,"Dallas, Texas",womens-track-and-field,2025
@@ -244,35 +274,5 @@ Finia Kretschmann,Mid. Distance,So.,,,"Bonn, Germany",womens-track-and-field,202
 Julia Santos,Throws,Fr.,,,"Beachwood, N.J.",womens-track-and-field,2025
 Liz Williamson,Mid. DIstance,Fr.,,,"Tampa, Fla.",womens-track-and-field,2025
 Nicole Woods,Throws,Sr.,,,"Demarest, N.J.",womens-track-and-field,2025
-Shantell Kwofie,Multis,Jr.,,,"Almere, Netherlands",womens-track-and-field,2025
 Delia Gregory,Sprints,Fr.,,,"Overland Park, Kan.",womens-track-and-field,2025
-Abigail Kolbe,,So.,,,"Doylestown, Pa.",womens-track-and-field,2025
-Shea Greene,Throws,Sr.,,,"Weston, Conn.",womens-track-and-field,2025
-Daphne Banino,Distance,Sr.,,,"Sleepy Hollow, N.Y.",womens-track-and-field,2025
-Madeline Cramer,Mid. Distance,Sr.,,,"La Jolla, Calif.",womens-track-and-field,2025
-Maisha Atkinson,Sprints,Sr.,,,"West Palm Beach, Fla.",womens-track-and-field,2025
-Caroline Barton,Distance,Fr.,,,"Asheville, N.C.",womens-track-and-field,2025
-Alysa Carrigan,Jumps,So.,,,"Leesburg, Va.",womens-track-and-field,2025
-Kyah Anderson,Distance,Fr.,,,"Mermaid Waters, Australia",womens-track-and-field,2025
-Shea Burke,Hurdles,Jr.,,,"Point Pleasant, N.J.",womens-track-and-field,2025
-Anna Chittenden,Distance,Jr.,,,"Manhattan Beach, Calif.",womens-track-and-field,2025
-Emily Cooper,Distance,Jr.,,,"Ann Arbor, Mich.",womens-track-and-field,2025
-Franziska Burchett,Sprints,Jr.,,,"Gelsenkirchen, Germany",womens-track-and-field,2025
-Pia Beaulieu,,Sr.,,,"Boca Raton, Fla.",womens-track-and-field,2025
-Kameil Crane,Throws,So.,,,"Hannibal, Mo.",womens-track-and-field,2025
-Mirtel Klaar,Multis,So.,,,"Tallinn, Estonia",womens-track-and-field,2025
-Abigail Errington,Distance,Fr.,,,"South Pasadena, Calif.",womens-track-and-field,2025
-Nelly Floutakou,Mid. Distance,Fr.,,,"Athens, Greece",womens-track-and-field,2025
-Lotte Gretzler,Pole Vault/Multis,Fr.,,,"Schwabenheim, Germany",womens-track-and-field,2025
-Brooke Jackson,Sprints,So.,,,"Katy, Texas",womens-track-and-field,2025
-Ava John,Multis,Fr.,,,"Twickenham, England",womens-track-and-field,2025
-Julia Jongejeugd,Multis,Sr.,,,"Puemerend, Netherlands",womens-track-and-field,2025
-Alexandra Kelly,Jumps,Sr.,,,"Long Island, N.Y.",womens-track-and-field,2025
-Jane Kennedy,Sprints,Fr.,,,"Cleveland Heights, Ohio",womens-track-and-field,2025
-Giselle Kirchner,Hurdles,So.,,,"Rocklin, Calif.",womens-track-and-field,2025
-Elizabeth Yeboah-Kodie,Hurdles/Jumps,Fr.,,,"Woodbridge, Va.",womens-track-and-field,2025
-Layla Giordano,Throws,So.,,,"Northvale, N.J.",womens-track-and-field,2025
-Emma de Jong,Distance,So.,,,"Melbourne, Australia",womens-track-and-field,2025
-Audrey Kirkutis,Jumps,Jr.,,,"West Hartford, Conn.",womens-track-and-field,2025
-Georgina Scoot,Jumps,Sr.,,,"Maypool, U.K.",womens-track-and-field,2025
 Michelle Eisenreich,,,,,,womens-track-and-field,2025

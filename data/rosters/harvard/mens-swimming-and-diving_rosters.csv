@@ -1,6 +1,26 @@
 name,position,class,height,weight,hometown,sport,year
 David Abrahams,,So.,,,"Havertown, Pa.",mens-swimming-and-diving,2021
-Emmanuel Ngbemeneh,,Sr.,,,"Union City, Calif.",mens-swimming-and-diving,2021
+Aayush Deshpande,,Fy,,,"Naperville, Ill.",mens-swimming-and-diving,2021
+Pierce Dietze,,So.,,,"La Jolla, Calif.",mens-swimming-and-diving,2021
+Harris Durham,,Fy,,,"Dallas, Texas",mens-swimming-and-diving,2021
+Dean Farris,,Sr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2021
+Corby Furrer,,Fy,,,"Georgetown, Texas",mens-swimming-and-diving,2021
+Zach Bartel,,Fy,,,"Fort Collins, Colo.",mens-swimming-and-diving,2021
+Noah Brune,,So.,,,"Mission Viejo, Calif.",mens-swimming-and-diving,2021
+Cole Kuster,,So.,,,"Williamstown, Mass.",mens-swimming-and-diving,2021
+Matthew Chung,,Fy,,,"Cupertino, Calif.",mens-swimming-and-diving,2021
+Jake Johnson,,Sr.,,,"Lincoln University, Pa.",mens-swimming-and-diving,2021
+Arik Katz,,Fy,,,"Sarasota, Fla.",mens-swimming-and-diving,2021
+Will Grant,,So.,,,"Waco, Texas",mens-swimming-and-diving,2021
+Cameron Green,,Fy,,,"Springville, Utah",mens-swimming-and-diving,2021
+Umitcan Gures,,Jr.,,,"Atasehir, Istanbul, Turkey",mens-swimming-and-diving,2021
+Quinn Harron,,Fy,,,"Atlanta, Ga.",mens-swimming-and-diving,2021
+Luca Hensch,,Sr.,,,"Newton, Mass.",mens-swimming-and-diving,2021
+Marcus Holmquist,,So.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2021
+Daniel Kim,,Sr.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2021
+Luke Foster,,So.,,,"Charlotte, N.C.",mens-swimming-and-diving,2021
+Simon Lamar,,Jr.,,,"Hacienda Heights, Calif.",mens-swimming-and-diving,2021
+Daniel Puczko,,Sr.,,,"Chicago, Ill.",mens-swimming-and-diving,2021
 Nick Nocita,,So.,,,"Arlington Heights, Ill.",mens-swimming-and-diving,2021
 Jonathan Novinski,,Fy,,,"Grand Island, Neb.",mens-swimming-and-diving,2021
 Alex Petty,,So.,,,"Lincoln, Neb.",mens-swimming-and-diving,2021
@@ -9,7 +29,7 @@ Mahlon Reihman,,Sr.,,,"Allentown, Pa.",mens-swimming-and-diving,2021
 Ben Littlejohn,,Fy,,,"Hamilton, New Zealand",mens-swimming-and-diving,2021
 Ryan Linnihan,,Jr.,,,"Brookfield, Wis.",mens-swimming-and-diving,2021
 Raphael Marcoux,,Sr.,,,"Fort Lauderdale, Fla.",mens-swimming-and-diving,2021
-Hal Watts,,Sr.,,,"Reading, England",mens-swimming-and-diving,2021
+Emmanuel Ngbemeneh,,Sr.,,,"Union City, Calif.",mens-swimming-and-diving,2021
 Adam Wesson,,Fy,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2021
 Michael Zarian,,Sr.,,,"Arvada, Colo.",mens-swimming-and-diving,2021
 Dylan Rhee,,Fy,,,"New York, N.Y.",mens-swimming-and-diving,2021
@@ -17,46 +37,7 @@ Anthony Rincon,,Fy,,,"Elizabeth, N.J.",mens-swimming-and-diving,2021
 Jared Simpson,,Jr.,,,"Naperville, Ill.",mens-swimming-and-diving,2021
 Ryan Tierney,,So.,,,"Castle Rock, Colo.",mens-swimming-and-diving,2021
 Shane Washart,,Fy,,,"Wenonah, N.J.",mens-swimming-and-diving,2021
-Simon Lamar,,Jr.,,,"Hacienda Heights, Calif.",mens-swimming-and-diving,2021
-Daniel Puczko,,Sr.,,,"Chicago, Ill.",mens-swimming-and-diving,2021
-Daniel Kim,,Sr.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2021
-Cole Kuster,,So.,,,"Williamstown, Mass.",mens-swimming-and-diving,2021
-Aayush Deshpande,,Fy,,,"Naperville, Ill.",mens-swimming-and-diving,2021
-Pierce Dietze,,So.,,,"La Jolla, Calif.",mens-swimming-and-diving,2021
-Harris Durham,,Fy,,,"Dallas, Texas",mens-swimming-and-diving,2021
-Dean Farris,,Sr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2021
-Corby Furrer,,Fy,,,"Georgetown, Texas",mens-swimming-and-diving,2021
-Zach Bartel,,Fy,,,"Fort Collins, Colo.",mens-swimming-and-diving,2021
-Luke Foster,,So.,,,"Charlotte, N.C.",mens-swimming-and-diving,2021
-Noah Brune,,So.,,,"Mission Viejo, Calif.",mens-swimming-and-diving,2021
-Matthew Chung,,Fy,,,"Cupertino, Calif.",mens-swimming-and-diving,2021
-Marcus Holmquist,,So.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2021
-Jake Johnson,,Sr.,,,"Lincoln University, Pa.",mens-swimming-and-diving,2021
-Arik Katz,,Fy,,,"Sarasota, Fla.",mens-swimming-and-diving,2021
-Will Grant,,So.,,,"Waco, Texas",mens-swimming-and-diving,2021
-Cameron Green,,Fy,,,"Springville, Utah",mens-swimming-and-diving,2021
-Umitcan Gures,,Jr.,,,"Atasehir, Istanbul, Turkey",mens-swimming-and-diving,2021
-Quinn Harron,,Fy,,,"Atlanta, Ga.",mens-swimming-and-diving,2021
-Luca Hensch,,Sr.,,,"Newton, Mass.",mens-swimming-and-diving,2021
-Ross Noble,,Fy,,,"Raleigh, N.C.",mens-swimming-and-diving,2022
-Alex Petty,,Jr.,,,"Lincoln, Neb.",mens-swimming-and-diving,2022
-Will Raidt,,So.,,,"River Forest, Ill.",mens-swimming-and-diving,2022
-Marcus Holmquist,,Jr.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2022
-Cole Kuster,,Jr.,,,"Williamstown, Mass.",mens-swimming-and-diving,2022
-Simon Lamar,,Sr.,,,"Hacienda Heights, Calif.",mens-swimming-and-diving,2022
-Ben Littlejohn,,So.,,,"Hamilton, New Zealand",mens-swimming-and-diving,2022
-Nick Nocita,,Jr.,,,"Arlington Heights, Ill.",mens-swimming-and-diving,2022
-Raglan Ward,,Fy,,,"Colorado Springs, Colo.",mens-swimming-and-diving,2022
-Dylan Rhee,,So.,,,"New York, N.Y.",mens-swimming-and-diving,2022
-Anthony Rincon,,So.,,,"Elizabeth, N.J.",mens-swimming-and-diving,2022
-Saavan Shah,,Fy,,,"Atlanta, Ga.",mens-swimming-and-diving,2022
-Shane Washart,,So.,,,"Wenonah, N.J.",mens-swimming-and-diving,2022
-Adam Wesson,,So.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2022
-Jared Simpson,,Sr.,,,"Naperville, Ill.",mens-swimming-and-diving,2022
-Raphael Tourette,,Fy,,,"Cupertino, Calif.",mens-swimming-and-diving,2022
-Ryan Linnihan,,Sr.,,,"Brookfield, Wis.",mens-swimming-and-diving,2022
-Jonathan Novinski,,So.,,,"Grand Island, Neb.",mens-swimming-and-diving,2022
-Aayush Deshpande,,So.,,,"Naperville, Ill.",mens-swimming-and-diving,2022
+Hal Watts,,Sr.,,,"Reading, England",mens-swimming-and-diving,2021
 Will Ayinon,,Fy,,,"Newton, Mass.",mens-swimming-and-diving,2022
 Pierce Dietze,,Jr.,,,"La Jolla, Calif.",mens-swimming-and-diving,2022
 Matthew Chung,,So.,,,"Cupertino, Calif.",mens-swimming-and-diving,2022
@@ -65,17 +46,55 @@ Nico Hensch,,Fy,,,"Newton, Mass.",mens-swimming-and-diving,2022
 Jack Holland,,Fy,,,"Fairfield, Conn.",mens-swimming-and-diving,2022
 Anders Aistars,,Fy,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2022
 Noah Brune,,Jr.,,,"Mission Viejo, Calif.",mens-swimming-and-diving,2022
-David Abrahams,,Jr.,,,"Havertown, Pa.",mens-swimming-and-diving,2022
+Umitcan Gures,,Sr.,,,"Atasehir, Istanbul, Turkey",mens-swimming-and-diving,2022
 Corby Furrer,,So.,,,"Georgetown, Texas",mens-swimming-and-diving,2022
 Will Grant,,Jr.,,,"Waco, Texas",mens-swimming-and-diving,2022
 David Greeley,,Fy,,,"Durham, N.C.",mens-swimming-and-diving,2022
-Umitcan Gures,,Sr.,,,"Atasehir, Istanbul, Turkey",mens-swimming-and-diving,2022
 Quinn Harron,,So.,,,"Atlanta, Ga.",mens-swimming-and-diving,2022
 Luke Foster,,Jr.,,,"Charlotte, N.C.",mens-swimming-and-diving,2022
 Cameron Green,,So.,,,"Springville, Utah",mens-swimming-and-diving,2022
 Denny Gulia-Janovski,,Fy,,,"Fort Lauderdale, Fla.",mens-swimming-and-diving,2022
+David Abrahams,,Jr.,,,"Havertown, Pa.",mens-swimming-and-diving,2022
+Aayush Deshpande,,So.,,,"Naperville, Ill.",mens-swimming-and-diving,2022
+Nick Nocita,,Jr.,,,"Arlington Heights, Ill.",mens-swimming-and-diving,2022
+Ryan Linnihan,,Sr.,,,"Brookfield, Wis.",mens-swimming-and-diving,2022
+Jonathan Novinski,,So.,,,"Grand Island, Neb.",mens-swimming-and-diving,2022
+Ross Noble,,Fy,,,"Raleigh, N.C.",mens-swimming-and-diving,2022
+Alex Petty,,Jr.,,,"Lincoln, Neb.",mens-swimming-and-diving,2022
+Will Raidt,,So.,,,"River Forest, Ill.",mens-swimming-and-diving,2022
+Marcus Holmquist,,Jr.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2022
+Simon Lamar,,Sr.,,,"Hacienda Heights, Calif.",mens-swimming-and-diving,2022
+Ben Littlejohn,,So.,,,"Hamilton, New Zealand",mens-swimming-and-diving,2022
+Cole Kuster,,Jr.,,,"Williamstown, Mass.",mens-swimming-and-diving,2022
+Dylan Rhee,,So.,,,"New York, N.Y.",mens-swimming-and-diving,2022
+Anthony Rincon,,So.,,,"Elizabeth, N.J.",mens-swimming-and-diving,2022
+Saavan Shah,,Fy,,,"Atlanta, Ga.",mens-swimming-and-diving,2022
+Shane Washart,,So.,,,"Wenonah, N.J.",mens-swimming-and-diving,2022
+Adam Wesson,,So.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2022
+Jared Simpson,,Sr.,,,"Naperville, Ill.",mens-swimming-and-diving,2022
+Raphael Tourette,,Fy,,,"Cupertino, Calif.",mens-swimming-and-diving,2022
+Raglan Ward,,Fy,,,"Colorado Springs, Colo.",mens-swimming-and-diving,2022
+Zach Bartel,,So.,,,"Fort Collins, Colo.",mens-swimming-and-diving,2023
+Anders Aistars,,So.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2023
+Noah Brune,,Sr.,,,"Mission Viejo, Calif.",mens-swimming-and-diving,2023
+Aayush Deshpande,,Jr.,,,"Naperville, Ill.",mens-swimming-and-diving,2023
+Luke Foster,,Sr.,,,"Charlotte, N.C.",mens-swimming-and-diving,2023
+David Greeley,,So.,,,"Durham, N.C.",mens-swimming-and-diving,2023
+Marcus Holmquist,,Sr.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2023
+Denny Gulia-Janovski,,So.,,,"Fort Lauderdale, Fla.",mens-swimming-and-diving,2023
+Tristan Dalbey,,Fy,,,"Scottsdale, Ariz.",mens-swimming-and-diving,2023
+Pierce Dietze,,Sr.,,,"La Jolla, Calif.",mens-swimming-and-diving,2023
+Nico Hensch,,So.,,,"Newton, Mass.",mens-swimming-and-diving,2023
+David Abrahams,,Sr.,,,"Havertown, Pa.",mens-swimming-and-diving,2023
+Will Grant,,Sr.,,,"Waco, Texas",mens-swimming-and-diving,2023
+Will Ayinon,,So.,,,"Newton, Mass.",mens-swimming-and-diving,2023
+Cameron Green,,Jr.,,,"Springville, Utah",mens-swimming-and-diving,2023
+Felipe Baffico,,Fy,,,"Santiago, Chile",mens-swimming-and-diving,2023
+Quinn Harron,,Jr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2023
+Jack Holland,,So.,,,"Fairfield, Conn.",mens-swimming-and-diving,2023
+Harris Durham,,Jr.,,,"Dallas, Texas",mens-swimming-and-diving,2023
+Ari Kaufman,,Fy,,,"Anchorage, Alaska",mens-swimming-and-diving,2023
 Ben Littlejohn,,Jr.,,,"Hamilton, New Zealand",mens-swimming-and-diving,2023
-Oliver Pilkinton,,Fy,,,"Nashville, Tenn.",mens-swimming-and-diving,2023
 Ross Noble,,So.,,,"Raleigh, N.C.",mens-swimming-and-diving,2023
 Jonathan Novinski,,Jr.,,,"Grand Island, Neb.",mens-swimming-and-diving,2023
 Dylan Rhee,,Jr.,,,"New York, N.Y.",mens-swimming-and-diving,2023
@@ -83,53 +102,16 @@ Saavan Shah,,So.,,,"Atlanta, Ga.",mens-swimming-and-diving,2023
 David Schmitt,,Fy,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2023
 Sonny Wang,,Fy,,,"Austin, Texas",mens-swimming-and-diving,2023
 Nick Nocita,,Sr.,,,"Arlington Heights, Ill.",mens-swimming-and-diving,2023
-Alex Petty,,Sr.,,,"Lincoln, Neb.",mens-swimming-and-diving,2023
+Oliver Pilkinton,,Fy,,,"Nashville, Tenn.",mens-swimming-and-diving,2023
 Shane Washart,,Jr.,,,"Wenonah, N.J.",mens-swimming-and-diving,2023
 Cole Kuster,,Sr.,,,"Williamstown, Mass.",mens-swimming-and-diving,2023
+Adam Wesson,,Jr.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2023
 Anthony Rincon,,Jr.,,,"Elizabeth, N.J.",mens-swimming-and-diving,2023
 Simon Lamar,,Sr.,,,"Hacienda Heights, Calif.",mens-swimming-and-diving,2023
 Raphael Tourette,,So.,,,"Cupertino, Calif.",mens-swimming-and-diving,2023
 Filip Lányi,,Fy,,,"Pieštany, Slovakia",mens-swimming-and-diving,2023
 Raglan Ward,,So.,,,"Colorado Springs, Colo.",mens-swimming-and-diving,2023
-Ari Kaufman,,Fy,,,"Anchorage, Alaska",mens-swimming-and-diving,2023
-Adam Wesson,,Jr.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2023
-Jack Holland,,So.,,,"Fairfield, Conn.",mens-swimming-and-diving,2023
-Felipe Baffico,,Fy,,,"Santiago, Chile",mens-swimming-and-diving,2023
-Zach Bartel,,So.,,,"Fort Collins, Colo.",mens-swimming-and-diving,2023
-Noah Brune,,Sr.,,,"Mission Viejo, Calif.",mens-swimming-and-diving,2023
-Aayush Deshpande,,Jr.,,,"Naperville, Ill.",mens-swimming-and-diving,2023
-Luke Foster,,Sr.,,,"Charlotte, N.C.",mens-swimming-and-diving,2023
-Harris Durham,,Jr.,,,"Dallas, Texas",mens-swimming-and-diving,2023
-David Greeley,,So.,,,"Durham, N.C.",mens-swimming-and-diving,2023
-Marcus Holmquist,,Sr.,,,"Bankeryd, Sweden",mens-swimming-and-diving,2023
-Anders Aistars,,So.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2023
-Denny Gulia-Janovski,,So.,,,"Fort Lauderdale, Fla.",mens-swimming-and-diving,2023
-Quinn Harron,,Jr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2023
-Pierce Dietze,,Sr.,,,"La Jolla, Calif.",mens-swimming-and-diving,2023
-Nico Hensch,,So.,,,"Newton, Mass.",mens-swimming-and-diving,2023
-David Abrahams,,Sr.,,,"Havertown, Pa.",mens-swimming-and-diving,2023
-Will Grant,,Sr.,,,"Waco, Texas",mens-swimming-and-diving,2023
-Will Ayinon,,So.,,,"Newton, Mass.",mens-swimming-and-diving,2023
-Cameron Green,,Jr.,,,"Springville, Utah",mens-swimming-and-diving,2023
-Tristan Dalbey,,Fy,,,"Scottsdale, Ariz.",mens-swimming-and-diving,2023
-Ben Littlejohn,,Sr.,,,"Hamilton, New Zealand",mens-swimming-and-diving,2024
-Adam Wesson,,Sr.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2024
-Jonathan Novinski,,Sr.,,,"Grand Island, Neb.",mens-swimming-and-diving,2024
-Oliver Pilkinton,,So.,,,"Nashville, Tenn.",mens-swimming-and-diving,2024
-Richard Poplawski III,,Fy,,,"Clifton, N.J.",mens-swimming-and-diving,2024
-Dylan Rhee,,Sr.,,,"New York, N.Y.",mens-swimming-and-diving,2024
-Anthony Rincon,,Sr.,,,"Elizabeth, N.J.",mens-swimming-and-diving,2024
-Shane Washart,,Sr.,,,"Wenonah, N.J.",mens-swimming-and-diving,2024
-Saavan Shah,,Jr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2024
-Will Sullivan,,Fy,,,"Apex, N.C.",mens-swimming-and-diving,2024
-Eric Lee,,Fy,,,"Demarest, N.J.",mens-swimming-and-diving,2024
-David Schmitt,,So.,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2024
-Sonny Wang,,So.,,,"Austin, Texas",mens-swimming-and-diving,2024
-Ross Noble,,Jr.,,,"Raleigh, N.C.",mens-swimming-and-diving,2024
-Filip Lányi,,So.,,,"Pieštany, Slovakia",mens-swimming-and-diving,2024
-Raphael Tourette,,Jr.,,,"Cupertino, Calif.",mens-swimming-and-diving,2024
-David Greeley,,Jr.,,,"Durham, N.C.",mens-swimming-and-diving,2024
-Mert Iravul,,Fy,,,"Ankara, Turkey",mens-swimming-and-diving,2024
+Alex Petty,,Sr.,,,"Lincoln, Neb.",mens-swimming-and-diving,2023
 Anders Aistars,,Jr.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2024
 Aayush Deshpande,,Sr.,,,"Naperville, Ill.",mens-swimming-and-diving,2024
 Felipe Baffico,,So.,,,"Santiago, Chile",mens-swimming-and-diving,2024
@@ -137,39 +119,57 @@ Zach Bartel,,Sr.,,,"Fort Collins, Colo.",mens-swimming-and-diving,2024
 Joshua Chen,,Fy,,,"Ames, Iowa",mens-swimming-and-diving,2024
 Evan Croley,,Fy,,,"San Antonio, Texas",mens-swimming-and-diving,2024
 Tristan Dalbey,,So.,,,"Scottsdale, Ariz.",mens-swimming-and-diving,2024
-Quinn Harron,,Sr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2024
+Nico Hensch,,Jr.,,,"Newton, Mass.",mens-swimming-and-diving,2024
 Harris Durham,,Sr.,,,"Dallas, Texas",mens-swimming-and-diving,2024
 Marre Gattnar,,Fy,,,"Mill Valley, Calif.",mens-swimming-and-diving,2024
-Nico Hensch,,Jr.,,,"Newton, Mass.",mens-swimming-and-diving,2024
 Jack Holland,,Jr.,,,"Fairfield, Conn.",mens-swimming-and-diving,2024
 Adriano Arioti,,Fy,,,"Potomac, Md.",mens-swimming-and-diving,2024
 Cameron Green,,Sr.,,,"Springville, Utah",mens-swimming-and-diving,2024
-Oliver Pilkinton,,Jr.,,,"Nashville, Tenn.",mens-swimming-and-diving,2025
-Pablo Martinez,,Fy,,,"Aldaia, Spain",mens-swimming-and-diving,2025
-William Mulgrew,,Fy,,,"Walpole, Mass.",mens-swimming-and-diving,2025
-Will Sullivan,,So.,,,"Apex, N.C.",mens-swimming-and-diving,2025
-Raphael Tourette,,Sr.,,,"Cupertino, Calif.",mens-swimming-and-diving,2025
-Rem Turatbekov,,Fy,,,"Fairfax, Va.",mens-swimming-and-diving,2025
-Chase Shipp,,Fy,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2025
-Sonny Wang,,Jr.,,,"Austin, Texas",mens-swimming-and-diving,2025
-Maro Miknic,,Fy,,,"Kostrena, Croatia",mens-swimming-and-diving,2025
-David Schmitt,,Jr.,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2025
-Richard Poplawski III,,So.,,,"Clifton, N.J.",mens-swimming-and-diving,2025
-Vito Rados,,Fy,,,"Zagreb, Croatia",mens-swimming-and-diving,2025
-Ognjen Pilipovic,,Fy,,,"Novi Sad, Serbia",mens-swimming-and-diving,2025
-Anders Aistars,,Sr.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2025
-Joshua Chen,,So.,,,"Ames, Iowa",mens-swimming-and-diving,2025
+Mert Iravul,,Fy,,,"Ankara, Turkey",mens-swimming-and-diving,2024
+Quinn Harron,,Sr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2024
+David Greeley,,Jr.,,,"Durham, N.C.",mens-swimming-and-diving,2024
+Sonny Wang,,So.,,,"Austin, Texas",mens-swimming-and-diving,2024
+Filip Lányi,,So.,,,"Pieštany, Slovakia",mens-swimming-and-diving,2024
+Ben Littlejohn,,Sr.,,,"Hamilton, New Zealand",mens-swimming-and-diving,2024
+Raphael Tourette,,Jr.,,,"Cupertino, Calif.",mens-swimming-and-diving,2024
+Jonathan Novinski,,Sr.,,,"Grand Island, Neb.",mens-swimming-and-diving,2024
+Oliver Pilkinton,,So.,,,"Nashville, Tenn.",mens-swimming-and-diving,2024
+Richard Poplawski III,,Fy,,,"Clifton, N.J.",mens-swimming-and-diving,2024
+Dylan Rhee,,Sr.,,,"New York, N.Y.",mens-swimming-and-diving,2024
+Anthony Rincon,,Sr.,,,"Elizabeth, N.J.",mens-swimming-and-diving,2024
+Adam Wesson,,Sr.,,,"Morgan Hill, Calif.",mens-swimming-and-diving,2024
+Saavan Shah,,Jr.,,,"Atlanta, Ga.",mens-swimming-and-diving,2024
+Will Sullivan,,Fy,,,"Apex, N.C.",mens-swimming-and-diving,2024
+Eric Lee,,Fy,,,"Demarest, N.J.",mens-swimming-and-diving,2024
+David Schmitt,,So.,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2024
+Ross Noble,,Jr.,,,"Raleigh, N.C.",mens-swimming-and-diving,2024
+Shane Washart,,Sr.,,,"Wenonah, N.J.",mens-swimming-and-diving,2024
 Adriano Arioti,,So.,,,"Potomac, Md.",mens-swimming-and-diving,2025
 Felipe Baffico,,Jr.,,,"Santiago, Chile",mens-swimming-and-diving,2025
 Eric Lee,,So.,,,"Demarest, N.J.",mens-swimming-and-diving,2025
 David Greeley,,Sr.,,,"Durham, N.C.",mens-swimming-and-diving,2025
 Denny Gulia-Janovski,,Jr.,,,"Fort Lauderdale, Fla.",mens-swimming-and-diving,2025
-Evan Croley,,So.,,,"San Antonio, Texas",mens-swimming-and-diving,2025
-Marre Gattnar,,So.,,,"Mill Valley, Calif.",mens-swimming-and-diving,2025
 Nico Hensch,,Sr.,,,"Newton, Mass.",mens-swimming-and-diving,2025
+Marre Gattnar,,So.,,,"Mill Valley, Calif.",mens-swimming-and-diving,2025
+Tristan Dalbey,,Jr.,,,"Scottsdale, Ariz.",mens-swimming-and-diving,2025
 Mert Iravul,,So.,,,"Ankara, Turkey",mens-swimming-and-diving,2025
 Will Browne,,Fy,,,"Charlottesville, Va.",mens-swimming-and-diving,2025
-Tristan Dalbey,,Jr.,,,"Scottsdale, Ariz.",mens-swimming-and-diving,2025
+Joshua Chen,,So.,,,"Ames, Iowa",mens-swimming-and-diving,2025
+Evan Croley,,So.,,,"San Antonio, Texas",mens-swimming-and-diving,2025
+Anders Aistars,,Sr.,,,"Ladera Ranch, Calif.",mens-swimming-and-diving,2025
+William Mulgrew,,Fy,,,"Walpole, Mass.",mens-swimming-and-diving,2025
+Vito Rados,,Fy,,,"Zagreb, Croatia",mens-swimming-and-diving,2025
+Ognjen Pilipovic,,Fy,,,"Novi Sad, Serbia",mens-swimming-and-diving,2025
+Oliver Pilkinton,,Jr.,,,"Nashville, Tenn.",mens-swimming-and-diving,2025
+Pablo Martinez,,Fy,,,"Aldaia, Spain",mens-swimming-and-diving,2025
+Raphael Tourette,,Sr.,,,"Cupertino, Calif.",mens-swimming-and-diving,2025
+Rem Turatbekov,,Fy,,,"Fairfax, Va.",mens-swimming-and-diving,2025
+Will Sullivan,,So.,,,"Apex, N.C.",mens-swimming-and-diving,2025
+Sonny Wang,,Jr.,,,"Austin, Texas",mens-swimming-and-diving,2025
+Maro Miknic,,Fy,,,"Kostrena, Croatia",mens-swimming-and-diving,2025
+David Schmitt,,Jr.,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2025
+Richard Poplawski III,,So.,,,"Clifton, N.J.",mens-swimming-and-diving,2025
+Chase Shipp,,Fy,,,"San Juan Capistrano, Calif.",mens-swimming-and-diving,2025
 Alex Naydenov,,Fy,,,"Pleven, Bulgaria",mens-swimming-and-diving,2026
 Maro Miknic,,So.,,,"Kostrena, Croatia",mens-swimming-and-diving,2026
 Victor Molin,,Fy,,,"Brasília, Brazil",mens-swimming-and-diving,2026

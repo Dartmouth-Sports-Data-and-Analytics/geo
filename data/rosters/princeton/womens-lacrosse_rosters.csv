@@ -1,31 +1,11 @@
 name,position,class,height,weight,hometown,sport,year
 Olivia Pugh,D,Sr.,5' 5'',,"Alexandria, Va.",womens-lacrosse,2021
-Sophie Whiteway,M,Fr.,5' 8'',,"Potomac, Md.",womens-lacrosse,2021
-Tara Shecter,A,Sr.,5' 5'',,"Boca Raton, Fla.",womens-lacrosse,2021
-Maria Pansini,M,Jr.,5' 9'',,"Villanova, Pa.",womens-lacrosse,2021
-Christy Sieber,D,Jr.,5' 4'',,"Mendham, N.J.",womens-lacrosse,2021
-Samantha DeVito,M,So.,5' 8'',,"Ballston Spa, N.Y.",womens-lacrosse,2021
-Shea Smith,D,Jr.,5' 7'',,"Short Hills, N.J.",womens-lacrosse,2021
-Ellie Mueller,A,So.,5' 10'',,"Villanova, Pa.",womens-lacrosse,2021
-Grace Tauckus,A,So.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2021
-McKenzie Blake,M,Fr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2021
-Sarah Nelson,M,Fr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2021
-Jordan Marcus,Manager,Sr.,5' 7'',,"Richmond, Va.",womens-lacrosse,2021
-Mary Catherine Wright,Manager,So.,5' 5'',,"South Bend, Ind.",womens-lacrosse,2021
-Chris Sailer,,,,,,womens-lacrosse,2021
-Mia James,D,Fr.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2021
-Marge Donovan,D,Sr.,5' 10'',,"Catonsville, Md.",womens-lacrosse,2021
-Sam Whiting,D,Fr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2021
-Kari Buonanno,M,So.,5' 6'',,"Providence, R.I.",womens-lacrosse,2021
-Paige Vegna,D,Fr.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2021
-Mary Murphy,D,Sr.,5' 5'',,"Amawalk, N.Y.",womens-lacrosse,2021
 Nina Montes,M,Fr.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2021
 Meghan Curran,A,Jr.,5' 4'',,"Foxboro, Mass.",womens-lacrosse,2021
 Caroline Burnett,D,So.,5' 8'',,"Alexandria, Va.",womens-lacrosse,2021
 Lillian Stout,M,Jr.,5' 7'',,"Wareham, Mass.",womens-lacrosse,2021
 Shannon Berry,M,Jr.,5' 5'',,"Setauket, N.Y.",womens-lacrosse,2021
 Kyla Sears,A,Sr.,5' 4'',,"Skaneateles, N.Y.",womens-lacrosse,2021
-Gaby Hamburger,A,Sr.,5' 4'',,"Clarksville, Md.",womens-lacrosse,2021
 Lucie Gildehaus,M,Sr.,5' 8'',,"Concord, Mass.",womens-lacrosse,2021
 Annie Price,D,Sr.,5' 11'',,"Yardley, Pa.",womens-lacrosse,2021
 Kate Mulham,A,Jr.,5' 8'',,"Setauket, N.Y.",womens-lacrosse,2021
@@ -35,24 +15,26 @@ Tia Reaman,GK,Fr.,5' 8'',,"Hingham, Mass.",womens-lacrosse,2021
 Olivia Koch,A,So.,5' 9'',,"Skillman, N.J.",womens-lacrosse,2021
 Sammy Filippi,D,So.,5' 4'',,"Manorville, N.Y.",womens-lacrosse,2021
 Sam Fish,GK,Sr.,5' 10'',,"San Diego, Calif.",womens-lacrosse,2021
-Juliana Williams,D,Fr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2022
-Kendall Dean,A,Fr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2022
-Samantha DeVito,M,Jr.,5' 8'',,"Ballston Spa, N.Y.",womens-lacrosse,2022
-Lane Calkins,M,Fr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2022
-Grace Tauckus,A,Jr.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2022
-Dylan Allen,M,Fr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2022
-Ellie Mueller,A,Jr.,5' 10'',,"Villanova, Pa.",womens-lacrosse,2022
-Maria Pansini,D,Sr.,5' 9'',,"Villanova, Pa.",womens-lacrosse,2022
-Shea Smith,D,Sr.,5' 7'',,"Short Hills, N.J.",womens-lacrosse,2022
-Nina Montes,M,So.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2022
-Paige Vegna,D,So.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2022
-Mia James,D,So.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2022
-McKenzie Blake,A,So.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2022
-Sarah Nelson,M,So.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2022
-Jenn Cook,,,,,,womens-lacrosse,2022
-Sam Whiting,D,So.,5' 7'',,"Dallas, Texas",womens-lacrosse,2022
-Christy Sieber,D,Sr.,5' 4'',,"Mendham, N.J.",womens-lacrosse,2022
-Shannon Berry,D,Sr.,5' 5'',,"Setauket, N.Y.",womens-lacrosse,2022
+Mary Murphy,D,Sr.,5' 5'',,"Amawalk, N.Y.",womens-lacrosse,2021
+Paige Vegna,D,Fr.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2021
+Gaby Hamburger,A,Sr.,5' 4'',,"Clarksville, Md.",womens-lacrosse,2021
+Sam Whiting,D,Fr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2021
+Kari Buonanno,M,So.,5' 6'',,"Providence, R.I.",womens-lacrosse,2021
+Tara Shecter,A,Sr.,5' 5'',,"Boca Raton, Fla.",womens-lacrosse,2021
+Maria Pansini,M,Jr.,5' 9'',,"Villanova, Pa.",womens-lacrosse,2021
+Christy Sieber,D,Jr.,5' 4'',,"Mendham, N.J.",womens-lacrosse,2021
+Samantha DeVito,M,So.,5' 8'',,"Ballston Spa, N.Y.",womens-lacrosse,2021
+Shea Smith,D,Jr.,5' 7'',,"Short Hills, N.J.",womens-lacrosse,2021
+Ellie Mueller,A,So.,5' 10'',,"Villanova, Pa.",womens-lacrosse,2021
+Grace Tauckus,A,So.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2021
+Sophie Whiteway,M,Fr.,5' 8'',,"Potomac, Md.",womens-lacrosse,2021
+Sarah Nelson,M,Fr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2021
+Jordan Marcus,Manager,Sr.,5' 7'',,"Richmond, Va.",womens-lacrosse,2021
+Mary Catherine Wright,Manager,So.,5' 5'',,"South Bend, Ind.",womens-lacrosse,2021
+Chris Sailer,,,,,,womens-lacrosse,2021
+Mia James,D,Fr.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2021
+Marge Donovan,D,Sr.,5' 10'',,"Catonsville, Md.",womens-lacrosse,2021
+McKenzie Blake,M,Fr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2021
 Meghan Curran,A,Sr.,5' 4'',,"Foxboro, Mass.",womens-lacrosse,2022
 Haven Dora,M,Fr.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2022
 Lillian Stout,M,Sr.,5' 7'',,"Wareham, Mass.",womens-lacrosse,2022
@@ -61,22 +43,59 @@ Tia Reaman,GK,So.,5' 8'',,"Hingham, Mass.",womens-lacrosse,2022
 Jami MacDonald,A,Fr.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2022
 Maggie Molnar,M,Fr.,5' 9'',,"Walkersville, Md.",womens-lacrosse,2022
 Caroline Burnett,D,Jr.,5' 8'',,"Alexandria, Va.",womens-lacrosse,2022
-Abigail Roberts,M,Fr.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2022
+Kari Buonanno,M,Jr.,5' 6'',,"Providence, R.I.",womens-lacrosse,2022
 Olivia Koch,A,Jr.,5' 9'',,"Skillman, N.J.",womens-lacrosse,2022
 Sammy Filippi,D,Jr.,5' 4'',,"Manorville, N.Y.",womens-lacrosse,2022
-Kari Buonanno,M,Jr.,5' 6'',,"Providence, R.I.",womens-lacrosse,2022
 Amelia Hughes,GK,Fr.,5' 6'',,"Wilton, Conn.",womens-lacrosse,2022
 Kate Mulham,A,Sr.,5' 8'',,"Setauket, N.Y.",womens-lacrosse,2022
 Taylor DeGroff,D,Jr.,5' 4'',,"Palo Alto, Calif.",womens-lacrosse,2022
 Abbie Wilhelm,D,Jr.,5' 6'',,"Baldwin, Md.",womens-lacrosse,2022
-Sam Whiting,D,Jr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2023
+Abigail Roberts,M,Fr.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2022
+Shannon Berry,D,Sr.,5' 5'',,"Setauket, N.Y.",womens-lacrosse,2022
+Maria Pansini,D,Sr.,5' 9'',,"Villanova, Pa.",womens-lacrosse,2022
+Sam Whiting,D,So.,5' 7'',,"Dallas, Texas",womens-lacrosse,2022
+Christy Sieber,D,Sr.,5' 4'',,"Mendham, N.J.",womens-lacrosse,2022
+Juliana Williams,D,Fr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2022
+Kendall Dean,A,Fr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2022
+Samantha DeVito,M,Jr.,5' 8'',,"Ballston Spa, N.Y.",womens-lacrosse,2022
+Lane Calkins,M,Fr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2022
+Dylan Allen,M,Fr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2022
+Ellie Mueller,A,Jr.,5' 10'',,"Villanova, Pa.",womens-lacrosse,2022
+Grace Tauckus,A,Jr.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2022
+Shea Smith,D,Sr.,5' 7'',,"Short Hills, N.J.",womens-lacrosse,2022
+Nina Montes,M,So.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2022
+Paige Vegna,D,So.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2022
+Mia James,D,So.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2022
+McKenzie Blake,A,So.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2022
+Sarah Nelson,M,So.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2022
+Jenn Cook,,,,,,womens-lacrosse,2022
+Jami MacDonald,A,So.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2023
+Sarah Nelson,M,Jr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2023
+Meg Morrisroe,A,Fr.,5' 8'',,"Huntington, N.Y.",womens-lacrosse,2023
+Caroline Burnett,D,Sr.,5' 8'',,"Alexandria, Va.",womens-lacrosse,2023
+Colette Quinn,M,Fr.,5' 9'',,"Darien, Conn.",womens-lacrosse,2023
+McKenzie Blake,A,Jr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2023
+Haven Dora,A,So.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2023
+Sophie Whiteway,M,Jr.,5' 8'',,"Potomac, Md.",womens-lacrosse,2023
+Kari Buonanno,M,Sr.,5' 6'',,"Providence, R.I.",womens-lacrosse,2023
+Olivia Koch,A,Sr.,5' 9'',,"Skillman, N.J.",womens-lacrosse,2023
+Sammy Filippi,D,Sr.,5' 4'',,"Manorville, N.Y.",womens-lacrosse,2023
+Amelia Hughes,GK,So.,5' 6'',,"Wilton, Conn.",womens-lacrosse,2023
+Ella Sloan,M,Fr.,5' 11'',,"Blairstown, N.J.",womens-lacrosse,2023
+Abigail Roberts,M,So.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2023
+Ava Keenan,M,Fr.,5' 6'',,"Urbana, Md.",womens-lacrosse,2023
+Maggie Molnar,M,So.,5' 9'',,"Walkersville, Md.",womens-lacrosse,2023
+Grace Tauckus,A,Sr.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2023
+Tia Reaman,GK,Jr.,5' 8'',,"Hingham, Mass.",womens-lacrosse,2023
+Dylan Allen,D,So.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2023
 Taylor DeGroff,D,Sr.,5' 4'',,"Palo Alto, Calif.",womens-lacrosse,2023
+Abbie Wilhelm,D,Sr.,5' 6'',,"Baldwin, Md.",womens-lacrosse,2023
 Ellie Mueller,A,Sr.,5' 10'',,"Villanova, Pa.",womens-lacrosse,2023
 Juliana Williams,D,So.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2023
 Kate Garlinghouse,D,Fr.,5' 10'',,"Atherton, Calif.",womens-lacrosse,2023
 Lane Calkins,M,So.,5' 8'',,"Naples, Fla.",womens-lacrosse,2023
 Kendall Dean,A,So.,5' 3'',,"Columbia, Md.",womens-lacrosse,2023
-Jenn Cook,,,,,,womens-lacrosse,2023
+Sam Whiting,D,Jr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2023
 Ellie Nicklas,GK,Fr.,5' 4'',,"Chambersburg, Pa.",womens-lacrosse,2023
 Nina Montes,A,Jr.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2023
 Paige Vegna,D,Jr.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2023
@@ -84,45 +103,7 @@ Mia James,D,Jr.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2023
 Siena Puglisi,D,Fr.,5' 4'',,"Alexandria, Va.",womens-lacrosse,2023
 Samantha DeVito,M,Sr.,5' 8'',,"Ballston Spa, N.Y.",womens-lacrosse,2023
 Merrill Watson,M,Fr.,5' 8'',,"Parkton, Md.",womens-lacrosse,2023
-Dylan Allen,D,So.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2023
-Abbie Wilhelm,D,Sr.,5' 6'',,"Baldwin, Md.",womens-lacrosse,2023
-Grace Tauckus,A,Sr.,5' 6'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2023
-Ava Keenan,M,Fr.,5' 6'',,"Urbana, Md.",womens-lacrosse,2023
-McKenzie Blake,A,Jr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2023
-Sarah Nelson,M,Jr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2023
-Meg Morrisroe,A,Fr.,5' 8'',,"Huntington, N.Y.",womens-lacrosse,2023
-Caroline Burnett,D,Sr.,5' 8'',,"Alexandria, Va.",womens-lacrosse,2023
-Colette Quinn,M,Fr.,5' 9'',,"Darien, Conn.",womens-lacrosse,2023
-Jami MacDonald,A,So.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2023
-Haven Dora,A,So.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2023
-Maggie Molnar,M,So.,5' 9'',,"Walkersville, Md.",womens-lacrosse,2023
-Kari Buonanno,M,Sr.,5' 6'',,"Providence, R.I.",womens-lacrosse,2023
-Olivia Koch,A,Sr.,5' 9'',,"Skillman, N.J.",womens-lacrosse,2023
-Sammy Filippi,D,Sr.,5' 4'',,"Manorville, N.Y.",womens-lacrosse,2023
-Amelia Hughes,GK,So.,5' 6'',,"Wilton, Conn.",womens-lacrosse,2023
-Ella Sloan,M,Fr.,5' 11'',,"Blairstown, N.J.",womens-lacrosse,2023
-Tia Reaman,GK,Jr.,5' 8'',,"Hingham, Mass.",womens-lacrosse,2023
-Abigail Roberts,M,So.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2023
-Sophie Whiteway,M,Jr.,5' 8'',,"Potomac, Md.",womens-lacrosse,2023
-Sam Whiting,D,Sr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2024
-Grace Mulham,A,Fr.,5' 5'',,"Setauklet, N.Y.",womens-lacrosse,2024
-Juliana Williams,D,Jr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2024
-Kate Garlinghouse,D,So.,5' 10'',,"Atherton, Calif.",womens-lacrosse,2024
-Ellie Nicklas,GK,So.,5' 4'',,"Chambersburg, Pa.",womens-lacrosse,2024
-Siena Puglisi,D,So.,5' 4'',,"Alexandria, Va.",womens-lacrosse,2024
-Sarah Nelson,M,Sr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2024
-Jenn Cook,,,,,,womens-lacrosse,2024
-McKenzie Blake,A,Sr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2024
-Elizabeth Gonnella,GK,Fr.,5' 10'',,"Darien, Conn.",womens-lacrosse,2024
-Dylan Allen,D,Jr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2024
-Paige Vegna,D,Sr.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2024
-Nina Montes,A,Sr.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2024
-Mia James,D,Sr.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2024
-Merrill Watson,M,So.,5' 8'',,"Parkton, Md.",womens-lacrosse,2024
-Kendall Dean,A,Jr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2024
-Lane Calkins,M,Jr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2024
-Jami MacDonald,A,Jr.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2024
-Ava Keenan,M,So.,5' 6'',,"Urbana, Md.",womens-lacrosse,2024
+Jenn Cook,,,,,,womens-lacrosse,2023
 Abigail Roberts,D,Jr.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2024
 Maggie Molnar,M,Jr.,5' 9'',,"Walkersville, Md.",womens-lacrosse,2024
 Meg Morrisroe,A,So.,5' 8'',,"Huntington, N.Y.",womens-lacrosse,2024
@@ -130,48 +111,67 @@ Addison Barrett,M,Fr.,5' 9'',,"Chatham, N.J.",womens-lacrosse,2024
 Sophie Whiteway,M,Sr.,5' 8'',,"Potomac, Md.",womens-lacrosse,2024
 Amelia Hughes,GK,Jr.,5' 6'',,"Wilton, Conn.",womens-lacrosse,2024
 Cassandra Kitchen,M,Fr.,5' 4'',,"Owings Mills, Md.",womens-lacrosse,2024
-Haven Dora,A,Jr.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2024
+Maddie Mitchell,A,Fr.,5' 8'',,"Kensington, Md.",womens-lacrosse,2024
 Ella Sloan,M,So.,5' 11'',,"Blairstown, N.J.",womens-lacrosse,2024
 Maggie Bacigalupo,M,Fr.,5' 8'',,"Bronxville, N.Y.",womens-lacrosse,2024
-Maddie Mitchell,A,Fr.,5' 8'',,"Kensington, Md.",womens-lacrosse,2024
 Tia Reaman,GK,Sr.,5' 8'',,"Hingham, Mass.",womens-lacrosse,2024
 Zoe Bye,D,Fr.,5' 7'',,"Greenwich, Conn.",womens-lacrosse,2024
 Colette Quinn,M,So.,5' 9'',,"Darien, Conn.",womens-lacrosse,2024
 Dylan Casazza,A,Fr.,5' 6'',,"Darien, Conn.",womens-lacrosse,2024
-Lane Calkins,M,Sr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2025
-Kate Garlinghouse,D,Jr.,5' 10'',,"Atherton, Calif.",womens-lacrosse,2025
-Merrill Watson,A,Jr.,5' 8'',,"Parkton, Md.",womens-lacrosse,2025
-Dylan Allen,D,Sr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2025
-Grace Farrell,A,Fr.,5' 5'',,"Haddonfield, N.J.",womens-lacrosse,2025
-Elizabeth Gonnella,GK,So.,5' 10'',,"Darien, Conn.",womens-lacrosse,2025
-Kendall Dean,A,Sr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2025
-Jenn Cook,,,,,,womens-lacrosse,2025
-Grace Mulham,A,So.,5' 5'',,"Setauklet, N.Y.",womens-lacrosse,2025
-Sydney Sookdeo,D,Fr.,5' 6'',,"Waterdown, Ontario",womens-lacrosse,2025
-Ellie Nicklas,GK,Jr.,5' 4'',,"Chambersburg, Pa.",womens-lacrosse,2025
-Jackie Feldman,GK,Fr.,5' 10'',,"Parkland, Fla.",womens-lacrosse,2025
-Genevieve Nelson,D,Fr.,5' 7'',,"Concord, Mass.",womens-lacrosse,2025
-Siena Puglisi,D,Jr.,5' 4'',,"Alexandria, Va.",womens-lacrosse,2025
-Mary Catherine O'Connor,M,Fr.,5' 5'',,"Rumson, N.J.",womens-lacrosse,2025
-Juliana Williams,D,Sr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2025
-Devan Lange,M,Fr.,5' 4'',,"West Islip, N.Y.",womens-lacrosse,2025
-Kate Dente,A,Fr.,5' 3'',,"Berwyn, Pa.",womens-lacrosse,2025
-Colette Quinn,M,Jr.,5' 9'',,"Darien, Conn.",womens-lacrosse,2025
+Ava Keenan,M,So.,5' 6'',,"Urbana, Md.",womens-lacrosse,2024
+Haven Dora,A,Jr.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2024
+Jami MacDonald,A,Jr.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2024
+Lane Calkins,M,Jr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2024
+Kendall Dean,A,Jr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2024
+Sam Whiting,D,Sr.,5' 7'',,"Dallas, Texas",womens-lacrosse,2024
+Grace Mulham,A,Fr.,5' 5'',,"Setauklet, N.Y.",womens-lacrosse,2024
+Juliana Williams,D,Jr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2024
+Kate Garlinghouse,D,So.,5' 10'',,"Atherton, Calif.",womens-lacrosse,2024
+Siena Puglisi,D,So.,5' 4'',,"Alexandria, Va.",womens-lacrosse,2024
+Sarah Nelson,M,Sr.,5' 6'',,"Radnor, Pa.",womens-lacrosse,2024
+Jenn Cook,,,,,,womens-lacrosse,2024
+Ellie Nicklas,GK,So.,5' 4'',,"Chambersburg, Pa.",womens-lacrosse,2024
+Elizabeth Gonnella,GK,Fr.,5' 10'',,"Darien, Conn.",womens-lacrosse,2024
+Dylan Allen,D,Jr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2024
+Paige Vegna,D,Sr.,5' 5'',,"Cold Spring Harbor, N.Y.",womens-lacrosse,2024
+Nina Montes,A,Sr.,5' 2'',,"Chicago, Ill.",womens-lacrosse,2024
+Mia James,D,Sr.,5' 6'',,"Tinton Falls, N.J.",womens-lacrosse,2024
+Merrill Watson,M,So.,5' 8'',,"Parkton, Md.",womens-lacrosse,2024
+McKenzie Blake,A,Sr.,5' 9'',,"Haddonfield, N.J.",womens-lacrosse,2024
+Becca Kirschner,M,Fr.,5' 8'',,"Flemington, N.J.",womens-lacrosse,2025
 Jami MacDonald,A,Sr.,5' 7'',,"Georgetown, Ontario",womens-lacrosse,2025
 Ava Keenan,M,Jr.,5' 6'',,"Urbana, Md.",womens-lacrosse,2025
 Abigail Roberts,D,Sr.,5' 5'',,"Wellesley, Mass.",womens-lacrosse,2025
 Maggie Molnar,M,Sr.,5' 9'',,"Walkersville, Md.",womens-lacrosse,2025
 Maggie Bacigalupo,M,So.,5' 8'',,"Bronxville, N.Y.",womens-lacrosse,2025
-Becca Kirschner,M,Fr.,5' 8'',,"Flemington, N.J.",womens-lacrosse,2025
 Haven Dora,A,Sr.,5' 3'',,"Spring Lake, N.J.",womens-lacrosse,2025
+Maddie Mitchell,A,So.,5' 8'',,"Kensington, Md.",womens-lacrosse,2025
 Meg Morrisroe,A,Jr.,5' 8'',,"Huntington, N.Y.",womens-lacrosse,2025
 Zoe Bye,D,So.,5' 7'',,"Greenwich, Conn.",womens-lacrosse,2025
 Dylan Casazza,A,So.,5' 6'',,"Darien, Conn.",womens-lacrosse,2025
 Amelia Hughes,GK,Sr.,5' 6'',,"Wilton, Conn.",womens-lacrosse,2025
 Ella Sloan,M,Jr.,5' 11'',,"Blairstown, N.J.",womens-lacrosse,2025
 Cassandra Kitchen,M,So.,5' 4'',,"Owings Mills, Md.",womens-lacrosse,2025
-Maddie Mitchell,A,So.,5' 8'',,"Kensington, Md.",womens-lacrosse,2025
+Colette Quinn,M,Jr.,5' 9'',,"Darien, Conn.",womens-lacrosse,2025
 Addison Barrett,D,So.,5' 9'',,"Chatham, N.J.",womens-lacrosse,2025
+Kate Dente,A,Fr.,5' 3'',,"Berwyn, Pa.",womens-lacrosse,2025
+Jenn Cook,,,,,,womens-lacrosse,2025
+Juliana Williams,D,Sr.,5' 8'',,"Forest Hill, Md.",womens-lacrosse,2025
+Lane Calkins,M,Sr.,5' 8'',,"Naples, Fla.",womens-lacrosse,2025
+Kate Garlinghouse,D,Jr.,5' 10'',,"Atherton, Calif.",womens-lacrosse,2025
+Merrill Watson,A,Jr.,5' 8'',,"Parkton, Md.",womens-lacrosse,2025
+Dylan Allen,D,Sr.,5' 5'',,"Hackensack, N.J.",womens-lacrosse,2025
+Devan Lange,M,Fr.,5' 4'',,"West Islip, N.Y.",womens-lacrosse,2025
+Elizabeth Gonnella,GK,So.,5' 10'',,"Darien, Conn.",womens-lacrosse,2025
+Kendall Dean,A,Sr.,5' 3'',,"Columbia, Md.",womens-lacrosse,2025
+Grace Farrell,A,Fr.,5' 5'',,"Haddonfield, N.J.",womens-lacrosse,2025
+Sydney Sookdeo,D,Fr.,5' 6'',,"Waterdown, Ontario",womens-lacrosse,2025
+Ellie Nicklas,GK,Jr.,5' 4'',,"Chambersburg, Pa.",womens-lacrosse,2025
+Jackie Feldman,GK,Fr.,5' 10'',,"Parkland, Fla.",womens-lacrosse,2025
+Genevieve Nelson,D,Fr.,5' 7'',,"Concord, Mass.",womens-lacrosse,2025
+Siena Puglisi,D,Jr.,5' 4'',,"Alexandria, Va.",womens-lacrosse,2025
+Mary Catherine O'Connor,M,Fr.,5' 5'',,"Rumson, N.J.",womens-lacrosse,2025
+Grace Mulham,A,So.,5' 5'',,"Setauklet, N.Y.",womens-lacrosse,2025
 Devan Lange,M,So.,5' 4'',,"West Islip, N.Y.",womens-lacrosse,2026
 Elim Yang,A,Fr.,5' 5'',,"Manhasset, N.Y.",womens-lacrosse,2026
 Grace Farrell,A,So.,5' 5'',,"Haddonfield, N.J.",womens-lacrosse,2026

@@ -1,34 +1,11 @@
 name,position,class,height,weight,hometown,sport,year
 John San Jule,OF,Jr.,6' 0'',180 lbs,"San Luis Obispo, Calif.",baseball,2021
-Michael Ozymy,RHP,Jr.,6' 5'',220 lbs,"Coppell, Texas",baseball,2021
-Derek Yoo,RHP,So.,6' 1'',175 lbs,"Los Angeles, Calif.",baseball,2021
-Billy Black,RHP,Sr.,6' 4'',205 lbs,"Wilton, Conn.",baseball,2021
-EJ Kreutzmann,OF,So.,5' 10'',195 lbs,"San Diego, Calif.",baseball,2021
-Justin Tucker,RHP,Jr.,6' 2'',193 lbs,"Renton, Wash.",baseball,2021
-Weston Eberly,C,Jr.,6' 0'',200 lbs,"Maitland, Fla.",baseball,2021
-Joshua Solomon,OF,Sr.,6' 3'',220 lbs,"Mission Viejo, Calif.",baseball,2021
-Will Parkinson,LHP,FY,6' 3'',205 lbs,"Tampa, Fla.",baseball,2021
-Brett Boretti,,,,,,baseball,2021
-Pat Wade,INF,FY,6' 6'',230 lbs,"Needham, Mass.",baseball,2021
-Miles Blackwell,C,FY,5' 11'',215 lbs,"Los Angeles, Calif.",baseball,2021
-Skye Selinsky,UTL,FY,6' 1'',200 lbs,"Aliso Viejo, Calif.",baseball,2021
-Andy Blake,INF,Jr.,6' 4'',195 lbs,"Hopewell Township, N.J.",baseball,2021
-Jagger Edwards,LHP,FY,6' 2'',190 lbs,"San Antonio, Texas",baseball,2021
-Nate Beimel,LHP,Jr.,6' 3'',200 lbs,"St. Mary's, Pa.",baseball,2021
-Joe Sheets,RHP,FY,6' 2'',210 lbs,"Wilmington, Del.",baseball,2021
-JD Ogden,LHP,So.,6' 5'',200 lbs,"White Bear Lake, Minn.",baseball,2021
-Camron Hubble,RHP,Jr.,6' 2'',200 lbs,"Westerville, Ohio",baseball,2021
-Saajan May,RHP,Sr.,6' 2'',210 lbs,"Weston, Mass.",baseball,2021
-Andy Leon,3B/RHP,FY,6' 1'',195 lbs,"Sugar Land, Texas",baseball,2021
-Mike Decker,INF,Jr.,6' 1'',200 lbs,"Mullica Hill, N.J.",baseball,2021
-Austin Mowrey,INF/OF,Sr.,6' 0'',185 lbs,"Cardiff By The Sea, Calif.",baseball,2021
 Brandon Madrigal,RHP,So.,6' 2'',190 lbs,"Moorpark, Calif.",baseball,2021
 Sean Higgins,RHP,Sr.,6' 1'',195 lbs,"Santa Ana, Calif.",baseball,2021
 Jafar Vohra,RHP,Jr.,6' 1'',190 lbs,"Shelton, Conn.",baseball,2021
 AJ Valle,RHP,FY,6' 1'',185 lbs,"Huntington Beach, Calif.",baseball,2021
 Phil Healy,LHP,Jr.,6' 2'',205 lbs,"Staten Island, N.Y.",baseball,2021
 Jack Cooper,C,So.,6' 1'',210 lbs,"Edwardsville, Ill.",baseball,2021
-Dane Miller,RHP,Jr.,5' 10'',170 lbs,"Eagan, Minn.",baseball,2021
 Tyler MacGregor,1B,Sr.,6' 2'',205 lbs,"Peabody, Mass.",baseball,2021
 Kyle Corso,INF,FY,6' 3'',190 lbs,"Wayne, N.J.",baseball,2021
 Lewis Menendez,OF,Sr.,5' 10'',185 lbs,"Miami, Fla.",baseball,2021
@@ -40,7 +17,50 @@ Seth Dardar,INF,So.,6' 1'',205 lbs,"Mandeville, La.",baseball,2021
 Josh Nam,RHP,So.,6' 0'',200 lbs,Singapore,baseball,2021
 Griffin Palfrey,INF/RHP,FY,5' 11'',195 lbs,"Vancouver, B.C.",baseball,2021
 Cole Hage,1B/OF,So.,6' 3'',228 lbs,"Fargo, N.D.",baseball,2021
-EJ Kreutzmann,OF,Jr.,5' 10'',210 lbs,"San Diego, Calif.",baseball,2022
+Austin Mowrey,INF/OF,Sr.,6' 0'',185 lbs,"Cardiff By The Sea, Calif.",baseball,2021
+Mike Decker,INF,Jr.,6' 1'',200 lbs,"Mullica Hill, N.J.",baseball,2021
+Dane Miller,RHP,Jr.,5' 10'',170 lbs,"Eagan, Minn.",baseball,2021
+Saajan May,RHP,Sr.,6' 2'',210 lbs,"Weston, Mass.",baseball,2021
+Andy Leon,3B/RHP,FY,6' 1'',195 lbs,"Sugar Land, Texas",baseball,2021
+Derek Yoo,RHP,So.,6' 1'',175 lbs,"Los Angeles, Calif.",baseball,2021
+Billy Black,RHP,Sr.,6' 4'',205 lbs,"Wilton, Conn.",baseball,2021
+EJ Kreutzmann,OF,So.,5' 10'',195 lbs,"San Diego, Calif.",baseball,2021
+Justin Tucker,RHP,Jr.,6' 2'',193 lbs,"Renton, Wash.",baseball,2021
+Weston Eberly,C,Jr.,6' 0'',200 lbs,"Maitland, Fla.",baseball,2021
+Joshua Solomon,OF,Sr.,6' 3'',220 lbs,"Mission Viejo, Calif.",baseball,2021
+Will Parkinson,LHP,FY,6' 3'',205 lbs,"Tampa, Fla.",baseball,2021
+Brett Boretti,,,,,,baseball,2021
+Michael Ozymy,RHP,Jr.,6' 5'',220 lbs,"Coppell, Texas",baseball,2021
+Miles Blackwell,C,FY,5' 11'',215 lbs,"Los Angeles, Calif.",baseball,2021
+Pat Wade,INF,FY,6' 6'',230 lbs,"Needham, Mass.",baseball,2021
+JD Ogden,LHP,So.,6' 5'',200 lbs,"White Bear Lake, Minn.",baseball,2021
+Joe Sheets,RHP,FY,6' 2'',210 lbs,"Wilmington, Del.",baseball,2021
+Nate Beimel,LHP,Jr.,6' 3'',200 lbs,"St. Mary's, Pa.",baseball,2021
+Camron Hubble,RHP,Jr.,6' 2'',200 lbs,"Westerville, Ohio",baseball,2021
+Andy Blake,INF,Jr.,6' 4'',195 lbs,"Hopewell Township, N.J.",baseball,2021
+Skye Selinsky,UTL,FY,6' 1'',200 lbs,"Aliso Viejo, Calif.",baseball,2021
+Jagger Edwards,LHP,FY,6' 2'',190 lbs,"San Antonio, Texas",baseball,2021
+Andy Leon,RHP,So.,6' 1'',215 lbs,"Sugar Land, Texas",baseball,2022
+Kyle Corso,INF,So.,6' 3'',205 lbs,"Wayne, N.J.",baseball,2022
+Jack Kail,INF,FY,5' 8'',175 lbs,"McMurray, Pa.",baseball,2022
+John San Jule,OF,Sr.,6' 0'',185 lbs,"San Luis Obispo, Calif.",baseball,2022
+Cole Fellows,INF,FY,6' 1'',195 lbs,"Clovis, Calif.",baseball,2022
+Dane Miller,RHP,Sr.,5' 11'',170 lbs,"Eagan, Minn.",baseball,2022
+Brandon Madrigal,RHP,Jr.,6' 2'',180 lbs,"Moorpark, Calif.",baseball,2022
+Sam Miller,INF/RHP,FY,6' 0'',195 lbs,"McMurray, Pa.",baseball,2022
+AJ Valle,RHP,So.,6' 1'',190 lbs,"Huntington Beach, Calif.",baseball,2022
+Anton Lazits,INF,So.,5' 11'',190 lbs,"Pittsfield, Mass.",baseball,2022
+Griffin Palfrey,INF/RHP,So.,5' 11'',205 lbs,"Vancouver, B.C.",baseball,2022
+Hayden Schott,OF,Sr.,6' 2'',215 lbs,"Newport Beach, Calif.",baseball,2022
+Skye Selinsky,OF,So.,6' 1'',205 lbs,"Aliso Viejo, Calif.",baseball,2022
+Seth Dardar,INF,Jr.,6' 1'',210 lbs,"Mandeville, La.",baseball,2022
+Joe Sheets,RHP,So.,6' 2'',210 lbs,"Wilmington, Del.",baseball,2022
+Phil Healy,LHP,Sr.,6' 2'',205 lbs,"Staten Island, N.Y.",baseball,2022
+Jagger Edwards,LHP,So.,6' 2'',205 lbs,"San Antonio, Texas",baseball,2022
+Ben Seminara,C/1B,FY,6' 1'',215 lbs,"Morristown, N.J.",baseball,2022
+Miles Blackwell,C,So.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2022
+Martin Zhang,LHP,FY,6' 0'',200 lbs,"Orange, Conn.",baseball,2022
+Jafar Vohra,RHP,Sr.,6' 1'',205 lbs,"Shelton, Conn.",baseball,2022
 Derek Yoo,RHP,Jr.,6' 1'',175 lbs,"Los Angeles, Calif.",baseball,2022
 Will Parkinson,LHP,So.,6' 3'',205 lbs,"Tampa, Fla.",baseball,2022
 James Vaughn,RHP,Jr.,6' 5'',250 lbs,"New York, N.Y.",baseball,2022
@@ -49,7 +69,8 @@ Evan Kleinhans,RHP,FY,6' 4'',200 lbs,"Berkeley, Calif.",baseball,2022
 Thomas Santana,RHP,FY,6' 1'',180 lbs,"Millburn, N.J.",baseball,2022
 Justin Tucker,RHP,Sr.,6' 2'',200 lbs,"Renton, Wash.",baseball,2022
 Brett Boretti,,,,,,baseball,2022
-Andrew Argenziano,RHP,FY,6' 4'',225 lbs,"Closter, N.J.",baseball,2022
+EJ Kreutzmann,OF,Jr.,5' 10'',210 lbs,"San Diego, Calif.",baseball,2022
+Jack Cooper,C,Jr.,6' 1'',220 lbs,"Edwardsville, Ill.",baseball,2022
 Andy Blake,INF,Sr.,6' 4'',200 lbs,"Hopewell Township, N.J.",baseball,2022
 Nate Beimel,LHP,Sr.,6' 3'',210 lbs,"St. Mary's, Pa.",baseball,2022
 Cole Hage,1B/OF,Jr.,6' 3'',240 lbs,"Fargo, N.D.",baseball,2022
@@ -57,37 +78,37 @@ Weston Eberly,C,Sr.,6' 0'',200 lbs,"Maitland, Fla.",baseball,2022
 Camron Hubble,RHP,Sr.,6' 2'',215 lbs,"Westerville, Ohio",baseball,2022
 Pat Wade,INF,So.,6' 6'',240 lbs,"Needham, Mass.",baseball,2022
 Mike Decker,INF,Sr.,6' 1'',210 lbs,"Mullica Hill, N.J.",baseball,2022
-Jafar Vohra,RHP,Sr.,6' 1'',205 lbs,"Shelton, Conn.",baseball,2022
-Jack Cooper,C,Jr.,6' 1'',220 lbs,"Edwardsville, Ill.",baseball,2022
-Miles Blackwell,C,So.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2022
-Jagger Edwards,LHP,So.,6' 2'',205 lbs,"San Antonio, Texas",baseball,2022
-Dane Miller,RHP,Sr.,5' 11'',170 lbs,"Eagan, Minn.",baseball,2022
-Kyle Corso,INF,So.,6' 3'',205 lbs,"Wayne, N.J.",baseball,2022
-Jack Kail,INF,FY,5' 8'',175 lbs,"McMurray, Pa.",baseball,2022
-John San Jule,OF,Sr.,6' 0'',185 lbs,"San Luis Obispo, Calif.",baseball,2022
-Cole Fellows,INF,FY,6' 1'',195 lbs,"Clovis, Calif.",baseball,2022
-Brandon Madrigal,RHP,Jr.,6' 2'',180 lbs,"Moorpark, Calif.",baseball,2022
-Andy Leon,RHP,So.,6' 1'',215 lbs,"Sugar Land, Texas",baseball,2022
-Martin Zhang,LHP,FY,6' 0'',200 lbs,"Orange, Conn.",baseball,2022
-Sam Miller,INF/RHP,FY,6' 0'',195 lbs,"McMurray, Pa.",baseball,2022
-Ben Seminara,C/1B,FY,6' 1'',215 lbs,"Morristown, N.J.",baseball,2022
-Anton Lazits,INF,So.,5' 11'',190 lbs,"Pittsfield, Mass.",baseball,2022
-Griffin Palfrey,INF/RHP,So.,5' 11'',205 lbs,"Vancouver, B.C.",baseball,2022
-Hayden Schott,OF,Sr.,6' 2'',215 lbs,"Newport Beach, Calif.",baseball,2022
-AJ Valle,RHP,So.,6' 1'',190 lbs,"Huntington Beach, Calif.",baseball,2022
-Skye Selinsky,OF,So.,6' 1'',205 lbs,"Aliso Viejo, Calif.",baseball,2022
-Seth Dardar,INF,Jr.,6' 1'',210 lbs,"Mandeville, La.",baseball,2022
-Joe Sheets,RHP,So.,6' 2'',210 lbs,"Wilmington, Del.",baseball,2022
-Phil Healy,LHP,Sr.,6' 2'',205 lbs,"Staten Island, N.Y.",baseball,2022
+Andrew Argenziano,RHP,FY,6' 4'',225 lbs,"Closter, N.J.",baseball,2022
+Cole Fellows,INF/OF,So.,6' 1'',195 lbs,"Clovis, Calif.",baseball,2023
+Hunter Snyder,INF,FY,6' 0'',175 lbs,"Saint John, Ind.",baseball,2023
+Griffin Palfrey,INF/RHP,Jr.,5' 11'',205 lbs,"Vancouver, B.C.",baseball,2023
+Eric Jeon,INF,FY,5' 10'',180 lbs,"Fullerton, Calif.",baseball,2023
+Jack Cooper,INF,Sr.,6' 1'',220 lbs,"Edwardsville, Ill.",baseball,2023
+Joe Sheets,RHP,Jr.,6' 2'',210 lbs,"Wilmington, Del.",baseball,2023
+Anton Lazits,INF/OF,Jr.,5' 11'',190 lbs,"Pittsfield, Mass.",baseball,2023
+Brandon Madrigal,RHP,Sr.,6' 2'',180 lbs,"Moorpark, Calif.",baseball,2023
+Kyle Corso,INF,Jr.,6' 3'',205 lbs,"Wayne, N.J.",baseball,2023
+AJ Valle,RHP,Jr.,6' 1'',190 lbs,"Huntington Beach, Calif.",baseball,2023
+Justin Bowman,LHP,FY,6' 0'',195 lbs,"Suwanee, Ga.",baseball,2023
+Seth Dardar,INF,Sr.,6' 1'',210 lbs,"Mandeville, La.",baseball,2023
+Martin Zhang,LHP,So.,6' 0'',200 lbs,"Orange, Conn.",baseball,2023
+Andy Leon,RHP,Jr.,6' 1'',215 lbs,"Sugar Land, Texas",baseball,2023
+Tomas Lopez,RHP,FY,6' 3'',195 lbs,"Redondo Beach, Calif.",baseball,2023
+Skye Selinsky,OF,Jr.,6' 1'',205 lbs,"Aliso Viejo, Calif.",baseball,2023
+Sam Miller,INF/RHP,So.,6' 0'',195 lbs,"McMurray, Pa.",baseball,2023
+Jack Kail,INF,So.,5' 8'',175 lbs,"McMurray, Pa.",baseball,2023
+Will Harrigan,RHP,FY,5' 10'',170 lbs,"Syracuse, N.Y.",baseball,2023
+Payton Soske,RHP,FY,6' 4'',195 lbs,"Barrington, Ill.",baseball,2023
+Thomas Santana,RHP,So.,6' 1'',185 lbs,"Millburn, N.J.",baseball,2023
+Miles Blackwell,C,Jr.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2023
 Derek Yoo,RHP,Sr.,6' 1'',175 lbs,"Los Angeles, Calif.",baseball,2023
 Will Parkinson,LHP,Jr.,6' 3'',205 lbs,"Tampa, Fla.",baseball,2023
 Ben Seminara,C/1B,So.,6' 1'',215 lbs,"Morristown, N.J.",baseball,2023
 Evan Kleinhans,RHP,So.,6' 4'',200 lbs,"Berkeley, Calif.",baseball,2023
-EJ Kreutzmann,OF,Sr.,5' 10'',210 lbs,"San Diego, Calif.",baseball,2023
 James Vaughn,RHP,Sr.,6' 5'',240 lbs,"New York, N.Y.",baseball,2023
 Andrew Argenziano,RHP,So.,6' 4'',225 lbs,"Closter, N.J.",baseball,2023
 Jagger Edwards,LHP,Jr.,6' 2'',205 lbs,"San Antonio, Texas",baseball,2023
-Owen Estabrook,C,FY,6' 1'',200 lbs,"Santa Barbara, Calif.",baseball,2023
+EJ Kreutzmann,OF,Sr.,5' 10'',210 lbs,"San Diego, Calif.",baseball,2023
 Lucas Jackson,C,FY,6' 2'',210 lbs,"Fort Smith, Ark.",baseball,2023
 Lucas Dixon,RHP,FY,6' 2'',200 lbs,"Pasadena, Calif.",baseball,2023
 Pat Wade,INF,Jr.,6' 6'',240 lbs,"Needham, Mass.",baseball,2023
@@ -95,62 +116,18 @@ Baylor Hicks,RHP,FY,6' 3'',195 lbs,"Cumming, Ga.",baseball,2023
 Dean Reynolds,UTL,FY,6' 2'',180 lbs,"Orange, Texas",baseball,2023
 Brett Boretti,,,,,,baseball,2023
 Cole Hage,1B/OF,Sr.,6' 3'',240 lbs,"Fargo, N.D.",baseball,2023
+Owen Estabrook,C,FY,6' 1'',200 lbs,"Santa Barbara, Calif.",baseball,2023
 JD Ogden,LHP,Sr.,6' 5'',220 lbs,"White Bear Lake, Minn.",baseball,2023
-Thomas Santana,RHP,So.,6' 1'',185 lbs,"Millburn, N.J.",baseball,2023
-Miles Blackwell,C,Jr.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2023
-Payton Soske,RHP,FY,6' 4'',195 lbs,"Barrington, Ill.",baseball,2023
-Sam Miller,INF/RHP,So.,6' 0'',195 lbs,"McMurray, Pa.",baseball,2023
-Griffin Palfrey,INF/RHP,Jr.,5' 11'',205 lbs,"Vancouver, B.C.",baseball,2023
-Jack Cooper,INF,Sr.,6' 1'',220 lbs,"Edwardsville, Ill.",baseball,2023
-Eric Jeon,INF,FY,5' 10'',180 lbs,"Fullerton, Calif.",baseball,2023
-Anton Lazits,INF/OF,Jr.,5' 11'',190 lbs,"Pittsfield, Mass.",baseball,2023
-Hunter Snyder,INF,FY,6' 0'',175 lbs,"Saint John, Ind.",baseball,2023
-Cole Fellows,INF/OF,So.,6' 1'',195 lbs,"Clovis, Calif.",baseball,2023
-Joe Sheets,RHP,Jr.,6' 2'',210 lbs,"Wilmington, Del.",baseball,2023
-Brandon Madrigal,RHP,Sr.,6' 2'',180 lbs,"Moorpark, Calif.",baseball,2023
-Jack Kail,INF,So.,5' 8'',175 lbs,"McMurray, Pa.",baseball,2023
-AJ Valle,RHP,Jr.,6' 1'',190 lbs,"Huntington Beach, Calif.",baseball,2023
-Justin Bowman,LHP,FY,6' 0'',195 lbs,"Suwanee, Ga.",baseball,2023
-Seth Dardar,INF,Sr.,6' 1'',210 lbs,"Mandeville, La.",baseball,2023
-Will Harrigan,RHP,FY,5' 10'',170 lbs,"Syracuse, N.Y.",baseball,2023
-Martin Zhang,LHP,So.,6' 0'',200 lbs,"Orange, Conn.",baseball,2023
-Andy Leon,RHP,Jr.,6' 1'',215 lbs,"Sugar Land, Texas",baseball,2023
-Tomas Lopez,RHP,FY,6' 3'',195 lbs,"Redondo Beach, Calif.",baseball,2023
-Skye Selinsky,OF,Jr.,6' 1'',205 lbs,"Aliso Viejo, Calif.",baseball,2023
-Kyle Corso,INF,Jr.,6' 3'',205 lbs,"Wayne, N.J.",baseball,2023
-Owen Estabrook,C,So.,6' 1'',205 lbs,"Santa Barbara, Calif.",baseball,2024
-Evan Kleinhans,RHP,Jr.,6' 4'',195 lbs,"Berkeley, Calif.",baseball,2024
-Anthony Temesvary,C,FY,5' 11'',195 lbs,"Los Angeles, Calif.",baseball,2024
-Eric Jeon,INF,So.,5' 10'',180 lbs,"Fullerton, Calif.",baseball,2024
-Brendan Murphy,LHP,FY,6' 0'',190 lbs,"Naples, Fla.",baseball,2024
-Thomas Santana,RHP,Jr.,6' 1'',190 lbs,"Millburn, N.J.",baseball,2024
-Dan Mills,RHP,FY,6' 4'',195 lbs,"Northern Beaches, New South Wales",baseball,2024
-Tate Vogler,INF,FY,6' 3'',235 lbs,"Clemmons, N.C.",baseball,2024
-Brett Boretti,,,,,,baseball,2024
-Miles Blackwell,C,Sr.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2024
-Pat Wade,INF,Sr.,6' 6'',230 lbs,"Needham, Mass.",baseball,2024
-Jagger Edwards,LHP,Sr.,6' 2'',205 lbs,"San Antonio, Texas",baseball,2024
-Ben Seminara,INF/OF,Jr.,6' 1'',205 lbs,"Morristown, N.J.",baseball,2024
-Andrew Argenziano,RHP,Jr.,6' 4'',215 lbs,"Closter, N.J.",baseball,2024
-Baylor Hicks,RHP,So.,6' 3'',195 lbs,"Cumming, Ga.",baseball,2024
-Lucas Dixon,RHP,So.,6' 2'',205 lbs,"Pasadena, Calif.",baseball,2024
-Dean Reynolds,UTL,So.,6' 2'',200 lbs,"Orange, Texas",baseball,2024
-Lucas Jackson,C,So.,6' 2'',220 lbs,"Fort Smith, Ark.",baseball,2024
-Payton Soske,RHP,So.,6' 4'',215 lbs,"Barrington, Ill.",baseball,2024
-Joe Sheets,RHP,Sr.,6' 2'',215 lbs,"Wilmington, Del.",baseball,2024
-Jack Kail,INF,Jr.,5' 8'',175 lbs,"McMurray, Pa.",baseball,2024
-Tomas Lopez,RHP,So.,6' 3'',195 lbs,"Redondo Beach, Calif.",baseball,2024
-Will Harrigan,RHP,So.,5' 10'',170 lbs,"Syracuse, N.Y.",baseball,2024
-Alex Sotiropoulos,RHP,FY,6' 4'',230 lbs,"Tampa, Fla.",baseball,2024
-Skye Selinsky,OF,Sr.,6' 1'',215 lbs,"Aliso Viejo, Calif.",baseball,2024
-Kyle Corso,OF/RHP,Sr.,6' 3'',220 lbs,"Wayne, N.J.",baseball,2024
-Cole Fellows,INF/OF,Jr.,6' 2'',215 lbs,"Clovis, Calif.",baseball,2024
-Will Parkinson,LHP,Sr.,6' 3'',210 lbs,"Tampa, Fla.",baseball,2024
-Hunter Snyder,INF,So.,6' 0'',185 lbs,"Saint John, Ind.",baseball,2024
 AJ Valle,RHP,Sr.,6' 1'',200 lbs,"Huntington Beach, Calif.",baseball,2024
+Hunter Snyder,INF,So.,6' 0'',185 lbs,"Saint John, Ind.",baseball,2024
+Will Parkinson,LHP,Sr.,6' 3'',210 lbs,"Tampa, Fla.",baseball,2024
+Alex Sotiropoulos,RHP,FY,6' 4'',230 lbs,"Tampa, Fla.",baseball,2024
+Kyle Corso,OF/RHP,Sr.,6' 3'',220 lbs,"Wayne, N.J.",baseball,2024
+Skye Selinsky,OF,Sr.,6' 1'',215 lbs,"Aliso Viejo, Calif.",baseball,2024
 Anton Lazits,OF,Sr.,5' 11'',195 lbs,"Pittsfield, Mass.",baseball,2024
+Cole Fellows,INF/OF,Jr.,6' 2'',215 lbs,"Clovis, Calif.",baseball,2024
 Ben Fishel,OF,FY,5' 11'',180 lbs,"Tappan, N.Y.",baseball,2024
-Sam Miller,INF/RHP,Jr.,6' 0'',205 lbs,"McMurray, Pa.",baseball,2024
+Martin Zhang,LHP,Jr.,6' 0'',200 lbs,"Orange, Conn.",baseball,2024
 Justin Bowman,LHP,So.,6' 0'',195 lbs,"Suwanee, Ga.",baseball,2024
 Andy Leon,RHP,Sr.,6' 1'',215 lbs,"Sugar Land, Texas",baseball,2024
 Towa Uejima,RHP,FY,5' 9'',170 lbs,"Tokyo, Japan",baseball,2024
@@ -158,28 +135,30 @@ Jackson Brewer,OF/INF,FY,6' 3'',225 lbs,"Mequon, Wis.",baseball,2024
 Griffin Palfrey,INF/RHP,Sr.,5' 11'',205 lbs,"Vancouver, B.C.",baseball,2024
 Ray Huke,RHP,FY,6' 1'',185 lbs,"Potomac, Md.",baseball,2024
 Jimmy Chadwell,INF,FY,6' 2'',170 lbs,"Longmeadow, Mass.",baseball,2024
-Martin Zhang,LHP,Jr.,6' 0'',200 lbs,"Orange, Conn.",baseball,2024
-Payton Soske,RHP,Jr.,6' 4'',230 lbs,"Barrington, Ill.",baseball,2025
-Tate Vogler,INF,So.,6' 3'',235 lbs,"Clemmons, N.C.",baseball,2025
-Brandon Rovinelli,RHP,FY,5' 9'',180 lbs,"Shelton, Conn.",baseball,2025
-Evan Kleinhans,RHP,Sr.,6' 4'',195 lbs,"Berkeley, Calif.",baseball,2025
-Alex Sotiropoulos,RHP,So.,6' 4'',235 lbs,"Tampa, Fla.",baseball,2025
-Jack McWilliams,OF,So.,6' 3'',190 lbs,"San Marcos, Calif.",baseball,2025
-Brendan Murphy,LHP,So.,6' 0'',190 lbs,"Naples, Fla.",baseball,2025
-Thomas Santana,RHP,Sr.,6' 1'',195 lbs,"Millburn, N.J.",baseball,2025
-Lucas Dixon,RHP,Jr.,6' 2'',205 lbs,"Pasadena, Calif.",baseball,2025
-Dan Mills,RHP,So.,6' 4'',195 lbs,"Northern Beaches, New South Wales",baseball,2025
-Dean Reynolds,OF,Jr.,6' 2'',202 lbs,"Orange, Texas",baseball,2025
-Jack Korthas,LHP,FY,6' 1'',205 lbs,"Trophy Club, Texas",baseball,2025
-Brett Boretti,,,,,,baseball,2025
-Lucas Jackson,C,Jr.,6' 2'',220 lbs,"Fort Smith, Ark.",baseball,2025
-Owen Estabrook,C,Jr.,6' 1'',215 lbs,"Santa Barbara, Calif.",baseball,2025
-Andrew Argenziano,RHP,Sr.,6' 4'',220 lbs,"Closter, N.J.",baseball,2025
-Ben Seminara,INF/OF,Sr.,6' 1'',205 lbs,"Morristown, N.J.",baseball,2025
-Henrik Conniff,RHP,FY,6' 3'',205 lbs,"Wilmette, Ill.",baseball,2025
-Baylor Hicks,RHP,Jr.,6' 3'',195 lbs,"Cumming, Ga.",baseball,2025
-Martin Zhang,LHP,Sr.,6' 0'',212 lbs,"Orange, Conn.",baseball,2025
-Jimmy Chadwell,INF,So.,6' 2'',172 lbs,"Longmeadow, Mass.",baseball,2025
+Will Harrigan,RHP,So.,5' 10'',170 lbs,"Syracuse, N.Y.",baseball,2024
+Sam Miller,INF/RHP,Jr.,6' 0'',205 lbs,"McMurray, Pa.",baseball,2024
+Tomas Lopez,RHP,So.,6' 3'',195 lbs,"Redondo Beach, Calif.",baseball,2024
+Evan Kleinhans,RHP,Jr.,6' 4'',195 lbs,"Berkeley, Calif.",baseball,2024
+Joe Sheets,RHP,Sr.,6' 2'',215 lbs,"Wilmington, Del.",baseball,2024
+Owen Estabrook,C,So.,6' 1'',205 lbs,"Santa Barbara, Calif.",baseball,2024
+Anthony Temesvary,C,FY,5' 11'',195 lbs,"Los Angeles, Calif.",baseball,2024
+Eric Jeon,INF,So.,5' 10'',180 lbs,"Fullerton, Calif.",baseball,2024
+Brendan Murphy,LHP,FY,6' 0'',190 lbs,"Naples, Fla.",baseball,2024
+Thomas Santana,RHP,Jr.,6' 1'',190 lbs,"Millburn, N.J.",baseball,2024
+Jack Kail,INF,Jr.,5' 8'',175 lbs,"McMurray, Pa.",baseball,2024
+Tate Vogler,INF,FY,6' 3'',235 lbs,"Clemmons, N.C.",baseball,2024
+Brett Boretti,,,,,,baseball,2024
+Miles Blackwell,C,Sr.,5' 11'',230 lbs,"Los Angeles, Calif.",baseball,2024
+Dan Mills,RHP,FY,6' 4'',195 lbs,"Northern Beaches, New South Wales",baseball,2024
+Jagger Edwards,LHP,Sr.,6' 2'',205 lbs,"San Antonio, Texas",baseball,2024
+Pat Wade,INF,Sr.,6' 6'',230 lbs,"Needham, Mass.",baseball,2024
+Lucas Jackson,C,So.,6' 2'',220 lbs,"Fort Smith, Ark.",baseball,2024
+Dean Reynolds,UTL,So.,6' 2'',200 lbs,"Orange, Texas",baseball,2024
+Payton Soske,RHP,So.,6' 4'',215 lbs,"Barrington, Ill.",baseball,2024
+Baylor Hicks,RHP,So.,6' 3'',195 lbs,"Cumming, Ga.",baseball,2024
+Andrew Argenziano,RHP,Jr.,6' 4'',215 lbs,"Closter, N.J.",baseball,2024
+Ben Seminara,INF/OF,Jr.,6' 1'',205 lbs,"Morristown, N.J.",baseball,2024
+Lucas Dixon,RHP,So.,6' 2'',205 lbs,"Pasadena, Calif.",baseball,2024
 Charlie Slabaugh,OF,FY,6' 0'',200 lbs,"Lexington, Ky.",baseball,2025
 Jaden Santiago,C/INF,FY,6' 0'',180 lbs,"San Diego, Calif.",baseball,2025
 Cole Fellows,OF/1B,Sr.,6' 2'',210 lbs,"Clovis, Calif.",baseball,2025
@@ -188,15 +167,36 @@ Anthony Temesvary,C/INF,So.,5' 11'',195 lbs,"Los Angeles, Calif.",baseball,2025
 Amare Burrus,OF,FY,6' 4'',185 lbs,"Durham, N.C.",baseball,2025
 Jack Kail,INF,Sr.,5' 8'',175 lbs,"McMurray, Pa.",baseball,2025
 Will Harrigan,RHP,Jr.,5' 10'',195 lbs,"Syracuse, N.Y.",baseball,2025
-Collin Park,LHP,FY,6' 1'',185 lbs,"Woodbine, Md.",baseball,2025
-Ben Fishel,OF,So.,5' 11'',180 lbs,"Tappan, N.Y.",baseball,2025
+Ray Huke,RHP,So.,6' 1'',195 lbs,"Potomac, Md.",baseball,2025
 Tyler Adamo,INF,FY,5' 9'',172 lbs,"Lynnfield, Mass.",baseball,2025
 Koby Seelig,RHP,FY,6' 1'',185 lbs,"Cambridge, Mass.",baseball,2025
 Tomas Lopez,RHP,Jr.,6' 4'',215 lbs,"Redondo Beach, Calif.",baseball,2025
 Jake Taylor,RHP,FY,6' 3'',190 lbs,"Belmont, Mass.",baseball,2025
 Justin Bowman,LHP,Jr.,6' 0'',205 lbs,"Suwanee, Ga.",baseball,2025
 Jackson Brewer,OF/1B,So.,6' 3'',230 lbs,"Mequon, Wis.",baseball,2025
-Ray Huke,RHP,So.,6' 1'',195 lbs,"Potomac, Md.",baseball,2025
+Jimmy Chadwell,INF,So.,6' 2'',172 lbs,"Longmeadow, Mass.",baseball,2025
+Collin Park,LHP,FY,6' 1'',185 lbs,"Woodbine, Md.",baseball,2025
+Martin Zhang,LHP,Sr.,6' 0'',212 lbs,"Orange, Conn.",baseball,2025
+Ben Fishel,OF,So.,5' 11'',180 lbs,"Tappan, N.Y.",baseball,2025
+Henrik Conniff,RHP,FY,6' 3'',205 lbs,"Wilmette, Ill.",baseball,2025
+Baylor Hicks,RHP,Jr.,6' 3'',195 lbs,"Cumming, Ga.",baseball,2025
+Payton Soske,RHP,Jr.,6' 4'',230 lbs,"Barrington, Ill.",baseball,2025
+Tate Vogler,INF,So.,6' 3'',235 lbs,"Clemmons, N.C.",baseball,2025
+Brandon Rovinelli,RHP,FY,5' 9'',180 lbs,"Shelton, Conn.",baseball,2025
+Evan Kleinhans,RHP,Sr.,6' 4'',195 lbs,"Berkeley, Calif.",baseball,2025
+Jack McWilliams,OF,So.,6' 3'',190 lbs,"San Marcos, Calif.",baseball,2025
+Brendan Murphy,LHP,So.,6' 0'',190 lbs,"Naples, Fla.",baseball,2025
+Thomas Santana,RHP,Sr.,6' 1'',195 lbs,"Millburn, N.J.",baseball,2025
+Alex Sotiropoulos,RHP,So.,6' 4'',235 lbs,"Tampa, Fla.",baseball,2025
+Dan Mills,RHP,So.,6' 4'',195 lbs,"Northern Beaches, New South Wales",baseball,2025
+Dean Reynolds,OF,Jr.,6' 2'',202 lbs,"Orange, Texas",baseball,2025
+Jack Korthas,LHP,FY,6' 1'',205 lbs,"Trophy Club, Texas",baseball,2025
+Brett Boretti,,,,,,baseball,2025
+Lucas Jackson,C,Jr.,6' 2'',220 lbs,"Fort Smith, Ark.",baseball,2025
+Owen Estabrook,C,Jr.,6' 1'',215 lbs,"Santa Barbara, Calif.",baseball,2025
+Andrew Argenziano,RHP,Sr.,6' 4'',220 lbs,"Closter, N.J.",baseball,2025
+Lucas Dixon,RHP,Jr.,6' 2'',205 lbs,"Pasadena, Calif.",baseball,2025
+Ben Seminara,INF/OF,Sr.,6' 1'',205 lbs,"Morristown, N.J.",baseball,2025
 Ty Daniels,INF/P,FY,6' 0'',185 lbs,"San Diego, Calif.",baseball,2026
 Connor Couch,RHP,FY,6' 3'',195 lbs,"Bloomington, Ind.",baseball,2026
 Brendan Murphy,LHP,Jr.,6' 0'',190 lbs,"Naples, Fla.",baseball,2026

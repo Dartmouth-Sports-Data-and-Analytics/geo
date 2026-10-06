@@ -1,28 +1,5 @@
 name,position,class,height,weight,hometown,sport,year
 Hannah Chipman,XC,Fy.,,,"Norwich, Vt.",skiing,2021
-Chelsea Moore,XC,Sr.,,,"Aspen, Colo.",skiing,2021
-Asa Chalmers,XC,Fy.,6' 0'',,"Landgrove, Vt.",skiing,2021
-Peter Fucigna,ALP,5th,,,"Hopkinton, Mass.",skiing,2021
-Adam Glueck,XC,Gr.,,,"Hanover, N.H.",skiing,2021
-Luc Golin,XC,Sr.,,,"Hamel, Minn.",skiing,2021
-Olof Hedelin,ALP,So.,,,"Saltsjobaden, Sweden",skiing,2021
-Kellen Kinsella,ALP,Jr.,,,"Vail, Colo.",skiing,2021
-Louis Latulippe,ALP,Fy.,6' 1'',,"Quebec City, Quebec",skiing,2021
-Aiden Casey,XC,Fy.,,,"Craftsbury, Vt.",skiing,2021
-Luke Allan,XC,Fy.,,,"Ottawa, Ontario",skiing,2021
-Preston O'Brien,ALP,So.,,,"Greenwood Village, Colo.",skiing,2021
-Jordan Simon,ALP,Fy.,,,"Steamboat Springs, Colo.",skiing,2021
-Oliver Snow,XC,Sr.,,,"Weston, Mass.",skiing,2021
-Henrik Thorsby,ALP,Jr.,,,"Oslo, Norway",skiing,2021
-Kalle Wagner,ALP,5th,,,"Fresno, Calif.",skiing,2021
-Cameron Wolfe,XC,Jr.,,,"Vail, Colo.",skiing,2021
-Cami Thompson,,,,,,skiing,2021
-Lane Myshrall,XC,So.,,,"Park City, Utah",skiing,2021
-Alex Nemeth,XC,Jr.,,,"Sartell, Minn.",skiing,2021
-Hunter Brayton,ALP,Jr.,,,"Waterville Valley, N.H.",skiing,2021
-Mikaela O'Brien,ALP,5th,,,"Montreal, Quebec",skiing,2021
-Oliver Morgan,ALP,Fy.,,,"Hanover, N.H.",skiing,2021
-Tatum Witter,XC,Fy.,,,"Anchorage, Alaska",skiing,2021
 Max Martin,ALP,So.,,,"Portsmouth, N.H.",skiing,2021
 Jasmine Drolet,XC,Fy.,,,"Rossland, British Columbia",skiing,2021
 Maggie Druckenmiller,XC,So.,,,"Fairbanks, Alaska",skiing,2021
@@ -31,7 +8,6 @@ Molly Gellert,XC,Sr.,,,"Anchorage, Alaska",skiing,2021
 Olivia Holm,ALP,So.,,,"Old Greenwich, Conn.",skiing,2021
 Anna Lehmann,XC,Jr.,,,"Bondville, Vt.",skiing,2021
 Mara McCollor,XC,Jr.,,,"Plymouth, Minn.",skiing,2021
-Ellie Curtis,ALP,Sr.,,,"Waitsfield, Vt.",skiing,2021
 Callie Young,XC,Sr.,,,"Jay, Vt.",skiing,2021
 Wally Magill,XC,Fy.,,,"Steamboat Springs, Colo.",skiing,2021
 Nina Seemann,XC,Fy.,,,"Wheelock, Vt.",skiing,2021
@@ -43,60 +19,107 @@ Gwen Wattenmaker,ALP,Jr.,,,"Olympic Valley, Calif.",skiing,2021
 Stephanie Profitt,ALP,Sr.,,,"Squamish, BC",skiing,2021
 Emma Reeder,XC,Fy.,,,"Avon, Colo.",skiing,2021
 Rena Schwartz,XC,Sr.,,,"Middlesex, Vt.",skiing,2021
-John Steel Hagenbuch,XC,So.,6' 1'',,"Ketchum, Idaho",skiing,2022
-Asa Chalmers,XC,So.,6' 0'',,"Landgrove, Vt.",skiing,2022
-Aiden Casey,XC,So.,5' 11'',,"Craftsbury, Vt.",skiing,2022
-Kellen Kinsella,ALP,Sr.,5' 11'',,"Vail, Colo.",skiing,2022
-Max Martin,ALP,Jr.,5' 8'',,"Portsmouth, N.H.",skiing,2022
-Luc Golin,XC,5th,6' 0'',,"Hamel, Minn.",skiing,2022
-Oliver Morgan,ALP,So.,5' 9'',,"Hanover, N.H.",skiing,2022
-Wally Magill,XC,So.,5' 7'',,"Steamboat Springs, Colo.",skiing,2022
-Dan Gillis,ALP,Fy.,5' 8'',,"East Burke, Vt.",skiing,2022
-Jack Lange,XC,Fy.,,,"Lyme, N.H.",skiing,2022
-Cami Thompson,,,,,,skiing,2022
-Henrik Thorsby,ALP,Sr.,6' 2'',,"Oslo, Norway",skiing,2022
-Lane Myshrall,XC,Jr.,5' 10'',,"Park City, Utah",skiing,2022
-Alex Nemeth,XC,Sr.,5' 11'',,"Sartell, Minn.",skiing,2022
-Jordan Simon,ALP,So.,5' 11'',,"Steamboat Springs, Colo.",skiing,2022
-Preston O'Brien,ALP,Jr.,6' 1'',,"Greenwood Village, Colo.",skiing,2022
-Oscar Zimmer,ALP,Fy.,6' 1'',,"Oslo, Norway",skiing,2022
-Cooper Puckett,ALP,Fy.,6' 2'',,"Steamboat Springs, Colo.",skiing,2022
-Cameron Wolfe,XC,Sr.,6' 0'',,"Vail, Colo.",skiing,2022
-Louis Latulippe,ALP,So.,6' 1'',,"Quebec City, Quebec",skiing,2022
-Olof Hedelin,ALP,Jr.,5' 11'',,"Saltsjobaden, Sweden",skiing,2022
-Alexa Elliff,ALP,Fy.,5' 8'',,"London, England",skiing,2022
+Tatum Witter,XC,Fy.,,,"Anchorage, Alaska",skiing,2021
+Oliver Morgan,ALP,Fy.,,,"Hanover, N.H.",skiing,2021
+Ellie Curtis,ALP,Sr.,,,"Waitsfield, Vt.",skiing,2021
+Hunter Brayton,ALP,Jr.,,,"Waterville Valley, N.H.",skiing,2021
+Mikaela O'Brien,ALP,5th,,,"Montreal, Quebec",skiing,2021
+Asa Chalmers,XC,Fy.,6' 0'',,"Landgrove, Vt.",skiing,2021
+Peter Fucigna,ALP,5th,,,"Hopkinton, Mass.",skiing,2021
+Adam Glueck,XC,Gr.,,,"Hanover, N.H.",skiing,2021
+Luc Golin,XC,Sr.,,,"Hamel, Minn.",skiing,2021
+Olof Hedelin,ALP,So.,,,"Saltsjobaden, Sweden",skiing,2021
+Kellen Kinsella,ALP,Jr.,,,"Vail, Colo.",skiing,2021
+Louis Latulippe,ALP,Fy.,6' 1'',,"Quebec City, Quebec",skiing,2021
+Aiden Casey,XC,Fy.,,,"Craftsbury, Vt.",skiing,2021
+Luke Allan,XC,Fy.,,,"Ottawa, Ontario",skiing,2021
+Chelsea Moore,XC,Sr.,,,"Aspen, Colo.",skiing,2021
+Jordan Simon,ALP,Fy.,,,"Steamboat Springs, Colo.",skiing,2021
+Oliver Snow,XC,Sr.,,,"Weston, Mass.",skiing,2021
+Henrik Thorsby,ALP,Jr.,,,"Oslo, Norway",skiing,2021
+Kalle Wagner,ALP,5th,,,"Fresno, Calif.",skiing,2021
+Cameron Wolfe,XC,Jr.,,,"Vail, Colo.",skiing,2021
+Cami Thompson,,,,,,skiing,2021
+Lane Myshrall,XC,So.,,,"Park City, Utah",skiing,2021
+Alex Nemeth,XC,Jr.,,,"Sartell, Minn.",skiing,2021
+Preston O'Brien,ALP,So.,,,"Greenwood Village, Colo.",skiing,2021
 Jasmine Drolet,XC,So.,5' 4'',,"Rossland, British Columbia",skiing,2022
-Allie Resnick,ALP,So.,5' 4'',,"Vail, Colo.",skiing,2022
-Anja Grover,XC,Fy.,5' 5'',,"Hailey, Idaho",skiing,2022
-Hannah Chipman,XC,So.,5' 9'',,"Norwich, Vt.",skiing,2022
-Cooper Camp,XC,Fy.,6' 2'',,"Minneapolis, Minn.",skiing,2022
-Carly Elsinger,ALP,So.,5' 10'',,"Richmond, Vt.",skiing,2022
-Emma Resnick,ALP,Fy.,5' 4'',,"Vail, Colo.",skiing,2022
 Hunter Brayton,ALP,Sr.,5' 9'',,"Waterville Valley, N.H.",skiing,2022
+Emma Resnick,ALP,Fy.,5' 4'',,"Vail, Colo.",skiing,2022
+Carly Elsinger,ALP,So.,5' 10'',,"Richmond, Vt.",skiing,2022
+Allie Resnick,ALP,So.,5' 4'',,"Vail, Colo.",skiing,2022
+Hannah Chipman,XC,So.,5' 9'',,"Norwich, Vt.",skiing,2022
+Anja Grover,XC,Fy.,5' 5'',,"Hailey, Idaho",skiing,2022
 Emma Reeder,XC,So.,5' 7'',,"Avon, Colo.",skiing,2022
+Cooper Camp,XC,Fy.,6' 2'',,"Minneapolis, Minn.",skiing,2022
 Riley Grosdidier,ALP,Fy.,5' 5'',,"Wenatchee, Wash.",skiing,2022
-Olivia Holm,ALP,Jr.,5' 11'',,"Old Greenwich, Conn.",skiing,2022
+Bri Trudeau,ALP,Sr.,5' 4'',,"East Burke, Vt.",skiing,2022
 Luke Allan,XC,So.,5' 9'',,"Ottawa, Ontario",skiing,2022
 Nina Seemann,XC,So.,5' 6'',,"Wheelock, Vt.",skiing,2022
 Grace Zanni,XC,Fy.,,,"Steamboat Springs, Colo.",skiing,2022
-Bri Trudeau,ALP,Sr.,5' 4'',,"East Burke, Vt.",skiing,2022
 Sammi Trudeau,ALP,Fy.,5' 9'',,"East Burke, Vt.",skiing,2022
 Tatum Witter,XC,So.,,,"Anchorage, Alaska",skiing,2022
 Ava Thurston,XC,Fy.,5' 6'',,"Waterbury, Vt.",skiing,2022
 Gwen Wattenmaker,ALP,Sr.,5' 8'',,"Olympic Valley, Calif.",skiing,2022
 Garvee Tobin,XC,Jr.,5' 4'',,"Anchorage, Alaska",skiing,2022
+Olivia Holm,ALP,Jr.,5' 11'',,"Old Greenwich, Conn.",skiing,2022
+Alexa Elliff,ALP,Fy.,5' 8'',,"London, England",skiing,2022
+Jack Lange,XC,Fy.,,,"Lyme, N.H.",skiing,2022
+Louis Latulippe,ALP,So.,6' 1'',,"Quebec City, Quebec",skiing,2022
+Olof Hedelin,ALP,Jr.,5' 11'',,"Saltsjobaden, Sweden",skiing,2022
+John Steel Hagenbuch,XC,So.,6' 1'',,"Ketchum, Idaho",skiing,2022
+Asa Chalmers,XC,So.,6' 0'',,"Landgrove, Vt.",skiing,2022
+Aiden Casey,XC,So.,5' 11'',,"Craftsbury, Vt.",skiing,2022
+Kellen Kinsella,ALP,Sr.,5' 11'',,"Vail, Colo.",skiing,2022
+Max Martin,ALP,Jr.,5' 8'',,"Portsmouth, N.H.",skiing,2022
+Oliver Morgan,ALP,So.,5' 9'',,"Hanover, N.H.",skiing,2022
+Wally Magill,XC,So.,5' 7'',,"Steamboat Springs, Colo.",skiing,2022
+Dan Gillis,ALP,Fy.,5' 8'',,"East Burke, Vt.",skiing,2022
+Luc Golin,XC,5th,6' 0'',,"Hamel, Minn.",skiing,2022
+Cami Thompson,,,,,,skiing,2022
+Cooper Puckett,ALP,Fy.,6' 2'',,"Steamboat Springs, Colo.",skiing,2022
+Oscar Zimmer,ALP,Fy.,6' 1'',,"Oslo, Norway",skiing,2022
+Preston O'Brien,ALP,Jr.,6' 1'',,"Greenwood Village, Colo.",skiing,2022
+Jordan Simon,ALP,So.,5' 11'',,"Steamboat Springs, Colo.",skiing,2022
+Cameron Wolfe,XC,Sr.,6' 0'',,"Vail, Colo.",skiing,2022
+Lane Myshrall,XC,Jr.,5' 10'',,"Park City, Utah",skiing,2022
+Henrik Thorsby,ALP,Sr.,6' 2'',,"Oslo, Norway",skiing,2022
+Alex Nemeth,XC,Sr.,5' 11'',,"Sartell, Minn.",skiing,2022
+Allie Resnick,ALP,Jr.,5' 4'',,"Vail, Colo.",skiing,2023
+Carly Elsinger,ALP,Jr.,5' 10'',,"Richmond, Vt.",skiing,2023
+Riley Grosdidier,ALP,So.,5' 5'',,"Wenatchee, Wash.",skiing,2023
+Olivia Holm,ALP(C),Sr.,5' 11'',,"Old Greenwich, Conn.",skiing,2023
+Emma Reeder,XC(C),Jr.,5' 7'',,"Avon, Colo.",skiing,2023
+Emma Reynolds,ALP,Fy.,5' 3'',,"Sudbury, Mass.",skiing,2023
+Tatum Witter,XC,Jr.,5' 9'',,"Anchorage, Alaska",skiing,2023
+Garvee Tobin,XC,Sr.,5' 4'',,"Anchorage, Alaska",skiing,2023
+Grace Zanni,XC,So.,5' 6'',,"Steamboat Springs, Colo.",skiing,2023
+Evie Walton,XC,Fy.,5' 10'',,"Concord, Mass.",skiing,2023
+Mary Bocock,ALP,Fy.,5' 3'',,"Salt Lake City, Utah",skiing,2023
+Gwen Wattenmaker,ALP,5th,5' 8'',,"Olympic Valley, Calif.",skiing,2023
+Emma Resnick,ALP,So.,5' 4'',,"Vail, Colo.",skiing,2023
+Hannah Chipman,XC,Jr.,5' 9'',,"Norwich, Vt.",skiing,2023
+Nina Seemann,XC,Jr.,5' 6'',,"Wheelock, Vt.",skiing,2023
+Ava Thurston,XC,So.,5' 6'',,"Waterbury, Vt.",skiing,2023
+Jasmine Drolet,XC,Jr.,5' 4'',,"Rossland, British Columbia",skiing,2023
+Sammi Trudeau,ALP,So.,5' 9'',,"East Burke, Vt.",skiing,2023
+Amelia Tucker,XC,So.,5' 9'',,"Weston, Mass.",skiing,2023
+Alexa Elliff,ALP,So.,5' 8'',,"London, England",skiing,2023
+Izzy Washburn,ALP,Fy.,5' 6'',,"Steamboat Springs, Colo.",skiing,2023
+Anja Grover,XC,So.,5' 5'',,"Hailey, Idaho",skiing,2023
+Adele Horning,XC,Fy.,5' 6'',,"Leadville, Colo.",skiing,2023
 Jack Lange,XC,So.,5' 10'',,"Lyme, N.H.",skiing,2023
+Dustin Hay,XC,Fy.,5' 11'',,"North Vancouver, British Columbia",skiing,2023
 Asa Chalmers,XC,Jr.,6' 0'',,"Landgrove, Vt.",skiing,2023
 Dan Gillis,ALP,So.,5' 8'',,"East Burke, Vt.",skiing,2023
 John Steel Hagenbuch,XC,Jr.,6' 1'',,"Ketchum, Idaho",skiing,2023
 Olof Hedelin,ALP,Sr.,5' 11'',,"Saltsjobaden, Sweden",skiing,2023
 Wally Magill,XC,Jr.,5' 7'',,"Steamboat Springs, Colo.",skiing,2023
-Cami Thompson,,,,,,skiing,2023
 Lane Myshrall,XC,Sr.,5' 10'',,"Park City, Utah",skiing,2023
 Luke Allan,XC(C),Jr.,5' 9'',,"Ottawa, Ontario",skiing,2023
 Jordan Simon,ALP,Jr.,5' 11'',,"Steamboat Springs, Colo.",skiing,2023
 Zoe Zimmermann,ALP,So.,5' 8'',,"Gilford, N.H.",skiing,2023
-Cameron Wolfe,XC(C),5th,6' 0'',,"Vail, Colo.",skiing,2023
+Cami Thompson,,,,,,skiing,2023
 Oscar Zimmer,ALP,So.,6' 1'',,"Oslo, Norway",skiing,2023
 Benny Brown,ALP,Fy.,6' 1'',,"Park City, Utah",skiing,2023
 Max Martin,ALP,Sr.,5' 8'',,"Portsmouth, N.H.",skiing,2023
@@ -106,68 +129,19 @@ Preston O'Brien,ALP(C),Sr.,6' 1'',,"Greenwood Village, Colo.",skiing,2023
 Aaron Power,XC,Fy.,5' 8'',,"Anchorage, Alaska",skiing,2023
 Aiden Casey,XC,Jr.,5' 11'',,"Craftsbury, Vt.",skiing,2023
 Heming Sola,ALP,Fy.,6' 1'',,"Summerland, British Columbia",skiing,2023
+Cameron Wolfe,XC(C),5th,6' 0'',,"Vail, Colo.",skiing,2023
 Louis Latulippe,ALP,Jr.,6' 1'',,"Quebec City, Quebec",skiing,2023
-Dustin Hay,XC,Fy.,5' 11'',,"North Vancouver, British Columbia",skiing,2023
-Adele Horning,XC,Fy.,5' 6'',,"Leadville, Colo.",skiing,2023
-Anja Grover,XC,So.,5' 5'',,"Hailey, Idaho",skiing,2023
-Alexa Elliff,ALP,So.,5' 8'',,"London, England",skiing,2023
-Carly Elsinger,ALP,Jr.,5' 10'',,"Richmond, Vt.",skiing,2023
-Riley Grosdidier,ALP,So.,5' 5'',,"Wenatchee, Wash.",skiing,2023
-Olivia Holm,ALP(C),Sr.,5' 11'',,"Old Greenwich, Conn.",skiing,2023
-Emma Reeder,XC(C),Jr.,5' 7'',,"Avon, Colo.",skiing,2023
-Emma Reynolds,ALP,Fy.,5' 3'',,"Sudbury, Mass.",skiing,2023
-Tatum Witter,XC,Jr.,5' 9'',,"Anchorage, Alaska",skiing,2023
-Garvee Tobin,XC,Sr.,5' 4'',,"Anchorage, Alaska",skiing,2023
-Grace Zanni,XC,So.,5' 6'',,"Steamboat Springs, Colo.",skiing,2023
-Allie Resnick,ALP,Jr.,5' 4'',,"Vail, Colo.",skiing,2023
-Evie Walton,XC,Fy.,5' 10'',,"Concord, Mass.",skiing,2023
-Izzy Washburn,ALP,Fy.,5' 6'',,"Steamboat Springs, Colo.",skiing,2023
-Gwen Wattenmaker,ALP,5th,5' 8'',,"Olympic Valley, Calif.",skiing,2023
-Emma Resnick,ALP,So.,5' 4'',,"Vail, Colo.",skiing,2023
-Hannah Chipman,XC,Jr.,5' 9'',,"Norwich, Vt.",skiing,2023
-Nina Seemann,XC,Jr.,5' 6'',,"Wheelock, Vt.",skiing,2023
-Ava Thurston,XC,So.,5' 6'',,"Waterbury, Vt.",skiing,2023
-Jasmine Drolet,XC,Jr.,5' 4'',,"Rossland, British Columbia",skiing,2023
-Sammi Trudeau,ALP,So.,5' 9'',,"East Burke, Vt.",skiing,2023
-Amelia Tucker,XC,So.,5' 9'',,"Weston, Mass.",skiing,2023
-Mary Bocock,ALP,Fy.,5' 3'',,"Salt Lake City, Utah",skiing,2023
-Benny Brown,ALP,So.,6' 1'',,"Park City, Utah",skiing,2024
-Dustin Hay,XC,So.,5' 11'',,"North Vancouver, British Columbia",skiing,2024
-Dan Gillis,ALP,Jr.,5' 8'',,"East Burke, Vt.",skiing,2024
-Calum Langmuir,ALP,Fy.,5' 11'',,"Nethy Bridge, Scotland",skiing,2024
-Aidan Jacobus,XC,Fy.,5' 8'',,"Bend, Ore.",skiing,2024
-Cooper Camp,XC,Jr.,6' 2'',,"Minneapolis, Minn.",skiing,2024
-Louis Latulippe,ALP,Sr.,6' 1'',,"Quebec City, Quebec",skiing,2024
-Asa Chalmers,XC,Sr.,6' 0'',,"Landgrove, Vt.",skiing,2024
-Luke Allan,XC(C),Sr.,5' 9'',,"Ottawa, Ontario",skiing,2024
-Grace Zanni,XC,Jr.,5' 6'',,"Steamboat Springs, Colo.",skiing,2024
-Aiden Casey,XC,Sr.,5' 11'',,"Craftsbury, Vt.",skiing,2024
-Philip Lundquist,ALP,Fy.,5' 11'',,"Saltsjöbaden, Sweden",skiing,2024
-Jordan Simon,ALP,Sr.,5' 11'',,"Steamboat Springs, Colo.",skiing,2024
-Wally Magill,XC,Sr.,5' 7'',,"Steamboat Springs, Colo.",skiing,2024
-Oliver Morgan,ALP,Sr.,5' 9'',,"Hanover, N.H.",skiing,2024
-John Steel Hagenbuch,XC,Sr.,6' 1'',,"Ketchum, Idaho",skiing,2024
-Zoe Zimmermann,ALP,Jr.,5' 8'',,"Gilford, N.H.",skiing,2024
-Heming Sola,ALP,So.,6' 1'',,"Summerland, British Columbia",skiing,2024
-Oscar Zimmer,ALP,Jr.,6' 1'',,"Oslo, Norway",skiing,2024
-Aaron Power,XC,So.,5' 8'',,"Anchorage, Alaska",skiing,2024
-Jack Lange,XC,Jr.,5' 10'',,"Lyme, N.H.",skiing,2024
-Cami Thompson,,,,,,skiing,2024
-Henry Magill,XC,Fy.,5' 6'',,"Steamboat Springs, Colo.",skiing,2024
-Amelia Tucker,XC,Jr.,5' 9'',,"Weston, Mass.",skiing,2024
-Noémie Longchamps,ALP,Fy.,5' 6'',,"Montreal, Quebec",skiing,2024
-Anja Grover,XC,Jr.,5' 5'',,"Hailey, Idaho",skiing,2024
-Allie Resnick,ALP,Sr.,5' 4'',,"Vail, Colo.",skiing,2024
-Jasmine Drolet,XC,Sr.,5' 4'',,"Rossland, British Columbia",skiing,2024
-Stella Johansson,ALP,Fy.,5' 6'',,"Aspen, Colo.",skiing,2024
-Hannah Chipman,XC,Sr.,5' 9'',,"Norwich, Vt.",skiing,2024
-Riley Grosdidier,ALP,Jr.,5' 5'',,"Wenatchee, Wash.",skiing,2024
-Maeve Ingelfinger,XC,Fy.,5' 9'',,"Whitefish, Mont.",skiing,2024
-Alexa Elliff,ALP,Jr.,5' 8'',,"London, England",skiing,2024
 Tatum Witter,XC,Sr.,5' 9'',,"Anchorage, Alaska",skiing,2024
+Maeve Ingelfinger,XC,Fy.,5' 9'',,"Whitefish, Mont.",skiing,2024
+Riley Grosdidier,ALP,Jr.,5' 5'',,"Wenatchee, Wash.",skiing,2024
+Anja Grover,XC,Jr.,5' 5'',,"Hailey, Idaho",skiing,2024
+Stella Johansson,ALP,Fy.,5' 6'',,"Aspen, Colo.",skiing,2024
+Jasmine Drolet,XC,Sr.,5' 4'',,"Rossland, British Columbia",skiing,2024
+Allie Resnick,ALP,Sr.,5' 4'',,"Vail, Colo.",skiing,2024
 Carly Elsinger,ALP,Sr.,5' 10'',,"Richmond, Vt.",skiing,2024
+Hannah Chipman,XC,Sr.,5' 9'',,"Norwich, Vt.",skiing,2024
 Izzy Washburn,ALP,So.,5' 6'',,"Steamboat Springs, Colo.",skiing,2024
-Ella Snyder,ALP,Fy.,5' 7'',,"Silverthorne, Colo.",skiing,2024
+Alexa Elliff,ALP,Jr.,5' 8'',,"London, England",skiing,2024
 Emma Reeder,XC(C),Sr.,5' 7'',,"Avon, Colo.",skiing,2024
 Nina Seemann,XC,Sr.,5' 6'',,"Wheelock, Vt.",skiing,2024
 Sammi Trudeau,ALP,Jr.,5' 9'',,"East Burke, Vt.",skiing,2024
@@ -177,28 +151,33 @@ Virginia Cobb,XC,Fy.,5' 6'',,"Westford, Vt.",skiing,2024
 Emma Reynolds,ALP,So.,5' 3'',,"Sudbury, Mass.",skiing,2024
 Emma Resnick,ALP,Jr.,5' 4'',,"Vail, Colo.",skiing,2024
 Evie Walton,XC,So.,5' 10'',,"Concord, Mass.",skiing,2024
-Louis de Pourtales,ALP,Jr.,6' 1'',,"Oxford, United Kingdom",skiing,2025
-Dan Gillis,ALP,Sr.,5' 8'',,"East Burke, Vt.",skiing,2025
-John Steel Hagenbuch,XC,Sr.,6' 1'',,"Ketchum, Idaho",skiing,2025
-Grace Zanni,XC,Sr.,5' 6'',,"Steamboat Springs, Colo.",skiing,2025
-Zoe Zimmermann,ALP,Sr.,5' 8'',,"Gilford, N.H.",skiing,2025
-Benny Brown,ALP,Jr.,6' 1'',,"Park City, Utah",skiing,2025
-Micah Bruner,XC,Fy.,5' 10'',,"Londonderry, Vt.",skiing,2025
-Cooper Camp,XC,Sr.,6' 2'',,"Minneapolis, Minn.",skiing,2025
-Noémie Longchamps,ALP,So.,5' 6'',,"Montreal, Quebec",skiing,2025
-Dustin Hay,XC,Jr.,5' 11'',,"North Vancouver, British Columbia",skiing,2025
-Aidan Jacobus,XC,So.,5' 8'',,"Bend, Ore.",skiing,2025
-Jack Lange,XC,Sr.,5' 10'',,"Lyme, N.H.",skiing,2025
-Calum Langmuir,ALP,So.,5' 11'',,"Nethy Bridge, Scotland",skiing,2025
-Philip Lundquist,ALP,So.,5' 11'',,"Saltsjöbaden, Sweden",skiing,2025
-Henry Magill,XC,So.,5' 6'',,"Steamboat Springs, Colo.",skiing,2025
-Aaron Power,XC,Jr.,5' 8'',,"Anchorage, Alaska",skiing,2025
-Sawyer Reed,ALP,Fy.,5' 10'',,"Hingham, Mass.",skiing,2025
-Heming Sola,ALP,Jr.,6' 1'',,"Summerland, British Columbia",skiing,2025
-Evie Walton,XC,Jr.,5' 10'',,"Concord, Mass.",skiing,2025
-Sammi Trudeau,ALP,Sr.,5' 9'',,"East Burke, Vt.",skiing,2025
-Tory Hoffman,XC,Fy.,5' 9'',,"Park City, Utah",skiing,2025
-Amelia Tucker,XC,Sr.,5' 9'',,"Weston, Mass.",skiing,2025
+Noémie Longchamps,ALP,Fy.,5' 6'',,"Montreal, Quebec",skiing,2024
+Ella Snyder,ALP,Fy.,5' 7'',,"Silverthorne, Colo.",skiing,2024
+Amelia Tucker,XC,Jr.,5' 9'',,"Weston, Mass.",skiing,2024
+Cami Thompson,,,,,,skiing,2024
+Dustin Hay,XC,So.,5' 11'',,"North Vancouver, British Columbia",skiing,2024
+Benny Brown,ALP,So.,6' 1'',,"Park City, Utah",skiing,2024
+Henry Magill,XC,Fy.,5' 6'',,"Steamboat Springs, Colo.",skiing,2024
+Dan Gillis,ALP,Jr.,5' 8'',,"East Burke, Vt.",skiing,2024
+Calum Langmuir,ALP,Fy.,5' 11'',,"Nethy Bridge, Scotland",skiing,2024
+Aidan Jacobus,XC,Fy.,5' 8'',,"Bend, Ore.",skiing,2024
+Cooper Camp,XC,Jr.,6' 2'',,"Minneapolis, Minn.",skiing,2024
+Asa Chalmers,XC,Sr.,6' 0'',,"Landgrove, Vt.",skiing,2024
+Luke Allan,XC(C),Sr.,5' 9'',,"Ottawa, Ontario",skiing,2024
+Grace Zanni,XC,Jr.,5' 6'',,"Steamboat Springs, Colo.",skiing,2024
+Aiden Casey,XC,Sr.,5' 11'',,"Craftsbury, Vt.",skiing,2024
+Louis Latulippe,ALP,Sr.,6' 1'',,"Quebec City, Quebec",skiing,2024
+Jordan Simon,ALP,Sr.,5' 11'',,"Steamboat Springs, Colo.",skiing,2024
+Philip Lundquist,ALP,Fy.,5' 11'',,"Saltsjöbaden, Sweden",skiing,2024
+Aaron Power,XC,So.,5' 8'',,"Anchorage, Alaska",skiing,2024
+Oscar Zimmer,ALP,Jr.,6' 1'',,"Oslo, Norway",skiing,2024
+Heming Sola,ALP,So.,6' 1'',,"Summerland, British Columbia",skiing,2024
+Jack Lange,XC,Jr.,5' 10'',,"Lyme, N.H.",skiing,2024
+John Steel Hagenbuch,XC,Sr.,6' 1'',,"Ketchum, Idaho",skiing,2024
+Oliver Morgan,ALP,Sr.,5' 9'',,"Hanover, N.H.",skiing,2024
+Wally Magill,XC,Sr.,5' 7'',,"Steamboat Springs, Colo.",skiing,2024
+Zoe Zimmermann,ALP,Jr.,5' 8'',,"Gilford, N.H.",skiing,2024
+Anja Grover,XC,Sr.,5' 5'',,"Hailey, Idaho",skiing,2025
 Adele Horning,XC,Jr.,5' 6'',,"Leadville, Colo.",skiing,2025
 Maeve Ingelfinger,XC,So.,5' 9'',,"Whitefish, Mont.",skiing,2025
 Virginia Cobb,XC,So.,5' 6'',,"Westford, Vt.",skiing,2025
@@ -206,9 +185,8 @@ Alexa Elliff,ALP,Sr.,5' 8'',,"London, England",skiing,2025
 Carly Elsinger,ALP,Sr.,5' 10'',,"Richmond, Vt.",skiing,2025
 Annie Frohlich,ALP,So.,5' 11'',,"Seattle, Wash.",skiing,2025
 Riley Grosdidier,ALP,Sr.,5' 5'',,"Wenatchee, Wash.",skiing,2025
-Anja Grover,XC,Sr.,5' 5'',,"Hailey, Idaho",skiing,2025
 Izzy Washburn,ALP,Jr.,5' 6'',,"Steamboat Springs, Colo.",skiing,2025
-Oscar Zimmer,ALP,Sr.,6' 1'',,"Oslo, Norway",skiing,2025
+Amelia Tucker,XC,Sr.,5' 9'',,"Weston, Mass.",skiing,2025
 Beatrice May,ALP,Fy.,5' 4'',,"East Burke, Vt.",skiing,2025
 Caroline Menna,XC,Fy.,5' 7'',,"Leavenworth, Wash.",skiing,2025
 Emma Resnick,ALP,Sr.,5' 4'',,"Vail, Colo.",skiing,2025
@@ -217,5 +195,27 @@ Ava Schneider,XC,Fy.,5' 7'',,"Middlebury, Vt.",skiing,2025
 Ella Snyder,ALP,So.,5' 7'',,"Silverthorne, Colo.",skiing,2025
 Ava Thurston,XC,Sr.,5' 6'',,"Waterbury, Vt.",skiing,2025
 Helen Townley,XC,Fy.,5' 6'',,"Minneapolis, Minn.",skiing,2025
+Oscar Zimmer,ALP,Sr.,6' 1'',,"Oslo, Norway",skiing,2025
+Tory Hoffman,XC,Fy.,5' 9'',,"Park City, Utah",skiing,2025
 Stella Johansson,ALP,So.,5' 6'',,"Aspen, Colo.",skiing,2025
+Evie Walton,XC,Jr.,5' 10'',,"Concord, Mass.",skiing,2025
+Louis de Pourtales,ALP,Jr.,6' 1'',,"Oxford, United Kingdom",skiing,2025
+Dan Gillis,ALP,Sr.,5' 8'',,"East Burke, Vt.",skiing,2025
+John Steel Hagenbuch,XC,Sr.,6' 1'',,"Ketchum, Idaho",skiing,2025
+Grace Zanni,XC,Sr.,5' 6'',,"Steamboat Springs, Colo.",skiing,2025
+Zoe Zimmermann,ALP,Sr.,5' 8'',,"Gilford, N.H.",skiing,2025
+Benny Brown,ALP,Jr.,6' 1'',,"Park City, Utah",skiing,2025
+Micah Bruner,XC,Fy.,5' 10'',,"Londonderry, Vt.",skiing,2025
+Cooper Camp,XC,Sr.,6' 2'',,"Minneapolis, Minn.",skiing,2025
+Sammi Trudeau,ALP,Sr.,5' 9'',,"East Burke, Vt.",skiing,2025
+Noémie Longchamps,ALP,So.,5' 6'',,"Montreal, Quebec",skiing,2025
+Aidan Jacobus,XC,So.,5' 8'',,"Bend, Ore.",skiing,2025
+Jack Lange,XC,Sr.,5' 10'',,"Lyme, N.H.",skiing,2025
+Calum Langmuir,ALP,So.,5' 11'',,"Nethy Bridge, Scotland",skiing,2025
+Philip Lundquist,ALP,So.,5' 11'',,"Saltsjöbaden, Sweden",skiing,2025
+Henry Magill,XC,So.,5' 6'',,"Steamboat Springs, Colo.",skiing,2025
+Aaron Power,XC,Jr.,5' 8'',,"Anchorage, Alaska",skiing,2025
+Sawyer Reed,ALP,Fy.,5' 10'',,"Hingham, Mass.",skiing,2025
+Heming Sola,ALP,Jr.,6' 1'',,"Summerland, British Columbia",skiing,2025
+Dustin Hay,XC,Jr.,5' 11'',,"North Vancouver, British Columbia",skiing,2025
 John Dwyer,,,,,,skiing,2025
