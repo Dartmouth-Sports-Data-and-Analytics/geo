@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>About the roster map: Ivy League Roster Construction</title>
+<title>About the heat maps: Ivy League Roster Construction</title>
 <link rel="icon" href="data:," />
 <style>
   :root { --bg: #f4f5f7; --panel: #ffffff; --border: #dfe1e6; --text: #1a1d24; --dim: #6b7280; }
@@ -26,15 +26,15 @@
 </head>
 <body>
 <main>
-  <nav><a href="index.html">&larr; Roster map</a><a href="heatmaps.html">State heat maps</a></nav>
-  <h1>About the roster map</h1>
-  <p class="lede">Where Ivy League varsity athletes come from, one dot per person.</p>
+  <nav><a href="heatmaps.html">&larr; State heat maps</a><a href="index.html">Roster map</a></nav>
+  <h1>About the heat maps</h1>
+  <p class="lede">How many athletes each school draws from each state.</p>
 
   <section>
     <h2>The data</h2>
     <ul>
-      <li>One dot per person, from the eight schools' public roster pages, 2016-17 to now. Someone on two teams is one dot.</li>
-      <li>A season is the academic year: 2024 means 2024-25.</li>
+      <li>One US map per school, each state shaded by its number of athletes, from the eight schools' public roster pages, 2016-17 to now.</li>
+      <li>A season is the academic year: 2024 means 2024-25. Each person counts once per state; international athletes are totaled but not drawn.</li>
       <li><b>Cross Country, Track and Field and Sailing</b> combine the men's, women's and coed teams; every other sport stays separate.</li>
     </ul>
   </section>
@@ -45,16 +45,15 @@
       <li>School sites sometimes serve another season's roster; we drop seasons that copy one another.</li>
       <li><b>2020-21</b> is thin (many seasons were cancelled), and the <b>current season</b> is partial until winter and spring rosters are posted.</li>
       <li><b>Harvard men's rowing 2019-20</b> doesn't exist on the site, so it is left out.</li>
-      <li id="inferred"><b>Yale men's golf 2023-24:</b> the team page is blank, so the roster is rebuilt from the seasons either side (athletes on both rosters, juniors who likely finished as seniors, sophomores who likely started as first-years). It is a minimum. Marked * in popups.</li>
+      <li id="inferred"><b>Yale men's golf 2023-24:</b> the team page is blank, so the roster is rebuilt from the seasons either side (athletes on both rosters, juniors who likely finished as seniors, sophomores who likely started as first-years). It is a minimum. Included in Yale's counts.</li>
     </ul>
   </section>
 
   <section>
     <h2>Filters</h2>
     <ul>
-      <li><b>Schools:</b> none selected at first; <b>DHYP</b> selects Dartmouth, Harvard, Yale and Princeton. With one school on, Lines from campus links it to each hometown.</li>
-      <li><b>Years:</b> the latest 5 at first; Select all shows every season.</li>
-      <li><b>Regions</b> (with counts), <b>Sports</b> and a name search.</li>
+      <li><b>Seasons</b> (latest 5 at first), <b>Sports</b> and <b>Regions</b> combine; a school with no matching team shows a grey "No team" card.</li>
+      <li>Hover or tap a state for its count, share, rank and sports.</li>
     </ul>
   </section>
 </main>
