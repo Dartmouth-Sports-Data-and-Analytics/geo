@@ -9,13 +9,50 @@ const SCHOOL_COLORS = {
   Yale: "#00356B"
 };
 
+const CAMPUS = {
+  Brown: [41.8268, -71.4025],
+  Columbia: [40.8075, -73.9626],
+  Cornell: [42.4534, -76.4735],
+  Dartmouth: [43.7044, -72.2887],
+  Harvard: [42.3770, -71.1167],
+  Penn: [39.9522, -75.1932],
+  Princeton: [40.3431, -74.6551],
+  Yale: [41.3163, -72.9223]
+};
+
+const SPREAD_PX = 12;
+
+// Circle marker drawn at a fixed pixel offset from its true location, so athletes sharing a hometown fan out at every zoom.
+const SpreadMarker = L.CircleMarker.extend({
+  _project() {
+    L.CircleMarker.prototype._project.call(this);
+    if (this._dx || this._dy) {
+      this._point = this._point.add([this._dx, this._dy]);
+      this._updateBounds();
+    }
+  },
+  getDisplayLatLng() {
+    return this._map && this._point ? this._map.layerPointToLatLng(this._point) : this.getLatLng();
+  }
+});
+
+// Sunflower spiral: the first athlete sits on the hometown and the rest fan out around it.
+function spreadOffset(i) {
+  if (i === 0) return [0, 0];
+  const r = SPREAD_PX * Math.sqrt(i);
+  const a = i * 2.399963;
+  return [r * Math.cos(a), r * Math.sin(a)];
+}
+
 const state = {
   data: null,
   map: null,
   markers: [],
   activeSchools: new Set(Object.keys(SCHOOL_COLORS)),
   activeYears: null,
-  activeSports: null
+  activeSports: null,
+  activeRegions: null,
+  regionChips: null
 };
 
 function byId(id) { return document.getElementById(id); }
@@ -45,6 +82,11 @@ function buildMap() {
     noWrap: true
   }).addTo(map);
 
+  map.createPane("linesPane").style.zIndex = 380;
+  map.getPane("linesPane").style.pointerEvents = "none";
+  state.linesRenderer = L.canvas({ pane: "linesPane", padding: 0.5 });
+  state.lines = L.layerGroup().addTo(map);
+
   return map;
 }
 
@@ -60,10 +102,22 @@ function buildMarkers(map, data) {
       people.set(id, {
         lat: data.lat[i], lng: data.lng[i],
         name: data.name[i], school: data.school[i], hometown: data.hometown[i],
+        region: data.region ? data.region[i] : null,
         entries: []
       });
     }
     people.get(id).entries.push({ sport: data.sport[i], years: data.years[i] });
+  }
+
+  const groups = new Map();
+  for (const p of people.values()) {
+    const key = `${p.lat},${p.lng}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(p);
+  }
+  for (const g of groups.values()) {
+    g.sort((a, b) => (a.school + a.name).localeCompare(b.school + b.name));
+    g.forEach((p, i) => { [p.dx, p.dy] = spreadOffset(i); });
   }
 
   const markers = [];
@@ -80,7 +134,7 @@ function buildMarkers(map, data) {
     }));
     p.entries.sort((a, b) => a.sport.localeCompare(b.sport));
     const color = SCHOOL_COLORS[p.school] || "#888";
-    const marker = L.circleMarker([p.lat, p.lng], {
+    const marker = new SpreadMarker([p.lat, p.lng], {
       renderer,
       radius: 7,
       color,
@@ -90,7 +144,10 @@ function buildMarkers(map, data) {
       stroke: false
     });
 
+    marker._dx = p.dx;
+    marker._dy = p.dy;
     marker._school = p.school;
+    marker._region = p.region;
     marker._entries = p.entries;
     marker._name = p.name || "Unknown";
     marker._hometown = p.hometown || "";
@@ -131,16 +188,21 @@ function formatYearRanges(years) {
 
 // Hidden markers are removed from the map (not made transparent) so they can't be clicked.
 function applyFilters() {
-  const { activeSchools, activeSports, activeYears, map } = state;
+  const { activeSchools, activeSports, activeYears, activeRegions, map } = state;
   let visible = 0;
+  const shown = [];
+  const regionCounts = {};
 
   for (const m of state.markers) {
-    const show = activeSchools.has(m._school) &&
+    const base = activeSchools.has(m._school) &&
                  m._entries.some((e) =>
                    activeSports.has(e.sport) && e.years.some((y) => activeYears.has(y)));
+    if (base && m._region) regionCounts[m._region] = (regionCounts[m._region] || 0) + 1;
+    const show = base && (!activeRegions || activeRegions.has(m._region));
     if (show) {
       if (!map.hasLayer(m)) m.addTo(map);
       visible++;
+      shown.push(m);
     } else if (map.hasLayer(m)) {
       m.closePopup();
       map.removeLayer(m);
@@ -148,6 +210,26 @@ function applyFilters() {
   }
 
   byId("count").textContent = visible.toLocaleString();
+  updateRegionCounts(regionCounts);
+  updateLines(shown);
+}
+
+// Lines from campus to every shown hometown; only drawn when the toggle is on and exactly one school is active.
+function updateLines(shown) {
+  const toggle = byId("linesToggle");
+  if (!toggle || !state.lines) return;
+  state.lines.clearLayers();
+  const single = state.activeSchools.size === 1 ? [...state.activeSchools][0] : null;
+  byId("linesHint").textContent = toggle.checked && !single ? "Select exactly one school to show lines." : "";
+  if (!toggle.checked || !single || !CAMPUS[single]) return;
+
+  const color = SCHOOL_COLORS[single];
+  const style = { renderer: state.linesRenderer, color, weight: 1, opacity: 0.3, interactive: false };
+  for (const m of shown) L.polyline([CAMPUS[single], m.getLatLng()], style).addTo(state.lines);
+  L.circleMarker(CAMPUS[single], {
+    renderer: state.linesRenderer, radius: 6, color: "#fff", weight: 2,
+    fillColor: color, fillOpacity: 1, interactive: false
+  }).addTo(state.lines);
 }
 
 function buildSchoolControls(data) {
@@ -228,6 +310,48 @@ function buildYearChips(data) {
   }
 }
 
+// Region chips show how many people each region has under the other filters; toggling one filters the map to it.
+function buildRegionChips(data) {
+  const row = byId("regionRow");
+  const regions = data.region ? (data.region_order || Array.from(new Set(data.region))) : [];
+  byId("regionSection").style.display = regions.length ? "" : "none";
+  state.activeRegions = regions.length ? new Set(regions) : null;
+  state.regionChips = new Map();
+  row.innerHTML = "";
+
+  for (const region of regions) {
+    const chip = document.createElement("div");
+    chip.className = "year-chip";
+    chip.textContent = region;
+    chip.addEventListener("click", () => {
+      if (state.activeRegions.has(region)) {
+        state.activeRegions.delete(region);
+        chip.classList.add("off");
+      } else {
+        state.activeRegions.add(region);
+        chip.classList.remove("off");
+      }
+      applyFilters();
+    });
+    row.appendChild(chip);
+    state.regionChips.set(region, chip);
+  }
+
+  state.setAllRegions = (active) => {
+    if (!state.activeRegions) return;
+    state.activeRegions = new Set(active ? regions : []);
+    state.regionChips.forEach((chip) => chip.classList.toggle("off", !active));
+    applyFilters();
+  };
+}
+
+function updateRegionCounts(counts) {
+  if (!state.regionChips) return;
+  state.regionChips.forEach((chip, region) => {
+    chip.textContent = `${region} \u00b7 ${(counts[region] || 0).toLocaleString()}`;
+  });
+}
+
 function buildSportList(data) {
   const list = byId("sportList");
   const sports = Array.from(new Set(data.sport)).sort();
@@ -260,7 +384,7 @@ function buildSearch() {
   function goTo(m) {
     if (!state.map.hasLayer(m)) m.addTo(state.map);
     state.map.setView(m.getLatLng(), Math.max(state.map.getZoom(), 8), { animate: false });
-    m.openPopup();
+    m.openPopup(m.getDisplayLatLng());
     input.value = m._name;
     results.innerHTML = "";
   }
@@ -308,8 +432,12 @@ function wireActions() {
     byId("filterPanel").classList.toggle("open");
   });
 
+  byId("linesToggle").addEventListener("change", applyFilters);
+
   byId("selectAllSchools").addEventListener("click", () => state.setAllSchools(true));
   byId("clearAllSchools").addEventListener("click", () => state.setAllSchools(false));
+  byId("selectAllRegions").addEventListener("click", () => state.setAllRegions(true));
+  byId("clearAllRegions").addEventListener("click", () => state.setAllRegions(false));
   byId("selectAllYears").addEventListener("click", () => state.setAllYears(true));
   byId("clearAllYears").addEventListener("click", () => state.setAllYears(false));
 
@@ -336,6 +464,7 @@ async function main() {
 
   buildSchoolControls(data);
   buildYearChips(data);
+  buildRegionChips(data);
   buildSportList(data);
   buildSearch();
   wireActions();

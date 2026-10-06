@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Ivy League Athletics Roster Map</title>
+<title>Ivy League Roster Construction</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
 <link rel="stylesheet" href="style.css" />
 </head>
@@ -12,7 +12,7 @@
   <div id="map"></div>
 
   <div id="header">
-    <h1>Where Ivy League athletes come from</h1>
+    <h1>Ivy League Roster Construction</h1>
     <p><span id="count">0</span> players shown</p>
   </div>
 
@@ -44,6 +44,21 @@
       <div class="year-row" id="yearRow"></div>
     </div>
 
+    <div class="filter-section" id="regionSection">
+      <h3>Regions</h3>
+      <div class="filter-actions spaced">
+        <button class="link-btn" id="selectAllRegions">Select all</button>
+        <button class="link-btn" id="clearAllRegions">Clear all</button>
+      </div>
+      <div class="year-row" id="regionRow"></div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Map</h3>
+      <label class="sport-row"><input type="checkbox" id="linesToggle"> Lines from campus</label>
+      <div class="hint" id="linesHint"></div>
+    </div>
+
     <div class="filter-section">
       <h3>Sports</h3>
       <div class="filter-actions">
@@ -58,6 +73,6 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="app.js?v=17"></script>
+<script src="app.js?v=19"></script>
 </body>
 </html>

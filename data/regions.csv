@@ -1,0 +1,52 @@
+state,region
+CA,CA / TX / FL
+TX,CA / TX / FL
+FL,CA / TX / FL
+CT,New England
+ME,New England
+MA,New England
+NH,New England
+RI,New England
+VT,New England
+NY,Mid-Atlantic
+NJ,Mid-Atlantic
+PA,Mid-Atlantic
+DE,Mid-Atlantic
+MD,Mid-Atlantic
+DC,Mid-Atlantic
+VA,Mid-Atlantic
+NC,Southeast
+SC,Southeast
+GA,Southeast
+AL,Southeast
+MS,Southeast
+TN,Southeast
+KY,Southeast
+WV,Southeast
+LA,Southeast
+AR,Southeast
+OH,Midwest
+MI,Midwest
+IN,Midwest
+IL,Midwest
+WI,Midwest
+MN,Midwest
+IA,Midwest
+MO,Midwest
+ND,Midwest
+SD,Midwest
+NE,Midwest
+KS,Midwest
+AZ,Mountain West & Southwest
+NM,Mountain West & Southwest
+CO,Mountain West & Southwest
+UT,Mountain West & Southwest
+NV,Mountain West & Southwest
+ID,Mountain West & Southwest
+MT,Mountain West & Southwest
+WY,Mountain West & Southwest
+OK,Mountain West & Southwest
+WA,Northwest & Pacific
+OR,Northwest & Pacific
+AK,Northwest & Pacific
+HI,Northwest & Pacific

@@ -12,6 +12,9 @@ DATA_DIR = os.path.join(ROOT_DIR, "data")
 GEO_DIR = os.path.join(DATA_DIR, "geo-rosters")
 REF_PATH = os.path.join(DATA_DIR, "sport_page_reference.xlsx")
 OUT_PATH = os.path.join(ROOT_DIR, "docs", "data.json")
+REGIONS_PATH = os.path.join(DATA_DIR, "regions.csv")
+FIXES_PATH = os.path.join(DATA_DIR, "hometown_fixes.csv")
+OTHER_REGION = "International / Other"
 
 
 # Trims ends and collapses all whitespace (incl. non-breaking spaces); NaN stays NaN.
@@ -155,7 +158,74 @@ def assign_person_ids(athletes):
     return athletes
 
 
-def build_payload(athletes):
+# Letters-only lowercase spellings (full names, AP and USPS abbreviations, and spellings seen in the rosters) -> USPS code.
+_STATE_NAMES = {
+    "AL": "alabama ala al", "AK": "alaska ak", "AZ": "arizona ariz az ari", "AR": "arkansas ark ar",
+    "CA": "california calif ca calf cal", "CO": "colorado colo co", "CT": "connecticut conn ct",
+    "DE": "delaware del de", "DC": "districtofcolumbia dc", "FL": "florida fla fl", "GA": "georgia ga",
+    "HI": "hawaii hi", "ID": "idaho ida id", "IL": "illinois ill il", "IN": "indiana ind in", "IA": "iowa ia",
+    "KS": "kansas kan kans ks", "KY": "kentucky ky", "LA": "louisiana la", "ME": "maine me",
+    "MD": "maryland md", "MA": "massachusetts mass ma", "MI": "michigan mich mi", "MN": "minnesota minn mn",
+    "MS": "mississippi miss ms", "MO": "missouri mo", "MT": "montana mont mt", "NE": "nebraska neb nebr ne",
+    "NV": "nevada nev nv", "NH": "newhampshire nh", "NJ": "newjersey nj", "NM": "newmexico nm",
+    "NY": "newyork ny", "NC": "northcarolina nc", "ND": "northdakota nd", "OH": "ohio oh",
+    "OK": "oklahoma okla ok", "OR": "oregon ore or", "PA": "pennsylvania penn pa", "RI": "rhodeisland ri",
+    "SC": "southcarolina sc", "SD": "southdakota sd", "TN": "tennessee tenn tn", "TX": "texas tex tx",
+    "UT": "utah ut", "VT": "vermont vt", "VA": "virginia vir va", "WA": "washington wash wa",
+    "WV": "westvirginia wva wv", "WI": "wisconsin wis wisc wi", "WY": "wyoming wyo wy",
+}
+_STATE_LOOKUP = {name: code for code, names in _STATE_NAMES.items() for name in names.split()}
+
+
+def load_fixes():
+    if not os.path.exists(FIXES_PATH):
+        return {}
+    df = pd.read_csv(FIXES_PATH).dropna(subset=["hometown", "corrected"])
+    return dict(zip(df["hometown"], df["corrected"]))
+
+
+# State code from the last comma-separated part of the hometown (after hand fixes); None means not a recognizable US state.
+def us_state(hometown, fixes):
+    s = fixes.get(hometown, hometown)
+    s = re.sub(r"\s*\([^)]*\)", "", s)
+    s = re.split(r"\s*/\s*|\s+&\s+", s)[0]
+    parts = [p.strip() for p in s.split(",") if p.strip()]
+    while parts and re.sub(r"[^a-z]", "", parts[-1].lower()) in ("usa", "us", "unitedstates", "unitedstatesofamerica"):
+        parts.pop()
+    if len(parts) < 2:
+        return None
+    return _STATE_LOOKUP.get(re.sub(r"[^a-z]", "", parts[-1].lower()))
+
+
+def load_region_map():
+    if not os.path.exists(REGIONS_PATH):
+        raise FileNotFoundError(f"Missing {REGIONS_PATH} (columns: state, region)")
+    df = pd.read_csv(REGIONS_PATH)
+    return dict(zip(df["state"], df["region"])), list(dict.fromkeys(df["region"]))
+
+
+# Adds a region per athlete (from data/regions.csv) and prints a summary plus the most common unrecognized hometowns.
+def add_regions(athletes):
+    fixes = load_fixes()
+    state_region, order = load_region_map()
+    region_of = {h: state_region.get(us_state(h, fixes), OTHER_REGION) for h in athletes["hometown"].unique()}
+    athletes = athletes.copy()
+    athletes["region"] = athletes["hometown"].map(region_of)
+
+    people = athletes.drop_duplicates("person")
+    counts = people["region"].value_counts()
+    print("\nPeople by region:")
+    for region in order + [OTHER_REGION]:
+        print(f"  {region}: {int(counts.get(region, 0))}")
+    other = people[people["region"] == OTHER_REGION]["hometown"].value_counts().head(15)
+    if len(other):
+        print("Most common hometowns in International / Other (check for US towns that failed to parse):")
+        print(other.to_string())
+    print()
+    return athletes, order + [OTHER_REGION]
+
+
+def build_payload(athletes, region_order):
     return {
         "person": athletes["person"].astype(int).tolist(),
         "lat": athletes["latitude"].tolist(),
@@ -165,6 +235,8 @@ def build_payload(athletes):
         "sport": athletes["sport"].tolist(),
         "years": athletes["years"].tolist(),
         "hometown": athletes["hometown"].tolist(),
+        "region": athletes["region"].tolist(),
+        "region_order": region_order,
     }
 
 
@@ -175,7 +247,8 @@ def build_data_json():
     athletes = collapse_to_athletes(all_data)
     report_long_careers(athletes)
     athletes = assign_person_ids(athletes)
-    payload = build_payload(athletes)
+    athletes, region_order = add_regions(athletes)
+    payload = build_payload(athletes, region_order)
 
     with open(OUT_PATH, "w") as f:
         json.dump(payload, f, separators=(",", ":"))
