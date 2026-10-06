@@ -25,6 +25,7 @@ docs/       The website, published by GitHub Pages
 | `pipeline/run_pipeline.py` | Runs the four steps below in order |
 | `pipeline/discover_sports.py` | Finds which school + sport pages exist and the working URL for each |
 | `pipeline/pull_rosters.py` | Downloads each season's roster, drops stale or copied seasons |
+| `pipeline/infer_seasons.py` | Rebuilds a season whose team page is blank on the site (Yale men's golf 2023-24) from the seasons either side; lists who it added in `data/_inferred_seasons.csv` |
 | `pipeline/geocode_rosters.py` | Turns hometowns into coordinates (OpenStreetMap Nominatim), with a cache |
 | `pipeline/build_data_json.py` | Merges everything into `docs/data.json`, one entry per athlete per sport |
 | `pipeline/config.py` | Paths, school list and seasons, and loaders for the hand-edited input files |
@@ -53,7 +54,7 @@ python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
 
 cd pipeline
-python run_pipeline.py                         # discover -> pull -> geocode -> build
+python run_pipeline.py                         # discover -> pull -> infer -> geocode -> build
 python run_pipeline.py --only pull             # one step
 python run_pipeline.py --refresh baseball      # refetch every season of a sport
 python geocode_rosters.py --retry-failed       # retry hometowns with no match

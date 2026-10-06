@@ -1,4 +1,4 @@
-"""run_pipeline.py — runs discover -> pull -> geocode -> build_data_json in order, stopping if a step fails."""
+"""run_pipeline.py — runs discover -> pull -> infer -> geocode -> build_data_json in order, stopping if a step fails."""
 import argparse
 import os
 import subprocess
@@ -9,6 +9,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STEPS = {
     "discover": "discover_sports.py",
     "pull": "pull_rosters.py",
+    "infer": "infer_seasons.py",
     "geocode": "geocode_rosters.py",
     "build_data_json": "build_data_json.py",
 }
@@ -38,7 +39,7 @@ def step_args(step, args):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Run discover, pull, geocode and build_data_json in sequence.")
+    parser = argparse.ArgumentParser(description="Run discover, pull, infer, geocode and build_data_json in sequence.")
     parser.add_argument("--only", choices=list(STEPS), default=None, help="Run just one step.")
     parser.add_argument("--recheck", metavar="SCHOOL,SPORT_PAGE", default=None,
                         help="Diagnose one combo with discover_sports.py --recheck (runs only that step).")

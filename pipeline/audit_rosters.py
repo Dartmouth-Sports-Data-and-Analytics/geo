@@ -1,6 +1,10 @@
-"""audit_rosters.py — read-only check for seasons that carry last year's seniors forward as grad-labeled athletes."""
+"""audit_rosters.py — read-only check for seasons that carry last year's seniors forward as grad-labeled athletes.
+
+Everything it prints is also saved to data/_audit_report.txt (overwritten each run)."""
+import datetime
 import glob
 import os
+import sys
 
 import pandas as pd
 
@@ -9,6 +13,21 @@ from roster_data import class_rank
 from site_rules import KNOWN_MISSING_SEASONS
 
 OUT_PATH = os.path.join(config.DATA_DIR, "_class_audit.csv")
+REPORT_PATH = os.path.join(config.DATA_DIR, "_audit_report.txt")
+
+
+# Copies everything printed to the report file as well as the terminal.
+class Tee:
+    def __init__(self, *streams):
+        self.streams = streams
+
+    def write(self, text):
+        for s in self.streams:
+            s.write(text)
+
+    def flush(self):
+        for s in self.streams:
+            s.flush()
 
 
 def load_rosters():
@@ -111,7 +130,7 @@ def class_advancement(df, min_returning=6, threshold=0.5):
         print(f"  ... and {len(bad) - 30} more in data/_class_advancement.csv")
 
 
-def main():
+def run():
     df = load_rosters()
     out = audit(df)
     out.to_csv(OUT_PATH, index=False)
@@ -144,6 +163,18 @@ def main():
     if len(unknown):
         print("\nClass labels not recognized (top 10):")
         print(unknown.to_string())
+
+
+def main():
+    with open(REPORT_PATH, "w", encoding="utf-8") as report:
+        report.write(f"Audit run {datetime.datetime.now():%Y-%m-%d %H:%M}\n\n")
+        terminal = sys.stdout
+        sys.stdout = Tee(terminal, report)
+        try:
+            run()
+        finally:
+            sys.stdout = terminal
+    print(f"\nReport saved to {REPORT_PATH}")
 
 
 if __name__ == "__main__":

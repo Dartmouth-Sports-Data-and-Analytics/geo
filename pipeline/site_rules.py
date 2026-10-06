@@ -98,6 +98,7 @@ SCHOOL_FORM_THROUGH = {
 
 # Seasons with no fetchable roster page, so they are never requested.
 KNOWN_MISSING_SEASONS = {
+    # The team page is blank on the site (the players have individual pages), so infer_seasons.py rebuilds this season from 2022 and 2024.
     ("Yale", "mens-golf", 2023),
     ("Harvard", "mens-rowing", 2019),  # the site serves the current roster for this season, so there is no real page
 }
