@@ -20,6 +20,9 @@ function spreadOffset(i) {
   return [r * Math.cos(a), r * Math.sin(a)];
 }
 
+// Quick-select groups of schools (Dartmouth, Harvard, Yale, Princeton).
+const SCHOOL_GROUPS = { DHYP: ["Dartmouth", "Harvard", "Yale", "Princeton"] };
+
 const state = {
   map: null,
   markers: [],
@@ -207,6 +210,11 @@ function buildSchoolControls() {
     for (const school of schools) setActive(school, active, false);
     applyFilters();
   };
+  // Exactly these schools on, everything else off.
+  state.setSchoolGroup = (group) => {
+    for (const school of schools) setActive(school, group.includes(school), false);
+    applyFilters();
+  };
 
   for (const school of schools) {
     const color = SCHOOL_COLORS[school];
@@ -237,6 +245,14 @@ function buildSchoolControls() {
     action.className = "link-btn";
     action.textContent = label;
     action.addEventListener("click", () => state.setAllSchools(active));
+    bar.appendChild(action);
+  }
+  for (const [name, group] of Object.entries(SCHOOL_GROUPS)) {
+    const action = document.createElement("button");
+    action.className = "link-btn";
+    action.textContent = name;
+    action.title = group.join(", ");
+    action.addEventListener("click", () => state.setSchoolGroup(group));
     bar.appendChild(action);
   }
 }
@@ -373,6 +389,7 @@ function wireActions() {
   byId("filterToggle").addEventListener("click", () => byId("filterPanel").classList.toggle("open"));
   byId("linesToggle").addEventListener("change", applyFilters);
 
+  byId("groupDHYP").addEventListener("click", () => state.setSchoolGroup(SCHOOL_GROUPS.DHYP));
   byId("latest5Years").addEventListener("click", () => state.setLatestYears(5));
   byId("latest10Years").addEventListener("click", () => state.setLatestYears(10));
 
