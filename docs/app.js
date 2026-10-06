@@ -20,13 +20,32 @@ const CAMPUS = {
   Yale: [41.3163, -72.9223]
 };
 
-const SPREAD_PX = 4;
+// Degrees between neighbors who share a hometown (about 4px at zoom 8). It is fixed on the map, so zooming in spreads them out.
+const SPREAD_DEG = 0.022;
 
-// Heat map tuning: radius/blur in pixels; max is how many athletes per cell give full color; minOpacity floors a lone athlete.
-const HEAT = { radius: 22, blur: 18, max: 10, maxZoom: 6, minOpacity: 0.2 };
+// Sunflower spiral in degrees: the first athlete sits on the hometown and the rest fan out around it.
+function spreadOffset(i) {
+  if (i === 0) return [0, 0];
+  const r = SPREAD_DEG * Math.sqrt(i);
+  const a = i * 2.399963;
+  return [r * Math.cos(a), r * Math.sin(a)];
+}
 
-// US state outlines (docs/us-states.json), drawn only in heat map mode.
-const STATE_BORDER = { color: "#4b5563", weight: 1.6, opacity: 0.8 };
+// Heat map = US state shading by player count; outline style for the states.
+const STATE_STYLE = { color: "#4b5563", weight: 1.2, opacity: 0.85 };
+
+const STATE_CODES = {
+  "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA", "Colorado": "CO",
+  "Connecticut": "CT", "Delaware": "DE", "District of Columbia": "DC", "Florida": "FL", "Georgia": "GA",
+  "Hawaii": "HI", "Idaho": "ID", "Illinois": "IL", "Indiana": "IN", "Iowa": "IA", "Kansas": "KS",
+  "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD", "Massachusetts": "MA",
+  "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS", "Missouri": "MO", "Montana": "MT",
+  "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ", "New Mexico": "NM",
+  "New York": "NY", "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH", "Oklahoma": "OK",
+  "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI", "South Carolina": "SC", "South Dakota": "SD",
+  "Tennessee": "TN", "Texas": "TX", "Utah": "UT", "Vermont": "VT", "Virginia": "VA", "Washington": "WA",
+  "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY"
+};
 
 function mixColor(a, b, t) {
   const rgb = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
@@ -34,26 +53,10 @@ function mixColor(a, b, t) {
   return `rgb(${x.map((v, i) => Math.round(v + (y[i] - v) * t)).join(",")})`;
 }
 
-// Circle marker drawn at a fixed pixel offset from its true location, so athletes sharing a hometown fan out at every zoom.
-const SpreadMarker = L.CircleMarker.extend({
-  _project() {
-    L.CircleMarker.prototype._project.call(this);
-    if (this._dx || this._dy) {
-      this._point = this._point.add([this._dx, this._dy]);
-      this._updateBounds();
-    }
-  },
-  getDisplayLatLng() {
-    return this._map && this._point ? this._map.layerPointToLatLng(this._point) : this.getLatLng();
-  }
-});
-
-// Sunflower spiral: the first athlete sits on the hometown and the rest fan out around it.
-function spreadOffset(i) {
-  if (i === 0) return [0, 0];
-  const r = SPREAD_PX * Math.sqrt(i);
-  const a = i * 2.399963;
-  return [r * Math.cos(a), r * Math.sin(a)];
+// Light tint -> the school's color (at 75% of the scale) -> a darker shade, so busy states stand out.
+function rampColor(hex, t) {
+  if (t <= 0.75) return mixColor(hex, "#ffffff", 0.85 * (1 - t / 0.75));
+  return mixColor(hex, "#000000", 0.3 * (t - 0.75) / 0.25);
 }
 
 const state = {
@@ -66,8 +69,9 @@ const state = {
   activeRegions: null,
   regionChips: null,
   viewMode: "dots",
-  heatLayers: [],
-  borders: null,
+  statesLayer: null,
+  stateLayers: {},
+  legend: null,
   schoolsBeforeHeat: null
 };
 
@@ -98,8 +102,7 @@ function buildMap() {
     noWrap: true
   }).addTo(map);
 
-  map.createPane("bordersPane").style.zIndex = 370;
-  map.getPane("bordersPane").style.pointerEvents = "none";
+  map.createPane("statesPane").style.zIndex = 360;
   map.createPane("linesPane").style.zIndex = 380;
   map.getPane("linesPane").style.pointerEvents = "none";
   state.linesRenderer = L.canvas({ pane: "linesPane", padding: 0.5 });
@@ -121,6 +124,7 @@ function buildMarkers(map, data) {
         lat: data.lat[i], lng: data.lng[i],
         name: data.name[i], school: data.school[i], hometown: data.hometown[i],
         region: data.region ? data.region[i] : null,
+        state: data.state ? data.state[i] : null,
         entries: []
       });
     }
@@ -135,7 +139,11 @@ function buildMarkers(map, data) {
   }
   for (const g of groups.values()) {
     g.sort((a, b) => (a.school + a.name).localeCompare(b.school + b.name));
-    g.forEach((p, i) => { [p.dx, p.dy] = spreadOffset(i); });
+    g.forEach((p, i) => {
+      const [dx, dy] = spreadOffset(i);
+      p.dispLat = p.lat + dy;
+      p.dispLng = p.lng + dx / Math.cos((p.lat * Math.PI) / 180);
+    });
   }
 
   const markers = [];
@@ -152,7 +160,7 @@ function buildMarkers(map, data) {
     }));
     p.entries.sort((a, b) => a.sport.localeCompare(b.sport));
     const color = SCHOOL_COLORS[p.school] || "#888";
-    const marker = new SpreadMarker([p.lat, p.lng], {
+    const marker = L.circleMarker([p.dispLat, p.dispLng], {
       renderer,
       radius: 7,
       color,
@@ -162,10 +170,9 @@ function buildMarkers(map, data) {
       stroke: false
     });
 
-    marker._dx = p.dx;
-    marker._dy = p.dy;
     marker._school = p.school;
     marker._region = p.region;
+    marker._state = p.state;
     marker._entries = p.entries;
     marker._name = p.name || "Unknown";
     marker._hometown = p.hometown || "";
@@ -235,24 +242,39 @@ function applyFilters() {
   updateLines(shown);
 }
 
-// One heat layer per school in its own color, built from the people passing the current filters.
+// Shades each US state by how many people (from the filtered set) come from it; non-US hometowns aren't shown.
 function updateHeat(shown) {
-  state.heatLayers.forEach((layer) => state.map.removeLayer(layer));
-  state.heatLayers = [];
-  if (state.viewMode !== "heat" || typeof L.heatLayer !== "function") return;
+  if (!state.statesLayer) return;
+  const heat = state.viewMode === "heat";
+  if (!heat) {
+    if (state.legend && state.legend._map) state.legend.remove();
+    return;
+  }
 
-  const bySchool = new Map();
-  for (const m of shown) {
-    if (!bySchool.has(m._school)) bySchool.set(m._school, []);
-    const ll = m.getLatLng();
-    bySchool.get(m._school).push([ll.lat, ll.lng]);
+  const counts = {};
+  for (const m of shown) if (m._state) counts[m._state] = (counts[m._state] || 0) + 1;
+  const max = Math.max(0, ...Object.values(counts));
+  const schools = new Set(shown.map((m) => m._school));
+  const color = schools.size === 1 ? SCHOOL_COLORS[[...schools][0]] : "#374151";
+
+  for (const [name, layer] of Object.entries(state.stateLayers)) {
+    const n = counts[STATE_CODES[name]] || 0;
+    layer.setStyle(n === 0
+      ? { ...STATE_STYLE, fillColor: "#e5e7eb", fillOpacity: 0.25 }
+      : { ...STATE_STYLE, fillColor: rampColor(color, Math.sqrt(n / max)), fillOpacity: 0.9 });
+    layer.setTooltipContent(`${name}: ${n.toLocaleString()} ${n === 1 ? "player" : "players"}`);
   }
-  for (const [school, points] of bySchool) {
-    const color = SCHOOL_COLORS[school] || "#888888";
-    const gradient = { 0.2: mixColor(color, "#ffffff", 0.5), 0.6: color, 1: mixColor(color, "#000000", 0.35) };
-    const layer = L.heatLayer(points, { ...HEAT, gradient }).addTo(state.map);
-    state.heatLayers.push(layer);
-  }
+  updateLegend(color, max);
+}
+
+function updateLegend(color, max) {
+  if (!state.legend) return;
+  if (!state.legend._map) state.legend.addTo(state.map);
+  const bar = `linear-gradient(to right, ${rampColor(color, 0)}, ${rampColor(color, 0.75)}, ${rampColor(color, 1)})`;
+  state.legend.getContainer().innerHTML =
+    `<div class="legend-title">Players from each state</div>` +
+    `<div class="legend-bar" style="background:${bar}"></div>` +
+    `<div class="legend-scale"><span>1</span><span>${max.toLocaleString()}</span></div>`;
 }
 
 // Entering heat mode keeps one school (the first selected) and remembers the rest; leaving restores them.
@@ -267,7 +289,7 @@ function setViewMode(mode) {
   byId("schoolActions").style.display = heat ? "none" : "";
   byId("schoolHint").textContent = heat ? "The heat map shows one school at a time." : "";
   state.map.closePopup();
-  syncBorders();
+  syncStates();
 
   const all = Object.keys(SCHOOL_COLORS);
   if (heat && !wasHeat) {
@@ -280,26 +302,34 @@ function setViewMode(mode) {
   }
 }
 
-function syncBorders() {
-  if (!state.borders || !state.map) return;
+function syncStates() {
+  if (!state.statesLayer || !state.map) return;
   const wanted = state.viewMode === "heat";
-  if (wanted && !state.map.hasLayer(state.borders)) state.borders.addTo(state.map);
-  if (!wanted && state.map.hasLayer(state.borders)) state.map.removeLayer(state.borders);
+  if (wanted && !state.map.hasLayer(state.statesLayer)) state.statesLayer.addTo(state.map);
+  if (!wanted && state.map.hasLayer(state.statesLayer)) state.map.removeLayer(state.statesLayer);
 }
 
-async function addStateBorders(map) {
+// Loads docs/us-states.json; the heat map button only appears once it and per-person state data are available.
+async function loadStates(map, data) {
   try {
-    const res = await fetch("us-states.json?v=22");
+    if (!data.state) return;
+    const res = await fetch("us-states.json?v=24");
     if (!res.ok) return;
-    state.borders = L.geoJSON(await res.json(), {
-      pane: "bordersPane",
-      renderer: L.canvas({ pane: "bordersPane" }),
-      interactive: false,
-      style: { ...STATE_BORDER, fill: false }
+    state.statesLayer = L.geoJSON(await res.json(), {
+      pane: "statesPane",
+      renderer: L.canvas({ pane: "statesPane" }),
+      style: { ...STATE_STYLE, fillColor: "#e5e7eb", fillOpacity: 0.25 },
+      onEachFeature: (feature, layer) => {
+        layer.bindTooltip("", { sticky: true });
+        state.stateLayers[feature.properties.name] = layer;
+      }
     });
-    syncBorders();
+    state.legend = L.control({ position: "bottomleft" });
+    state.legend.onAdd = () => L.DomUtil.create("div", "legend");
+    byId("viewToggle").style.display = "";
+    syncStates();
   } catch (err) {
-    console.warn("State borders unavailable:", err);
+    console.warn("State shading unavailable:", err);
   }
 }
 
@@ -310,7 +340,7 @@ function updateLines(shown) {
   state.lines.clearLayers();
   const single = state.activeSchools.size === 1 ? [...state.activeSchools][0] : null;
   byId("linesHint").textContent = toggle.checked && !single ? "Select exactly one school to show lines." : "";
-  if (!toggle.checked || !single || !CAMPUS[single]) return;
+  if (state.viewMode === "heat" || !toggle.checked || !single || !CAMPUS[single]) return;
 
   const color = SCHOOL_COLORS[single];
   const style = { renderer: state.linesRenderer, color, weight: 1, opacity: 0.3, interactive: false };
@@ -482,7 +512,7 @@ function buildSearch() {
     if (state.viewMode !== "dots") setViewMode("dots");
     if (!state.map.hasLayer(m)) m.addTo(state.map);
     state.map.setView(m.getLatLng(), Math.max(state.map.getZoom(), 8), { animate: false });
-    m.openPopup(m.getDisplayLatLng());
+    m.openPopup();
     input.value = m._name;
     results.innerHTML = "";
   }
@@ -566,8 +596,8 @@ async function main() {
   buildRegionChips(data);
   buildSportList(data);
   buildSearch();
-  if (typeof L.heatLayer !== "function") byId("viewToggle").style.display = "none";
-  addStateBorders(map);
+  byId("viewToggle").style.display = "none";
+  loadStates(map, data);
   wireActions();
   applyFilters();
 

@@ -153,6 +153,20 @@ html, body {
 .search-hit.none { font-weight: 400; color: var(--text-dim); cursor: default; }
 .search-hit.none:hover { background: none; }
 
+/* State shading legend */
+.legend {
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  width: 170px;
+  font-size: 11.5px;
+  color: var(--text);
+}
+.legend-title { font-weight: 600; margin-bottom: 6px; }
+.legend-bar { height: 10px; border-radius: 3px; border: 1px solid var(--panel-border); }
+.legend-scale { display: flex; justify-content: space-between; margin-top: 3px; color: var(--text-dim); }
+
 /* Dot / heat map toggle */
 #viewToggle {
   position: absolute;

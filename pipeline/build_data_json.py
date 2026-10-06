@@ -211,6 +211,8 @@ def add_regions(athletes):
     region_of = {h: state_region.get(us_state(h, fixes), OTHER_REGION) for h in athletes["hometown"].unique()}
     athletes = athletes.copy()
     athletes["region"] = athletes["hometown"].map(region_of)
+    state_of = {h: us_state(h, fixes) or "" for h in athletes["hometown"].unique()}
+    athletes["state"] = athletes["hometown"].map(state_of)
 
     people = athletes.drop_duplicates("person")
     counts = people["region"].value_counts()
@@ -236,6 +238,7 @@ def build_payload(athletes, region_order):
         "years": athletes["years"].tolist(),
         "hometown": athletes["hometown"].tolist(),
         "region": athletes["region"].tolist(),
+        "state": athletes["state"].tolist(),
         "region_order": region_order,
     }
 
