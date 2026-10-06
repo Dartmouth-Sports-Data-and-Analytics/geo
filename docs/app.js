@@ -135,7 +135,7 @@ function buildMarkers(map, data) {
       `<div class="popup-line">${escapeHtml(p.school)}</div>` +
       sportLines +
       `<div class="popup-line">${escapeHtml(p.hometown)}</div>` +
-      (anyInferred ? `<div class="popup-line">* Season inferred from the seasons before and after</div>` : "")
+      (anyInferred ? `<div class="popup-line">* Season inferred from the seasons before and after (<a href="about.html#inferred" target="_blank" rel="noopener">why</a>)</div>` : "")
     );
 
     marker.addTo(map);

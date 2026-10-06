@@ -91,14 +91,6 @@ function update() {
   const empty = noSelection();
   byId("emptyHint").hidden = !empty;
 
-  const inferred = empty ? [] : INFERRED_SEASONS.filter((s) => ui.sports.has(s.sport) && ui.years.has(s.year));
-  const note = byId("inferredNote");
-  note.hidden = inferred.length === 0;
-  note.textContent = inferred.length
-    ? `Includes inferred rosters: ${inferred.map((s) => `${s.school} ${s.sport} ${formatSeason(s.year)}`).join("; ")}. ` +
-      "The team page is blank on the school's site, so the roster was rebuilt from the previous and next seasons and may miss a few athletes."
-    : "";
-
   for (const [school, card] of Object.entries(cards)) {
     const a = agg[school];
     const color = SCHOOL_COLORS[school];

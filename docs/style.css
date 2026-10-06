@@ -54,6 +54,9 @@ html, body {
   color: var(--text-dim);
 }
 
+#header a { pointer-events: auto; color: var(--text-dim); }
+#header a:hover { color: var(--text); }
+
 #count {
   font-weight: 600;
   color: var(--text);

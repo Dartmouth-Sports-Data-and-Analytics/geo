@@ -27,6 +27,7 @@ html, body {
 .hm-title h1 span { color: var(--text-dim); font-weight: 400; }
 .hm-back { font-size: 12.5px; color: var(--text-dim); text-decoration: none; }
 .hm-back:hover { color: var(--text); }
+.hm-back + .hm-back { margin-left: 14px; }
 
 .hm-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 12.5px; }
 .hm-controls label { display: flex; align-items: center; gap: 6px; color: var(--text-dim); }
@@ -107,8 +108,6 @@ html, body {
 .card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
 .hm-hint { margin: 10px 20px 0; font-size: 13px; color: var(--text-dim); }
 .hm-hint[hidden] { display: none; }
-.hm-note { margin: 8px 20px 0; font-size: 12px; color: var(--text-dim); }
-.hm-note[hidden] { display: none; }
 .card.empty .legend { visibility: hidden; }
 .card.no-team { background: #e5e7eb; border-color: #d1d5db; }
 .card.no-team h2, .card.no-team .card-total { color: #9ca3af; }
