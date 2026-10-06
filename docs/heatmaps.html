@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Ivy League Roster Construction: State Heat Maps</title>
 <link rel="icon" href="data:," />
-<link rel="stylesheet" href="heatmaps.css?v=2" />
+<link rel="stylesheet" href="heatmaps.css?v=4" />
 </head>
 <body>
 <header class="hm-header">
@@ -14,7 +14,16 @@
     <h1>Ivy League Roster Construction <span>State heat maps</span></h1>
   </div>
   <div class="hm-controls">
-    <label>Season <select id="yearSelect"></select></label>
+    <div class="menu" id="yearMenu">
+      <button type="button" id="yearBtn" aria-haspopup="true">All seasons</button>
+      <div class="menu-panel" id="yearPanel" hidden>
+        <div class="menu-actions">
+          <button type="button" class="link-btn" id="yearsAll">Select all</button>
+          <button type="button" class="link-btn" id="yearsNone">Clear all</button>
+        </div>
+        <div class="menu-list" id="yearList"></div>
+      </div>
+    </div>
     <div class="menu" id="sportMenu">
       <button type="button" id="sportBtn" aria-haspopup="true">All sports</button>
       <div class="menu-panel" id="sportPanel" hidden>
@@ -22,7 +31,7 @@
           <button type="button" class="link-btn" id="sportsAll">Select all</button>
           <button type="button" class="link-btn" id="sportsNone">Clear all</button>
         </div>
-        <div id="sportList"></div>
+        <div class="menu-list" id="sportList"></div>
       </div>
     </div>
   </div>
@@ -40,6 +49,6 @@
 <div id="loading">Loading roster data&hellip;</div>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script src="heatmaps.js?v=4"></script>
+<script src="heatmaps.js?v=6"></script>
 </body>
 </html>

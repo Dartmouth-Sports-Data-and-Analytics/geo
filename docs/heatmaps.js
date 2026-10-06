@@ -23,11 +23,12 @@ const STATE_CODES = {
 };
 
 const NO_DATA_FILL = "#eceff3";
+const NO_TEAM_FILL = "#d1d5db";
 const MAP_W = 975;
 const MAP_H = 610;
 const TOP_SPORTS = 8;
 
-const ui = { year: "all", sports: new Set(), regions: null };
+const ui = { years: new Set(), sports: new Set(), regions: null };
 let data = null;
 let features = [];
 let agg = {};
@@ -73,15 +74,16 @@ function fixWinding(geometry) {
 function aggregate() {
   const out = {};
   for (const school of Object.keys(SCHOOL_COLORS)) {
-    out[school] = { states: {}, total: 0, other: 0, max: 0, otherSeen: new Set() };
+    out[school] = { states: {}, total: 0, other: 0, max: 0, otherSeen: new Set(), hasTeam: false };
   }
   const n = data.sport.length;
   for (let i = 0; i < n; i++) {
     if (!ui.sports.has(data.sport[i])) continue;
-    if (ui.regions && !ui.regions.has(data.region[i])) continue;
-    if (ui.year !== "all" && !data.years[i].includes(ui.year)) continue;
+    if (!data.years[i].some((y) => ui.years.has(y))) continue;
     const a = out[data.school[i]];
     if (!a) continue;
+    a.hasTeam = true;
+    if (ui.regions && !ui.regions.has(data.region[i])) continue;
 
     const id = data.person ? data.person[i] : i;
     const code = data.state[i];
@@ -107,11 +109,14 @@ function update() {
     const color = SCHOOL_COLORS[school];
     const max = a.max;
 
+    const noTeam = ui.sports.size > 0 && ui.years.size > 0 && !a.hasTeam;
+    card.el.classList.toggle("no-team", noTeam);
     card.paths.attr("fill", (f) => {
+      if (noTeam) return NO_TEAM_FILL;
       const st = a.states[STATE_CODES[f.properties.name]];
       return st && max ? rampColor(color, Math.sqrt(st.count / max)) : NO_DATA_FILL;
     });
-    card.total.textContent = `${a.total.toLocaleString()} US players` +
+    card.total.textContent = noTeam ? "No team" : `${a.total.toLocaleString()} US players` +
       (a.other ? ` · ${a.other.toLocaleString()} international` : "");
     card.legendMax.textContent = max.toLocaleString();
   }
@@ -124,7 +129,9 @@ function showTip(event, school, feature) {
   const st = a.states[STATE_CODES[name]];
 
   let html = `<div class="tip-title">${escapeHtml(name)} <span>&middot; ${school}</span></div>`;
-  if (!st) {
+  if (!a.hasTeam && ui.sports.size > 0 && ui.years.size > 0) {
+    html += `<div class="tip-line">No team for this selection</div>`;
+  } else if (!st) {
     html += `<div class="tip-line">No players</div>`;
   } else {
     const pct = a.total ? Math.round((100 * st.count) / a.total) : 0;
@@ -152,52 +159,67 @@ function hideTip() {
   byId("tip").style.display = "none";
 }
 
-function sportButtonLabel(total) {
-  const n = ui.sports.size;
-  if (n === total) return "All sports";
-  if (n === 0) return "No sports";
-  if (n === 1) return [...ui.sports][0];
-  return `${n} of ${total} sports`;
-}
-
-function buildControls() {
-  const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
-  const yearSel = byId("yearSelect");
-  yearSel.innerHTML = `<option value="all">All seasons</option>` +
-    years.map((y) => `<option value="${y}">${formatSeason(y)}</option>`).join("");
-  yearSel.addEventListener("change", () => {
-    ui.year = yearSel.value === "all" ? "all" : Number(yearSel.value);
-    update();
-  });
-
-  // Sports: a dropdown of checkboxes, so any combination can be picked.
-  const sports = Array.from(new Set(data.sport)).sort();
-  ui.sports = new Set(sports);
-  const btn = byId("sportBtn");
-  const panel = byId("sportPanel");
-  const list = byId("sportList");
+// A dropdown of checkboxes (with Select all / Clear all) that edits and returns a Set; used for seasons and sports.
+const menuPanels = [];
+function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plural }) {
+  const set = new Set(items);
+  const btn = byId(btnId);
+  const panel = byId(panelId);
   const boxes = [];
-  const refresh = () => { btn.textContent = sportButtonLabel(sports.length); update(); };
-  for (const sport of sports) {
-    const label = document.createElement("label");
+  menuPanels.push(panel);
+
+  const label = () => {
+    if (set.size === items.length) return `All ${plural}`;
+    if (set.size === 0) return `No ${plural}`;
+    if (set.size === 1) return format([...set][0]);
+    return `${set.size} of ${items.length} ${plural}`;
+  };
+  const refresh = () => { btn.textContent = label(); update(); };
+
+  for (const item of items) {
+    const row = document.createElement("label");
     const input = document.createElement("input");
     input.type = "checkbox";
     input.checked = true;
     input.addEventListener("change", () => {
-      if (input.checked) ui.sports.add(sport);
-      else ui.sports.delete(sport);
+      if (input.checked) set.add(item);
+      else set.delete(item);
       refresh();
     });
-    label.appendChild(input);
-    label.appendChild(document.createTextNode(sport));
-    list.appendChild(label);
+    row.appendChild(input);
+    row.appendChild(document.createTextNode(format(item)));
+    byId(listId).appendChild(row);
     boxes.push(input);
   }
-  byId("sportsAll").addEventListener("click", () => { ui.sports = new Set(sports); boxes.forEach((b) => (b.checked = true)); refresh(); });
-  byId("sportsNone").addEventListener("click", () => { ui.sports = new Set(); boxes.forEach((b) => (b.checked = false)); refresh(); });
-  btn.addEventListener("click", (e) => { e.stopPropagation(); panel.hidden = !panel.hidden; });
+  const setAll = (on) => {
+    set.clear();
+    if (on) items.forEach((item) => set.add(item));
+    boxes.forEach((b) => (b.checked = on));
+    refresh();
+  };
+  byId(allId).addEventListener("click", () => setAll(true));
+  byId(noneId).addEventListener("click", () => setAll(false));
+  btn.addEventListener("click", (e) => {
+    e.stopPropagation();
+    const open = panel.hidden;
+    menuPanels.forEach((p) => (p.hidden = true));
+    panel.hidden = !open;
+  });
   panel.addEventListener("click", (e) => e.stopPropagation());
-  document.addEventListener("click", () => { panel.hidden = true; });
+  return set;
+}
+
+function buildControls() {
+  document.addEventListener("click", () => menuPanels.forEach((p) => (p.hidden = true)));
+
+  ui.years = multiSelect({
+    btnId: "yearBtn", panelId: "yearPanel", listId: "yearList", allId: "yearsAll", noneId: "yearsNone",
+    items: Array.from(new Set(data.years.flat())).sort((a, b) => a - b), format: formatSeason, plural: "seasons"
+  });
+  ui.sports = multiSelect({
+    btnId: "sportBtn", panelId: "sportPanel", listId: "sportList", allId: "sportsAll", noneId: "sportsNone",
+    items: Array.from(new Set(data.sport)).sort(), format: (s) => s, plural: "sports"
+  });
 
   // Regions: toggle chips (the US regions plus International / Other).
   const row = byId("regionRow");

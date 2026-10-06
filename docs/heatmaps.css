@@ -65,9 +65,9 @@ html, body {
 }
 .menu-panel[hidden] { display: none; }
 .menu-actions { display: flex; gap: 12px; margin-bottom: 6px; }
-#sportList { max-height: 280px; overflow-y: auto; }
-#sportList label { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: 12.5px; cursor: pointer; user-select: none; }
-#sportList input { margin: 0; accent-color: #1a1d24; }
+.menu-list { max-height: 280px; overflow-y: auto; }
+.menu-list label { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: 12.5px; cursor: pointer; user-select: none; }
+.menu-list input { margin: 0; accent-color: #1a1d24; }
 
 .link-btn { background: none; border: none; padding: 0; color: var(--text-dim); font: inherit; font-size: 12px; text-decoration: underline; cursor: pointer; }
 .link-btn:hover { color: var(--text); }
@@ -105,6 +105,10 @@ html, body {
   padding: 10px 12px 12px;
 }
 .card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+.card.no-team { background: #e5e7eb; border-color: #d1d5db; }
+.card.no-team h2, .card.no-team .card-total { color: #9ca3af; }
+.card.no-team .dot { background: #9ca3af !important; }
+.card.no-team .legend { visibility: hidden; }
 .card-head h2 { display: flex; align-items: center; gap: 7px; margin: 0; font-size: 15px; font-weight: 700; }
 .card-head .dot { width: 11px; height: 11px; border-radius: 50%; flex-shrink: 0; }
 .card-total { font-size: 12px; color: var(--text-dim); text-align: right; }
