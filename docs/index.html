@@ -12,7 +12,7 @@
   <div id="map"></div>
 
   <div id="header">
-    <h1>Ivy League Roster Construction</h1>
+    <h1>Where Ivy League athletes come from</h1>
     <p><span id="count">0</span> players shown</p>
   </div>
 
@@ -28,11 +28,19 @@
   <div id="filterPanel">
     <div class="filter-section">
       <h3>Schools</h3>
+      <div class="filter-actions spaced">
+        <button class="link-btn" id="selectAllSchools">Select all</button>
+        <button class="link-btn" id="clearAllSchools">Clear all</button>
+      </div>
       <div class="school-grid" id="schoolGrid"></div>
     </div>
 
     <div class="filter-section">
       <h3>Years</h3>
+      <div class="filter-actions spaced">
+        <button class="link-btn" id="selectAllYears">Select all</button>
+        <button class="link-btn" id="clearAllYears">Clear all</button>
+      </div>
       <div class="year-row" id="yearRow"></div>
     </div>
 
@@ -50,6 +58,6 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="app.js?v=16"></script>
+<script src="app.js?v=17"></script>
 </body>
 </html>

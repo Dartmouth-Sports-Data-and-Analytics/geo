@@ -159,14 +159,19 @@ function buildSchoolControls(data) {
 
   const elements = {};
 
-  function setActive(school, active) {
+  function setActive(school, active, apply = true) {
     if (active) state.activeSchools.add(school);
     else state.activeSchools.delete(school);
 
     elements[school].pill.classList.toggle("off", !active);
     elements[school].btn.classList.toggle("off", !active);
-    applyFilters();
+    if (apply) applyFilters();
   }
+
+  state.setAllSchools = (active) => {
+    for (const school of schools) setActive(school, active, false);
+    applyFilters();
+  };
 
   for (const school of schools) {
     const color = SCHOOL_COLORS[school];
@@ -197,6 +202,13 @@ function buildYearChips(data) {
   state.activeYears = new Set(years);
   row.innerHTML = "";
 
+  const chips = [];
+  state.setAllYears = (active) => {
+    state.activeYears = new Set(active ? years : []);
+    chips.forEach((chip) => chip.classList.toggle("off", !active));
+    applyFilters();
+  };
+
   for (const year of years) {
     const chip = document.createElement("div");
     chip.className = "year-chip";
@@ -212,6 +224,7 @@ function buildYearChips(data) {
       applyFilters();
     });
     row.appendChild(chip);
+    chips.push(chip);
   }
 }
 
@@ -294,6 +307,11 @@ function wireActions() {
   byId("filterToggle").addEventListener("click", () => {
     byId("filterPanel").classList.toggle("open");
   });
+
+  byId("selectAllSchools").addEventListener("click", () => state.setAllSchools(true));
+  byId("clearAllSchools").addEventListener("click", () => state.setAllSchools(false));
+  byId("selectAllYears").addEventListener("click", () => state.setAllYears(true));
+  byId("clearAllYears").addEventListener("click", () => state.setAllYears(false));
 
   byId("selectAllSports").addEventListener("click", () => {
     state.activeSports = new Set(state.data.sport);
