@@ -36,7 +36,7 @@ const state = {
 };
 
 async function loadData() {
-  const res = await fetch("data.json?v=a0a80395");
+  const res = await fetch("data.json?v=b28f8926");
   if (!res.ok) throw new Error("Failed to load data.json");
   return res.json();
 }
@@ -127,13 +127,15 @@ function buildMarkers(map, data) {
     Object.assign(marker, { _school: p.school, _region: p.region, _entries: p.entries, _name: p.name, _hometown: p.hometown });
 
     const sportLines = p.entries.map((e) =>
-      `<div class="popup-line">${escapeHtml(e.sport)} &middot; ${formatYearRanges(e.years)}</div>`
+      `<div class="popup-line">${escapeHtml(e.sport)} &middot; ${formatYearRanges(e.years, p.school, e.sport)}</div>`
     ).join("");
+    const anyInferred = p.entries.some((e) => e.years.some((y) => isInferred(p.school, e.sport, y)));
     marker.bindPopup(
       `<div class="popup-name">${escapeHtml(p.name)}</div>` +
       `<div class="popup-line">${escapeHtml(p.school)}</div>` +
       sportLines +
-      `<div class="popup-line">${escapeHtml(p.hometown)}</div>`
+      `<div class="popup-line">${escapeHtml(p.hometown)}</div>` +
+      (anyInferred ? `<div class="popup-line">* Season inferred from the seasons before and after</div>` : "")
     );
 
     marker.addTo(map);
@@ -143,8 +145,10 @@ function buildMarkers(map, data) {
   return markers;
 }
 
-function formatYearRanges(years) {
-  return [...new Set(years)].sort((a, b) => a - b).map(formatSeason).join(", ");
+function formatYearRanges(years, school, sport) {
+  return [...new Set(years)].sort((a, b) => a - b)
+    .map((y) => formatSeason(y) + (isInferred(school, sport, y) ? "*" : ""))
+    .join(", ");
 }
 
 // Hidden markers are removed from the map (not made transparent) so they can't be clicked.
@@ -391,7 +395,6 @@ function wireActions() {
 
   byId("groupDHYP").addEventListener("click", () => state.setSchoolGroup(SCHOOL_GROUPS.DHYP));
   byId("latest5Years").addEventListener("click", () => state.setLatestYears(5));
-  byId("latest10Years").addEventListener("click", () => state.setLatestYears(10));
 
   for (const kind of ["Schools", "Regions", "Years", "Sports"]) {
     byId(`selectAll${kind}`).addEventListener("click", () => state[`setAll${kind}`](true));

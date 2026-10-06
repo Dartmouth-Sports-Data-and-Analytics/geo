@@ -91,6 +91,14 @@ function update() {
   const empty = noSelection();
   byId("emptyHint").hidden = !empty;
 
+  const inferred = empty ? [] : INFERRED_SEASONS.filter((s) => ui.sports.has(s.sport) && ui.years.has(s.year));
+  const note = byId("inferredNote");
+  note.hidden = inferred.length === 0;
+  note.textContent = inferred.length
+    ? `Includes inferred rosters: ${inferred.map((s) => `${s.school} ${s.sport} ${formatSeason(s.year)}`).join("; ")}. ` +
+      "The team page is blank on the school's site, so the roster was rebuilt from the previous and next seasons and may miss a few athletes."
+    : "";
+
   for (const [school, card] of Object.entries(cards)) {
     const a = agg[school];
     const color = SCHOOL_COLORS[school];
@@ -229,7 +237,7 @@ function buildControls() {
   ui.years = multiSelect({
     btnId: "yearBtn", panelId: "yearPanel", listId: "yearList", allId: "yearsAll", noneId: "yearsNone",
     items: seasons, format: formatSeason, plural: "seasons", initial: latestSeasons(seasons, DEFAULT_SEASONS),
-    presets: [5, 10].map((n) => ({ button: `Latest ${n}`, summary: `Latest ${n} seasons`, pick: (items) => latestSeasons(items, n) }))
+    presets: [5].map((n) => ({ button: `Latest ${n}`, summary: `Latest ${n} seasons`, pick: (items) => latestSeasons(items, n) }))
   });
   ui.sports = multiSelect({
     btnId: "sportBtn", panelId: "sportPanel", listId: "sportList", allId: "sportsAll", noneId: "sportsNone",
@@ -291,7 +299,7 @@ function buildCards() {
 }
 
 async function main() {
-  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=a0a80395"), fetch("us-states.json?v=6ea79f14")]);
+  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=b28f8926"), fetch("us-states.json?v=6ea79f14")]);
   if (!dataRes.ok) throw new Error("Could not load data.json");
   if (!geoRes.ok) throw new Error("Could not load us-states.json (run pipeline/prepare_states.py)");
   data = await dataRes.json();

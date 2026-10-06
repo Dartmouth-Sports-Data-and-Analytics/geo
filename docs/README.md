@@ -10,7 +10,7 @@ An interactive map of where Ivy League varsity athletes come from. A Python pipe
 - Filter by school, season, sport and region, and search by name.
 - A separate **State heat maps** page shows all eight schools at once, each a US map shaded by players per state; hover a state for its player count and sports.
 - A person on two teams (for example coed and women's sailing) is one dot with both listed.
-- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport. Seasons run from 2016–17 to the current one; 2020–21 is thin or missing at many schools because of COVID. Both pages open on the latest five seasons, with Latest 5 and Latest 10 buttons for quick changes.
+- "Year" always means the academic year: 2024 is the 2024–25 season, for every sport. Seasons run from 2016–17 to the current one; 2020–21 is thin or missing at many schools because of COVID. Both pages open on the latest five seasons, with a Latest 5 button for a quick change (Select all shows every season).
 
 ## Structure
 

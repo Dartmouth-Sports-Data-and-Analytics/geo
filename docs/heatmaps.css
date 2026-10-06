@@ -107,6 +107,8 @@ html, body {
 .card-head { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
 .hm-hint { margin: 10px 20px 0; font-size: 13px; color: var(--text-dim); }
 .hm-hint[hidden] { display: none; }
+.hm-note { margin: 8px 20px 0; font-size: 12px; color: var(--text-dim); }
+.hm-note[hidden] { display: none; }
 .card.empty .legend { visibility: hidden; }
 .card.no-team { background: #e5e7eb; border-color: #d1d5db; }
 .card.no-team h2, .card.no-team .card-total { color: #9ca3af; }

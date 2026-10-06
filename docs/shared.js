@@ -32,6 +32,17 @@ function latestSeasons(items, n) {
   return [...items].sort((a, b) => b - a).slice(0, n);
 }
 
+// Team seasons whose roster page is blank on the school's site, so the roster was rebuilt from the seasons
+// before and after (pipeline/infer_seasons.py). Keep in step with INFERRED_SEASONS there. `sport` is the
+// label used in data.json, `year` the academic start year.
+const INFERRED_SEASONS = [
+  { school: "Yale", sport: "Mens Golf", year: 2023 }
+];
+
+function isInferred(school, sport, year) {
+  return INFERRED_SEASONS.some((s) => s.school === school && s.sport === sport && s.year === year);
+}
+
 // A toggle chip for one value in a selection; getSet returns the live Set, since Select all / Clear all replace it.
 function makeChip(label, value, getSet, onChange) {
   const chip = document.createElement("div");
