@@ -6,7 +6,7 @@
 <title>Ivy League Roster Construction</title>
 <link rel="icon" href="data:," />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
-<link rel="stylesheet" href="style.css?v=a5348c11" />
+<link rel="stylesheet" href="style.css?v=fdd80a63" />
 </head>
 <body>
 <div id="app">
@@ -15,7 +15,6 @@
   <div id="header">
     <h1>Ivy League Roster Construction</h1>
     <p><span id="count">0</span> players shown</p>
-    <p class="empty-hint" id="emptyHint" hidden>Open Filters and choose a season and a sport to see players.</p>
   </div>
 
   <div id="search">
@@ -25,7 +24,7 @@
 
   <button id="filterToggle">Filters</button>
 
-  <a id="viewToggle" href="heatmaps.html">State heat maps</a>
+  <a id="heatLink" href="heatmaps.html">State heat maps</a>
 
   <div id="schoolBar"></div>
 
@@ -45,7 +44,7 @@
         <button class="link-btn" id="selectAllYears">Select all</button>
         <button class="link-btn" id="clearAllYears">Clear all</button>
       </div>
-      <div class="year-row" id="yearRow"></div>
+      <div class="chip-row" id="yearRow"></div>
     </div>
 
     <div class="filter-section" id="regionSection">
@@ -54,7 +53,7 @@
         <button class="link-btn" id="selectAllRegions">Select all</button>
         <button class="link-btn" id="clearAllRegions">Clear all</button>
       </div>
-      <div class="year-row" id="regionRow"></div>
+      <div class="chip-row" id="regionRow"></div>
     </div>
 
     <div class="filter-section">
@@ -77,6 +76,7 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="app.js?v=97f134a3"></script>
+<script src="shared.js?v=a11e2ccf"></script>
+<script src="app.js?v=9c25dde1"></script>
 </body>
 </html>

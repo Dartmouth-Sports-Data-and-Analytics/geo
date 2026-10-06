@@ -1,14 +1,3 @@
-const SCHOOL_COLORS = {
-  Brown: "#4E3629",
-  Columbia: "#9BCBEB",
-  Cornell: "#B31B1B",
-  Dartmouth: "#00693E",
-  Harvard: "#A41034",
-  Penn: "#011F5B",
-  Princeton: "#FF671F",
-  Yale: "#00356B"
-};
-
 const CAMPUS = {
   Brown: [41.8268, -71.4025],
   Columbia: [40.8075, -73.9626],
@@ -32,17 +21,16 @@ function spreadOffset(i) {
 }
 
 const state = {
-  data: null,
   map: null,
   markers: [],
+  lines: null,
+  linesRenderer: null,
   activeSchools: new Set(Object.keys(SCHOOL_COLORS)),
-  activeYears: null,
-  activeSports: null,
+  activeYears: new Set(),
+  activeSports: new Set(),
   activeRegions: null,
-  regionChips: null
+  regionChips: new Map()
 };
-
-function byId(id) { return document.getElementById(id); }
 
 async function loadData() {
   const res = await fetch("data.json?v=20");
@@ -80,15 +68,14 @@ function buildMap() {
 // One marker per person (shared `person` ID); popup lists each sport's seasons.
 function buildMarkers(map, data) {
   const renderer = L.canvas({ padding: 0.5 });
-  const n = data.lat.length;
   const people = new Map();
 
-  for (let i = 0; i < n; i++) {
+  for (let i = 0; i < data.lat.length; i++) {
     const id = data.person ? data.person[i] : i;
     if (!people.has(id)) {
       people.set(id, {
         lat: data.lat[i], lng: data.lng[i],
-        name: data.name[i], school: data.school[i], hometown: data.hometown[i],
+        name: data.name[i] || "Unknown", school: data.school[i], hometown: data.hometown[i] || "",
         region: data.region ? data.region[i] : null,
         entries: []
       });
@@ -96,6 +83,7 @@ function buildMarkers(map, data) {
     people.get(id).entries.push({ sport: data.sport[i], years: data.years[i] });
   }
 
+  // Athletes sharing a hometown share coordinates, so each gets its own spot on a spiral.
   const groups = new Map();
   for (const p of people.values()) {
     const key = `${p.lat},${p.lng}`;
@@ -116,14 +104,13 @@ function buildMarkers(map, data) {
     // Merge duplicate-sport entries into one line.
     const bySport = new Map();
     for (const e of p.entries) {
-      const key = e.sport;
-      if (!bySport.has(key)) bySport.set(key, new Set());
-      e.years.forEach((y) => bySport.get(key).add(y));
+      if (!bySport.has(e.sport)) bySport.set(e.sport, new Set());
+      e.years.forEach((y) => bySport.get(e.sport).add(y));
     }
-    p.entries = [...bySport].map(([sport, ys]) => ({
-      sport, years: [...ys].sort((a, b) => a - b)
-    }));
-    p.entries.sort((a, b) => a.sport.localeCompare(b.sport));
+    p.entries = [...bySport]
+      .map(([sport, ys]) => ({ sport, years: [...ys].sort((a, b) => a - b) }))
+      .sort((a, b) => a.sport.localeCompare(b.sport));
+
     const color = SCHOOL_COLORS[p.school] || "#888";
     const marker = L.circleMarker([p.dispLat, p.dispLng], {
       renderer,
@@ -134,21 +121,16 @@ function buildMarkers(map, data) {
       weight: 0,
       stroke: false
     });
-
-    marker._school = p.school;
-    marker._region = p.region;
-    marker._entries = p.entries;
-    marker._name = p.name || "Unknown";
-    marker._hometown = p.hometown || "";
+    Object.assign(marker, { _school: p.school, _region: p.region, _entries: p.entries, _name: p.name, _hometown: p.hometown });
 
     const sportLines = p.entries.map((e) =>
       `<div class="popup-line">${escapeHtml(e.sport)} &middot; ${formatYearRanges(e.years)}</div>`
     ).join("");
     marker.bindPopup(
-      `<div class="popup-name">${escapeHtml(p.name || "Unknown")}</div>` +
+      `<div class="popup-name">${escapeHtml(p.name)}</div>` +
       `<div class="popup-line">${escapeHtml(p.school)}</div>` +
       sportLines +
-      `<div class="popup-line">${escapeHtml(p.hometown || "")}</div>`
+      `<div class="popup-line">${escapeHtml(p.hometown)}</div>`
     );
 
     marker.addTo(map);
@@ -158,50 +140,31 @@ function buildMarkers(map, data) {
   return markers;
 }
 
-function escapeHtml(str) {
-  return String(str).replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-  }[c]));
-}
-
-function formatSeason(year) {
-  const secondYear = (year + 1) % 100;
-  return `${year}-${String(secondYear).padStart(2, "0")}`;
-}
-
 function formatYearRanges(years) {
-  if (!years || years.length === 0) return "";
-  const sorted = Array.from(new Set(years)).sort((a, b) => a - b);
-  return sorted.map(formatSeason).join(", ");
+  return [...new Set(years)].sort((a, b) => a - b).map(formatSeason).join(", ");
 }
 
 // Hidden markers are removed from the map (not made transparent) so they can't be clicked.
 function applyFilters() {
   const { activeSchools, activeSports, activeYears, activeRegions, map } = state;
-  let visible = 0;
   const shown = [];
   const regionCounts = {};
 
   for (const m of state.markers) {
-    const base = activeSchools.has(m._school) &&
-                 m._entries.some((e) =>
-                   activeSports.has(e.sport) && e.years.some((y) => activeYears.has(y)));
-    if (base && m._region) regionCounts[m._region] = (regionCounts[m._region] || 0) + 1;
-    const show = base && (!activeRegions || activeRegions.has(m._region));
-    if (show) {
+    const matches = activeSchools.has(m._school) &&
+      m._entries.some((e) => activeSports.has(e.sport) && e.years.some((y) => activeYears.has(y)));
+    if (matches && m._region) regionCounts[m._region] = (regionCounts[m._region] || 0) + 1;
+
+    if (matches && (!activeRegions || activeRegions.has(m._region))) {
       if (!map.hasLayer(m)) m.addTo(map);
+      shown.push(m);
     } else if (map.hasLayer(m)) {
       m.closePopup();
       map.removeLayer(m);
     }
-    if (show) {
-      visible++;
-      shown.push(m);
-    }
   }
 
-  byId("count").textContent = visible.toLocaleString();
-  byId("emptyHint").hidden = state.activeYears.size > 0 && state.activeSports.size > 0;
+  byId("count").textContent = shown.length.toLocaleString();
   updateRegionCounts(regionCounts);
   updateLines(shown);
 }
@@ -209,7 +172,6 @@ function applyFilters() {
 // Lines from campus to every shown hometown; only drawn when the toggle is on and exactly one school is active.
 function updateLines(shown) {
   const toggle = byId("linesToggle");
-  if (!toggle || !state.lines) return;
   state.lines.clearLayers();
   const single = state.activeSchools.size === 1 ? [...state.activeSchools][0] : null;
   byId("linesHint").textContent = toggle.checked && !single ? "Select exactly one school to show lines." : "";
@@ -224,19 +186,18 @@ function updateLines(shown) {
   }).addTo(state.lines);
 }
 
-function buildSchoolControls(data) {
+// Each school has a pill in the filter panel and a button in the bottom bar; both toggle the same selection.
+function buildSchoolControls() {
   const grid = byId("schoolGrid");
   const bar = byId("schoolBar");
   const schools = Object.keys(SCHOOL_COLORS);
+  const elements = {};
   grid.innerHTML = "";
   bar.innerHTML = "";
-
-  const elements = {};
 
   function setActive(school, active, apply = true) {
     if (active) state.activeSchools.add(school);
     else state.activeSchools.delete(school);
-
     elements[school].pill.classList.toggle("off", !active);
     elements[school].btn.classList.toggle("off", !active);
     if (apply) applyFilters();
@@ -260,7 +221,6 @@ function buildSchoolControls(data) {
     btn.textContent = school;
 
     elements[school] = { pill, btn };
-
     const toggle = () => setActive(school, !state.activeSchools.has(school));
     pill.addEventListener("click", toggle);
     btn.addEventListener("click", toggle);
@@ -273,33 +233,18 @@ function buildSchoolControls(data) {
 function buildYearChips(data) {
   const row = byId("yearRow");
   const years = Array.from(new Set(data.years.flat())).sort((a, b) => a - b);
-  state.activeYears = new Set();
-  row.innerHTML = "";
+  const chips = years.map((year) => {
+    const chip = makeChip(formatSeason(year), year, () => state.activeYears, applyFilters);
+    chip.classList.add("off");
+    row.appendChild(chip);
+    return chip;
+  });
 
-  const chips = [];
   state.setAllYears = (active) => {
     state.activeYears = new Set(active ? years : []);
     chips.forEach((chip) => chip.classList.toggle("off", !active));
     applyFilters();
   };
-
-  for (const year of years) {
-    const chip = document.createElement("div");
-    chip.className = "year-chip off";
-    chip.textContent = formatSeason(year);
-    chip.addEventListener("click", () => {
-      if (state.activeYears.has(year)) {
-        state.activeYears.delete(year);
-        chip.classList.add("off");
-      } else {
-        state.activeYears.add(year);
-        chip.classList.remove("off");
-      }
-      applyFilters();
-    });
-    row.appendChild(chip);
-    chips.push(chip);
-  }
 }
 
 // Region chips show how many people each region has under the other filters; toggling one filters the map to it.
@@ -308,23 +253,9 @@ function buildRegionChips(data) {
   const regions = data.region ? (data.region_order || Array.from(new Set(data.region))) : [];
   byId("regionSection").style.display = regions.length ? "" : "none";
   state.activeRegions = regions.length ? new Set(regions) : null;
-  state.regionChips = new Map();
-  row.innerHTML = "";
 
   for (const region of regions) {
-    const chip = document.createElement("div");
-    chip.className = "year-chip";
-    chip.textContent = region;
-    chip.addEventListener("click", () => {
-      if (state.activeRegions.has(region)) {
-        state.activeRegions.delete(region);
-        chip.classList.add("off");
-      } else {
-        state.activeRegions.add(region);
-        chip.classList.remove("off");
-      }
-      applyFilters();
-    });
+    const chip = makeChip(region, region, () => state.activeRegions, applyFilters);
     row.appendChild(chip);
     state.regionChips.set(region, chip);
   }
@@ -338,7 +269,6 @@ function buildRegionChips(data) {
 }
 
 function updateRegionCounts(counts) {
-  if (!state.regionChips) return;
   state.regionChips.forEach((chip, region) => {
     chip.textContent = `${region} \u00b7 ${(counts[region] || 0).toLocaleString()}`;
   });
@@ -347,23 +277,26 @@ function updateRegionCounts(counts) {
 function buildSportList(data) {
   const list = byId("sportList");
   const sports = Array.from(new Set(data.sport)).sort();
-  state.activeSports = new Set();
-  list.innerHTML = "";
-  for (const sport of sports) {
+  const boxes = sports.map((sport) => {
     const row = document.createElement("label");
     row.className = "sport-row";
     const input = document.createElement("input");
     input.type = "checkbox";
-    input.checked = false;
     input.addEventListener("change", () => {
       if (input.checked) state.activeSports.add(sport);
       else state.activeSports.delete(sport);
       applyFilters();
     });
-    row.appendChild(input);
-    row.appendChild(document.createTextNode(sport));
+    row.append(input, sport);
     list.appendChild(row);
-  }
+    return input;
+  });
+
+  state.setAllSports = (active) => {
+    state.activeSports = new Set(active ? sports : []);
+    boxes.forEach((box) => (box.checked = active));
+    applyFilters();
+  };
 }
 
 // Name search: accent- and case-insensitive, every typed word must match; picking a result jumps to that person.
@@ -419,42 +352,23 @@ function buildSearch() {
   });
 }
 
+// The Select all / Clear all buttons are #selectAll<Kind> and #clearAll<Kind>, backed by state.setAll<Kind>.
 function wireActions() {
-  byId("filterToggle").addEventListener("click", () => {
-    byId("filterPanel").classList.toggle("open");
-  });
-
+  byId("filterToggle").addEventListener("click", () => byId("filterPanel").classList.toggle("open"));
   byId("linesToggle").addEventListener("change", applyFilters);
 
-  byId("selectAllSchools").addEventListener("click", () => state.setAllSchools(true));
-  byId("clearAllSchools").addEventListener("click", () => state.setAllSchools(false));
-  byId("selectAllRegions").addEventListener("click", () => state.setAllRegions(true));
-  byId("clearAllRegions").addEventListener("click", () => state.setAllRegions(false));
-  byId("selectAllYears").addEventListener("click", () => state.setAllYears(true));
-  byId("clearAllYears").addEventListener("click", () => state.setAllYears(false));
-
-  byId("selectAllSports").addEventListener("click", () => {
-    state.activeSports = new Set(state.data.sport);
-    document.querySelectorAll("#sportList input").forEach((cb) => (cb.checked = true));
-    applyFilters();
-  });
-
-  byId("clearAllSports").addEventListener("click", () => {
-    state.activeSports = new Set();
-    document.querySelectorAll("#sportList input").forEach((cb) => (cb.checked = false));
-    applyFilters();
-  });
+  for (const kind of ["Schools", "Regions", "Years", "Sports"]) {
+    byId(`selectAll${kind}`).addEventListener("click", () => state[`setAll${kind}`](true));
+    byId(`clearAll${kind}`).addEventListener("click", () => state[`setAll${kind}`](false));
+  }
 }
 
 async function main() {
   const data = await loadData();
-  state.data = data;
+  state.map = buildMap();
+  state.markers = buildMarkers(state.map, data);
 
-  const map = buildMap();
-  state.map = map;
-  state.markers = buildMarkers(map, data);
-
-  buildSchoolControls(data);
+  buildSchoolControls();
   buildYearChips(data);
   buildRegionChips(data);
   buildSportList(data);

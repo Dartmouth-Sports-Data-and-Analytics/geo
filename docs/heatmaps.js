@@ -1,14 +1,3 @@
-const SCHOOL_COLORS = {
-  Brown: "#4E3629",
-  Columbia: "#9BCBEB",
-  Cornell: "#B31B1B",
-  Dartmouth: "#00693E",
-  Harvard: "#A41034",
-  Penn: "#011F5B",
-  Princeton: "#FF671F",
-  Yale: "#00356B"
-};
-
 const STATE_CODES = {
   "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA", "Colorado": "CO",
   "Connecticut": "CT", "Delaware": "DE", "District of Columbia": "DC", "Florida": "FL", "Georgia": "GA",
@@ -34,19 +23,6 @@ let data = null;
 let features = [];
 let agg = {};
 const cards = {};
-
-function byId(id) { return document.getElementById(id); }
-
-function escapeHtml(str) {
-  return String(str).replace(/[&<>"']/g, (c) => ({
-    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
-  }[c]));
-}
-
-// 2024 -> "2024-25"
-function formatSeason(year) {
-  return `${year}-${String((year + 1) % 100).padStart(2, "0")}`;
-}
 
 function mixColor(a, b, t) {
   const rgb = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
@@ -123,7 +99,6 @@ function update() {
   for (const [school, card] of Object.entries(cards)) {
     const a = agg[school];
     const color = SCHOOL_COLORS[school];
-    const max = a.max;
 
     const noTeam = !empty && !a.hasTeam;
     card.el.classList.toggle("no-team", noTeam);
@@ -131,11 +106,11 @@ function update() {
     card.paths.attr("fill", (f) => {
       if (noTeam) return NO_TEAM_FILL;
       const st = a.states[STATE_CODES[f.properties.name]];
-      return st && max ? rampColor(color, Math.sqrt(st.count / max)) : NO_DATA_FILL;
+      return st && a.max ? rampColor(color, Math.sqrt(st.count / a.max)) : NO_DATA_FILL;
     });
     card.total.textContent = empty ? "" : noTeam ? "No team" : `${a.total.toLocaleString()} US players` +
       (a.other ? ` · ${a.other.toLocaleString()} international` : "");
-    card.legendMax.textContent = max.toLocaleString();
+    card.legendMax.textContent = a.max.toLocaleString();
     card.rank.replaceChildren(...(empty || noTeam ? [] : a.ranked.slice(0, RANK_COUNT).map((r) => {
       const item = document.createElement("span");
       const num = document.createElement("em");
@@ -257,20 +232,11 @@ function buildControls() {
   if (!data.region) { row.style.display = "none"; return; }
   const regions = data.region_order || Array.from(new Set(data.region));
   ui.regions = new Set(regions);
-  const chips = [];
-  for (const region of regions) {
-    const chip = document.createElement("div");
-    chip.className = "chip";
-    chip.textContent = region;
-    chip.addEventListener("click", () => {
-      if (ui.regions.has(region)) ui.regions.delete(region);
-      else ui.regions.add(region);
-      chip.classList.toggle("off", !ui.regions.has(region));
-      update();
-    });
+  const chips = regions.map((region) => {
+    const chip = makeChip(region, region, () => ui.regions, update);
     byId("regionChips").appendChild(chip);
-    chips.push(chip);
-  }
+    return chip;
+  });
   const setAll = (on) => { ui.regions = new Set(on ? regions : []); chips.forEach((c) => c.classList.toggle("off", !on)); update(); };
   byId("regionsAll").addEventListener("click", () => setAll(true));
   byId("regionsNone").addEventListener("click", () => setAll(false));

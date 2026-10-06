@@ -35,6 +35,7 @@ docs/       The website, published by GitHub Pages
 | `data/rosters/`, `data/geo-rosters/` | Scraped rosters, and the same with coordinates added |
 | `data/_*.csv` | Pipeline state: availability, hometown cache, failed lookups, scrape log |
 | `docs/index.html`, `app.js`, `style.css` | The roster map |
+| `docs/shared.js` | Constants and helpers used by both pages (school colors, formatting, chips) |
 | `docs/heatmaps.html`, `heatmaps.js`, `heatmaps.css` | The eight state heat maps (uses d3) |
 | `docs/data.json`, `docs/us-states.json` | Built roster data; US state outlines (downloaded once, see below) |
 

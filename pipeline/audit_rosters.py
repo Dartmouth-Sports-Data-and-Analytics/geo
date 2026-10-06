@@ -60,7 +60,7 @@ def audit(df):
 # Class labels by year for athletes with 5+ seasons in one sport, flagging any label that failed to advance year to year.
 def long_careers(df, limit=4):
     rows = []
-    for (school, sport, name, hometown), g in df.groupby(["school", "sport", "name", "hometown"], dropna=False):
+    for (school, sport, name, _), g in df.groupby(["school", "sport", "name", "hometown"], dropna=False):
         g = g.sort_values("year").drop_duplicates("year")
         if len(g) <= limit:
             continue

@@ -38,7 +38,7 @@ def restamp(target, names):
 def stamp():
     changed = [js for js in ("app.js", "heatmaps.js") if restamp(js, ["data.json", "us-states.json"])]
     changed += [page for page in ("index.html", "heatmaps.html")
-                if restamp(page, ["app.js", "style.css", "heatmaps.js", "heatmaps.css"])]
+                if restamp(page, ["shared.js", "app.js", "style.css", "heatmaps.js", "heatmaps.css"])]
     print("Cache versions updated in: " + ", ".join(changed) if changed else "Cache versions already current.")
 
 
