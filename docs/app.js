@@ -20,12 +20,12 @@ const CAMPUS = {
   Yale: [41.3163, -72.9223]
 };
 
-const SPREAD_PX = 8;
+const SPREAD_PX = 4;
 
 // Heat map tuning: radius/blur in pixels; max is how many athletes per cell give full color; minOpacity floors a lone athlete.
 const HEAT = { radius: 22, blur: 18, max: 10, maxZoom: 6, minOpacity: 0.2 };
 
-// US state outlines drawn over the basemap (docs/us-states.json); bolder than the basemap's own borders.
+// US state outlines (docs/us-states.json), drawn only in heat map mode.
 const STATE_BORDER = { color: "#4b5563", weight: 1.6, opacity: 0.8 };
 
 function mixColor(a, b, t) {
@@ -66,7 +66,9 @@ const state = {
   activeRegions: null,
   regionChips: null,
   viewMode: "dots",
-  heatLayers: []
+  heatLayers: [],
+  borders: null,
+  schoolsBeforeHeat: null
 };
 
 function byId(id) { return document.getElementById(id); }
@@ -253,25 +255,49 @@ function updateHeat(shown) {
   }
 }
 
+// Entering heat mode keeps one school (the first selected) and remembers the rest; leaving restores them.
 function setViewMode(mode) {
+  const wasHeat = state.viewMode === "heat";
   state.viewMode = mode;
+  const heat = mode === "heat";
+
   const btn = byId("viewToggle");
-  btn.textContent = mode === "heat" ? "Dot map" : "Heat map";
-  btn.classList.toggle("active", mode === "heat");
+  btn.textContent = heat ? "Dot map" : "Heat map";
+  btn.classList.toggle("active", heat);
+  byId("schoolActions").style.display = heat ? "none" : "";
+  byId("schoolHint").textContent = heat ? "The heat map shows one school at a time." : "";
   state.map.closePopup();
-  applyFilters();
+  syncBorders();
+
+  const all = Object.keys(SCHOOL_COLORS);
+  if (heat && !wasHeat) {
+    state.schoolsBeforeHeat = [...state.activeSchools];
+    state.setSchools([all.find((s) => state.activeSchools.has(s)) || all[0]]);
+  } else if (!heat && wasHeat) {
+    state.setSchools(state.schoolsBeforeHeat && state.schoolsBeforeHeat.length ? state.schoolsBeforeHeat : all);
+  } else {
+    applyFilters();
+  }
+}
+
+function syncBorders() {
+  if (!state.borders || !state.map) return;
+  const wanted = state.viewMode === "heat";
+  if (wanted && !state.map.hasLayer(state.borders)) state.borders.addTo(state.map);
+  if (!wanted && state.map.hasLayer(state.borders)) state.map.removeLayer(state.borders);
 }
 
 async function addStateBorders(map) {
   try {
-    const res = await fetch("us-states.json?v=21");
+    const res = await fetch("us-states.json?v=22");
     if (!res.ok) return;
-    L.geoJSON(await res.json(), {
+    state.borders = L.geoJSON(await res.json(), {
       pane: "bordersPane",
       renderer: L.canvas({ pane: "bordersPane" }),
       interactive: false,
       style: { ...STATE_BORDER, fill: false }
-    }).addTo(map);
+    });
+    syncBorders();
   } catch (err) {
     console.warn("State borders unavailable:", err);
   }
@@ -318,6 +344,11 @@ function buildSchoolControls(data) {
     applyFilters();
   };
 
+  state.setSchools = (selected) => {
+    for (const school of schools) setActive(school, selected.includes(school), false);
+    applyFilters();
+  };
+
   for (const school of schools) {
     const color = SCHOOL_COLORS[school];
 
@@ -332,7 +363,10 @@ function buildSchoolControls(data) {
 
     elements[school] = { pill, btn };
 
-    const toggle = () => setActive(school, !state.activeSchools.has(school));
+    // The heat map shows one school at a time, so a click there selects only that school.
+    const toggle = () => (state.viewMode === "heat"
+      ? state.setSchools([school])
+      : setActive(school, !state.activeSchools.has(school)));
     pill.addEventListener("click", toggle);
     btn.addEventListener("click", toggle);
 
