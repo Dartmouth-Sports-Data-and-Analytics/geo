@@ -153,6 +153,24 @@ html, body {
 .search-hit.none { font-weight: 400; color: var(--text-dim); cursor: default; }
 .search-hit.none:hover { background: none; }
 
+/* Dot / heat map toggle */
+#viewToggle {
+  position: absolute;
+  bottom: 30px;
+  right: 16px;
+  z-index: 900;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  color: var(--text);
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.35);
+}
+#viewToggle.active { background: var(--text); color: #fff; }
+
 /* Filter toggle button */
 #filterToggle {
   position: absolute;
@@ -314,4 +332,5 @@ html, body {
   #header h1 { font-size: 15px; }
   #search { top: 62px; left: 14px; }
   #filterPanel { width: calc(100vw - 32px); }
+  #viewToggle { bottom: 74px; right: 12px; }
 }

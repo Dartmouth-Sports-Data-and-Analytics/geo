@@ -20,7 +20,19 @@ const CAMPUS = {
   Yale: [41.3163, -72.9223]
 };
 
-const SPREAD_PX = 12;
+const SPREAD_PX = 8;
+
+// Heat map tuning: radius/blur in pixels; max is how many athletes per cell give full color; minOpacity floors a lone athlete.
+const HEAT = { radius: 22, blur: 18, max: 10, maxZoom: 6, minOpacity: 0.2 };
+
+// US state outlines drawn over the basemap (docs/us-states.json); bolder than the basemap's own borders.
+const STATE_BORDER = { color: "#4b5563", weight: 1.6, opacity: 0.8 };
+
+function mixColor(a, b, t) {
+  const rgb = (h) => [1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16));
+  const [x, y] = [rgb(a), rgb(b)];
+  return `rgb(${x.map((v, i) => Math.round(v + (y[i] - v) * t)).join(",")})`;
+}
 
 // Circle marker drawn at a fixed pixel offset from its true location, so athletes sharing a hometown fan out at every zoom.
 const SpreadMarker = L.CircleMarker.extend({
@@ -52,13 +64,15 @@ const state = {
   activeYears: null,
   activeSports: null,
   activeRegions: null,
-  regionChips: null
+  regionChips: null,
+  viewMode: "dots",
+  heatLayers: []
 };
 
 function byId(id) { return document.getElementById(id); }
 
 async function loadData() {
-  const res = await fetch("data.json");
+  const res = await fetch("data.json?v=20");
   if (!res.ok) throw new Error("Failed to load data.json");
   return res.json();
 }
@@ -82,6 +96,8 @@ function buildMap() {
     noWrap: true
   }).addTo(map);
 
+  map.createPane("bordersPane").style.zIndex = 370;
+  map.getPane("bordersPane").style.pointerEvents = "none";
   map.createPane("linesPane").style.zIndex = 380;
   map.getPane("linesPane").style.pointerEvents = "none";
   state.linesRenderer = L.canvas({ pane: "linesPane", padding: 0.5 });
@@ -199,19 +215,66 @@ function applyFilters() {
                    activeSports.has(e.sport) && e.years.some((y) => activeYears.has(y)));
     if (base && m._region) regionCounts[m._region] = (regionCounts[m._region] || 0) + 1;
     const show = base && (!activeRegions || activeRegions.has(m._region));
-    if (show) {
+    if (show && state.viewMode === "dots") {
       if (!map.hasLayer(m)) m.addTo(map);
-      visible++;
-      shown.push(m);
     } else if (map.hasLayer(m)) {
       m.closePopup();
       map.removeLayer(m);
+    }
+    if (show) {
+      visible++;
+      shown.push(m);
     }
   }
 
   byId("count").textContent = visible.toLocaleString();
   updateRegionCounts(regionCounts);
+  updateHeat(shown);
   updateLines(shown);
+}
+
+// One heat layer per school in its own color, built from the people passing the current filters.
+function updateHeat(shown) {
+  state.heatLayers.forEach((layer) => state.map.removeLayer(layer));
+  state.heatLayers = [];
+  if (state.viewMode !== "heat" || typeof L.heatLayer !== "function") return;
+
+  const bySchool = new Map();
+  for (const m of shown) {
+    if (!bySchool.has(m._school)) bySchool.set(m._school, []);
+    const ll = m.getLatLng();
+    bySchool.get(m._school).push([ll.lat, ll.lng]);
+  }
+  for (const [school, points] of bySchool) {
+    const color = SCHOOL_COLORS[school] || "#888888";
+    const gradient = { 0.2: mixColor(color, "#ffffff", 0.5), 0.6: color, 1: mixColor(color, "#000000", 0.35) };
+    const layer = L.heatLayer(points, { ...HEAT, gradient }).addTo(state.map);
+    state.heatLayers.push(layer);
+  }
+}
+
+function setViewMode(mode) {
+  state.viewMode = mode;
+  const btn = byId("viewToggle");
+  btn.textContent = mode === "heat" ? "Dot map" : "Heat map";
+  btn.classList.toggle("active", mode === "heat");
+  state.map.closePopup();
+  applyFilters();
+}
+
+async function addStateBorders(map) {
+  try {
+    const res = await fetch("us-states.json?v=21");
+    if (!res.ok) return;
+    L.geoJSON(await res.json(), {
+      pane: "bordersPane",
+      renderer: L.canvas({ pane: "bordersPane" }),
+      interactive: false,
+      style: { ...STATE_BORDER, fill: false }
+    }).addTo(map);
+  } catch (err) {
+    console.warn("State borders unavailable:", err);
+  }
 }
 
 // Lines from campus to every shown hometown; only drawn when the toggle is on and exactly one school is active.
@@ -382,6 +445,7 @@ function buildSearch() {
   const index = state.markers.map((m) => ({ m, key: norm(m._name) }));
 
   function goTo(m) {
+    if (state.viewMode !== "dots") setViewMode("dots");
     if (!state.map.hasLayer(m)) m.addTo(state.map);
     state.map.setView(m.getLatLng(), Math.max(state.map.getZoom(), 8), { animate: false });
     m.openPopup(m.getDisplayLatLng());
@@ -433,6 +497,7 @@ function wireActions() {
   });
 
   byId("linesToggle").addEventListener("change", applyFilters);
+  byId("viewToggle").addEventListener("click", () => setViewMode(state.viewMode === "dots" ? "heat" : "dots"));
 
   byId("selectAllSchools").addEventListener("click", () => state.setAllSchools(true));
   byId("clearAllSchools").addEventListener("click", () => state.setAllSchools(false));
@@ -467,6 +532,8 @@ async function main() {
   buildRegionChips(data);
   buildSportList(data);
   buildSearch();
+  if (typeof L.heatLayer !== "function") byId("viewToggle").style.display = "none";
+  addStateBorders(map);
   wireActions();
   applyFilters();
 
