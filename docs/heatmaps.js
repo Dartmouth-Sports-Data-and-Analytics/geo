@@ -58,6 +58,17 @@ function rampColor(hex, t) {
   return mixColor(hex, "#000000", 0.3 * (t - 0.75) / 0.25);
 }
 
+// The outline file's polygon winding is inconsistent, and d3 reads a wrongly wound ring as "everything except the state";
+// any polygon covering more than half the globe is therefore reversed. Using spherical area also handles the antimeridian.
+function fixWinding(geometry) {
+  const flip = (poly) => (d3.geoArea({ type: "Polygon", coordinates: poly }) > 2 * Math.PI
+    ? poly.map((ring) => ring.slice().reverse())
+    : poly);
+  if (geometry.type === "Polygon") return { ...geometry, coordinates: flip(geometry.coordinates) };
+  if (geometry.type === "MultiPolygon") return { ...geometry, coordinates: geometry.coordinates.map(flip) };
+  return geometry;
+}
+
 // Per school and state: unique players (and per-sport counts) passing the season/sport filters; non-US players are tallied apart.
 function aggregate() {
   const out = {};
@@ -212,7 +223,9 @@ async function main() {
   const geo = await geoRes.json();
   if (!data.state) throw new Error("data.json has no state field; rebuild it with build_data_json.py");
 
-  features = geo.features.filter((f) => STATE_CODES[f.properties.name]);
+  features = geo.features
+    .filter((f) => STATE_CODES[f.properties.name])
+    .map((f) => ({ ...f, geometry: fixWinding(f.geometry) }));
   buildControls();
   buildCards();
   document.addEventListener("click", hideTip);
