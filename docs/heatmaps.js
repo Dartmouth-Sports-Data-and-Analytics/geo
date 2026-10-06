@@ -209,7 +209,7 @@ function multiSelect({ btnId, panelId, listId, allId, noneId, items, format, plu
     link.className = "link-btn";
     link.textContent = preset.button;
     link.addEventListener("click", () => choose(preset.pick(items)));
-    panel.querySelector(".menu-actions").insertBefore(link, byId(allId));
+    panel.querySelector(".menu-actions").appendChild(link);
   }
   btn.addEventListener("click", (e) => {
     e.stopPropagation();
