@@ -6,12 +6,16 @@ from collections import defaultdict
 
 import pandas as pd
 
-import roster_lib as lib
+import availability
+import config
+import roster_data
+import scraper
+import site_rules as rules
 
 
 # Only this script writes roster files, so it creates the folders.
 def school_folder(school):
-    folder_path = os.path.join(lib.ROSTERS_DIR, school.lower())
+    folder_path = os.path.join(config.ROSTERS_DIR, school.lower())
     os.makedirs(folder_path, exist_ok=True)
     return folder_path
 
@@ -21,19 +25,19 @@ def gather_tasks(cache_df, refresh=frozenset()):
     tasks = []
     file_state = {}
 
-    for _, srow in lib.bases_df.iterrows():
+    for _, srow in config.bases_df.iterrows():
         school, base = srow["school"], srow["site_page"]
         folder_path = school_folder(school)
 
-        for _, row in lib.sport_refs.iterrows():
+        for _, row in config.sport_refs().iterrows():
             sport, sport_page = row["sport"], row["sport_page"]
 
-            if (school, sport_page) in lib.KNOWN_UNAVAILABLE:
-                reason = lib.KNOWN_UNAVAILABLE[(school, sport_page)]
+            if (school, sport_page) in rules.KNOWN_UNAVAILABLE:
+                reason = rules.KNOWN_UNAVAILABLE[(school, sport_page)]
                 print(f"[{school}] {sport}: {reason} — skipping regardless of cache.")
                 continue
 
-            cached = lib.get_cached_row(cache_df, school, sport_page)
+            cached = availability.get_cached_row(cache_df, school, sport_page)
             if cached is None:
                 print(f"[{school}] {sport}: not yet discovered — run discover_sports.py first, skipping.")
                 continue
@@ -51,12 +55,12 @@ def gather_tasks(cache_df, refresh=frozenset()):
                 # --refresh: ignore what is on disk and refetch every year.
                 existing_df = pd.DataFrame()
             else:
-                existing_df = lib.load_existing_roster(output_file)
+                existing_df = roster_data.load_existing_roster(output_file)
 
-            first_year = lib.PROGRAM_FIRST_YEAR.get((school, sport_page), min(lib.YEARS))
+            first_year = rules.PROGRAM_FIRST_YEAR.get((school, sport_page), min(config.YEARS))
             rows_were_trimmed = False
             if not existing_df.empty:
-                in_window = existing_df["year"].between(first_year, max(lib.YEARS))
+                in_window = existing_df["year"].between(first_year, max(config.YEARS))
                 if not in_window.all():
                     gone = sorted(existing_df.loc[~in_window, "year"].unique())
                     print(f"[{school}] {sport}: dropping out-of-window year(s) {gone} from disk.")
@@ -64,23 +68,23 @@ def gather_tasks(cache_df, refresh=frozenset()):
                     rows_were_trimmed = True
             existing_years = set(existing_df["year"].unique()) if not existing_df.empty else set()
 
-            current_season_only = (school, sport_page) in lib.CURRENT_SEASON_ONLY
+            current_season_only = (school, sport_page) in rules.CURRENT_SEASON_ONLY
             if current_season_only:
                 # This page serves identical content for every year, so only the current season is kept.
-                stale = existing_years - {lib.CURRENT_YEAR}
+                stale = existing_years - {config.CURRENT_YEAR}
                 if stale:
                     print(f"[{school}] {sport}: dropping {len(stale)} stale duplicate-year row set(s) "
                           f"({sorted(stale)}) — this page doesn't vary by year, only the current season is kept.")
-                    existing_df = existing_df[existing_df["year"] == lib.CURRENT_YEAR]
+                    existing_df = existing_df[existing_df["year"] == config.CURRENT_YEAR]
                     existing_years = set(existing_df["year"].unique())
                     rows_were_trimmed = True
-                years_to_scrape = [] if lib.CURRENT_YEAR in existing_years else [lib.CURRENT_YEAR]
+                years_to_scrape = [] if config.CURRENT_YEAR in existing_years else [config.CURRENT_YEAR]
             else:
                 years_to_scrape = [
-                    year for year in lib.YEARS
+                    year for year in config.YEARS
                     if year >= first_year
-                    and (school, sport_page, year) not in lib.KNOWN_MISSING_SEASONS
-                    and (year not in existing_years or year == lib.CURRENT_YEAR)
+                    and (school, sport_page, year) not in rules.KNOWN_MISSING_SEASONS
+                    and (year not in existing_years or year == config.CURRENT_YEAR)
                 ]
 
             key = (school, sport_page)
@@ -110,7 +114,7 @@ def gather_tasks(cache_df, refresh=frozenset()):
                     "sport_page": sport_page,
                     "resolved_slug": resolved_slug,
                     "year": year,
-                    "is_current": year == lib.CURRENT_YEAR,
+                    "is_current": year == config.CURRENT_YEAR,
                 })
 
     return tasks, file_state
@@ -144,15 +148,15 @@ def run_tasks(tasks, file_state, label=None):
 
         print(f"{prefix}{i}/{total}] Pulling {school} {sport} {year} via '{resolved_slug}'...")
         try:
-            df, matched_slug = lib.scrape_roster(
+            df, matched_slug = scraper.scrape_roster(
                 t["base"], sport_page, [resolved_slug], year=year, is_current=is_current, school=school
             )
-            lib.log_scrape(school, sport_page, year, matched_slug, len(df))
+            scraper.log_scrape(school, sport_page, year, matched_slug, len(df))
             if not df.empty:
                 file_state[t["key"]]["new_fetches"][year] = df
         except Exception as e:
             print(f"Failed {school} {sport} {year}: {e}")
-            lib.log_scrape(school, sport_page, year, None, 0)
+            scraper.log_scrape(school, sport_page, year, None, 0)
 
 
 def write_files(file_state):
@@ -175,7 +179,7 @@ def write_files(file_state):
         # Exact duplicate rows are never real data.
         full_df = full_df.drop_duplicates()
 
-        full_df, dropped = lib.drop_stale_years(full_df, lib.CURRENT_YEAR)
+        full_df, dropped = roster_data.drop_stale_years(full_df, config.CURRENT_YEAR)
         if dropped:
             print(f"[{state['school']}] {state['sport']}: dropped year(s) {dropped} -- stale roster "
                   f"(identical to another year, or last year's seniors not advanced), not real data.")
@@ -184,7 +188,7 @@ def write_files(file_state):
             continue
 
         # Heals names saved before the badge fix.
-        badges_fixed = lib.clean_name_badges(full_df)
+        badges_fixed = roster_data.clean_name_badges(full_df)
         if badges_fixed:
             print(f"[{state['school']}] {state['sport']}: cleaned {badges_fixed} name(s) (badges/extra spaces) in existing rows.")
 
@@ -196,7 +200,7 @@ def write_files(file_state):
 
 
 def pull_all(max_workers=8, refresh=frozenset()):
-    cache_df = lib.load_availability_cache()
+    cache_df = availability.load_availability_cache()
     if cache_df.empty:
         print("No availability data found — run discover_sports.py first.")
         return

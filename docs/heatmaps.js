@@ -36,15 +36,10 @@ function rampColor(hex, t) {
   return mixColor(hex, "#000000", 0.3 * (t - 0.75) / 0.25);
 }
 
-// The outline file's polygon winding is inconsistent, and d3 reads a wrongly wound ring as "everything except the state";
-// any polygon covering more than half the globe is therefore reversed. Using spherical area also handles the antimeridian.
-function fixWinding(geometry) {
-  const flip = (poly) => (d3.geoArea({ type: "Polygon", coordinates: poly }) > 2 * Math.PI
-    ? poly.map((ring) => ring.slice().reverse())
-    : poly);
-  if (geometry.type === "Polygon") return { ...geometry, coordinates: flip(geometry.coordinates) };
-  if (geometry.type === "MultiPolygon") return { ...geometry, coordinates: geometry.coordinates.map(flip) };
-  return geometry;
+// d3 paints a wrongly wound outline over the whole map, so refuse to draw a file that pipeline/prepare_states.py hasn't fixed.
+function checkWinding(list) {
+  const bad = list.filter((f) => d3.geoArea(f) > 2 * Math.PI).map((f) => f.properties.name);
+  if (bad.length) throw new Error(`us-states.json has wrongly wound outlines (${bad.join(", ")}); run pipeline/prepare_states.py`);
 }
 
 // Per school and state: unique players (and per-sport counts) passing the season/sport filters; non-US players are tallied apart.
@@ -108,8 +103,9 @@ function update() {
       const st = a.states[STATE_CODES[f.properties.name]];
       return st && a.max ? rampColor(color, Math.sqrt(st.count / a.max)) : NO_DATA_FILL;
     });
-    card.total.textContent = empty ? "" : noTeam ? "No team" : `${a.total.toLocaleString()} US players` +
-      (a.other ? ` · ${a.other.toLocaleString()} international` : "");
+    const shownTotals = !empty && !noTeam;
+    card.total.textContent = empty ? "" : noTeam ? "No team" : `${a.total.toLocaleString()} US · ${a.other.toLocaleString()} Intl`;
+    card.total.title = shownTotals ? `${a.total.toLocaleString()} players from US states, ${a.other.toLocaleString()} international` : "";
     card.legendMax.textContent = a.max.toLocaleString();
     card.rank.replaceChildren(...(empty || noTeam ? [] : a.ranked.slice(0, RANK_COUNT).map((r) => {
       const item = document.createElement("span");
@@ -282,16 +278,15 @@ function buildCards() {
 }
 
 async function main() {
-  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=20"), fetch("us-states.json?v=1")]);
+  const [dataRes, geoRes] = await Promise.all([fetch("data.json?v=74a3d43c"), fetch("us-states.json?v=91dad8ad")]);
   if (!dataRes.ok) throw new Error("Could not load data.json");
-  if (!geoRes.ok) throw new Error("Could not load us-states.json (see README: download it into docs/)");
+  if (!geoRes.ok) throw new Error("Could not load us-states.json (run pipeline/prepare_states.py)");
   data = await dataRes.json();
   const geo = await geoRes.json();
   if (!data.state) throw new Error("data.json has no state field; rebuild it with build_data_json.py");
 
-  features = geo.features
-    .filter((f) => STATE_CODES[f.properties.name])
-    .map((f) => ({ ...f, geometry: fixWinding(f.geometry) }));
+  features = geo.features.filter((f) => STATE_CODES[f.properties.name]);
+  checkWinding(features);
   buildControls();
   buildCards();
   document.addEventListener("click", hideTip);

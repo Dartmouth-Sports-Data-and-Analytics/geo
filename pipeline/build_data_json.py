@@ -6,16 +6,10 @@ import re
 
 import pandas as pd
 
+import config
 import stamp_versions
 
-# Not importing roster_lib: it requires sport_page_reference.xlsx at import time, which is optional here.
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_DIR = os.path.join(ROOT_DIR, "data")
-GEO_DIR = os.path.join(DATA_DIR, "geo-rosters")
-REF_PATH = os.path.join(DATA_DIR, "sport_page_reference.xlsx")
-OUT_PATH = os.path.join(ROOT_DIR, "docs", "data.json")
-REGIONS_PATH = os.path.join(DATA_DIR, "regions.csv")
-FIXES_PATH = os.path.join(DATA_DIR, "hometown_fixes.csv")
+OUT_PATH = os.path.join(config.DOCS_DIR, "data.json")
 OTHER_REGION = "International / Other"
 
 
@@ -29,9 +23,9 @@ def clean_sport_slug(slug):
 
 
 def load_all_geo_csvs():
-    files = glob.glob(os.path.join(GEO_DIR, "*_rosters_geo.csv"))
+    files = glob.glob(os.path.join(config.GEO_DIR, "*_rosters_geo.csv"))
     if not files:
-        raise FileNotFoundError(f"No *_rosters_geo.csv files found in {GEO_DIR}")
+        raise FileNotFoundError(f"No *_rosters_geo.csv files found in {config.GEO_DIR}")
 
     frames = []
     for path in files:
@@ -49,8 +43,8 @@ def load_all_geo_csvs():
 
 # Slugs -> display names via the reference xlsx, falling back to slug cleanup.
 def clean_sport_labels(all_data):
-    if os.path.exists(REF_PATH):
-        refs = pd.read_excel(REF_PATH)[["sport_page", "sport"]].copy()
+    if os.path.exists(config.REFERENCE_PATH):
+        refs = pd.read_excel(config.REFERENCE_PATH)[["sport_page", "sport"]].copy()
         refs["sport_display"] = refs["sport"].str.title()
         refs = refs[["sport_page", "sport_display"]]
 
@@ -197,13 +191,6 @@ _STATE_NAMES = {
 _STATE_LOOKUP = {name: code for code, names in _STATE_NAMES.items() for name in names.split()}
 
 
-def load_fixes():
-    if not os.path.exists(FIXES_PATH):
-        return {}
-    df = pd.read_csv(FIXES_PATH).dropna(subset=["hometown", "corrected"])
-    return dict(zip(df["hometown"], df["corrected"]))
-
-
 # State code from the last comma-separated part of the hometown (after hand fixes); None means not a recognizable US state.
 def us_state(hometown, fixes):
     s = fixes.get(hometown, hometown)
@@ -218,15 +205,15 @@ def us_state(hometown, fixes):
 
 
 def load_region_map():
-    if not os.path.exists(REGIONS_PATH):
-        raise FileNotFoundError(f"Missing {REGIONS_PATH} (columns: state, region)")
-    df = pd.read_csv(REGIONS_PATH)
+    if not os.path.exists(config.REGIONS_PATH):
+        raise FileNotFoundError(f"Missing {config.REGIONS_PATH} (columns: state, region)")
+    df = pd.read_csv(config.REGIONS_PATH)
     return dict(zip(df["state"], df["region"])), list(dict.fromkeys(df["region"]))
 
 
 # Adds a region per athlete (from data/regions.csv) and prints a summary plus the most common unrecognized hometowns.
 def add_regions(athletes):
-    fixes = load_fixes()
+    fixes = config.load_fixes()
     state_region, order = load_region_map()
     region_of = {h: state_region.get(us_state(h, fixes), OTHER_REGION) for h in athletes["hometown"].unique()}
     athletes = athletes.copy()

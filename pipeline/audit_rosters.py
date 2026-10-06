@@ -5,9 +5,9 @@ import re
 
 import pandas as pd
 
-ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ROSTERS_DIR = os.path.join(ROOT_DIR, "data", "rosters")
-OUT_PATH = os.path.join(ROOT_DIR, "data", "_class_audit.csv")
+import config
+
+OUT_PATH = os.path.join(config.DATA_DIR, "_class_audit.csv")
 
 
 # Class label -> 1..5 (Fy/So/Jr/Sr/Gr); redshirt prefixes count as the base class; unknown labels give None.
@@ -26,13 +26,13 @@ def class_rank(label):
 
 def load_rosters():
     frames = []
-    for path in glob.glob(os.path.join(ROSTERS_DIR, "*", "*_rosters.csv")):
+    for path in glob.glob(os.path.join(config.ROSTERS_DIR, "*", "*_rosters.csv")):
         df = pd.read_csv(path).reindex(columns=["name", "class", "hometown", "year"])
         df["school"] = os.path.basename(os.path.dirname(path)).title()
         df["sport"] = os.path.basename(path)[:-len("_rosters.csv")]
         frames.append(df)
     if not frames:
-        raise FileNotFoundError(f"No roster files found in {ROSTERS_DIR}")
+        raise FileNotFoundError(f"No roster files found in {config.ROSTERS_DIR}")
     df = pd.concat(frames, ignore_index=True)
     df["name"] = df["name"].astype(str).str.split().str.join(" ")
     df["rank"] = df["class"].map(class_rank)
@@ -93,7 +93,7 @@ def main():
     lc = long_careers(df)
     if len(lc):
         lc.sort_values(["label_not_advanced", "school", "sport"], ascending=[False, True, True]).to_csv(
-            os.path.join(ROOT_DIR, "data", "_long_careers.csv"), index=False)
+            os.path.join(config.DATA_DIR, "_long_careers.csv"), index=False)
         stuck = lc[lc["label_not_advanced"]]
         print(f"\n{len(lc)} athletes have 5+ seasons in one sport; {len(stuck)} have a class label that did not advance:")
         print(stuck.head(30).to_string(index=False) if len(stuck) else "  none")

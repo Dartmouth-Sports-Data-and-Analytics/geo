@@ -27,7 +27,12 @@ docs/       The website, published by GitHub Pages
 | `pipeline/pull_rosters.py` | Downloads each season's roster, drops stale or copied seasons |
 | `pipeline/geocode_rosters.py` | Turns hometowns into coordinates (OpenStreetMap Nominatim), with a cache |
 | `pipeline/build_data_json.py` | Merges everything into `docs/data.json`, one entry per athlete per sport |
-| `pipeline/roster_lib.py` | Shared helpers and the per-school URL exceptions |
+| `pipeline/config.py` | Paths, school list and seasons, and loaders for the hand-edited input files |
+| `pipeline/site_rules.py` | Hand-confirmed quirks of each school's site (URL patterns, missing seasons, unavailable teams); edit these tables, not the code |
+| `pipeline/scraper.py` | Fetching and parsing roster pages, with polite rate limiting |
+| `pipeline/availability.py` | The cache of which school + sport pages exist, and the rules that tidy it |
+| `pipeline/roster_data.py` | Name cleanup and the stale-season checks for roster tables |
+| `pipeline/prepare_states.py` | One-time: downloads US state outlines and fixes them for the heat maps |
 | `pipeline/stamp_versions.py` | Updates the cache-busting version suffixes in `docs/` from file hashes |
 | `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
 | `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
@@ -55,7 +60,7 @@ cd ../docs
 python3 -m http.server 8000                    # preview at http://localhost:8000
 ```
 
-The heat maps need US state outlines once: `curl -L -o docs/us-states.json https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json`
+The heat maps need US state outlines once: `python prepare_states.py` (from `pipeline/`) downloads them, fixes their polygon winding, and writes `docs/us-states.json`.
 
 Cache-busting `?v=` suffixes in `docs/` are content hashes, stamped automatically at the end of `build_data_json.py`. After editing `app.js`, `heatmaps.js` or the CSS by hand, run `python stamp_versions.py` (or install the pre-commit hook below) so browsers fetch the new files. To stamp automatically on every commit, install this hook once from the repo root:
 

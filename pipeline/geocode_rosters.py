@@ -8,9 +8,9 @@ import pandas as pd
 from geopy.extra.rate_limiter import RateLimiter
 from geopy.geocoders import Nominatim
 
-import roster_lib as lib
+import config
 
-GEO_DIR = lib.GEO_DIR
+GEO_DIR = config.GEO_DIR
 os.makedirs(GEO_DIR, exist_ok=True)
 
 GEO_COLUMNS = ["name", "position", "hometown", "sport", "year", "latitude", "longitude"]
@@ -34,7 +34,7 @@ def geo_path(school):
 
 
 # Standalone hometown -> (lat, lon) cache, so geo-rosters files aren't rescanned every run.
-HOMETOWN_CACHE_PATH = os.path.join(lib.DATA_DIR, "_hometown_cache.csv")
+HOMETOWN_CACHE_PATH = os.path.join(config.DATA_DIR, "_hometown_cache.csv")
 _HOMETOWN_CACHE_COLUMNS = ["hometown", "latitude", "longitude"]
 
 
@@ -57,22 +57,12 @@ def save_hometown_cache_file(hometown_cache):
     df.to_csv(HOMETOWN_CACHE_PATH, index=False)
 
 
-# Hand-edited corrections (columns: hometown, corrected) for typos and odd formats; the corrected text is what gets looked up.
-FIXES_PATH = os.path.join(lib.DATA_DIR, "hometown_fixes.csv")
-
 # Trailing state/country spellings Nominatim doesn't recognize, matched case-insensitively without the final period.
 _TRAILING_FIXES = {
     "wisc": "Wisconsin", "penn": "Pennsylvania", "vir": "Virginia", "ida": "Idaho", "ari": "Arizona",
     "wva": "West Virginia", "c.t": "Connecticut", "calf": "California",
     "aus": "Australia", "n.z": "New Zealand", "u.k": "United Kingdom", "great britain": "United Kingdom",
 }
-
-
-def load_fixes():
-    if not os.path.exists(FIXES_PATH):
-        return {}
-    df = pd.read_csv(FIXES_PATH).dropna(subset=["hometown", "corrected"])
-    return dict(zip(df["hometown"], df["corrected"]))
 
 
 # Queries to try in order: the hand fix if any, else the cleaned string, then first+last parts if there are 3+.
@@ -92,7 +82,7 @@ def candidate_queries(hometown, fixes):
 
 
 # Hometowns Nominatim returned no match for; skipped on later runs so they aren't re-queried every time.
-FAILED_PATH = os.path.join(lib.DATA_DIR, "_hometown_failed.csv")
+FAILED_PATH = os.path.join(config.DATA_DIR, "_hometown_failed.csv")
 
 
 def load_failed_set():
@@ -123,7 +113,7 @@ def build_hometown_cache(existing_by_school):
 
 
 def read_school_rosters(school):
-    folder = os.path.join(lib.ROSTERS_DIR, school.lower())
+    folder = os.path.join(config.ROSTERS_DIR, school.lower())
     csv_files = glob.glob(os.path.join(folder, "*.csv"))
     if not csv_files:
         return None
@@ -139,7 +129,7 @@ def read_school_rosters(school):
 
 
 def geocode_school(school, hometown_cache, existing, failed, transient, fixes):
-    folder = os.path.join(lib.ROSTERS_DIR, school.lower())
+    folder = os.path.join(config.ROSTERS_DIR, school.lower())
     if not os.path.isdir(folder):
         print(f"No rosters/{school.lower()} folder found, skipping.")
         return existing
@@ -194,7 +184,7 @@ def geocode_school(school, hometown_cache, existing, failed, transient, fixes):
 
 
 def geocode_all(retry_failed=False):
-    schools = list(lib.bases_df["school"])
+    schools = list(config.bases_df["school"])
 
     existing_by_school = {school: load_existing_geo(school) for school in schools}
 
@@ -203,7 +193,7 @@ def geocode_all(retry_failed=False):
     hometown_cache.update(load_hometown_cache_file())
     failed = set() if retry_failed else load_failed_set()
     transient = set()
-    fixes = load_fixes()
+    fixes = config.load_fixes()
     print(f"Starting hometown cache: {len(hometown_cache)} unique hometowns already geocoded, "
           f"{len(failed)} on the skip list (no match before; use --retry-failed to retry), "
           f"{len(fixes)} hand fixes loaded\n")
