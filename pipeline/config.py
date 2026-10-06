@@ -4,6 +4,14 @@ import os
 
 import pandas as pd
 
+VERBOSE = False  # set by --verbose; per-item progress goes through note(), summaries and warnings through print()
+
+
+def note(*args):
+    if VERBOSE:
+        print(*args)
+
+
 YEARS = list(range(2021, 2027))
 CURRENT_YEAR = max(YEARS)
 

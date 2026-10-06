@@ -70,6 +70,7 @@ html, body {
   flex-wrap: wrap;
   gap: 8px;
   justify-content: center;
+  width: max-content;
   max-width: 92vw;
   padding: 8px;
   background: rgba(255, 255, 255, 0.92);
@@ -91,6 +92,9 @@ html, body {
 }
 .school-btn:active { transform: scale(0.96); }
 .school-btn.off { opacity: 0.3; }
+
+#schoolBar .link-btn { padding: 0 8px; white-space: nowrap; }
+#schoolBar .school-btn + .link-btn { margin-left: 6px; }
 
 @media (max-width: 640px) {
   #schoolBar {
@@ -323,5 +327,5 @@ html, body {
   #header h1 { font-size: 15px; }
   #search { top: 62px; left: 14px; }
   #filterPanel { width: calc(100vw - 32px); }
-  #heatLink { bottom: 74px; right: 12px; }
+  #heatLink { bottom: 124px; right: 12px; }
 }

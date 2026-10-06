@@ -131,12 +131,12 @@ def read_school_rosters(school):
 def geocode_school(school, hometown_cache, existing, failed, transient, fixes):
     folder = os.path.join(config.ROSTERS_DIR, school.lower())
     if not os.path.isdir(folder):
-        print(f"No rosters/{school.lower()} folder found, skipping.")
+        print(f"{school}: no rosters/{school.lower()} folder, skipped.")
         return existing
 
     raw = read_school_rosters(school)
     if raw is None:
-        print("No .csv files found, skipping.")
+        print(f"{school}: no roster files, skipped.")
         return existing
 
     out_path = geo_path(school)
@@ -147,7 +147,8 @@ def geocode_school(school, hometown_cache, existing, failed, transient, fixes):
                         if h not in hometown_cache and h not in failed and h not in transient)
 
     if to_geocode:
-        print(f"Geocoding {len(to_geocode)} never-before-seen hometown(s)...")
+        minutes = len(to_geocode) * 1.1 / 60
+        print(f"{school}: looking up {len(to_geocode)} new {'hometown' if len(to_geocode) == 1 else 'hometowns'}" + (f" (about {minutes:.0f} min)" if minutes >= 1 else ""))
 
         for hometown in to_geocode:
             # A no-match goes on the saved skip list; an error is only skipped for the rest of this run.
@@ -174,11 +175,9 @@ def geocode_school(school, hometown_cache, existing, failed, transient, fixes):
     rows["longitude"] = rows["hometown"].map(lambda h: hometown_cache.get(h, (None, None))[1])
     rows = rows.drop_duplicates(subset=["name", "hometown", "sport", "year"], keep="first")
 
-    before = len(existing)
     rows.to_csv(out_path, index=False)
     missing = rows["latitude"].isna().sum()
-    print(f"Wrote {out_path} ({len(rows)} rows; was {before}; "
-          f"{len(to_geocode)} new hometown lookup(s); {missing} row(s) still without coordinates)")
+    print(f"{school}: {len(rows):,} rows, {len(to_geocode)} new lookups, {missing} without coordinates")
 
     return rows
 
@@ -194,19 +193,15 @@ def geocode_all(retry_failed=False):
     failed = set() if retry_failed else load_failed_set()
     transient = set()
     fixes = config.load_fixes()
-    print(f"Starting hometown cache: {len(hometown_cache)} unique hometowns already geocoded, "
-          f"{len(failed)} on the skip list (no match before; use --retry-failed to retry), "
-          f"{len(fixes)} hand fixes loaded\n")
+    print(f"Hometown cache: {len(hometown_cache):,} geocoded, {len(failed)} on the skip list (--retry-failed to retry), {len(fixes)} hand fixes.")
 
     for school in schools:
-        print(f"== {school} ==")
         # The cache is shared and mutated in place, so later schools reuse earlier lookups.
         existing_by_school[school] = geocode_school(
             school, hometown_cache, existing_by_school[school], failed, transient, fixes)
         # Saved after every school so a crash keeps progress.
         save_hometown_cache_file(hometown_cache)
         save_failed_set(failed)
-        print()
 
 
 if __name__ == "__main__":

@@ -3,15 +3,15 @@ import os
 
 import pandas as pd
 
-from config import AVAILABILITY_CACHE_PATH
+import config
 from site_rules import NEUTRAL_ENTRY_CLEANUP_EXEMPT
 
 _AVAILABILITY_COLUMNS = ["school", "sport_page", "available", "resolved_slug"]
 
 
 def load_availability_cache():
-    if os.path.exists(AVAILABILITY_CACHE_PATH):
-        df = pd.read_csv(AVAILABILITY_CACHE_PATH)
+    if os.path.exists(config.AVAILABILITY_CACHE_PATH):
+        df = pd.read_csv(config.AVAILABILITY_CACHE_PATH)
         for col in _AVAILABILITY_COLUMNS:
             if col not in df.columns:
                 df[col] = None
@@ -20,8 +20,8 @@ def load_availability_cache():
 
 
 def save_availability_cache(df):
-    os.makedirs(os.path.dirname(AVAILABILITY_CACHE_PATH), exist_ok=True)
-    df.to_csv(AVAILABILITY_CACHE_PATH, index=False)
+    os.makedirs(os.path.dirname(config.AVAILABILITY_CACHE_PATH), exist_ok=True)
+    df.to_csv(config.AVAILABILITY_CACHE_PATH, index=False)
 
 
 def get_cached_row(cache_df, school, sport_page):
@@ -57,9 +57,8 @@ def resolve_combined_gender_conflicts(cache_df):
                 continue
 
             if row["resolved_slug"] == sibling_row["resolved_slug"]:
-                print(f"[{school}] {sport_page} and {sibling} both resolve to the same "
-                      f"combined page ('{row['resolved_slug']}') with no gender field to split "
-                      f"on — excluding both rather than duplicating/mislabeling athletes.")
+                config.note(f"[{school}] {sport_page} and {sibling} resolve to the same combined page ('{row['resolved_slug']}'); "
+                            f"excluding both rather than mislabeling athletes.")
                 cache_df = record_availability(cache_df, school, sport_page, False, None)
                 cache_df = record_availability(cache_df, school, sibling, False, None)
 
@@ -87,9 +86,7 @@ def resolve_redundant_neutral_entries(cache_df):
             if mens_row["resolved_slug"] == womens_row["resolved_slug"]:
                 continue  # that's the OTHER case, already handled above
 
-            print(f"[{school}] {sport_page}: mens-{sport_page} and womens-{sport_page} are "
-                  f"already independently available via different pages — excluding this "
-                  f"neutral entry so athletes aren't triple-counted.")
+            config.note(f"[{school}] {sport_page}: mens- and womens- pages already exist separately; excluding this neutral entry.")
             cache_df = record_availability(cache_df, school, sport_page, False, None)
 
     return cache_df
@@ -114,10 +111,8 @@ def resolve_bare_vs_gendered_duplicates(cache_df):
                 if sibling_row["resolved_slug"] != row["resolved_slug"]:
                     continue
 
-                print(f"[{school}] {sibling}: resolves to the exact same page as the "
-                      f"existing '{sport_page}' entry ('{row['resolved_slug']}') — this looks "
-                      f"like one coed team, not a separate squad. Excluding {sibling} and "
-                      f"keeping {sport_page} rather than double-counting the same athletes.")
+                config.note(f"[{school}] {sibling} resolves to the same page as '{sport_page}' ('{row['resolved_slug']}'); "
+                            f"treating it as one coed team and excluding {sibling}.")
                 cache_df = record_availability(cache_df, school, sibling, False, None)
 
     return cache_df

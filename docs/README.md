@@ -33,6 +33,7 @@ docs/       The website, published by GitHub Pages
 | `pipeline/availability.py` | The cache of which school + sport pages exist, and the rules that tidy it |
 | `pipeline/roster_data.py` | Name cleanup and the stale-season checks for roster tables |
 | `pipeline/prepare_states.py` | One-time: downloads US state outlines and fixes them for the heat maps |
+| `requirements.txt` | Python packages the pipeline needs |
 | `pipeline/stamp_versions.py` | Updates the cache-busting version suffixes in `docs/` from file hashes |
 | `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
 | `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
@@ -48,13 +49,15 @@ docs/       The website, published by GitHub Pages
 
 ```bash
 python3 -m venv venv && source venv/bin/activate
-pip install pandas requests beautifulsoup4 openpyxl geopy
+pip install -r requirements.txt
 
 cd pipeline
 python run_pipeline.py                         # discover -> pull -> geocode -> build
 python run_pipeline.py --only pull             # one step
 python run_pipeline.py --refresh baseball      # refetch every season of a sport
 python geocode_rosters.py --retry-failed       # retry hometowns with no match
+python run_pipeline.py --verbose               # also print every skipped sport and fetched page
+python build_data_json.py --check-regions      # list hometowns that fell into International / Other
 
 cd ../docs
 python3 -m http.server 8000                    # preview at http://localhost:8000

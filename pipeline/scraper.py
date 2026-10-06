@@ -9,10 +9,20 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from config import SCRAPE_LOG_PATH
+import config
 from roster_data import strip_name_badge
 from site_rules import (BARE_SLUG_NEVER_REAL, SCHOOL_PREFERS_BARE_YEAR, SCHOOL_PREFERS_DASH_YEAR, SKIP_BARE_YEAR_SPORTS,
                         SPORT_SLUG_ALIASES, SPRING_SEASON_SPORTS)
+
+# Warnings that would otherwise repeat for every season are printed once per run.
+_warned = set()
+
+
+def warn_once(message):
+    if message not in _warned:
+        _warned.add(message)
+        print(message)
+
 
 # One row per fetch attempt (slug, row count, time), appended as it goes.
 _SCRAPE_LOG_COLUMNS = ["timestamp", "school", "sport_page", "year", "matched_slug", "row_count"]
@@ -22,14 +32,14 @@ _SCRAPE_LOG_LOCK = threading.Lock()
 
 
 def log_scrape(school, sport_page, year, matched_slug, row_count):
-    os.makedirs(os.path.dirname(SCRAPE_LOG_PATH), exist_ok=True)
+    os.makedirs(os.path.dirname(config.SCRAPE_LOG_PATH), exist_ok=True)
     row = pd.DataFrame([[
         datetime.now().isoformat(timespec="seconds"),
         school, sport_page, year, matched_slug, row_count,
     ]], columns=_SCRAPE_LOG_COLUMNS)
     with _SCRAPE_LOG_LOCK:
-        write_header = not os.path.exists(SCRAPE_LOG_PATH)
-        row.to_csv(SCRAPE_LOG_PATH, mode="a", header=write_header, index=False)
+        write_header = not os.path.exists(config.SCRAPE_LOG_PATH)
+        row.to_csv(config.SCRAPE_LOG_PATH, mode="a", header=write_header, index=False)
 
 
 def extract_clean_text(elem):
@@ -114,15 +124,13 @@ def _get_with_retry(url, headers):
             if attempt == MAX_RETRIES:
                 raise
             wait = 2 ** attempt  # 2s, 4s, 8s
-            print(f"  Connection error on {url} (attempt {attempt}/{MAX_RETRIES}): {e} — retrying in {wait}s...")
+            print(f"  Connection error on {url} ({type(e).__name__}); retrying in {wait}s (attempt {attempt}/{MAX_RETRIES})")
             time.sleep(wait)
             continue
 
         if response.status_code in RETRYABLE_STATUS_CODES and attempt < MAX_RETRIES:
             wait = 2 ** attempt  # 2s, 4s, 8s
-            print(f"  Got status {response.status_code} on {url} (attempt {attempt}/{MAX_RETRIES}) -- "
-                  f"treating as a possible temporary rate-limit/server hiccup, not a real 404. "
-                  f"Retrying in {wait}s...")
+            print(f"  Status {response.status_code} on {url}; retrying in {wait}s (attempt {attempt}/{MAX_RETRIES})")
             time.sleep(wait)
             continue
 
@@ -175,27 +183,17 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
             break
 
     if used_selector is None or len(cards) == 0:
-        print(f"No roster found for {sport} {year} (tried {len(url_candidates)} URL(s)).")
+        config.note(f"No roster found for {sport} {year} (tried {len(url_candidates)} URL(s)).")
         return pd.DataFrame(), None
 
     if verbose:
         print("Using selector:", used_selector)
 
     if used_slug == _degendered_slug(sport):
-        print(
-            f"  WARNING: {sport} {year} had no page of its own — matched via the "
-            f"combined '{used_slug}' page instead. This roster may list both "
-            f"genders together with no field distinguishing them, so it could get "
-            f"pulled AGAIN under the other gender's sport label, duplicating every "
-            f"athlete. Manually check {base}'s '{used_slug}' page and "
-            f"rosters/<school>/{sport}_rosters.csv / {used_slug}_rosters.csv "
-            f"against each other before trusting this data."
-        )
+        warn_once(f"WARNING: {base} {sport} has no page of its own and matched the combined '{used_slug}' page. If that page lists both "
+                  f"genders it will duplicate athletes; compare rosters/<school>/{sport}_rosters.csv with {used_slug}_rosters.csv.")
     elif used_slug != sport:
-        print(
-            f"  Note: {sport} {year} matched via alias slug '{used_slug}' instead "
-            f"of the sport_page_reference.xlsx value '{sport}'."
-        )
+        config.note(f"  {sport} {year} matched via alias slug '{used_slug}' instead of '{sport}'.")
 
     # Drop exact-duplicate records within one scrape (a card occasionally renders twice).
     seen = set()

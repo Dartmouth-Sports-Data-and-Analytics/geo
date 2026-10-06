@@ -33,7 +33,7 @@ const state = {
 };
 
 async function loadData() {
-  const res = await fetch("data.json?v=74a3d43c");
+  const res = await fetch("data.json?v=20");
   if (!res.ok) throw new Error("Failed to load data.json");
   return res.json();
 }
@@ -230,6 +230,14 @@ function buildSchoolControls() {
 
     grid.appendChild(pill);
     bar.appendChild(btn);
+  }
+
+  for (const [label, active] of [["Select all", true], ["Clear all", false]]) {
+    const action = document.createElement("button");
+    action.className = "link-btn";
+    action.textContent = label;
+    action.addEventListener("click", () => state.setAllSchools(active));
+    bar.appendChild(action);
   }
 }
 

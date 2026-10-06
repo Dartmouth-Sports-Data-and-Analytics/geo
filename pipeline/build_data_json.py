@@ -1,4 +1,5 @@
 """Rebuilds docs/data.json from geo-rosters/*_rosters_geo.csv (one entry per athlete per sport)."""
+import argparse
 import glob
 import json
 import os
@@ -37,7 +38,6 @@ def load_all_geo_csvs():
     for col in ("name", "position", "hometown", "sport"):
         if col in all_data.columns:
             all_data[col] = squish(all_data[col].astype("string")).astype(object)
-    print(f"{len(all_data)} rows loaded from {len(files)} school file(s)")
     return all_data
 
 
@@ -58,7 +58,6 @@ def clean_sport_labels(all_data):
         print("sport_page_reference.xlsx not found -- cleaning sport slugs instead.")
         all_data["sport"] = all_data["sport"].map(clean_sport_slug)
 
-    print("Sports:", sorted(all_data["sport"].unique()))
     return all_data
 
 
@@ -76,12 +75,15 @@ def combine_sports(all_data):
 
     before = all_data["sport"].nunique()
     all_data["sport"] = all_data["sport"].map(combine)
-    print(f"Sports combined: {before} -> {all_data['sport'].nunique()} distinct sport labels")
+    print(f"{all_data['sport'].nunique()} sports (combined from {before} labels)")
     return all_data
 
 
 def clean_and_filter(all_data):
+    total = len(all_data)
     all_data = all_data.dropna(subset=["latitude", "longitude"]).copy()
+    dropped = total - len(all_data)
+    print(f"Read {total:,} roster rows" + (f"; {dropped:,} left off the map for lack of coordinates (see data/_hometown_failed.csv)." if dropped else "."))
     all_data["latitude"] = all_data["latitude"].round(4)
     all_data["longitude"] = all_data["longitude"].round(4)
     all_data["year"] = all_data["year"].astype(int)
@@ -89,7 +91,6 @@ def clean_and_filter(all_data):
     all_data["hometown"] = squish(all_data["hometown"].astype(str))
     all_data["sport"] = squish(all_data["sport"].astype(str))
 
-    print(f"Rows: {len(all_data)} across {all_data['school'].nunique()} schools")
     return all_data
 
 
@@ -143,32 +144,20 @@ def collapse_to_athletes(all_data):
         .drop(columns=["run_id"])
     )
 
-    print(f"{len(all_data)} roster rows -> {len(athletes)} athlete entries")
     return athletes
 
 
-# Flags athletes with more than 4 seasons in one sport (likely stale pages or merged namesakes), grouped to expose systemic causes.
-def report_long_careers(athletes, limit=4):
-    long = athletes[athletes["years"].map(len) > limit]
-    if long.empty:
-        print(f"No athlete has more than {limit} seasons in one sport.")
-        return
-    print(f"\n{len(long)} athlete entries have more than {limit} seasons in one sport:")
-    counts = long.groupby(["school", "sport"]).size().sort_values(ascending=False)
-    for (school, sport), n in counts.head(15).items():
-        print(f"  {school} / {sport}: {n}")
-    for _, r in long.sort_values(["school", "sport", "name"]).head(25).iterrows():
-        print(f"    {r['name']} ({r['school']}, {r['sport']}): {r['years']}")
-    print()
+# One athlete spanning more than four seasons in a sport is usually a real fifth year, but can also be a stale page; audit_rosters.py lists them.
+def note_long_careers(athletes, limit=4):
+    n = int((athletes["years"].map(len) > limit).sum())
+    if n:
+        print(f"{n} athlete entries have more than {limit} seasons in one sport; run audit_rosters.py to review them.")
 
 
 # Same school + name + hometown = same person; the map draws one dot per person ID.
 def assign_person_ids(athletes):
     athletes = athletes.copy()
     athletes["person"] = athletes.groupby(["school", "name", "hometown"], sort=True).ngroup()
-    n_people = athletes["person"].nunique()
-    print(f"{len(athletes)} athlete entries -> {n_people} distinct people "
-          f"({len(athletes) - n_people} entries are a second+ sport for someone)")
     return athletes
 
 
@@ -211,8 +200,8 @@ def load_region_map():
     return dict(zip(df["state"], df["region"])), list(dict.fromkeys(df["region"]))
 
 
-# Adds a region per athlete (from data/regions.csv) and prints a summary plus the most common unrecognized hometowns.
-def add_regions(athletes):
+# Adds a region and state per athlete (regions come from data/regions.csv) and prints the people per region.
+def add_regions(athletes, check_regions=False):
     fixes = config.load_fixes()
     state_region, order = load_region_map()
     region_of = {h: state_region.get(us_state(h, fixes), OTHER_REGION) for h in athletes["hometown"].unique()}
@@ -223,14 +212,10 @@ def add_regions(athletes):
 
     people = athletes.drop_duplicates("person")
     counts = people["region"].value_counts()
-    print("\nPeople by region:")
-    for region in order + [OTHER_REGION]:
-        print(f"  {region}: {int(counts.get(region, 0))}")
-    other = people[people["region"] == OTHER_REGION]["hometown"].value_counts().head(15)
-    if len(other):
-        print("Most common hometowns in International / Other (check for US towns that failed to parse):")
-        print(other.to_string())
-    print()
+    print("Regions: " + " | ".join(f"{region} {int(counts.get(region, 0)):,}" for region in order + [OTHER_REGION]))
+    if check_regions:
+        other = people[people["region"] == OTHER_REGION]["hometown"].value_counts().head(15)
+        print("Most common hometowns in International / Other (look for US towns that failed to parse):\n" + other.to_string())
     return athletes, order + [OTHER_REGION]
 
 
@@ -250,15 +235,16 @@ def build_payload(athletes, region_order):
     }
 
 
-def build_data_json():
+def build_data_json(check_regions=False):
     all_data = load_all_geo_csvs()
     all_data = clean_sport_labels(all_data)
     all_data = combine_sports(all_data)
     all_data = clean_and_filter(all_data)
     athletes = collapse_to_athletes(all_data)
-    report_long_careers(athletes)
+    note_long_careers(athletes)
     athletes = assign_person_ids(athletes)
-    athletes, region_order = add_regions(athletes)
+    print(f"{len(all_data):,} roster rows -> {len(athletes):,} athlete entries -> {athletes['person'].nunique():,} people")
+    athletes, region_order = add_regions(athletes, check_regions)
     payload = build_payload(athletes, region_order)
 
     with open(OUT_PATH, "w") as f:
@@ -269,4 +255,7 @@ def build_data_json():
 
 
 if __name__ == "__main__":
-    build_data_json()
+    parser = argparse.ArgumentParser(description="Rebuild docs/data.json from the geocoded rosters.")
+    parser.add_argument("--check-regions", action="store_true",
+                        help="Also list the most common hometowns that landed in International / Other, to spot US towns that failed to parse.")
+    build_data_json(parser.parse_args().check_regions)

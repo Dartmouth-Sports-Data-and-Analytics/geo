@@ -24,6 +24,7 @@ def gather_tasks(cache_df, refresh=frozenset()):
     """Builds the (school, sport, year) fetch list plus per-file state for the write step."""
     tasks = []
     file_state = {}
+    not_discovered = []
 
     for _, srow in config.bases_df.iterrows():
         school, base = srow["school"], srow["site_page"]
@@ -34,20 +35,20 @@ def gather_tasks(cache_df, refresh=frozenset()):
 
             if (school, sport_page) in rules.KNOWN_UNAVAILABLE:
                 reason = rules.KNOWN_UNAVAILABLE[(school, sport_page)]
-                print(f"[{school}] {sport}: {reason} — skipping regardless of cache.")
+                config.note(f"[{school}] {sport}: {reason}; skipped.")
                 continue
 
             cached = availability.get_cached_row(cache_df, school, sport_page)
             if cached is None:
-                print(f"[{school}] {sport}: not yet discovered — run discover_sports.py first, skipping.")
+                not_discovered.append(f"{school} {sport_page}")
                 continue
             if cached["available"] == False:
-                print(f"[{school}] {sport}: confirmed unavailable, skipping.")
+                config.note(f"[{school}] {sport}: unavailable; skipped.")
                 continue
 
             resolved_slug = cached["resolved_slug"]
             if not resolved_slug or pd.isna(resolved_slug):
-                print(f"[{school}] {sport}: available but no resolved slug on file — re-run discover_sports.py, skipping.")
+                print(f"[{school}] {sport}: available but no slug on file; re-run discover_sports.py.")
                 continue
 
             output_file = os.path.join(folder_path, f"{sport_page}_rosters.csv")
@@ -73,8 +74,7 @@ def gather_tasks(cache_df, refresh=frozenset()):
                 # This page serves identical content for every year, so only the current season is kept.
                 stale = existing_years - {config.CURRENT_YEAR}
                 if stale:
-                    print(f"[{school}] {sport}: dropping {len(stale)} stale duplicate-year row set(s) "
-                          f"({sorted(stale)}) — this page doesn't vary by year, only the current season is kept.")
+                    print(f"[{school}] {sport}: dropping stale duplicate years {sorted(stale)}; this page doesn't vary by year.")
                     existing_df = existing_df[existing_df["year"] == config.CURRENT_YEAR]
                     existing_years = set(existing_df["year"].unique())
                     rows_were_trimmed = True
@@ -99,11 +99,8 @@ def gather_tasks(cache_df, refresh=frozenset()):
             }
 
             if not years_to_scrape and not rows_were_trimmed:
-                print(f"[{school}] {sport}: already have every year on disk, skipping.")
+                config.note(f"[{school}] {sport}: every year already on disk; skipped.")
                 continue
-
-            if not years_to_scrape:
-                print(f"[{school}] {sport}: no new years to fetch, but will re-save after trimming stale rows.")
 
             for year in years_to_scrape:
                 tasks.append({
@@ -117,6 +114,9 @@ def gather_tasks(cache_df, refresh=frozenset()):
                     "is_current": year == config.CURRENT_YEAR,
                 })
 
+    if not_discovered:
+        shown = ", ".join(not_discovered[:6]) + (", ..." if len(not_discovered) > 6 else "")
+        print(f"{len(not_discovered)} school + sport pages were never checked; run discover_sports.py: {shown}")
     return tasks, file_state
 
 
@@ -140,26 +140,31 @@ def interleave_by_sport(tasks):
 
 
 def run_tasks(tasks, file_state, label=None):
-    total = len(tasks)
-    prefix = f"[{label} " if label else "["
-    for i, t in enumerate(tasks, 1):
+    empty = 0
+    for t in tasks:
         school, sport, sport_page = t["school"], t["sport"], t["sport_page"]
         year, is_current, resolved_slug = t["year"], t["is_current"], t["resolved_slug"]
 
-        print(f"{prefix}{i}/{total}] Pulling {school} {sport} {year} via '{resolved_slug}'...")
+        config.note(f"[{label}] pulling {sport} {year} via '{resolved_slug}'")
         try:
             df, matched_slug = scraper.scrape_roster(
                 t["base"], sport_page, [resolved_slug], year=year, is_current=is_current, school=school
             )
             scraper.log_scrape(school, sport_page, year, matched_slug, len(df))
-            if not df.empty:
+            if df.empty:
+                empty += 1
+            else:
                 file_state[t["key"]]["new_fetches"][year] = df
         except Exception as e:
+            empty += 1
             print(f"Failed {school} {sport} {year}: {e}")
             scraper.log_scrape(school, sport_page, year, None, 0)
+    if tasks:
+        print(f"[{label}] fetched {len(tasks)} pages" + (f", {empty} came back empty (see data/_scrape_log.csv)" if empty else ""))
 
 
 def write_files(file_state):
+    written = 0
     for state in file_state.values():
         existing_df = state["existing_df"]
         new_fetches = state["new_fetches"]
@@ -171,7 +176,7 @@ def write_files(file_state):
         parts = [p for p in [combined, *new_fetches.values()] if not p.empty]
 
         if not parts:
-            print(f"No rosters found for {state['school']} {state['sport']} despite a resolved slug — worth a manual check.")
+            print(f"[{state['school']}] {state['sport']}: no roster found despite a working slug; worth a manual check.")
             continue
 
         full_df = pd.concat(parts, ignore_index=True)
@@ -181,33 +186,33 @@ def write_files(file_state):
 
         full_df, dropped = roster_data.drop_stale_years(full_df, config.CURRENT_YEAR)
         if dropped:
-            print(f"[{state['school']}] {state['sport']}: dropped year(s) {dropped} -- stale roster "
-                  f"(identical to another year, or last year's seniors not advanced), not real data.")
+            print(f"[{state['school']}] {state['sport']}: dropped stale year(s) {dropped} (a copy of another year, or last year's seniors not advanced).")
         if full_df.empty:
-            print(f"[{state['school']}] {state['sport']}: nothing left after dropping stale years -- not writing a file.")
+            print(f"[{state['school']}] {state['sport']}: nothing left after dropping stale years; no file written.")
             continue
 
         # Heals names saved before the badge fix.
         badges_fixed = roster_data.clean_name_badges(full_df)
         if badges_fixed:
-            print(f"[{state['school']}] {state['sport']}: cleaned {badges_fixed} name(s) (badges/extra spaces) in existing rows.")
+            print(f"[{state['school']}] {state['sport']}: cleaned {badges_fixed} name(s) (badges or extra spaces).")
 
         if "year" in full_df.columns:
             full_df = full_df.sort_values("year").reset_index(drop=True)
 
         full_df.to_csv(state["output_file"], index=False)
-        print(f"Saved {state['school']} {state['sport']} rosters to {state['output_file']}")
+        config.note(f"[{state['school']}] {state['sport']}: saved {state['output_file']}")
+        written += 1
+    return written
 
 
 def pull_all(max_workers=8, refresh=frozenset()):
     cache_df = availability.load_availability_cache()
     if cache_df.empty:
-        print("No availability data found — run discover_sports.py first.")
+        print("No availability data found; run discover_sports.py first.")
         return
 
     tasks, file_state = gather_tasks(cache_df, refresh=refresh)
-    print(f"\n{len(tasks)} (school, sport, year) fetches needed, "
-          f"{max_workers} schools running concurrently.\n")
+    print(f"{len(tasks)} pages to fetch, {max_workers} schools at a time.")
 
     by_school = defaultdict(list)
     for t in tasks:
@@ -226,7 +231,8 @@ def pull_all(max_workers=8, refresh=frozenset()):
         for future in futures:
             future.result()
 
-    write_files(file_state)
+    written = write_files(file_state)
+    print(f"Done: {written} roster files written.")
 
 
 if __name__ == "__main__":
@@ -247,6 +253,8 @@ if __name__ == "__main__":
              "Use after a fix that changes how past years are fetched or labeled, e.g. "
              "--refresh mens-rowing,rowing,womens-rowing,womens-lightweight-rowing",
     )
+    parser.add_argument("-v", "--verbose", action="store_true", help="Print a line for every skipped sport, page fetched and file saved.")
     args = parser.parse_args()
+    config.VERBOSE = args.verbose
     refresh = frozenset(x.strip() for x in args.refresh.split(",") if x.strip())
     pull_all(max_workers=args.workers, refresh=refresh)

@@ -18,7 +18,7 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
 
     if (school, sport_page) in rules.KNOWN_UNAVAILABLE:
         reason = rules.KNOWN_UNAVAILABLE[(school, sport_page)]
-        print(f"[{school}] {sport}: {reason} — forcing unavailable, no request made.")
+        config.note(f"[{school}] {sport}: {reason}; marked unavailable without a request.")
         with lock:
             cache_df = availability.record_availability(cache_df, school, sport_page, False, None)
             availability.save_availability_cache(cache_df)
@@ -31,8 +31,7 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
             degendered = sport_page[len(prefix):]
             break
     if (school, degendered) in rules.KNOWN_COMBINED_PAGE and degendered != sport_page:
-        print(f"[{school}] {sport}: confirmed combined page (no gender split) — "
-              f"forcing unavailable, no request made. See '{degendered}' instead.")
+        config.note(f"[{school}] {sport}: combined page, see '{degendered}'; marked unavailable without a request.")
         with lock:
             cache_df = availability.record_availability(cache_df, school, sport_page, False, None)
             availability.save_availability_cache(cache_df)
@@ -62,7 +61,7 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
                         slugs.remove(last_slug)
                     slugs.insert(0, last_slug)
 
-    print(f"[{school}] {sport}: checking {slugs}...")
+    config.note(f"[{school}] {sport}: checking {slugs}")
 
     # The HTTP request runs outside the lock so schools run in parallel.
     df, matched_slug = scraper.scrape_roster(
@@ -70,17 +69,17 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
     )
     if df.empty:
         # Spring rosters aren't posted in the fall, so check last season before declaring a combo unavailable.
-        print(f"  -> nothing for {config.CURRENT_YEAR} yet, checking {config.CURRENT_YEAR - 1}...")
+        config.note(f"  nothing for {config.CURRENT_YEAR} yet, checking {config.CURRENT_YEAR - 1}")
         df, matched_slug = scraper.scrape_roster(
             base, sport_page, slugs, year=config.CURRENT_YEAR - 1, is_current=False, verbose=verbose, school=school
         )
 
     with lock:
         if df.empty:
-            print(f"  -> not available.")
+            config.note("  not available")
             cache_df = availability.record_availability(cache_df, school, sport_page, False, None)
         else:
-            print(f"  -> available, resolved slug: '{matched_slug}' ({len(df)} rows).")
+            config.note(f"  available via '{matched_slug}' ({len(df)} rows)")
             cache_df = availability.record_availability(cache_df, school, sport_page, True, matched_slug)
 
         availability.save_availability_cache(cache_df)  # save after every combo, not just at the end
@@ -88,8 +87,27 @@ def discover_combo(school, base, sport, sport_page, cache_df, lock=None, verbose
     return cache_df
 
 
+# Totals, plus every combo whose availability or slug differs from the previous run (nothing is listed on a first run).
+def summarize(before, after):
+    def states(df):
+        return {(r.school, r.sport_page): (bool(r.available), None if pd.isna(r.resolved_slug) else r.resolved_slug) for r in df.itertuples()}
+
+    def describe(state):
+        return f"available via '{state[1]}'" if state[0] else "unavailable"
+
+    old, new = states(before), states(after)
+    found = sum(1 for state in new.values() if state[0])
+    print(f"Discovery complete: {len(new)} school + sport pages checked, {found} available, {len(new) - found} not.")
+    if not old:
+        return
+    changes = [f"  {school} {page}: {describe(old[(school, page)]) if (school, page) in old else 'new'} -> {describe(state)}"
+               for (school, page), state in sorted(new.items()) if old.get((school, page)) != state]
+    print("Changes since the last run:\n" + "\n".join(changes) if changes else "No changes since the last run.")
+
+
 def discover_all(max_workers=8, verbose_sport_page=None):
     cache_df = availability.load_availability_cache()
+    before = cache_df.copy()
     lock = threading.Lock()
 
     # One thread per school; --verbose-sport logs one sport's URLs inside a real full run.
@@ -98,6 +116,9 @@ def discover_all(max_workers=8, verbose_sport_page=None):
             sport, sport_page = sport_row["sport"], sport_row["sport_page"]
             verbose = (sport_page == verbose_sport_page)
             discover_combo(school, base, sport, sport_page, cache_df, lock=lock, verbose=verbose)
+        with lock:
+            rows = cache_df[cache_df["school"] == school]
+        print(f"[{school}] {int((rows['available'] == True).sum())} of {len(rows)} sports available")
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [
@@ -114,7 +135,7 @@ def discover_all(max_workers=8, verbose_sport_page=None):
         cache_df = availability.resolve_bare_vs_gendered_duplicates(cache_df)
         availability.save_availability_cache(cache_df)
 
-    print("\nDiscovery complete. See data/_school_sport_availability.csv.")
+    summarize(before, cache_df)
 
 
 # Re-run one combo with full URL/status logging.
@@ -130,7 +151,8 @@ def recheck_combo(school, sport_page):
     sport = sport_row.iloc[0]["sport"] if not sport_row.empty else sport_page
 
     cache_df = availability.load_availability_cache()
-    print(f"Rechecking [{school}] {sport} ({sport_page}) with verbose URL/status logging...\n")
+    config.VERBOSE = True
+    print(f"Rechecking [{school}] {sport} ({sport_page}) with full URL and status logging...")
     cache_df = discover_combo(school, base, sport, sport_page, cache_df, verbose=True)
     print(f"\nUpdated cache row for ({school}, {sport_page}):")
     print(availability.get_cached_row(cache_df, school, sport_page))
@@ -164,7 +186,9 @@ def main():
              "one sport_page. For diagnosing a combo that only fails inside a full run "
              "and can't be reproduced via an isolated --recheck, e.g. --verbose-sport rowing",
     )
+    parser.add_argument("-v", "--verbose", action="store_true", help="Print a line for every school + sport checked.")
     args = parser.parse_args()
+    config.VERBOSE = args.verbose
 
     if args.recheck:
         school, sport_page = [s.strip() for s in args.recheck.split(",", 1)]
