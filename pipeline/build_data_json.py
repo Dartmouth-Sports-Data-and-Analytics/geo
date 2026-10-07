@@ -1,6 +1,7 @@
-"""Rebuilds docs/data.json from geo-rosters/*_rosters_geo.csv (one entry per athlete per sport)."""
+"""Rebuilds docs/data.json from geo-rosters/*_rosters_geo.csv (one entry per athlete per sport), then stamps the cache-busting versions in docs/."""
 import argparse
 import glob
+import hashlib
 import json
 import os
 import re
@@ -8,7 +9,7 @@ import re
 import pandas as pd
 
 import config
-import stamp_versions
+from geocode_rosters import us_state
 
 OUT_PATH = os.path.join(config.DOCS_DIR, "data.json")
 OTHER_REGION = "International / Other"
@@ -65,16 +66,17 @@ def clean_sport_labels(all_data):
 COMBINED_SPORTS = {"cross country": "Cross Country", "track and field": "Track and Field", "sailing": "Sailing"}
 
 
-def combine_sports(all_data):
-    def combine(label):
-        low = label.lower()
-        for key, name in COMBINED_SPORTS.items():
-            if key in low:
-                return name
-        return label
+def combine_label(label):
+    low = label.lower()
+    for key, name in COMBINED_SPORTS.items():
+        if key in low:
+            return name
+    return label
 
+
+def combine_sports(all_data):
     before = all_data["sport"].nunique()
-    all_data["sport"] = all_data["sport"].map(combine)
+    all_data["sport"] = all_data["sport"].map(combine_label)
     print(f"{all_data['sport'].nunique()} sports (combined from {before} labels)")
     return all_data
 
@@ -83,7 +85,7 @@ def clean_and_filter(all_data):
     total = len(all_data)
     all_data = all_data.dropna(subset=["latitude", "longitude"]).copy()
     dropped = total - len(all_data)
-    print(f"Read {total:,} roster rows" + (f"; {dropped:,} left off the map for lack of coordinates (see data/_hometown_failed.csv)." if dropped else "."))
+    print(f"Read {total:,} roster rows" + (f"; {dropped:,} left off the map for lack of coordinates (see data/state/hometown_failed.csv)." if dropped else "."))
     all_data["latitude"] = all_data["latitude"].round(4)
     all_data["longitude"] = all_data["longitude"].round(4)
     all_data["year"] = all_data["year"].astype(int)
@@ -147,11 +149,26 @@ def collapse_to_athletes(all_data):
     return athletes
 
 
-# One athlete spanning more than four seasons in a sport is usually a real fifth year, but can also be a stale page; audit_rosters.py lists them.
+# Team seasons rebuilt by `rosters.py infer`, from the record it keeps (data/state/inferred_seasons.csv).
+# Written into data.json so the site marks them with * and needs no copy of this list.
+# Sport names get the same treatment as the roster rows, so they match the sport labels in data.json.
+def load_inferred_seasons():
+    path = config.INFERRED_LOG_PATH
+    if not os.path.exists(path):
+        return []
+    log = pd.read_csv(path, usecols=["school", "sport", "year"]).drop_duplicates()
+    if log.empty:
+        return []
+    log = clean_sport_labels(log)
+    log["sport"] = log["sport"].map(combine_label)
+    return sorted([r.school, r.sport, int(r.year)] for r in log.drop_duplicates().itertuples())
+
+
+# One athlete spanning more than four seasons in a sport is usually a real fifth year, but can also be a stale page; `checks.py audit` lists them.
 def note_long_careers(athletes, limit=4):
     n = int((athletes["years"].map(len) > limit).sum())
     if n:
-        print(f"{n} athlete entries have more than {limit} seasons in one sport; run audit_rosters.py to review them.")
+        print(f"{n} athlete entries have more than {limit} seasons in one sport; run `python checks.py audit` to review them.")
 
 
 # Same school + name + hometown = same person; the map draws one dot per person ID.
@@ -200,7 +217,7 @@ def load_region_map():
     return dict(zip(df["state"], df["region"])), list(dict.fromkeys(df["region"]))
 
 
-# Adds a region and state per athlete (regions come from data/regions.csv) and prints the people per region.
+# Adds a region and state per athlete (regions come from data/inputs/regions.csv) and prints the people per region.
 def add_regions(athletes, check_regions=False):
     fixes = config.load_fixes()
     state_region, order = load_region_map()
@@ -219,7 +236,7 @@ def add_regions(athletes, check_regions=False):
     return athletes, order + [OTHER_REGION]
 
 
-def build_payload(athletes, region_order):
+def build_payload(athletes, region_order, inferred=None):
     return {
         "person": athletes["person"].astype(int).tolist(),
         "lat": athletes["latitude"].tolist(),
@@ -232,6 +249,7 @@ def build_payload(athletes, region_order):
         "region": athletes["region"].tolist(),
         "state": athletes["state"].tolist(),
         "region_order": region_order,
+        "inferred": inferred or [],   # [school, sport, year] for each team season rebuilt by `rosters.py infer`
     }
 
 
@@ -245,17 +263,65 @@ def build_data_json(check_regions=False):
     athletes = assign_person_ids(athletes)
     print(f"{len(all_data):,} roster rows -> {len(athletes):,} athlete entries -> {athletes['person'].nunique():,} people")
     athletes, region_order = add_regions(athletes, check_regions)
-    payload = build_payload(athletes, region_order)
+    inferred = load_inferred_seasons()
+    if inferred:
+        print(f"{len(inferred)} team season(s) were rebuilt by `rosters.py infer` and are marked in data.json.")
+    payload = build_payload(athletes, region_order, inferred)
 
     with open(OUT_PATH, "w") as f:
         json.dump(payload, f, separators=(",", ":"))
 
     print(f"Wrote {OUT_PATH} ({os.path.getsize(OUT_PATH) / 1e6:.2f} MB)")
-    stamp_versions.stamp()
+    stamp()
+
+
+# ───────────────────────────── cache versions ─────────────────────────────
+# Rewrites the ?v=... cache-busting suffixes in docs/ to content hashes, so browsers refetch exactly the files that changed.
+# Runs at the end of every build; after hand-editing anything in docs/, run: python build_data_json.py --stamp-only
+
+def file_hash(name):
+    path = os.path.join(config.DOCS_DIR, name)
+    if not os.path.exists(path):
+        return None
+    with open(path, "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()[:8]
+
+
+# Rewrites `name?v=...` for each named file inside one docs/ file; returns True if it changed.
+def restamp(target, names):
+    path = os.path.join(config.DOCS_DIR, target)
+    if not os.path.exists(path):
+        return False
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    new = text
+    for name in names:
+        digest = file_hash(name)
+        if digest:
+            new = re.sub(r"(?<![\w.-])" + re.escape(name) + r"\?v=[A-Za-z0-9]+", f"{name}?v={digest}", new)
+    if new == text:
+        return False
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(new)
+    return True
+
+
+# Data files are stamped into the scripts first, because the scripts must be hashed after they embed those versions.
+def stamp():
+    changed = [js for js in ("app.js", "heatmaps.js") if restamp(js, ["data.json", "us-states.json"])]
+    changed += [page for page in ("index.html", "heatmaps.html", "about.html", "about-heatmaps.html")
+                if restamp(page, ["shared.js", "app.js", "style.css", "heatmaps.js", "heatmaps.css", "about.css"])]
+    print("Cache versions updated in: " + ", ".join(changed) if changed else "Cache versions already current.")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Rebuild docs/data.json from the geocoded rosters.")
     parser.add_argument("--check-regions", action="store_true",
                         help="Also list the most common hometowns that landed in International / Other, to spot US towns that failed to parse.")
-    build_data_json(parser.parse_args().check_regions)
+    parser.add_argument("--stamp-only", action="store_true",
+                        help="Only refresh the ?v= cache versions in docs/ (after hand-editing a file there); do not rebuild data.json.")
+    args = parser.parse_args()
+    if args.stamp_only:
+        stamp()
+    else:
+        build_data_json(args.check_regions)

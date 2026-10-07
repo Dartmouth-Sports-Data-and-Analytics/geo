@@ -6,18 +6,20 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 
+# step -> script, plus the subcommand for the three that live in rosters.py
 STEPS = {
-    "discover": "discover_sports.py",
-    "pull": "pull_rosters.py",
-    "infer": "infer_seasons.py",
-    "geocode": "geocode_rosters.py",
-    "build_data_json": "build_data_json.py",
+    "discover": ("rosters.py", "discover"),
+    "pull": ("rosters.py", "pull"),
+    "infer": ("rosters.py", "infer"),
+    "geocode": ("geocode_rosters.py",),
+    "build_data_json": ("build_data_json.py",),
 }
 
 
 def run_step(name, extra_args=()):
     print(f"\n== {name} ==", flush=True)
-    result = subprocess.run([sys.executable, os.path.join(HERE, STEPS[name]), *extra_args])
+    script, *command = STEPS[name]
+    result = subprocess.run([sys.executable, os.path.join(HERE, script), *command, *extra_args])
     if result.returncode != 0:
         print(f"\n{name} exited with status {result.returncode}; stopping.")
         sys.exit(result.returncode)
@@ -42,7 +44,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run discover, pull, infer, geocode and build_data_json in sequence.")
     parser.add_argument("--only", choices=list(STEPS), default=None, help="Run just one step.")
     parser.add_argument("--recheck", metavar="SCHOOL,SPORT_PAGE", default=None,
-                        help="Diagnose one combo with discover_sports.py --recheck (runs only that step).")
+                        help="Diagnose one combo with `rosters.py discover --recheck` (runs only that step).")
     parser.add_argument("--workers", type=int, default=None, help="Schools to process at once in discover and pull (default 8).")
     parser.add_argument("--refresh", metavar="SPORT_PAGE[,SPORT_PAGE...]|all", default=None,
                         help="Refetch every year for these sport pages instead of trusting what is on disk (pull step).")

@@ -16,16 +16,16 @@ An interactive map of where Ivy League varsity athletes come from. A Python pipe
 
 ```
 pipeline/   Python scripts (code only)
-data/       Inputs, scraped rosters, and pipeline state
+data/       inputs/ (hand-edited), state/ (kept by the pipeline), audit/ (generated checks), rosters/ and geo-rosters/
 docs/       The website, published by GitHub Pages
 ```
 
 | Path | What it is |
 |---|---|
-| `pipeline/run_pipeline.py` | Runs the four steps below in order |
+| `pipeline/run_pipeline.py` | Runs the five steps below in order (discover, pull, infer, geocode, build) |
 | `pipeline/discover_sports.py` | Finds which school + sport pages exist and the working URL for each |
 | `pipeline/pull_rosters.py` | Downloads each season's roster, drops stale or copied seasons |
-| `pipeline/infer_seasons.py` | Rebuilds a season whose team page is blank on the site (Yale men's golf 2023-24) from the seasons either side; lists who it added in `data/_inferred_seasons.csv` |
+| `pipeline/infer_seasons.py` | Rebuilds a season whose team page is blank on the site (Yale men's golf 2023-24) from the seasons either side; lists who it added in `data/state/inferred_seasons.csv` |
 | `pipeline/geocode_rosters.py` | Turns hometowns into coordinates (OpenStreetMap Nominatim), with a cache |
 | `pipeline/build_data_json.py` | Merges everything into `docs/data.json`, one entry per athlete per sport |
 | `pipeline/config.py` | Paths, school list and seasons, and loaders for the hand-edited input files |
@@ -37,14 +37,16 @@ docs/       The website, published by GitHub Pages
 | `requirements.txt` | Python packages the pipeline needs |
 | `pipeline/stamp_versions.py` | Updates the cache-busting version suffixes in `docs/` from file hashes |
 | `pipeline/probe_year.py` | Compares the two roster URL forms across seasons for one team (to debug a missing or copied season) |
-| `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters |
-| `data/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
-| `data/hometown_fixes.csv` | Hand-edited corrections for misspelled hometowns |
+| `pipeline/audit_rosters.py` | Read-only checks for suspicious rosters; the report is saved to `data/audit/audit_report.txt` |
+| `data/inputs/sport_page_reference.xlsx` | Hand-edited list of sports and URL slugs |
+| `data/inputs/hometown_fixes.csv`, `regions.csv` | Hand-edited corrections for misspelled hometowns; which US states belong to which region |
 | `data/rosters/`, `data/geo-rosters/` | Scraped rosters, and the same with coordinates added |
-| `data/_*.csv` | Pipeline state: availability, hometown cache, failed lookups, scrape log |
+| `data/state/` | Pipeline state: availability, hometown cache, failed lookups, inferred seasons, scrape log |
+| `data/audit/` | Output of `audit_rosters.py` (gitignored) |
 | `docs/index.html`, `app.js`, `style.css` | The roster map |
 | `docs/shared.js` | Constants and helpers used by both pages (school colors, formatting, chips) |
 | `docs/heatmaps.html`, `heatmaps.js`, `heatmaps.css` | The eight state heat maps (uses d3) |
+| `docs/about.html`, `about-heatmaps.html`, `about.css` | The "About the data" page for each map |
 | `docs/data.json`, `docs/us-states.json` | Built roster data; US state outlines (downloaded once, see below) |
 
 ## Running it

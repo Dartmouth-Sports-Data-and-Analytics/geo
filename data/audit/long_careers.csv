@@ -1,0 +1,1085 @@
+school,sport,name,first,last,classes,label_not_advanced
+Brown,equestrian,Alix Hamon,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,equestrian,Maya Taylor,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,field-hockey,Imogen Govan,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,field-hockey,Julia Hitti,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Brown,field-hockey,Lindsey Ross,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,football,Allen Smith,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,football,Callum Flanders,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Camden Gagnon,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,football,Chad Broome-Webster,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Cooper DeVeau,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,football,Emerson Logie,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Brown,football,Ethan Royer,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,football,Graeme Davis,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Griffin Sturtz,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,football,Jaelon Blandburg,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Brown,football,Jarred Daul,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Maxwell Sweet,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,football,Michael McGovern,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Nathan Brown,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Nicholas Kane,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Brown,football,Ryan Putman,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Timothy Forster,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Tommy Maloney,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,football,Tucker Barnes,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,football,Wes Rockett,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-cross-country,Duke DiEugenio,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-cross-country,Geordie Young,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-cross-country,Jesse Edelstein,2019,2023,19:Fr. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Brown,mens-lacrosse,Adrian Enchill,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-lacrosse,Colin Hart,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-lacrosse,George Grell,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-lacrosse,Luke McCaleb,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Brown,mens-lacrosse,Nicholas Cioe,2016,2021,16:Rs. 17:Rs. 18:R-Fr. 19:R-So. 21:R-Sr.,True
+Brown,mens-lacrosse,Phil Goss,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Brown,mens-lacrosse,Ryan Aughavin,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-rowing,Henry Hollingsworth,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-rowing,Simon Hatcher,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-soccer,Jack Cloherty,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Brown,mens-soccer,Tanner Barry,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Brown,mens-swimming-and-diving,Alex Park,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-swimming-and-diving,Colin MacKellar,2019,2023,19:Fr. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Brown,mens-swimming-and-diving,Michael Lincoln,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,mens-tennis,Roger Chou,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,mens-track-and-field,Geordie Young,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-track-and-field,Jesse Edelstein,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,mens-track-and-field,Zach Love,2019,2023,19:Fr. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Brown,womens-basketball,Maddie Mullin,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Brown,womens-ice-hockey,Anna Shelden,2020,2024,20:Fr. 21:Fr. 22:So. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Alyssa Levy,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Carly Camphausen,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Claire Jeschke,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,womens-lacrosse,Emmie Lau,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-lacrosse,Jackie Mason,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Leah Caputo,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Lily Hagerup,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-lacrosse,Lydia Bongiorno,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-lacrosse,Maddie Joyce,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Margaret Woodberry,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Brown,womens-lacrosse,Mia Mascone,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-lacrosse,Nathalie Ahn,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-rowing,Clara Warmath,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,womens-rowing,Isabel Wilkowski,2019,2023,19:Fr. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Brown,womens-rugby,Olivia Duba,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Brown,womens-soccer,Ava Seelenfreund,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-soccer,Brittany Raphino,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-soccer,Claire Myers,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,womens-soccer,Sheyenne Allen,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Brown,womens-soccer,Zoe Maxwell,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Brown,womens-swimming-and-diving,Bella Antoniuk,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Brown,womens-volleyball,Paris Winkler,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Columbia,baseball,Billy Black,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,baseball,Joe Sheets,2020,2024,20:FY 21:FY 22:So. 23:Jr. 24:Sr.,True
+Columbia,field-hockey,Alexa Conomikes,2017,2021,17:Gr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,field-hockey,Kelsey Farkas,2017,2021,17:Gr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Andrew Donovan,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Andrew Pruske,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Anthony Roussos,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Ben Corniello,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Ben Mathiasmeier,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Broderick Taylor,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,CJ Brown,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Caden Bell,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Cameren Carter,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Carter McFadden,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Casey Mariucci,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Conner Collins,2018,2022,18:FY 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Columbia,football,Drew Davis,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Emerson Kabus,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Fara'ad McCombs,2018,2022,18:FY 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Columbia,football,Graham Flinn,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Isaac Werkman,2016,2020,16:FY 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Columbia,football,JJ Jenkins,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Jalen Smith,2021,2025,21:FY 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Columbia,football,James Knox,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,James Miller,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Joey Giorgi,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Joseph Scowden,2016,2020,16:FY 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Columbia,football,Josh Wainwright,2016,2020,16:FY 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Columbia,football,Justin Townsend,2021,2025,21:FY 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Columbia,football,Justin Woodley,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,football,Luke Painton,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,football,Marcus Libman,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Owen Thomas,2022,2026,22:FY 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Columbia,football,Reid Spachman,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Ryan Young,2018,2022,18:FY 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Columbia,football,Scott Rosati,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,William Hughes,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,football,Zach Minch,2018,2022,18:FY 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Columbia,mens-soccer,Blake Willis,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,mens-soccer,Michael Collodi,2019,2023,19:FY 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Columbia,mens-squash,Andrew Jung,2019,2024,19:FY 20:So. 22:Jr. 23:Jr. 24:Sr.,True
+Columbia,mens-squash,Rahul Sehrawat,2016,2020,16:FY 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Columbia,mens-squash,Zach Nam,2020,2024,20:FY 21:FY 22:So. 23:Jr. 24:Sr.,True
+Columbia,mens-swimming-and-diving,Albert Gwo,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,mens-tennis,Alex Kotzen,2019,2023,19:FY 20:So. 21:So. 22:Jr. 23:Sr.,True
+Columbia,mens-tennis,Austen Huang,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,rowing,Gonzalo Cortes,2022,2026,22:FY 23:FY 24:So. 25:Jr. 26:Sr.,True
+Columbia,womens-basketball,Abbey Hsu,2019,2023,19:FY 20:So. 21:So. 22:Jr. 23:Sr.,True
+Columbia,womens-basketball,Hannah Pratt,2018,2022,18:FY 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Columbia,womens-basketball,Lilian Kennedy,2018,2022,18:FY 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Columbia,womens-basketball,Madison Hardy,2018,2022,18:FY 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Columbia,womens-basketball,Sienna Durr,2018,2022,18:FY 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Columbia,womens-rowing,Isabella Knapp,2022,2026,22:FY 23:FY 24:So. 25:Jr. 26:Sr.,True
+Columbia,womens-soccer,Nata Ramirez,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,womens-soccer,Shira Cohen,2019,2023,19:FY 20:So. 21:So. 22:Jr. 23:Sr.,True
+Columbia,womens-squash,Erica McGillicuddy,2019,2023,19:FY 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Columbia,womens-squash,Habiba Mohamed,2017,2021,17:Gr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Columbia,womens-squash,Renee Chan,2020,2024,20:FY 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Columbia,womens-swimming-and-diving,Emily Wang,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,field-hockey,Antonia Packard,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,field-hockey,Avery Smith,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,field-hockey,Caroline Ramsey,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,field-hockey,Claire Jones,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,field-hockey,Claire Vaughn,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,field-hockey,Claire Wolfe,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,field-hockey,Elizabeth Friedberg,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,field-hockey,Olivia Friedberg,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,football,Jake Stebbins,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,football,Onome Kessington,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,football,Paul Lewis III,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,football,Thomas Glover,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-cross-country,Alex Mocarski,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Cornell,mens-cross-country,Caleb McCurdy,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-cross-country,Paul Casavant,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-golf,Noah Schwartz,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-ice-hockey,Brenden Locke,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-ice-hockey,Cody Haiskanen,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-ice-hockey,Kyle Betts,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-ice-hockey,Max Andreev,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-lacrosse,Antonio Topouzis,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Cornell,mens-lacrosse,Bowie Horsman,2022,2026,22:Fr. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Cornell,mens-lacrosse,Cooper Telesco,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Cornell,mens-lacrosse,Griffin Buczek,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Cornell,mens-lacrosse,JJ Lombardi,2018,2023,18:Fr. 19:So. 21:Sr. 22:Sr. 23:6th,True
+Cornell,mens-lacrosse,Jack Cascadden,2022,2026,22:Fr. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Cornell,mens-lacrosse,Jeff Teat,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Cornell,mens-lacrosse,Kyle Smith,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,mens-lacrosse,Max Fields,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-lacrosse,Patrick Karey,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Cornell,mens-lacrosse,Tim Graham,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-rowing,Andrew Hickey,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-rowing,James Cashen,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-rowing,Malcolm Shure,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-rowing,Zach Thurston,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-soccer,Cam Maquat,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,mens-soccer,Connor Drought,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,mens-soccer,Kisa Kiingi,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,mens-soccer,Kurt Lehmkuhl,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,mens-soccer,Mateo Rodríguez,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Cornell,mens-soccer,Sam Latona,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Cornell,mens-swimming-and-diving,Paige daCosta,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,mens-tennis,Alafia Ayeni,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Cornell,mens-tennis,Pietro Rimondini,2016,2021,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr. 21:Sr.,True
+Cornell,mens-track-and-field,Alec Hill,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,mens-track-and-field,Alex Mocarski,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-track-and-field,Caleb McCurdy,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,mens-track-and-field,Jacob Pantoya,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,mens-track-and-field,Malick Diomande,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Cornell,womens-cross-country,Rebecca Hasser,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Cornell,womens-ice-hockey,Ashley Messier,2020,2024,20:Fr. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Cornell,womens-ice-hockey,Claudia Yu,2020,2024,20:Fr. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Cornell,womens-ice-hockey,Gabbie Rud,2020,2024,20:Fr. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Cornell,womens-ice-hockey,Gillis Frechette,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Cornell,womens-ice-hockey,Izzy Daniel,2019,2023,19:Fr. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Cornell,womens-ice-hockey,Kaitlin Jockims,2020,2024,20:Fr. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Cornell,womens-ice-hockey,Lily Delianedis,2020,2024,20:Fr. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Cornell,womens-lacrosse,Alexis Reinhardt,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-lacrosse,Annie Thomas,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-lacrosse,Bailey Mutch,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Bridget Babcock,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-lacrosse,Brynn McDonald,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Caitlin Slaminko,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Chloe Maister,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Hilary Hoover,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-lacrosse,Lucy Dwyer,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Maggie Pons,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Marissa Stafford,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-lacrosse,Olivia Wall,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-lacrosse,Shannon Brazier,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,womens-lacrosse,Sophie Ward,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-soccer,Aidan Julia Reineman,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,womens-soccer,Ava Laden,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Cornell,womens-soccer,Kendall Patten,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Cornell,womens-soccer,Sydney Malaga,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Cornell,womens-squash,Ania LaDow,2019,2023,19:Fr. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Cornell,womens-squash,Sivasangari Subramaniam,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Cornell,womens-track-and-field,Rebecca Hasser,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Dartmouth,baseball,Shane Bauer,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,field-hockey,Bee Hollyer,2016,2021,16:Fy. 17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Dartmouth,football,Danny Cronin,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,football,Dylan Cadwallader,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Dartmouth,football,Konstantin Spörk,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Dartmouth,football,Kyle Brown,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,football,Paxton Scott,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-golf,Alex Gu,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-lacrosse,Ben DiGiovanni,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-lacrosse,Nate Davis,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-rowing,Carsten Carey,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-rowing,Wes Gordon,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Dartmouth,mens-rowing,William Bender,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-soccer,Orrett Maine,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,mens-swimming-and-diving,Eddy Chen,2022,2026,22:Fy. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Dartmouth,mens-tennis,Alejandro Quiles,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Dartmouth,rowing,Andre Quintiliani,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Dartmouth,sailing,Eloise Burn,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Dartmouth,skiing,Carly Elsinger,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Dartmouth,skiing,Maddie Donovan,2016,2020,16:Fy. 17:Fy. 18:So. 19:Jr. 20:Sr.,True
+Dartmouth,womens-rowing,Jenna Martin,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-rugby,Abbey Savin,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-rugby,Aleemah Williams,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-rugby,Carlicia Beam,2018,2022,18:Fy. 19:Fy. 20:So. 21:Jr. 22:Sr.,True
+Dartmouth,womens-rugby,Kristin Bitter,2018,2022,18:Fy. 19:Fy. 20:So. 21:Jr. 22:Sr.,True
+Dartmouth,womens-rugby,Lauren Ferridge,2018,2022,18:Fy. 19:Fy. 20:So. 21:Jr. 22:Sr.,True
+Dartmouth,womens-rugby,Maura Hough,2022,2026,22:Fy. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Dartmouth,womens-rugby,Vanessa Ortiz-Pallen,2022,2026,22:Fy. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Dartmouth,womens-soccer,Carly Retterer,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-soccer,Daisy Granholm,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-soccer,Emily Hardy,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-soccer,Grace Faulkner,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-soccer,Kellie Sutton,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Dartmouth,womens-soccer,Taylor Williams,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-tennis,Lexi Dewire,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Dartmouth,womens-volleyball,Karen Murphy,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,cross-country,Jack McDonough,2019,2023,19:Rs. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Harvard,field-hockey,Mimi Tarrant,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,field-hockey,Sofia Castore,2020,2024,20:Fy 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,football,Adam West,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Andrew Irwin,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Ben Abercrombie,2017,2024,17:Fy 18:So. 19:Fy 20:So. 21:Jr. 22:Sr. 23:Sr. 24:Sr.,True
+Harvard,football,Brandon Won,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Brock Locnikar,2020,2024,20:Fy 21:Fy 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,football,Chris Ramundo,2020,2024,20:Fy 21:Fy 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,football,Collin Richardson,2019,2024,19:Fy 20:So. 21:So. 22:Jr. 24:Sr.,True
+Harvard,football,David Spitz,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Doug Henze,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Hunt Sparks,2017,2021,17:Fy 18:So. 19:Jr. 20:Jr. 21:Sr.,True
+Harvard,football,Jack McGowan,2017,2022,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr. 22:Sr.,True
+Harvard,football,Jake Brown,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Jake Smith,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,James Batch,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,James Herring,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Joe Young,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,John Jenkins,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Jonah Lipel,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Jordan Hill,2016,2021,16:Fy 17:So. 18:So. 19:Jr. 21:Sr.,True
+Harvard,football,Justin Mitchell,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Kaedyn Odermann,2020,2024,20:Fy 21:Fy 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,football,Kwaku Adubofour,2020,2024,20:Fy 21:Fy 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,football,Kym Wimberly,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Luke Emge,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Matt Cavanagh,2019,2023,19:Fy 20:So. 21:So. 22:Jr. 23:Sr.,True
+Harvard,football,Max Jones,2017,2022,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr. 22:Sr.,True
+Harvard,football,Mike Silva,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Nate Leskovec,2019,2023,19:Fy 20:So. 21:So. 22:Sr. 23:Sr.,True
+Harvard,football,Ryan Reagan,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,football,Solomon Egbe,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Spencer Cassell,2019,2023,19:Fy 20:So. 21:So. 22:Sr. 23:Sr.,True
+Harvard,football,Truman Jones,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,football,Tyler Huenemann,2020,2024,20:Fy 21:Fy 22:Jr. 23:Sr. 24:Sr.,True
+Harvard,mens-lacrosse,Andrew Perry,2021,2025,21:Fy 22:So. 23:Jr. 24:Jr. 25:Sr.,True
+Harvard,mens-lacrosse,Greg Campisi,2019,2023,19:Fy 20:So. 21:So. 22:Jr. 23:Sr.,True
+Harvard,mens-soccer,Fernando Docters,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,mens-soccer,Nico Garcia-Morillo,2018,2022,18:Fy 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Harvard,mens-squash,Ishant Shah,2022,2026,22:Fy 23:So. 24:Jr. 25:Jr. 26:Sr.,True
+Harvard,mens-swimming-and-diving,David Abrahams,2019,2023,19:Fy 20:So. 21:So. 22:Jr. 23:Sr.,True
+Harvard,mens-tennis,Daniel Milavsky,2020,2024,20:Fy 21:Fy 22:So. 23:Jr. 24:Sr.,True
+Harvard,mens-tennis,David Lins,2020,2024,20:Fy 21:Fy 22:So. 23:Jr. 24:Sr.,True
+Harvard,mens-tennis,Elisha Thornton,2021,2025,21:Fy 22:So. 23:Jr. 24:Jr. 25:Sr.,True
+Harvard,mens-tennis,Henry von der Schulenburg,2019,2023,19:Fy 20:So. 21:So. 22:Jr. 23:Sr.,True
+Harvard,mens-tennis,Valdemar Pape,2022,2026,22:Fy 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Harvard,skiing,James Kitch,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,track-and-field,Aaron Shirley,2019,2023,19:Rs. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Harvard,track-and-field,Acer Iverson,2019,2023,19:Rs. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Harvard,track-and-field,Jackie George,2019,2023,19:Rs. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Harvard,track-and-field,Lisa Tertsch,2016,2020,16:Fy 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Harvard,track-and-field,Mike Kolor,2016,2020,16:So. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Harvard,womens-ice-hockey,Gwyn Lapp,2022,2026,22:Fy 23:So. 24:Jr. 25:Jr. 26:Sr.,True
+Harvard,womens-lacrosse,Abbie Izzo,2021,2025,21:Fy 22:So. 23:Jr. 24:Jr. 25:Sr.,True
+Harvard,womens-lacrosse,Charley Meier,2020,2024,20:Fy 21:Fy 22:So. 23:Jr. 24:Sr.,True
+Harvard,womens-rowing,Amanda Caromicoli,2018,2022,18:Fy 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Harvard,womens-rowing,Casey Batson,2020,2024,20:Fy 21:So. 22:So. 23:Jr. 24:Sr.,True
+Harvard,womens-soccer,Ava Lung,2019,2023,19:Fy 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Harvard,womens-soccer,Gabby DelPico,2019,2023,19:Fy 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Harvard,womens-soccer,Kimaya Cole,2016,2020,16:Fy 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Harvard,womens-soccer,Lara Schenk,2018,2022,18:Fy 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Harvard,womens-soccer,Lauren Raimondo,2017,2021,17:Fy 18:So. 19:Jr. 20:Jr. 21:Sr.,True
+Harvard,womens-soccer,Murphy Agnew,2017,2021,17:Fy 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Harvard,womens-soccer,Sophie Hirst,2018,2022,18:Fy 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Harvard,womens-swimming-and-diving,Carlie Rose,2021,2025,21:Fy 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Penn,baseball,Brendan Bean,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,baseball,Robby Cerulle,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,field-hockey,Gracyn Banks,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Adam Conyer,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Brian O'Neill,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,football,Cameron Polemeni-Hegarty,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Davis Ellis,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Penn,football,Garrett Morris,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Isaiah Malcome,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,football,Jack Fairman,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Jack Iuliano,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Jack Purcell,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Jaden Key,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Jake Heimlicher,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Jake Ligos,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Jonathan Melvin,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Jonathan Mulatu,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Joshua Casilli,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Julien Stokes,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Penn,football,Kendren Smith,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Lewis Gibson,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,football,Malone Howley,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Micah Morris,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Mitzseen Joseph,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,Paul Jennings,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Penn,football,Prince Emili,2016,2021,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr. 21:Sr.,True
+Penn,football,"Rory Starkey, Jr.",2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Sam Carlson,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Shane Sweitzer,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Shiloh Means,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Travis McFarling,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,football,Trevor Radosevich,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Trey Flowers,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,football,Vhito DeCapria,2016,2025,16:Rs. 17:Rs. 18:R-Fr. 19:R-So. 20:R-Jr. 21:R-Sr. 22:R-Sr. 23:R-Sr. 24:Rs. 25:R-Fr.,True
+Penn,football,Will Seiler,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,football,William Bergin,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Penn,mens-basketball,Jelani Williams,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,mens-cross-country,Will Shaughnessy,2020,2024,20:Fr. 21:So. 22:Jr. 23:Jr. 24:Sr.,True
+Penn,mens-golf,Eric Ganshaw,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Penn,mens-golf,Mark Haghani,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,mens-lacrosse,Adam Goldner,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Penn,mens-lacrosse,BJ Farrare,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,mens-lacrosse,Ben Bedard,2017,2021,17:Fr. 18:So. 19:Jr. 20:Gr. 21:Gr.,True
+Penn,mens-lacrosse,Brendan Lavelle,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-lacrosse,Cam Rubin,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-lacrosse,Dylan Gergar,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,mens-lacrosse,Edward Arnold,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-lacrosse,Emmet Carroll,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-lacrosse,Gabe Furey,2019,2023,19:Fr. 20:Jr. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-lacrosse,James Shipley,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-lacrosse,JoJo Biddle,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Penn,mens-lacrosse,Matt Palazzi,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-lacrosse,Piper Bond,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,mens-lacrosse,Robert Schain,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-lacrosse,Sam Handley,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,mens-rowing,Charles Jones,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Penn,mens-rowing,Nicole Ahadian,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-soccer,Nick Christoffersen,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Penn,mens-squash,Dana Santry,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-squash,Nick Spizzirri,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,mens-squash,Roger Baddour,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Penn,mens-track-and-field,Noah Carey,2017,2021,17:Fr. 18:So. 19:Jr. 20:Jr. 21:Sr.,True
+Penn,womens-cross-country,Niamh Hayes,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,womens-lacrosse,Taylyn Stadler,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Penn,womens-soccer,Maya Leschly,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,womens-squash,Ella Cohen,2020,2024,20:Fr. 21:Fr. 22:So. 23:Jr. 24:Sr.,True
+Penn,womens-squash,Yoshna Singh,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Penn,womens-swimming-and-diving,Anderson Myers,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Penn,womens-swimming-and-diving,Margot Kaczorowski,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,field-hockey,Grace Schulze,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Princeton,field-hockey,Gracie McGowan,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Princeton,field-hockey,Maddie Bacskai,2016,2020,16:Fr. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Princeton,field-hockey,Robyn Thompson,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Princeton,football,Andrei Iosivas,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Blake Feigenspan,2019,2024,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr. 24:Sr.,True
+Princeton,football,Caden Dumas,2018,2023,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr. 23:Sr.,True
+Princeton,football,Carson Bobo,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,Cole Smith,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Collin Eaddy,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Connor Scaglione,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,David Hoffman,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Davis Kline,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Dawson De Iuliis,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Delan Stallworth,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Dylan Classi,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,Glenie Cross III,2022,2026,22:Fr. 23:So. 24:Jr. 25:Jr. 26:Sr.,True
+Princeton,football,Henry Byrd,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,Ike Hall,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,Jacob Birmelin,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Jalen Geer,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Princeton,football,James Johnson,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Jeremiah Tyler,2016,2021,16:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,John Tracy,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Kevin Bruce,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,football,Larkin Ison,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Manus McCracken,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Matthew Jester,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Matthew Winston,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Michael Azevedo,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Nick Patterson,2021,2025,21:Fr. 22:So. 23:Jr. 24:Jr. 25:Sr.,True
+Princeton,football,Nikola Ivanisevic,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Ryan McNeil,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Samuel Wright II,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Samy Lamothe,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Princeton,football,Sultaan Shabazz,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Tamatoa Falatea,2019,2024,19:Fr. 20:So. 22:So. 23:Jr. 24:Sr.,True
+Princeton,football,Tavaris Noel,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Tola Banjoko,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Trevor Forbes,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Tyler McDonald,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,football,Uche Ndukwe,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,football,Will Perez,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,football,Zackary Zambrano,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,mens-golf,Jeremy Yun,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Princeton,mens-ice-hockey,Adam Robbins,2019,2023,19:Fr. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Princeton,mens-rowing,Charlie Miller,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,mens-rowing,Kasey McFadden,2017,2021,17:Fr. 18:So. 19:Jr. 20:Jr. 21:Sr.,True
+Princeton,mens-rowing,Oswald Stocker,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,mens-rowing,Robert Powell,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,mens-squash,Maaz Khatri,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,mens-tennis,Damian Rodriguez,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Princeton,mens-tennis,Will Peters,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,mens-track-and-field,Paul Brennan,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,mens-track-and-field,Tyler Konopka,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Princeton,rowing,Oskar Arzt-Jones,2016,2020,16:Fr. 17:So. 18:Jr. 19:Jr. 20:Sr.,True
+Princeton,womens-cross-country,Charlotte O'Toole,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,womens-cross-country,Gillian Wagner,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,womens-cross-country,Isabel Max,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Princeton,womens-soccer,Marissa Hart,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,womens-soccer,Morgan Wiese,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,womens-track-and-field,Charlotte O'Toole,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Princeton,womens-track-and-field,Emily Wilson,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Princeton,womens-track-and-field,Gillian Wagner,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Princeton,womens-track-and-field,India Weir,2018,2022,18:Fr. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,baseball,Alec Atkinson,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,baseball,Jake Williams,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,baseball,Jeff Pierantoni,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,baseball,Quinn Cleary,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,baseball,Robert Ciulla,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,field-hockey,Alissa Wong,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,field-hockey,Ashley Kim,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,field-hockey,Iliana Cabral,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,field-hockey,Imogen Davies,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,field-hockey,Katie Pieterse,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,field-hockey,Laine Garber,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,field-hockey,Luanna Summer,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,field-hockey,Nicole Gotthardt,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,field-hockey,Sarah King,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,field-hockey,Théodora Dillman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,football,Alan Lamar,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:Sr.,True
+Yale,football,Archie Russ III,2019,2024,19:Fy. 20:So. 21:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Ben Mann,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Bennie Anderson,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Blake Hill,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Brandon Benn,2019,2024,19:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Brian Abraham,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,football,Chase Nenad,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Christian Sampleton,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Connor Halverson,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Cubby Schuller,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,D. Major Roman,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Dante Chiappetta,2017,2024,17:Rs. 18:Rs. 19:Rs. 20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Darnell Robinson,2017,2022,17:Fy. 18:So. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,football,Darrion Carrington,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Dathan Hickey,2018,2023,18:Fy. 19:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Dean Shaffer,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Declan Savage,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,football,Deonte Henson,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Devyn Suggs,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Du'Shaunte Holloway,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Ejiroghene Egodogbare,2020,2025,20:Fy. 22:Fy. 23:So. 24:Jr. 25:Sr.,True
+Yale,football,Elliott McElwain,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,Grant Jordan,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Hamilton Moore,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,football,Inumidun Ayo-Durojaiye,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,football,Isaac Mitchell,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Jack Karhu,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Jack Michalik,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,football,Jacob Saffold,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Jaylan Granberry,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,Jaylan Sandifer,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,Jermaine Baker,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Joey Felton,2019,2024,19:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Joseph Gonzales,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Joseph Vaughn,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Kade Barnes,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Kelvin Smith,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,football,Marcus Mauney,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Mason Shipp,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,football,Melvin Rouse II,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,football,Miles Oldacre,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,football,Mitchell Tyler,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Nathaniel Campbell,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Noah Aaron,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,Noah Pope,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,football,Ryan Belk,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Sebastian Bruno,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,football,Shamus Florio,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Spencer Alston,2018,2023,18:Fy. 19:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,football,Teo Falk,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Tre Peterson,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,football,Wande Owens,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,football,Wyatt Raymond,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Zack Haaland,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,football,Zane Dudek,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-basketball,August Mahoney,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-basketball,Azar Swain,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-basketball,Isaiah Kelly,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-basketball,Jalen Gabbidon,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-basketball,Jameel Alausa,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-basketball,Matthue Cotton,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-basketball,Michael Feinberg,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-cross-country,Cade Brown,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,mens-cross-country,Chris Brown,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-cross-country,Henry Saul,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-cross-country,Liam Garrett,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-cross-country,Stephen Moody,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-golf,Sho Wai Wu,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-golf,Teddy Zinsner,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-ice-hockey,Teddy Wooding,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Brady McDermott,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Brett Mallee,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Brian Tevlin,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-lacrosse,Bryce De Muth,2018,2023,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,mens-lacrosse,Chris Fake,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-lacrosse,Christian Cropp,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-lacrosse,Elliot Sawyer-Kaplan,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Jack Monfort,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Jack Ocken,2018,2023,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,mens-lacrosse,Jack Starr,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-lacrosse,Jared Paquette,2019,2024,19:Fy. 20:So. 21:So. 22:Jr. 23:Jr. 24:Sr.,True
+Yale,mens-lacrosse,Konrad Collins,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Korbin Pecora,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Kyle Zawadzki,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Logan Soelberg,2019,2024,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,mens-lacrosse,Luke Eschbach,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-lacrosse,Matt Brandau,2018,2023,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,mens-lacrosse,Michael Alexander,2019,2024,19:Fy. 20:So. 21:So. 22:Jr. 23:Jr. 24:Sr.,True
+Yale,mens-lacrosse,Miles Leniw,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Nicholas Ramsey,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Patrick Hackler,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-lacrosse,Sean Kuttin,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-lacrosse,Thomas Bragg,2018,2023,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,mens-lacrosse,Xander Martin,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Alex Jeremijenko,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Alex Potter,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Andrin Gulich,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Archie McChesney,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Benjamin Wiegand,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Daire Lynch,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Dan Williamson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Elias Salander,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Felix Mebius,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Fergus Hamilton,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Freddie Elwes,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Hank Michalik,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Harry Keenan,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Jack Lopas,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Jack Morton,2017,2021,17:Fy. 18:Fy. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Jakov Bijelic,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-rowing,Liam Galloway,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Marcus Emmett,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-rowing,Matteo Sandrelli,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Miles Beeson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Nick Cowling,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Nick Phillips,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-rowing,Nick Rusher,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Nikola Bakoc,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Noah Norman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Patrick Craig,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Rudd Fawcett,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-rowing,Vlad Saigau,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-rowing,Will Acken,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-soccer,Chris Edwards,2020,2024,20:Fy. 21:So. 22:Jr. 23:Sr. 24:Sr.,True
+Yale,mens-soccer,Conrad Lee,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,mens-soccer,Elian Haddock,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-soccer,Eric Lagos,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-soccer,Jake Schaffer,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-soccer,Jamie Orson,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-soccer,Jeremy Haddock,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-soccer,Jonathan Seidman,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-soccer,Kai Moos,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-soccer,Paolo Carroll,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-soccer,Quanah Brayboy,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-soccer,Will Seidman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-squash,Eric Kim,2018,2022,18:Rs. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-squash,Harrison Gill,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-squash,Jacob Jae-Jin Rhee,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-squash,Jed Burde,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-squash,Max Forster,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-squash,Maxwell Orr,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-squash,Nikhil Ismail,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-squash,Siow Yee Xian,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-squash,Tiber Worth,2018,2022,18:Rs. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-squash,Tyler Carney,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-swimming-and-diving,Jed Jones,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-swimming-and-diving,Philippe Marcoux,2017,2021,17:Fy. 18:So. 19:So. 20:Jr. 21:Sr.,True
+Yale,mens-tennis,Michael Sun,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,mens-track-and-field,Aaron Miller,2020,2024,20:Fy. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-track-and-field,Cade Brown,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,mens-track-and-field,Cameron Wyman,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,mens-track-and-field,Chris Brown,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,mens-track-and-field,Henry Saul,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-track-and-field,Liam Garrett,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-track-and-field,Marcus Woods,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,mens-track-and-field,Simon Jupp,2020,2024,20:Fy. 21:So. 22:So. 23:Jr. 24:Sr.,True
+Yale,mens-track-and-field,Stephen Moody,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,mens-track-and-field,Will Laird,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,rowing,Clay Hard,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,rowing,Itai Almogy,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,rowing,Jamie Patterson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,rowing,Jamie Sudlow,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,rowing,John McDonald,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,rowing,Matthew Murphy,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,rowing,Michael Steinthal,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,rowing,Rufus Guy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,rowing,Seth Moyer,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,rowing,Trutz von Warburg,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,sailing,Allison Rice,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,sailing,Anisha Arcot,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Becca Rose,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,sailing,Catherine Cheung,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,sailing,Catherine Webb,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Christophe Chaumont,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Emily Lau,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,sailing,Helena Ware,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Megan Grimes,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,sailing,Meredith Ryan,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Nicholas Davies,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,sailing,Sam Tobin,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,sailing,Shawn Harvey,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,sailing,Sonia Lingos-Utley,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,sailing,Sydney Zoehrer,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,sailing,Teddy Nicolosi,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-basketball,Alex Cade,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-basketball,Camilla Emsbo,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-basketball,Jenna Clark,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-basketball,Klara Astrom,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-cross-country,Chloe Jensen,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-cross-country,Hannah Schupansky,2019,2023,19:Fy. 20:So. 21:Jr. 22:Jr. 23:Sr.,True
+Yale,womens-cross-country,Kayley DeLay,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-cross-country,Kosana Weir,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-cross-country,Samantha Friborg,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-cross-country,Sarah Pillard,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-cross-country,Zoe Nuechterlein,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-golf,Ami Gianchandani,2018,2022,18:Rs. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-golf,Amy Zhang,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-golf,Ashley Au,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-golf,Coco Chai,2018,2022,18:Rs. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Charlotte Welch,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Claire Dalton,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Elle Hartje,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-ice-hockey,Emma Seitz,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Gianna Meloni,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-ice-hockey,Greta Skarzynski,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-ice-hockey,Kaitlyn Rippon,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Kiersten Goode,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-ice-hockey,Rebecca Foggia,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-ice-hockey,Rebecca Vanstone,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-ice-hockey,Tess Dettling,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-lacrosse,Ana Dieroff,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Anna Vetsch,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Bri Carrasquillo,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Chloe Conaghan,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Clare Boone,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-lacrosse,Delaney Vu,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Emily Clorite,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-lacrosse,Emma Reilly,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-lacrosse,Isabelle Webster,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-lacrosse,Kelsey Dunn,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-lacrosse,Lyssa Tyler,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-lacrosse,Olivia Markert,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-lacrosse,Olivia Penoyer,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-lacrosse,Olivia Sokol,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-lacrosse,Payton Vaughn,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-lacrosse,Taylor Lane,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-rowing,Anna Matthes,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Anna Scott,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Aparajita Chauhan,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-rowing,Christiana Congdon,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Claire Dirks,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-rowing,Clare Naughton,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Clementine Perry,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Emmeline Laurence,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Eva Hofmans,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-rowing,Grace Menke,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-rowing,Hannah Johns,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Katie King-Smith,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-rowing,Lauren Carey,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-rowing,Lillie Ketterson,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-rowing,Lucy Edmunds,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Margaret Hedeman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-rowing,Maya Meschkuleit,2019,2024,19:Fy. 20:So. 21:So. 22:Jr. 24:Sr.,True
+Yale,womens-rowing,Sophia Hahn,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-rowing,Sophie Houston,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-rowing,Tessa Mapplebeck,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-rowing,Violet Barletta,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-sailing,Allison Rice,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Sr.,True
+Yale,womens-sailing,Anisha Arcot,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-sailing,Becca Rose,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-sailing,Catherine Cheung,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-sailing,Catherine Webb,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-sailing,Emily Lau,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-sailing,Helena Ware,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-sailing,Megan Grimes,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-sailing,Meredith Ryan,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-sailing,Sonia Lingos-Utley,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-sailing,Sydney Zoehrer,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-soccer,Abigail Solomon,2022,2026,22:Fy. 23:So. 24:Jr. 25:Sr. 26:Sr.,True
+Yale,womens-soccer,Chloe Laureano,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-soccer,Ellery Winkler,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Sr.,True
+Yale,womens-soccer,Kristen Enriquez,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-soccer,Laila Booker,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-soccer,Lydia Shaw,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-soccer,Meredith Phillips,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-soccer,Tanner Cahalan,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-soccer,Tina Teik,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-squash,Anika Bhargava,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-squash,Elisabeth Ross,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-squash,Gigi Yeung,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-squash,Helen Teegan,2016,2020,16:Fy. 17:So. 18:So. 19:Jr. 20:Sr.,True
+Yale,womens-squash,Meghna Sreedhar,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-swimming-and-diving,Alex Massey,2020,2024,20:Fy. 21:So. 22:Jr. 23:Jr. 24:Sr.,True
+Yale,womens-track-and-field,Abrianna Barrett,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-track-and-field,Addison Coy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-track-and-field,Aliya Boshnak,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-track-and-field,Kayley DeLay,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-track-and-field,Makayla Harris,2021,2025,21:Fy. 22:So. 23:Jr. 24:Sr. 25:Sr.,True
+Yale,womens-track-and-field,Samantha Friborg,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-track-and-field,Sarah Pillard,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-track-and-field,Sydney Kunkler,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-track-and-field,Sydney McCord,2019,2023,19:Fy. 20:So. 21:So. 22:Jr. 23:Sr.,True
+Yale,womens-volleyball,Cara Shultz,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-volleyball,Fatima Samb,2020,2024,20:Fy. 21:Fy. 22:So. 23:Jr. 24:Sr.,True
+Yale,womens-volleyball,Gigi Barr,2021,2025,21:Fy. 22:So. 23:Jr. 24:Jr. 25:Sr.,True
+Yale,womens-volleyball,Kathryn Attar,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Sr.,True
+Yale,womens-volleyball,Renee Shultz,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Yale,womens-volleyball,Sam Bray,2018,2022,18:Fy. 19:So. 20:Jr. 21:Jr. 22:Sr.,True
+Brown,baseball,Grant Achilles,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Brown,equestrian,Michaela Scanlon,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,field-hockey,Britt Broady,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,field-hockey,Jill Reeve,2016,2021,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan,False
+Brown,football,Jack Connolly,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,Jake Willcox,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,James Perry '00,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 25:nan 26:nan,False
+Brown,football,Kevin Coss,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,Mark Mahoney,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,Michael Davidson,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,Nate Lussier,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,football,Qwentin Brown,2022,2026,22:Fr. 23:So. 24:Jr. 25:Sr. 26:5th,False
+Brown,football,Sami Miller,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Brown,mens-basketball,Mike Martin '04,2016,2025,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Brown,mens-basketball,Tamenang Choh,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-cross-country,Ben McCoy,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-ice-hockey,Brendan Whittet '94,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Brown,mens-ice-hockey,Luke Kania,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-lacrosse,Ben Locke,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-lacrosse,Isaac Sacks,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-lacrosse,Kevin Sweeney,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-lacrosse,Mark Witt,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-lacrosse,Mike Daly,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Brown,mens-lacrosse,Teagan Bultman,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-rowing,Paul Cooke,2017,2026,17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,mens-soccer,Charlie Adams,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-soccer,Chase Wileman,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,mens-soccer,Mathieu Saber,2017,2021,17:Rs. 18:Fr. 19:So. 20:nan 21:nan,False
+Brown,mens-soccer,Patrick Laughlin,2016,2021,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan,False
+Brown,mens-soccer,Taha Kina,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Brown,mens-swimming-and-diving,Kevin Norman,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,mens-tennis,Alex Kasarov,2020,2024,20:nan 21:nan 22:nan 23:nan 24:nan,False
+Brown,mens-track-and-field,Ben McCoy,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-track-and-field,Bretram Rogers,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-track-and-field,Duke DiEugenio,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-track-and-field,Jared Yabu,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-track-and-field,Ken Hunt,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,mens-track-and-field,Kevin Boyce,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,mens-track-and-field,Obi Ifediora,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,sailing,John Mollicone,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-basketball,Charlee Worcester,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:Fr.,False
+Brown,womens-basketball,Monique LeBlanc,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-ice-hockey,Megan Forrest,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-ice-hockey,Melanie Ruzzi,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-lacrosse,Allison Lanzone,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-lacrosse,Keely McDonald '00,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Brown,womens-lacrosse,Maggie Fowler,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-rowing,John Murphy,2016,2023,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan,False
+Brown,womens-rugby,Kathy Flores,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Brown,womens-rugby,Marion Sellier,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-rugby,"Rosalind Chou, Ph.D.",2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-sailing,John Mollicone,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-soccer,Cameron Brown,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-soccer,Kia McNeill,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-swimming-and-diving,Kate Kovenock,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Brown,womens-tennis,Lucie Schmidhauser,2018,2026,18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-track-and-field,Hanna Barakat,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Brown,womens-track-and-field,Ken Hunt,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Brown,womens-volleyball,Ahen Kim,2018,2022,18:nan 19:nan 20:nan 21:nan 22:nan,False
+Columbia,baseball,Brett Boretti,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,cross-country,Daniel Ireland,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,football,Al Bagnoli,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Columbia,mens-basketball,Jim Engles,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Columbia,mens-basketball,Luke Bolster,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Columbia,mens-golf,Rich Mueller,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,mens-rowing,Ryan Lee,2017,2021,17:FY 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Columbia,mens-rowing,Scott Alwin,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Columbia,mens-rowing,Tom Terhaar,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,mens-soccer,Kevin Anderson,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Columbia,mens-squash,Chris Sachvie,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,mens-squash,Jacques Swanepoel,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Columbia,mens-swimming-and-diving,Jim Bolster,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,mens-tennis,Howard Endelman,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,rowing,Nich Lee Parker,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Columbia,rowing,Tom Terhaar,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,track-and-field,Daniel Ireland,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-basketball,Megan Griffith,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-golf,Amy Weeks,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-lacrosse,Anne Murray,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-rowing,Emerson Curry,2017,2026,17:nan 18:nan 19:nan 20:nan 25:nan 26:nan,False
+Columbia,womens-soccer,Tracey Bartholomew,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-swimming-and-diving,Diana Caskey,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-tennis,Ilene Weintraub,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Columbia,womens-volleyball,Patric Santiago,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Cornell,baseball,Jason Apostle,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,football,Alex Kuzy,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Bennett Van Dellen,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Brendan Chestnut,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Cornell,football,Damon Barnes,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Cornell,football,Demetrius Harris,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,football,Dylan Hale,2020,2024,20:Fr. 21:So. 22:Jr. 23:Sr. 24:5th,False
+Cornell,football,Eric Gallman II,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Garrett Patla,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Griffin Collins,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Jackson Bradley,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Cornell,football,Joe Shepard,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,football,Jordan Patrick,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Kenan Clarke,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Kyle Benham,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Lance Blass,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Logan Thut,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Masen McManamon,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Max Lundeen,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,football,Maxton Edgerly,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Maxwell Van Fleet,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Cornell,football,Michael O'Keefe,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Cornell,football,Nic Canal,2016,2021,16:Fr. 17:So. 18:Jr. 19:Sr. 21:5th,False
+Cornell,football,Nick Haydu,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Richard Besselman,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Richie Kenney,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,SK Howard,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Turner DePalma,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Will Swope,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,football,Wilson Selzer,2021,2025,21:Fr. 22:So. 23:Jr. 24:Sr. 25:5th,False
+Cornell,mens-lacrosse,Harrison Bardwell,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-lacrosse,Joe Wolf,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-lacrosse,Michael Long,2019,2024,19:Fr. 21:Jr. 22:Sr. 23:5th 24:Sr.,False
+Cornell,mens-soccer,Emeka Eneli,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,mens-soccer,Harry Fuller,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,mens-soccer,Nick Allen,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,mens-squash,Veer Chotrani,2019,2023,19:Fr. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Cornell,mens-squash,Yohann Surti,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-swimming-and-diving,Van Cates,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-tennis,Denton Ho,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-track-and-field,Jonathan Plass,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,mens-track-and-field,Paul Casavant,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,womens-ice-hockey,Lindsay Browning,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Cornell,womens-lacrosse,Katie McGahan,2016,2021,16:Fr. 17:So. 18:Jr. 19:Sr. 21:Gr.,False
+Cornell,womens-soccer,Maddie Hoitink,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,womens-soccer,Naomi Jaffe,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Cornell,womens-squash,Lily Zelov,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Cornell,womens-swimming-and-diving,Carolyn Morikawa,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,baseball,Bob Whalen,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Dartmouth,baseball,Henry Eilen,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,baseball,Jack Metzger,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,baseball,Kolton Freeman,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,baseball,Trevor Johnson,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,baseball,Trystan Sarcone,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,baseball,Tyler Fagler,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,equestrian,Claire Azar,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,equestrian,Tenley Walsh,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,field-hockey,Mark Egner,2020,2024,20:nan 21:nan 22:nan 23:nan 24:nan,False
+Dartmouth,field-hockey,Meg Barnes,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Alex Schmidt,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Bobby Jefferson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Buddy Teevens,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Dartmouth,football,Charles Looes,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,DeWayne Terry Jr.,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,football,Derek Kyler,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Donald Carty,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Drew Estrada,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,football,Evan Hecimovich,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Griff Lehman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Hank Knez,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,J.J. Jones III,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Jake Guidone,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Jaylin Rainey,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Joe Heffernan,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Joe Kramer,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Josh Greene,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Luca Di Leo,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Marques White,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Masaki Aerts,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,football,Nate Boone,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Nick Howard,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Niko Mermigas,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Quinten Arello,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Robert Crockett III,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,football,Ross Andreasik,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,football,Sam Koscho,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,football,Seth Simmer,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,football,Seth Walter,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Tanner Cross,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Thomas Hennessy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,football,Zack Bair,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-basketball,Aaryn Rai,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-basketball,Brendan Barry,2016,2021,16:Fy. 17:So. 18:Jr. 19:Sr. 21:Gr.,False
+Dartmouth,mens-basketball,David McLaughlin,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Dartmouth,mens-cross-country,Andrew Thompson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-cross-country,Christian Myers,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-cross-country,Jason Wang,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-cross-country,Liam Jamieson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-cross-country,Samuel Morton,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,mens-golf,Charles Petrie,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-golf,James Turner,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-golf,Jason Liu,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,mens-golf,Mark Turner,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-golf,Rich Parker,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,mens-ice-hockey,Reid Cashman,2020,2026,20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,mens-lacrosse,Andrew Johnston,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-lacrosse,Brendan Callahan,2016,2021,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan,False
+Dartmouth,mens-lacrosse,George Prince,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-lacrosse,Matt Paul,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-lacrosse,Mitchell Myers,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-lacrosse,Payton St. Geme,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-lacrosse,Peter Rizzotti,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-lacrosse,Tommy Rogan,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-rowing,Alex Robertson,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-rowing,Caleb Edmundson,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-rowing,Christian Franck,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-rowing,Clayton Kiyonaga,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-rowing,Cooper Harrison,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-rowing,David Edington,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-rowing,Evan Dwinell,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-rowing,Felix Rawlinson,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-rowing,Gustav Arvidsson,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-rowing,Harrison Taylor,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-rowing,Isaac Spokes,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-rowing,Jacob Hudgins,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-rowing,Joseph Hajjar,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,mens-rowing,Kane Hall,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-rowing,Liam Keane,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,mens-rowing,Mark Levinson,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,mens-rowing,Sean Mannion,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-rowing,William Delaney,2021,2025,21:So. 22:Fy. 23:So. 24:Jr. 25:Sr.,False
+Dartmouth,mens-rowing,Wyatt Allen,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,mens-soccer,Bo Oshoniyi,2018,2025,18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Dartmouth,mens-soccer,Garrett Scott,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-soccer,Patrick Murphy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,mens-squash,Hansi Wiens,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Dartmouth,mens-squash,Jack Bell,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-squash,Vikram Malhotra,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,mens-swimming-and-diving,Joe Moll,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-swimming-and-diving,Kyle Schubert,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Gr.,False
+Dartmouth,mens-swimming-and-diving,Milana Socha,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,mens-swimming-and-diving,Tim Park,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:Gr.,False
+Dartmouth,mens-track-and-field,Andrew Thompson,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-track-and-field,Christian Myers,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-track-and-field,Isaac Weber,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-track-and-field,James Lawrence,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,mens-track-and-field,Jason Wang,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-track-and-field,Julien Hinz,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,mens-track-and-field,Samuel Morton,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,rowing,Chris Stich,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,rowing,Cooper Tuckerman,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,rowing,Jack Costello,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,rowing,Jack Stone,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,rowing,Max Marchiony,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:Gr.,False
+Dartmouth,rowing,Trevor Michelson,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,sailing,Aisling Sullivan,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,sailing,Boyd Bragg,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,sailing,James Paul,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,sailing,Justin Assad,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Dartmouth,sailing,Ryan Goldstein,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,skiing,Adam Glueck,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,skiing,Cameron Wolfe,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,skiing,Cami Thompson,2016,2024,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Dartmouth,skiing,Claire Thomas,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,skiing,Gwen Wattenmaker,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,skiing,Hannah Utter,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,skiing,Kalle Wagner,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,skiing,Leah Brams,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,skiing,Luc Golin,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,skiing,Mikaela O'Brien,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,skiing,Peter Fucigna,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,skiing,Stephanie Lebby,2016,2020,16:Fy. 17:So. 18:Jr. 19:Sr. 20:5th,False
+Dartmouth,womens-basketball,Belle Koclanes,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Dartmouth,womens-cross-country,Abigail Brazil,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,womens-cross-country,Breanna Glover,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-cross-country,Glennis Murphy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,womens-golf,Alex Kirk,2016,2026,16:nan 17:nan 18:nan 19:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-lacrosse,Alex McFadden,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-lacrosse,Katie Elders,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-lacrosse,Lucy Murray,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-lacrosse,Nieve Donegan,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-lacrosse,Nina Nesselbush,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-rowing,Annabelle Hermey,2022,2026,22:Fy. 23:So. 24:Jr. 25:Sr. 26:Gr.,False
+Dartmouth,womens-rowing,Haley Leversedge,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-rugby,Ariana Ramsey,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-rugby,Emily Henrich,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-rugby,Grace Player,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-rugby,Idia Ihensekhien,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-rugby,Katie Dowty,2016,2026,16:nan 17:nan 18:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-rugby,Lilly Durbin,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-rugby,Margot Généreux,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-rugby,Marin Pennell,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-rugby,Seven Sassano,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-rugby,Sophia Haley,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-rugby,Sophie Ragg,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-soccer,Erin Kawakami,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-soccer,Juliet Moncho,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Dartmouth,womens-soccer,Ron Rainey,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Dartmouth,womens-squash,Hansi Wiens,2016,2020,16:nan 17:nan 18:nan 19:nan 20:nan,False
+Dartmouth,womens-squash,Vikram Malhotra,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-swimming-and-diving,Milana Socha,2021,2026,21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-tennis,Bob Dallis,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Dartmouth,womens-track-and-field,Abigail Brazil,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,womens-track-and-field,Breanna Glover,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-track-and-field,Gabriela Fasanelli,2018,2022,18:Fy. 19:So. 20:Jr. 21:Sr. 22:5th,False
+Dartmouth,womens-track-and-field,Glennis Murphy,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Dartmouth,womens-track-and-field,Lily Lockhart,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:5th,False
+Dartmouth,womens-volleyball,Gilad Doron,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Dartmouth,womens-volleyball,Makenzie Arent,2019,2023,19:Fy. 20:So. 21:Jr. 22:Sr. 23:5th,False
+Penn,mens-lacrosse,Jack Schultz,2017,2021,17:Fr. 18:So. 19:Jr. 20:Gr. 21:Sr.,False
+Penn,mens-rowing,Jakub Wojcieszak,2018,2022,18:Fr. 19:So. 20:Jr. 21:Sr. 22:Gr.,False
+Penn,mens-soccer,Joey Bhangdia,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Penn,mens-soccer,RC Williams,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Penn,mens-squash,Andrew Douglas,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Penn,mens-squash,Yash Bhargava,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Penn,womens-tennis,Marija Curnic,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Princeton,baseball,Scott Bradley,2016,2024,16:nan 17:nan 18:nan 19:nan 21:nan 22:nan 23:nan 24:nan,False
+Princeton,field-hockey,Carla Tagliente,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,football,Austin Carbone,2017,2022,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Jr. 22:Sr.,False
+Princeton,football,Bob Surace,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-basketball,Mitch Henderson,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-cross-country,Jason Vigilante,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-golf,Will Green,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-ice-hockey,Ron Fogarty,2016,2023,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan,False
+Princeton,mens-lacrosse,Matt Madalon,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-rowing,Greg Hughes,2016,2025,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Princeton,mens-rowing,Jens Clausen,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Princeton,mens-rowing,Mark Abramovitz,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Princeton,mens-soccer,Jim Barlow,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-squash,Sean Wilkinson,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-swimming-and-diving,Matt Crispino,2019,2026,19:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-tennis,Billy Pate,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,mens-track-and-field,Fred Samara,2016,2022,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Princeton,rowing,Marty Crotty,2016,2023,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan,False
+Princeton,rowing,Matthew Collins,2017,2021,17:Fr. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Princeton,womens-basketball,Carla Berube,2019,2025,19:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Princeton,womens-cross-country,Brad Hunt,2019,2026,19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,womens-golf,Erika DeSanty,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,womens-ice-hockey,Cara Morey,2017,2024,17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan,False
+Princeton,womens-lacrosse,Chris Sailer,2016,2021,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan,False
+Princeton,womens-lacrosse,Jenn Cook,2022,2026,22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,womens-rowing,Lori Dauphiny,2016,2025,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Princeton,womens-soccer,Sean Driscoll,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,womens-squash,Gail Ramsay,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Princeton,womens-swimming-and-diving,Bret Lundgaard,2017,2022,17:nan 18:nan 19:nan 20:nan 21:nan 22:nan,False
+Princeton,womens-tennis,Laura Granville,2016,2021,16:nan 17:nan 18:nan 19:nan 21:nan,False
+Princeton,womens-track-and-field,Michelle Eisenreich,2016,2025,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan,False
+Princeton,womens-volleyball,Sabrina King,2016,2026,16:nan 17:nan 18:nan 19:nan 20:nan 21:nan 22:nan 23:nan 24:nan 25:nan 26:nan,False
+Yale,baseball,Teddy Hague,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Yale,field-hockey,Anissa Abboud,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Yale,mens-lacrosse,Will Cabrera,2017,2021,17:Rs. 18:So. 19:Jr. 20:Sr. 21:Jr.,False
+Yale,mens-track-and-field,Andrew Rochon,2017,2021,17:Fy. 18:So. 19:Jr. 20:Sr. 21:Gr.,False
+Yale,womens-squash,Aishwarya Bhattacharya,2016,2021,16:Fy. 17:Rs. 18:So. 19:Jr. 20:Sr. 21:Gr.,False

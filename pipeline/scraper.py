@@ -1,6 +1,7 @@
-"""Fetching and parsing roster pages: URL and slug candidates, polite HTTP, and the page parser."""
+"""Fetching and parsing roster pages (URL and slug candidates, polite HTTP, the page parser) and cleaning roster tables."""
 import os
 import random
+import re
 import threading
 import time
 from datetime import datetime
@@ -10,9 +11,6 @@ import requests
 from bs4 import BeautifulSoup
 
 import config
-from roster_data import strip_name_badge
-from site_rules import (BARE_SLUG_NEVER_REAL, SCHOOL_FORM_THROUGH, SCHOOL_PREFERS_BARE_YEAR, SCHOOL_PREFERS_DASH_YEAR,
-                        SKIP_BARE_YEAR_SPORTS, SPORT_SLUG_ALIASES, SPRING_SEASON_SPORTS)
 
 # Whether the last scrape_roster call in this thread hit a rate limit or server error, so an empty result may not be a real "no roster".
 _local = threading.local()
@@ -50,9 +48,9 @@ def extract_clean_text(elem):
     return elem.get_text(strip=True)
 
 
-# The plain-year and dash URLs for one season, whatever the rules say (probe_year.py compares them).
+# The plain-year and dash URLs for one season, whatever the rules say (`checks.py probe` compares them).
 def url_forms(base, sport, slug, year):
-    bare_year = year + 1 if sport in SPRING_SEASON_SPORTS else year
+    bare_year = year + 1 if sport in config.SPRING_SEASON_SPORTS else year
     return (f"https://{base}/sports/{slug}/roster/{bare_year}",
             f"https://{base}/sports/{slug}/roster/{year}-{str(year + 1)[-2:]}")
 
@@ -60,14 +58,18 @@ def url_forms(base, sport, slug, year):
 def _url_candidates(base, sport, slug, year, school):
     """URLs to try for one slug, in order; all are for academic year `year`."""
     bare, dash = url_forms(base, sport, slug, year)
-    for through, form in SCHOOL_FORM_THROUGH.get((school, sport), []):
+    for through, form in config.SCHOOL_FORM_THROUGH.get((school, sport), []):
         if year <= through:
             return [dash] if form == "dash" else [bare]
-    dash_cutoff = SCHOOL_PREFERS_DASH_YEAR.get((school, sport))
+    start = config.SCHOOL_FORM_FROM.get((school, sport))
+    if start and year >= start[0]:
+        # "From this season on": it keeps applying to every later season, so nothing has to be edited when a new season starts.
+        return [dash] if start[1] == "dash" else [bare]
+    dash_cutoff = config.SCHOOL_PREFERS_DASH_YEAR.get((school, sport))
     prefers_dash = dash_cutoff is not None and year <= dash_cutoff
     dash_first = (
-        (sport in SKIP_BARE_YEAR_SPORTS or prefers_dash)
-        and (school, sport) not in SCHOOL_PREFERS_BARE_YEAR
+        (sport in config.SKIP_BARE_YEAR_SPORTS or prefers_dash)
+        and (school, sport) not in config.SCHOOL_PREFERS_BARE_YEAR
     )
     return [dash, bare] if dash_first else [bare, dash]
 
@@ -82,13 +84,12 @@ def degendered_slug(sport):
 
 def candidate_slugs(sport):
     """All slugs worth trying for this reference-file sport, in priority order."""
-    slugs = [] if sport in BARE_SLUG_NEVER_REAL else [sport]
+    slugs = [sport]
     degendered = degendered_slug(sport)
-    # The same exclusion applies to degendered fallbacks.
-    if degendered and degendered != sport and degendered not in BARE_SLUG_NEVER_REAL:
+    if degendered and degendered != sport:
         slugs.append(degendered)
-    for alias in SPORT_SLUG_ALIASES.get(sport, []):
-        if alias not in slugs and alias not in BARE_SLUG_NEVER_REAL:
+    for alias in config.SPORT_SLUG_ALIASES.get(sport, []):
+        if alias not in slugs:
             slugs.append(alias)
     return slugs
 
@@ -144,7 +145,7 @@ def _get_with_retry(url, headers):
 
 
 # Tries each slug's URLs for one sport/year; is_current also allows the bare /roster URL (current season only).
-def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False, school=None):
+def scrape_roster(base, sport, slugs, year, is_current=False, verbose=False, school=None):
 
     # CSS selectors for the two roster layouts.
     selectors = [
@@ -155,7 +156,7 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
     url_candidates = []
     for slug in slugs:
         url_candidates.extend((slug, url) for url in _url_candidates(base, sport, slug, year, school))
-    if is_current and sport not in SPRING_SEASON_SPORTS:
+    if is_current and sport not in config.SPRING_SEASON_SPORTS:
         for slug in slugs:
             # Live /roster page; skipped for spring sports, whose live page is last spring's roster.
             url_candidates.append((slug, f"https://{base}/sports/{slug}/roster"))
@@ -247,3 +248,96 @@ def scrape_roster(base, sport, slugs, year=2025, is_current=False, verbose=False
         results.append(player)
 
     return pd.DataFrame(results), used_slug
+
+
+# ───────────────────────────── cleaning and sanity checks for roster tables ─────────────────────────────
+
+# Jersey-number or captain-letter badge glued onto a name ("29Ricky Nunez", "CWilliam Ma"); not initials like "AJ Gaich".
+NAME_BADGE_PATTERN = re.compile(r"^(?:\d+\s*|[A-Z](?=[A-Z][a-z]))")
+
+
+def strip_name_badge(raw_name):
+    # Loop until no badges remain (cards can stack both); whitespace is collapsed first.
+    name = " ".join(str(raw_name).split())
+    while True:
+        stripped = NAME_BADGE_PATTERN.sub("", name, count=1)
+        if stripped == name:
+            return name
+        name = stripped
+
+
+# One flat CSV per school+sport with year as a column; returns empty if missing or unreadable.
+def load_existing_roster(output_file):
+    if not os.path.exists(output_file):
+        return pd.DataFrame()
+    try:
+        df = pd.read_csv(output_file)
+        if "year" in df.columns:
+            df["year"] = df["year"].astype(int)
+        return df
+    except Exception as e:
+        print(f"  Could not read existing {output_file} ({e}), will refetch all years.")
+        return pd.DataFrame()
+
+
+# Fully specified row order (year, then name, then every other column), so rewriting a file never reshuffles it.
+# Non-year columns are compared as text: freshly scraped values are strings but values read back from disk can be numbers.
+def sort_roster(df):
+    if df.empty or "year" not in df.columns:
+        return df
+    order = ["year"] + [c for c in ("name",) if c in df.columns]
+    order += [c for c in df.columns if c not in order]
+    keys = df[order].astype(str)
+    keys["year"] = df["year"]
+    return df.loc[keys.sort_values(order, kind="stable").index].reset_index(drop=True)
+
+
+# Drop years whose (name, class) set matches another year's -- stale or trapped pages, never real data.
+def drop_stale_years(df, current_year):
+    if df.empty or "name" not in df.columns or "year" not in df.columns:
+        return df, []
+    cls = df["class"].astype(str) if "class" in df.columns else ""
+    sig_df = df.assign(_sig=df["name"].astype(str) + "|" + cls)
+    sigs = {y: frozenset(g["_sig"]) for y, g in sig_df.groupby("year")}
+    drop = set()
+    cur = sigs.get(current_year)
+    if cur is not None and sigs.get(current_year - 1) == cur:
+        drop.add(current_year)
+    elif cur is not None:
+        drop |= {y for y, s in sigs.items() if y != current_year and s == cur}
+    # Last year's seniors back and still labeled "Sr." means classes never advanced, so the current page is last season's team.
+    if cur is not None and current_year not in drop and "class" in df.columns:
+        senior = df["class"].astype(str).str.lower().str.replace(r"[^a-z]", "", regex=True).eq("sr")
+        prior_seniors = set(df.loc[(df["year"] == current_year - 1) & senior, "name"])
+        still_seniors = set(df.loc[(df["year"] == current_year) & senior, "name"]) & prior_seniors
+        if len(prior_seniors) >= 3 and len(still_seniors) / len(prior_seniors) >= 0.5:
+            drop.add(current_year)
+    past = [y for y in sigs if y != current_year and y not in drop]
+    for y in past:
+        if any(o != y and sigs[o] == sigs[y] for o in past):
+            drop.add(y)
+    return df[~df["year"].isin(drop)], sorted(drop)
+
+
+# Strips badges/extra spaces from names (healing rows saved before the fix); returns the count changed.
+def clean_name_badges(df):
+    if df.empty or "name" not in df.columns:
+        return 0
+    fixed = df["name"].apply(strip_name_badge)
+    total_fixed = (fixed != df["name"].astype(str)).sum()
+    df["name"] = fixed
+    return total_fixed
+
+
+# Class label -> 1..5 (Fy/So/Jr/Sr/Gr); redshirt prefixes count as the base class; unknown labels give None.
+def class_rank(label):
+    if pd.isna(label):
+        return None
+    s = re.sub(r"[^a-z0-9]", "", str(label).lower())
+    groups = [("fy", "fr", "rf", "freshman", "firstyear"), ("so", "rso", "sophomore"), ("jr", "rjr", "junior"),
+              ("sr", "rs", "senior"), ("gr", "grad", "graduate", "gs", "5th", "6th", "fifthyear", "sixthyear")]
+    for candidate in (s, re.sub(r"^(redshirt|r)", "", s)):
+        for rank, names in enumerate(groups, start=1):
+            if candidate in names:
+                return rank
+    return None

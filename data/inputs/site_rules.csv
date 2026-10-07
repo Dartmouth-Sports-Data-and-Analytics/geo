@@ -1,0 +1,100 @@
+school,sport_page,rule,year,value,note
+*,mens-rowing,slug_alias,,mens-heavyweight-rowing,'mrow' is tried at every school; it only costs an extra 404
+*,mens-rowing,slug_alias,,mens-crew,'mrow' is tried at every school; it only costs an extra 404
+*,mens-rowing,slug_alias,,mrow,'mrow' is tried at every school; it only costs an extra 404
+*,rowing,slug_alias,,mens-lightweight-rowing,men's lightweight rowing uses a different slug at each school
+*,rowing,slug_alias,,mlr,men's lightweight rowing uses a different slug at each school
+*,rowing,slug_alias,,lightweight-rowing,men's lightweight rowing uses a different slug at each school
+*,womens-rowing,slug_alias,,womens-heavyweight-rowing,
+*,womens-rowing,slug_alias,,womens-crew,
+*,sailing,slug_alias,,coed-sailing,
+*,sailing,slug_alias,,csail,
+*,sailing,slug_alias,,mens-sailing,
+*,baseball,spring_season,,,
+*,mens-lacrosse,spring_season,,,
+*,mens-rowing,spring_season,,,
+*,rowing,spring_season,,,
+*,softball,spring_season,,,
+*,womens-lacrosse,spring_season,,,
+*,womens-lightweight-rowing,spring_season,,,
+*,womens-rowing,spring_season,,,
+*,equestrian,skip_bare_year,,,site-side trap confirmed not to be caused by request pacing
+*,field-hockey,skip_bare_year,,,site-side trap confirmed not to be caused by request pacing
+*,football,skip_bare_year,,,site-side trap confirmed not to be caused by request pacing
+*,mens-basketball,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,mens-golf,skip_bare_year,,,identical names across all years at Harvard
+*,mens-ice-hockey,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,mens-rowing,skip_bare_year,,,Harvard's bare-year trap; dash-year is native elsewhere
+*,mens-soccer,skip_bare_year,,,site-side trap confirmed not to be caused by request pacing
+*,mens-squash,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,mens-swimming-and-diving,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,mens-tennis,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,mens-track-and-field,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,rowing,skip_bare_year,,,Harvard's bare-year trap; dash-year is native elsewhere
+*,sailing,skip_bare_year,,,
+*,skiing,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,track-and-field,skip_bare_year,,,
+*,womens-basketball,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-golf,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-ice-hockey,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-lightweight-rowing,skip_bare_year,,,Harvard's bare-year trap; dash-year is native elsewhere
+*,womens-rowing,skip_bare_year,,,Harvard's bare-year trap; dash-year is native elsewhere
+*,womens-rugby,skip_bare_year,,,site-side trap confirmed not to be caused by request pacing
+*,womens-sailing,skip_bare_year,,,same trap as sailing
+*,womens-squash,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-swimming-and-diving,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-tennis,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+*,womens-track-and-field,skip_bare_year,,,"identical rosters across years at Cornell, Harvard, Penn, Yale; harmless where bare-year already works"
+Harvard,field-hockey,prefer_bare,,,only returns correct history via the bare-year URL
+Harvard,football,prefer_bare,,,only returns correct history via the bare-year URL
+Harvard,mens-soccer,prefer_bare,,,only returns correct history via the bare-year URL
+Penn,field-hockey,prefer_bare,,,only returns correct history via the bare-year URL
+Penn,football,prefer_bare,,,only returns correct history via the bare-year URL
+Penn,mens-soccer,prefer_bare,,,only returns correct history via the bare-year URL
+Yale,field-hockey,prefer_bare,,,only returns correct history via the bare-year URL
+Yale,football,prefer_bare,,,only returns correct history via the bare-year URL
+Yale,mens-soccer,prefer_bare,,,only returns correct history via the bare-year URL
+Cornell,mens-cross-country,prefer_dash,2023,,site switched URL scheme; each scheme serves the current team for the other era
+Cornell,womens-cross-country,prefer_dash,2023,,site switched URL scheme; each scheme serves the current team for the other era
+Yale,womens-volleyball,prefer_dash,2021,,site switched URL scheme; each scheme serves the current team for the other era
+Harvard,mens-rowing,form_from,2016,dash,
+Penn,mens-tennis,form_through,2016,bare,2016-17 is labeled with the plain year 2016; every later season is a dash label
+Penn,mens-tennis,form_from,2017,dash,2016-17 is labeled with the plain year 2016; every later season is a dash label
+Yale,football,form_through,2021,bare,2022-23: the plain-year page keeps 2021-22's class labels (a stale copy); the dash page is the real roster
+Yale,football,form_through,2022,dash,2022-23: the plain-year page keeps 2021-22's class labels (a stale copy); the dash page is the real roster
+Yale,football,form_from,2023,bare,2022-23: the plain-year page keeps 2021-22's class labels (a stale copy); the dash page is the real roster
+Yale,mens-cross-country,form_through,2023,bare,the other form returns the site's default page for these seasons (checked 2020-21 to 2023-24)
+Yale,mens-soccer,form_through,2020,dash,
+Yale,mens-track-and-field,form_through,2023,dash,the other form returns the site's default page for these seasons (checked 2020-21 to 2023-24)
+Yale,volleyball,form_through,2019,bare,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Yale,volleyball,form_through,2021,dash,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Yale,volleyball,form_from,2022,bare,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Yale,womens-volleyball,form_through,2019,bare,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Yale,womens-volleyball,form_through,2021,dash,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Yale,womens-volleyball,form_from,2022,bare,"plain years, then 2020-21 and 2021-22 as dash seasons, then plain years again"
+Harvard,mens-rowing,missing_season,2019,,"the site serves the current roster for this season, so there is no real page"
+Yale,mens-golf,missing_season,2023,,team page is blank on the site (players have individual pages); infer_seasons.py rebuilds from 2022 and 2024
+Brown,mens-golf,first_year,2026,,
+Brown,mens-squash,first_year,2026,,
+Brown,womens-golf,first_year,2026,,
+Brown,womens-squash,first_year,2026,,
+Princeton,womens-rugby,first_year,2022,,
+Brown,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Columbia,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Cornell,rowing,unavailable,,,no separate lightweight page — their one men's rowing team is already under mens-rowing
+Cornell,sailing,unavailable,,,no real separate program behind this slug — see womens-sailing
+Cornell,skiing,unavailable,,,"confirmed club sport, not varsity"
+Cornell,womens-golf,unavailable,,,confirmed not sponsored as a varsity team
+Cornell,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Cornell,womens-rugby,unavailable,,,"confirmed club sport, not varsity"
+Dartmouth,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Penn,rowing,unavailable,,,no separate lightweight page — their one men's rowing team is already under mens-crew
+Penn,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Yale,womens-lightweight-rowing,unavailable,,,confirmed no women's lightweight rowing program — see womens-rowing
+Yale,mens-rowing,slug_override,,mens-crew,"Yale's mens-rowing/mens-crew are swapped vs. other schools, so an override is the only slug tried"
+Yale,rowing,slug_override,,mens-rowing,"Yale's mens-rowing/mens-crew are swapped vs. other schools, so an override is the only slug tried"
+Columbia,cross-country,combined_page,,,confirmed combined (coed) page: only the neutral entry is scraped
+Columbia,track-and-field,combined_page,,,confirmed combined (coed) page: only the neutral entry is scraped
+Harvard,cross-country,combined_page,,,confirmed combined (coed) page: only the neutral entry is scraped
+Harvard,track-and-field,combined_page,,,confirmed combined (coed) page: only the neutral entry is scraped
+*,rowing,cleanup_exempt,,,"bare 'rowing' is men's lightweight (its own team), so exempt from the neutral-entry cleanup"

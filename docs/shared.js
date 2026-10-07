@@ -33,14 +33,19 @@ function latestSeasons(items, n) {
 }
 
 // Team seasons whose roster page is blank on the school's site, so the roster was rebuilt from the seasons
-// before and after (pipeline/infer_seasons.py). Keep in step with INFERRED_SEASONS there. `sport` is the
-// label used in data.json, `year` the academic start year.
-const INFERRED_SEASONS = [
-  { school: "Yale", sport: "Mens Golf", year: 2023 }
-];
+// before and after (pipeline/infer_seasons.py). The list comes from data.json ("inferred": [school, sport, year]
+// triples, sport as labelled in data.json, year the academic start year), so there is nothing to keep in step.
+// Call setInferredSeasons(data.inferred) once, right after the data loads.
+let inferredSeasons = new Set();
+
+function inferredKey(school, sport, year) { return `${school}|${sport}|${year}`; }
+
+function setInferredSeasons(list) {
+  inferredSeasons = new Set((list || []).map(([school, sport, year]) => inferredKey(school, sport, year)));
+}
 
 function isInferred(school, sport, year) {
-  return INFERRED_SEASONS.some((s) => s.school === school && s.sport === sport && s.year === year);
+  return inferredSeasons.has(inferredKey(school, sport, year));
 }
 
 // A toggle chip for one value in a selection; getSet returns the live Set, since Select all / Clear all replace it.

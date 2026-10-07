@@ -36,7 +36,7 @@ const state = {
 };
 
 async function loadData() {
-  const res = await fetch("data.json?v=b28f8926");
+  const res = await fetch("data.json?v=81d712f6");
   if (!res.ok) throw new Error("Failed to load data.json");
   return res.json();
 }
@@ -404,6 +404,7 @@ function wireActions() {
 
 async function main() {
   const data = await loadData();
+  setInferredSeasons(data.inferred);   // before buildMarkers: popups mark inferred seasons while they are built
   state.map = buildMap();
   state.markers = buildMarkers(state.map, data);
 
