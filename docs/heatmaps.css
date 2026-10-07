@@ -27,7 +27,19 @@ html, body {
 .hm-title h1 span { color: var(--text-dim); font-weight: 400; }
 .hm-back { font-size: 12.5px; color: var(--text-dim); text-decoration: none; }
 .hm-back:hover { color: var(--text); }
-.hm-back + .hm-back { margin-left: 14px; }
+.about-btn {
+  display: inline-block;
+  margin-left: 12px;
+  padding: 3px 10px;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.about-btn:hover { border-color: #3a4256; }
 
 .hm-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 12.5px; }
 .hm-controls label { display: flex; align-items: center; gap: 6px; color: var(--text-dim); }
