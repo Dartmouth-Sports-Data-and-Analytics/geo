@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>About the heat maps: Ivy League Roster Construction</title>
 <link rel="icon" href="data:," />
-<link rel="stylesheet" href="about.css?v=6bdb219f" />
+<link rel="stylesheet" href="shared.css?v=e5089319" />
+<link rel="stylesheet" href="about.css?v=fe382462" />
 </head>
 <body>
 <main>
@@ -20,6 +21,7 @@
       <li>Tracked in academic years, 2016-17 to now</li>
       <li>One US map per school, shaded by athletes per state (each athlete counted once per state)</li>
       <li>International athletes are totaled but not drawn</li>
+      <li>Athletes whose hometown could not be located are left out, so totals run slightly low</li>
       <li>Men's, women's and coed teams are combined in <b>cross country</b>, <b>track and field</b> and <b>sailing</b></li>
     </ul>
   </section>
@@ -27,21 +29,16 @@
   <section>
     <h2>Choices</h2>
     <ul>
-      <li>Seasons with duplicate rosters are removed</li>
-      <li><b>Thin or missing seasons/teams</b>
+      <li><b>Seasons</b>
         <ul>
-          <li>Seasons
-            <ul>
-              <li><b>2019-2021:</b> COVID years, roughly</li>
-              <li><b>The current season:</b> partial until winter and spring rosters are posted</li>
-            </ul>
-          </li>
-          <li>Teams
-            <ul>
-              <li><b>Harvard men's rowing 2019-20:</b> not on the site</li>
-              <li id="inferred"><b>Yale men's golf 2023-24:</b> team page is blank, so it is rebuilt from the neighboring seasons (may be incomplete, included in Yale's counts)</li>
-            </ul>
-          </li>
+          <li><b>2020-21:</b> COVID year, many teams thin</li>
+          <li><b>The current season:</b> partial until winter and spring rosters are posted</li>
+        </ul>
+      </li>
+      <li><b>Teams</b>
+        <ul>
+          <li><b>Harvard men's rowing 2019-20:</b> not on the site</li>
+          <li id="inferred"><b>Yale men's golf 2023-24:</b> team page is blank, so it is rebuilt from the neighboring seasons (may be incomplete, included in Yale's counts)</li>
         </ul>
       </li>
     </ul>
@@ -50,10 +47,8 @@
   <section>
     <h2>Filters</h2>
     <ul>
-      <li><b>Defaults:</b> the latest 5 seasons, all sports and regions</li>
-      <li><b>Seasons:</b> any season from 2016-17 to now, or Latest 5</li>
-      <li><b>Sports:</b> any varsity sport on the schools' sites</li>
-      <li><b>Regions</b> (by hometown): CA / TX / FL, New England, Mid-Atlantic, Southeast, Midwest, Mountain West &amp; Southwest, Northwest &amp; Pacific and International / Other</li>
+      <li><b>Seasons:</b> any season, or Latest 5 (selected at first)</li>
+      <li><b>Sports</b> and <b>regions</b> (by hometown): every varsity sport, and seven US regions plus International / Other; all on at first</li>
       <li>A school with no matching team shows a grey "No team" card</li>
       <li>Hover or tap a state for its count, share, rank and sports</li>
     </ul>

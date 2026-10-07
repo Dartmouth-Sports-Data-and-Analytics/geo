@@ -81,9 +81,9 @@ function aggregate() {
   return out;
 }
 
-// Nothing is selected until at least one season and one sport are chosen.
+// Nothing is selected until at least one season, one sport and one region are chosen.
 function noSelection() {
-  return ui.years.size === 0 || ui.sports.size === 0;
+  return ui.years.size === 0 || ui.sports.size === 0 || (ui.regions !== null && ui.regions.size === 0);
 }
 
 function update() {

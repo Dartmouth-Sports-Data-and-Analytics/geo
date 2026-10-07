@@ -1,20 +1,3 @@
-:root {
-  --bg: #f4f5f7;
-  --panel: #ffffff;
-  --panel-border: #dfe1e6;
-  --text: #1a1d24;
-  --text-dim: #6b7280;
-}
-
-* { box-sizing: border-box; }
-
-html, body {
-  margin: 0;
-  background: var(--bg);
-  color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-}
-
 .hm-header {
   display: flex;
   flex-wrap: wrap;
@@ -27,31 +10,9 @@ html, body {
 .hm-title h1 span { color: var(--text-dim); font-weight: 400; }
 .hm-back { font-size: 12.5px; color: var(--text-dim); text-decoration: none; }
 .hm-back:hover { color: var(--text); }
-.about-btn {
-  display: inline-block;
-  margin-left: 12px;
-  padding: 3px 10px;
-  background: var(--panel);
-  border: 1px solid var(--panel-border);
-  border-radius: 8px;
-  color: var(--text);
-  font-size: 12px;
-  font-weight: 600;
-  text-decoration: none;
-}
-.about-btn:hover { border-color: #3a4256; }
+.about-btn { margin-left: 12px; }
 
 .hm-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; font-size: 12.5px; }
-.hm-controls label { display: flex; align-items: center; gap: 6px; color: var(--text-dim); }
-.hm-controls select {
-  font: inherit;
-  padding: 5px 8px;
-  border: 1px solid var(--panel-border);
-  border-radius: 6px;
-  background: var(--panel);
-  color: var(--text);
-  max-width: 200px;
-}
 .menu { position: relative; }
 .menu > button {
   font: inherit;
@@ -82,21 +43,10 @@ html, body {
 .menu-list label { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: 12.5px; cursor: pointer; user-select: none; }
 .menu-list input { margin: 0; accent-color: #1a1d24; }
 
-.link-btn { background: none; border: none; padding: 0; color: var(--text-dim); font: inherit; font-size: 12px; text-decoration: underline; cursor: pointer; }
-.link-btn:hover { color: var(--text); }
-
 .hm-regions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; padding: 6px 20px 0; font-size: 12.5px; }
 .hm-label { color: var(--text-dim); }
 #regionChips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip {
-  padding: 4px 10px;
-  border: 1px solid var(--panel-border);
-  border-radius: 999px;
-  background: #f0f1f4;
-  cursor: pointer;
-  user-select: none;
-}
-.chip.off { opacity: 0.35; }
+.chip { padding: 4px 10px; }
 
 #grid {
   display: grid;

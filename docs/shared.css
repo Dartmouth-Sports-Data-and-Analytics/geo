@@ -1,0 +1,53 @@
+/* Base styles shared by every page (linked before each page's own stylesheet). */
+:root {
+  --bg: #f4f5f7;
+  --panel: #ffffff;
+  --panel-border: #dfe1e6;
+  --text: #1a1d24;
+  --text-dim: #6b7280;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--text-dim);
+  font: inherit;
+  font-size: 12px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.link-btn:hover { color: var(--text); }
+
+.about-btn {
+  display: inline-block;
+  padding: 3px 10px;
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.about-btn:hover { border-color: #3a4256; }
+
+.chip {
+  border: 1px solid var(--panel-border);
+  border-radius: 999px;
+  background: #f0f1f4;
+  font-size: 12.5px;
+  color: var(--text);
+  cursor: pointer;
+  user-select: none;
+}
+.chip.off { opacity: 0.35; }
