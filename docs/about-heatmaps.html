@@ -28,32 +28,51 @@
 <main>
   <nav><a href="heatmaps.html">&larr; State heat maps</a><a href="index.html">Roster map</a></nav>
   <h1>About the heat maps</h1>
-  <p class="lede">How many athletes each school draws from each state.</p>
+  <p class="lede">Ivy Roster Construction</p>
 
   <section>
-    <h2>The data</h2>
+    <h2>Data</h2>
     <ul>
-      <li>One US map per school, each state shaded by its number of athletes, from the eight schools' public roster pages, 2016-17 to now.</li>
-      <li>A season is the academic year: 2024 means 2024-25. Each person counts once per state; international athletes are totaled but not drawn.</li>
-      <li><b>Cross Country, Track and Field and Sailing</b> combine the men's, women's and coed teams; every other sport stays separate.</li>
+      <li>From the public roster pages on the schools' websites</li>
+      <li>Tracked in academic years, 2016-17 to now</li>
+      <li>One US map per school, shaded by athletes per state (each athlete counted once per state)</li>
+      <li>International athletes are totaled but not drawn</li>
+      <li>Men's, women's and coed teams are combined in <b>cross country</b>, <b>track and field</b> and <b>sailing</b></li>
     </ul>
   </section>
 
   <section>
-    <h2>Gaps and caveats</h2>
+    <h2>Choices</h2>
     <ul>
-      <li>School sites sometimes serve another season's roster; we drop seasons that copy one another.</li>
-      <li><b>2020-21</b> is thin (many seasons were cancelled), and the <b>current season</b> is partial until winter and spring rosters are posted.</li>
-      <li><b>Harvard men's rowing 2019-20</b> doesn't exist on the site, so it is left out.</li>
-      <li id="inferred"><b>Yale men's golf 2023-24:</b> the team page is blank, so the roster is rebuilt from the seasons either side (athletes on both rosters, juniors who likely finished as seniors, sophomores who likely started as first-years). It is a minimum. Included in Yale's counts.</li>
+      <li>Seasons with duplicate rosters are removed</li>
+      <li><b>Thin or missing seasons/teams</b>
+        <ul>
+          <li>Seasons
+            <ul>
+              <li><b>2019-2021:</b> COVID years, roughly</li>
+              <li><b>2026:</b> partial until winter and spring rosters are posted</li>
+            </ul>
+          </li>
+          <li>Teams
+            <ul>
+              <li><b>Harvard men's rowing 2019-20:</b> not on the site</li>
+              <li id="inferred"><b>Yale men's golf 2023-24:</b> team page is blank, so it is rebuilt from the neighboring seasons (may be incomplete, included in Yale's counts)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </section>
 
   <section>
     <h2>Filters</h2>
     <ul>
-      <li><b>Seasons</b> (latest 5 at first), <b>Sports</b> and <b>Regions</b> combine; a school with no matching team shows a grey "No team" card.</li>
-      <li>Hover or tap a state for its count, share, rank and sports.</li>
+      <li><b>Defaults:</b> the latest 5 seasons, all sports and regions</li>
+      <li><b>Seasons:</b> any season from 2016-17 to now, or Latest 5</li>
+      <li><b>Sports:</b> any varsity sport on the schools' sites</li>
+      <li><b>Regions</b> (by hometown): CA / TX / FL, New England, Mid-Atlantic, Southeast, Midwest, Mountain West &amp; Southwest, Northwest &amp; Pacific and International / Other</li>
+      <li>A school with no matching team shows a grey "No team" card</li>
+      <li>Hover or tap a state for its count, share, rank and sports</li>
     </ul>
   </section>
 </main>
