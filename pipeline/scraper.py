@@ -253,7 +253,7 @@ def scrape_roster(base, sport, slugs, year, is_current=False, verbose=False, sch
 # ───────────────────────────── cleaning and sanity checks for roster tables ─────────────────────────────
 
 # Jersey-number or captain-letter badge glued onto a name ("29Ricky Nunez", "CWilliam Ma"); not initials like "AJ Gaich".
-NAME_BADGE_PATTERN = re.compile(r"^(?:\d+\s*|[A-Z](?=[A-Z][a-z]))")
+NAME_BADGE_PATTERN = re.compile(r"^(?:[/#]?\d+\s*|[A-Z](?=[A-Z][a-z]))")
 
 
 def strip_name_badge(raw_name):
@@ -278,6 +278,33 @@ def load_existing_roster(output_file):
     except Exception as e:
         print(f"  Could not read existing {output_file} ({e}), will refetch all years.")
         return pd.DataFrame()
+
+
+# Invisible characters pages sometimes carry (zero-width space, joiner, word joiner, byte-order mark); they make two equal names differ.
+_INVISIBLE = re.compile("[\u200b\u200c\u200d\u2060\ufeff]")
+# Typographic quotes -> plain ones, so "O’Keefe" and "O'Keefe" are the same person and a typed apostrophe finds both.
+_QUOTES = str.maketrans({"\u2018": "'", "\u2019": "'", "\u201a": "'", "\u2032": "'", "\u201c": '"', "\u201d": '"', "\u2033": '"'})
+
+
+def clean_text(value):
+    """One way to write a text field: no invisible characters, plain quotes, single spaces, and blank means missing. Safe to repeat."""
+    if not isinstance(value, str):
+        return value
+    text = " ".join(_INVISIBLE.sub("", value).translate(_QUOTES).split())
+    return text if text else float("nan")
+
+
+def clean_roster_rows(df):
+    """Every text column cleaned with clean_text, and rows with no name dropped (a card the page parser could not read).
+    Returns (clean table, number of rows dropped). Running it again changes nothing, so rewriting a file never causes churn."""
+    out = df.copy()
+    for col in out.columns:
+        if col != "year":
+            out[col] = out[col].map(clean_text)
+    if "name" not in out.columns:
+        return out, 0
+    keep = out["name"].notna()
+    return out[keep].reset_index(drop=True), int((~keep).sum())
 
 
 # Fully specified row order (year, then name, then every other column), so rewriting a file never reshuffles it.

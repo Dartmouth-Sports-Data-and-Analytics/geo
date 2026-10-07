@@ -5,11 +5,12 @@ import hashlib
 import json
 import os
 import re
+import sys
 
 import pandas as pd
 
 import config
-from geocode_rosters import us_state
+from geocode_rosters import STATE_FULL_NAMES, misplaced_hometowns, us_state
 
 OUT_PATH = os.path.join(config.DOCS_DIR, "data.json")
 OTHER_REGION = "International / Other"
@@ -83,7 +84,7 @@ def combine_sports(all_data):
 
 def clean_and_filter(all_data):
     total = len(all_data)
-    all_data = all_data.dropna(subset=["latitude", "longitude"]).copy()
+    all_data = all_data.dropna(subset=["name", "latitude", "longitude"]).copy()
     dropped = total - len(all_data)
     print(f"Read {total:,} roster rows" + (f"; {dropped:,} left off the map for lack of coordinates (see data/state/hometown_failed.csv)." if dropped else "."))
     all_data["latitude"] = all_data["latitude"].round(4)
@@ -94,6 +95,13 @@ def clean_and_filter(all_data):
     all_data["sport"] = squish(all_data["sport"].astype(str))
 
     return all_data
+
+
+# geocode_rosters.py already merged spellings of one place; this only checks that the geo files it wrote are up to date.
+def check_unified(all_data):
+    spellings = all_data.groupby(["latitude", "longitude"])["hometown"].nunique()
+    if (spellings > 1).any():
+        print(f"WARNING: {int((spellings > 1).sum())} places still have more than one spelling in the geo files; run geocode_rosters.py again.")
 
 
 # New run starts after a gap of 3+ years (one skipped year is tolerated as a redshirt).
@@ -171,6 +179,13 @@ def note_long_careers(athletes, limit=4):
         print(f"{n} athlete entries have more than {limit} seasons in one sport; run `python checks.py audit` to review them.")
 
 
+# Names with a digit, "/", "#", "?" or "@" are almost always a jersey number or page markup that got glued on ("/29Dana Daniels").
+def note_odd_names(athletes):
+    odd = sorted({n for n in athletes["name"] if isinstance(n, str) and re.search(r"[0-9/#?@_]", n)})
+    if odd:
+        print(f"{len(odd)} names look like page junk, not names (fix the cleaner, or the page): " + ", ".join(repr(n) for n in odd[:6]) + (", ..." if len(odd) > 6 else ""))
+
+
 # Same school + name + hometown = same person; the map draws one dot per person ID.
 def assign_person_ids(athletes):
     athletes = athletes.copy()
@@ -178,42 +193,13 @@ def assign_person_ids(athletes):
     return athletes
 
 
-# Letters-only lowercase spellings (full names, AP and USPS abbreviations, and spellings seen in the rosters) -> USPS code.
-_STATE_NAMES = {
-    "AL": "alabama ala al", "AK": "alaska ak", "AZ": "arizona ariz az ari", "AR": "arkansas ark ar",
-    "CA": "california calif ca calf cal", "CO": "colorado colo co", "CT": "connecticut conn ct",
-    "DE": "delaware del de", "DC": "districtofcolumbia dc", "FL": "florida fla fl", "GA": "georgia ga",
-    "HI": "hawaii hi haw", "ID": "idaho ida id", "IL": "illinois ill il", "IN": "indiana ind in", "IA": "iowa ia",
-    "KS": "kansas kan kans ks", "KY": "kentucky ky", "LA": "louisiana la", "ME": "maine me",
-    "MD": "maryland md", "MA": "massachusetts mass ma", "MI": "michigan mich mi", "MN": "minnesota minn mn",
-    "MS": "mississippi miss ms", "MO": "missouri mo", "MT": "montana mont mt", "NE": "nebraska neb nebr ne",
-    "NV": "nevada nev nv", "NH": "newhampshire nh", "NJ": "newjersey nj", "NM": "newmexico nm",
-    "NY": "newyork ny", "NC": "northcarolina nc", "ND": "northdakota nd", "OH": "ohio oh",
-    "OK": "oklahoma okla ok", "OR": "oregon ore or", "PA": "pennsylvania penn pa", "RI": "rhodeisland ri",
-    "SC": "southcarolina sc", "SD": "southdakota sd", "TN": "tennessee tenn tn", "TX": "texas tex tx",
-    "UT": "utah ut", "VT": "vermont vt", "VA": "virginia vir va", "WA": "washington wash wa",
-    "WV": "westvirginia wva wv", "WI": "wisconsin wis wisc wi", "WY": "wyoming wyo wy",
-}
-_STATE_LOOKUP = {name: code for code, names in _STATE_NAMES.items() for name in names.split()}
-
-
-# State code from the last comma-separated part of the hometown (after hand fixes); None means not a recognizable US state.
-def us_state(hometown, fixes):
-    s = fixes.get(hometown, hometown)
-    s = re.sub(r"\s*\([^)]*\)", "", s)
-    s = re.split(r"\s*/\s*|\s+&\s+", s)[0]
-    parts = [p.strip() for p in s.split(",") if p.strip()]
-    while parts and re.sub(r"[^a-z]", "", parts[-1].lower()) in ("usa", "us", "unitedstates", "unitedstatesofamerica"):
-        parts.pop()
-    if len(parts) < 2:
-        return None
-    return _STATE_LOOKUP.get(re.sub(r"[^a-z]", "", parts[-1].lower()))
-
-
 def load_region_map():
     if not os.path.exists(config.REGIONS_PATH):
         raise FileNotFoundError(f"Missing {config.REGIONS_PATH} (columns: state, region)")
     df = pd.read_csv(config.REGIONS_PATH)
+    missing = sorted(set(STATE_FULL_NAMES) - set(df["state"]))
+    if missing:
+        print(f"WARNING: regions.csv has no region for {', '.join(missing)}; athletes from there show as International / Other.")
     return dict(zip(df["state"], df["region"])), list(dict.fromkeys(df["region"]))
 
 
@@ -253,13 +239,61 @@ def build_payload(athletes, region_order, inferred=None):
     }
 
 
-def build_data_json(check_regions=False):
+# ───────────────────────────── checks on the result, before it replaces the published file ─────────────────────────────
+def load_previous():
+    """The data.json about to be replaced, or None on a first build."""
+    if not os.path.exists(OUT_PATH):
+        return None
+    try:
+        with open(OUT_PATH) as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return None
+
+
+def athlete_seasons(d):
+    return {(s, sp, n, y) for s, sp, n, ys in zip(d["school"], d["sport"], d["name"], d["years"]) for y in ys}
+
+
+def check_against_previous(previous, payload, force=False):
+    """Compares the new data with the file it replaces, so a bad pull or a code mistake shows up here and not on the website.
+    Older seasons are not supposed to change between builds. Refuses to write if the data shrank by more than 10% or a school vanished."""
+    if not previous or "name" not in previous:
+        return
+    old, new = athlete_seasons(previous), athlete_seasons(payload)
+    latest = max(y for *_, y in old | new)
+    lost = sorted(r for r in old - new if r[3] != latest)
+    added = [r for r in new - old if r[3] != latest]
+    print(f"Compared with the data.json being replaced: {len(previous['person']):,} -> {len(payload['person']):,} entries; "
+          f"{len(lost)} athlete-seasons from older seasons dropped out, {len(added)} were added.")
+    for r in lost[:5]:
+        print("   dropped:", r)
+    gone = sorted(set(previous["school"]) - set(payload["school"]))
+    shrunk = len(payload["person"]) < 0.9 * len(previous["person"])
+    if (gone or shrunk) and not force:
+        why = f"{', '.join(gone)} has no athletes at all" if gone else f"{len(payload['person']):,} entries now against {len(previous['person']):,} before (over 10% fewer)"
+        sys.exit(f"Not writing docs/data.json: {why}. Find out why (`python checks.py audit`), or run again with --force if it is expected.")
+
+
+def report_places(payload):
+    rows = misplaced_hometowns(payload)
+    if rows is None:
+        config.note("No docs/us-states.json, so the check that each dot is where its hometown says was skipped.")
+    elif rows:
+        print(f"Place check: {len(rows)} hometowns look misplaced ({sum(r[1] for r in rows)} athletes); run `python checks.py places` to see them.")
+    else:
+        print("Place check: every dot is where its hometown says.")
+
+
+def build_data_json(check_regions=False, force=False):
     all_data = load_all_geo_csvs()
     all_data = clean_sport_labels(all_data)
     all_data = combine_sports(all_data)
     all_data = clean_and_filter(all_data)
+    check_unified(all_data)
     athletes = collapse_to_athletes(all_data)
     note_long_careers(athletes)
+    note_odd_names(athletes)
     athletes = assign_person_ids(athletes)
     print(f"{len(all_data):,} roster rows -> {len(athletes):,} athlete entries -> {athletes['person'].nunique():,} people")
     athletes, region_order = add_regions(athletes, check_regions)
@@ -267,6 +301,8 @@ def build_data_json(check_regions=False):
     if inferred:
         print(f"{len(inferred)} team season(s) were rebuilt by `rosters.py infer` and are marked in data.json.")
     payload = build_payload(athletes, region_order, inferred)
+    check_against_previous(load_previous(), payload, force)
+    report_places(payload)
 
     with open(OUT_PATH, "w") as f:
         json.dump(payload, f, separators=(",", ":"))
@@ -318,10 +354,11 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Rebuild docs/data.json from the geocoded rosters.")
     parser.add_argument("--check-regions", action="store_true",
                         help="Also list the most common hometowns that landed in International / Other, to spot US towns that failed to parse.")
+    parser.add_argument("--force", action="store_true", help="Write data.json even if it is much smaller than the one it replaces.")
     parser.add_argument("--stamp-only", action="store_true",
                         help="Only refresh the ?v= cache versions in docs/ (after hand-editing a file there); do not rebuild data.json.")
     args = parser.parse_args()
     if args.stamp_only:
         stamp()
     else:
-        build_data_json(args.check_regions)
+        build_data_json(args.check_regions, args.force)

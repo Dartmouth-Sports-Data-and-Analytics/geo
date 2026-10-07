@@ -2,11 +2,11 @@
 
     python checks.py audit                                 roster sizes, class-advancement and long-career checks (saved to data/audit/audit_report.txt)
     python checks.py probe SCHOOL SPORT_PAGE YEARS         compare the roster URL forms across seasons for one team, to find which form serves a real roster
-    python checks.py compare [BEFORE AFTER]                compare two data.json files (default: pipeline/tmp/data_before.json vs docs/data.json)
+    python checks.py places [--forget]                     find hometowns whose dot is not where the hometown says it is
+    python checks.py code                                  check the scripts themselves (run automatically before run_pipeline.py)
 """
 import argparse
 import datetime
-import collections
 import glob
 import json
 import os
@@ -18,6 +18,8 @@ import pandas as pd
 import config
 import scraper
 import state
+from geocode_rosters import PLACE_KM_LIMIT, misplaced_hometowns
+from run_pipeline import find_code_problems
 
 
 # ───────────────────────────── audit: class labels, coverage, long careers ─────────────────────────────
@@ -375,37 +377,56 @@ def probe_main(args):
         print(f"Both forms look real for {', '.join(f'{y}-{str(y + 1)[-2:]}' for y in unresolved)} and the class changes don't settle it; compare those pages by eye.")
 
 
-# ───────────────────────────── compare: two data.json files ─────────────────────────────
-# Ignores person IDs and row order. Each athlete-season is one (school, sport, name, hometown, year) tuple; only the latest season is
-# expected to differ between pulls, so the check passes when nothing older changed.
+# ───────────────────────────── places: is each dot where its hometown says? ─────────────────────────────
+# Checks every hometown in docs/data.json against the US state outlines in docs/us-states.json, and writes the suspicious ones to
+# data/audit/place_review.csv. Two kinds: a hometown with a US state whose dot is more than PLACE_KM_LIMIT km outside that state
+# (the geocoder read an abbreviation as another country), and a hometown with no US state whose dot is inside the US.
+# --forget removes the flagged points from hometown_cache.csv so the next `geocode_rosters.py` looks them up again.
+def places_main(forget=False):
+    data_path = os.path.join(config.DOCS_DIR, "data.json")
+    if not os.path.exists(data_path):
+        sys.exit(f"Not found: {data_path}")
+    with open(data_path) as f:
+        d = json.load(f)
+    rows = misplaced_hometowns(d)
+    if rows is None:
+        sys.exit(f"Not found: {os.path.join(config.DOCS_DIR, 'us-states.json')} (run prepare_states.py once to create it)")
+    total = len(set(d["hometown"]))
+    os.makedirs(config.AUDIT_DIR, exist_ok=True)
+    out = os.path.join(config.AUDIT_DIR, "place_review.csv")
+    pd.DataFrame(rows, columns=["hometown", "athletes", "labelled_as", "dot_is_in", "km_from_labelled_state", "lat", "lng", "suggested_fix_check_it"]).to_csv(out, index=False)
 
-def _athlete_seasons(path):
-    if not os.path.exists(path):
-        sys.exit(f"Not found: {path}")
-    d = json.load(open(path))
-    return {(s, sp, n, h, y) for s, sp, n, h, ys in zip(d["school"], d["sport"], d["name"], d["hometown"], d["years"]) for y in ys}
+    far = [r for r in rows if r[2] != "International / Other"]
+    inside = [r for r in rows if r[2] == "International / Other"]
+    print(f"{total:,} hometowns checked against the state outlines.")
+    print(f"  {len(far)} have a US state but the dot is more than {PLACE_KM_LIMIT} km outside it ({sum(r[1] for r in far)} athletes)")
+    print(f"  {len(inside)} have no US state but the dot is inside the US ({sum(r[1] for r in inside)} athletes)")
+    for r in rows[:15]:
+        where = r[3] if r[3] == "outside the US" else f"in {r[3]}"
+        print(f"    {r[0]!r:38} labelled {r[2]:<22} dot {where:<15} x{r[1]}")
+    print(f"Full list: {out}")
+    if not rows:
+        return
+    if not forget:
+        print("Fix the hometown text in data/inputs/hometown_fixes.csv where it is a typo, and run again with --forget to look the rest up again.")
+        return
+    cache = pd.read_csv(config.HOMETOWN_CACHE_PATH)
+    flagged = {(round(r[5], 4), round(r[6], 4)) for r in rows}
+    drop = [(round(a, 4), round(b, 4)) in flagged for a, b in zip(cache["latitude"], cache["longitude"])]
+    cache[[not x for x in drop]].to_csv(config.HOMETOWN_CACHE_PATH, index=False)
+    print(f"Removed {sum(drop)} cache rows. Now run: python geocode_rosters.py && python build_data_json.py")
 
 
-def compare_main(before_path=None, after_path=None):
-    before_path = before_path or os.path.join(os.path.dirname(os.path.abspath(__file__)), "tmp", "data_before.json")
-    after_path = after_path or os.path.join(config.DOCS_DIR, "data.json")
-    print(f"before: {before_path}\nafter:  {after_path}")
-    before, after = _athlete_seasons(before_path), _athlete_seasons(after_path)
-    latest = max(r[4] for r in before | after)
-    print(f"before: {len(before)} athlete-seasons   after: {len(after)}   latest year: {latest}")
-    for label, diff in (("only in before", before - after), ("only in after", after - before)):
-        by_year = collections.Counter(r[4] for r in diff)
-        print(f"{label}: {len(diff)}  by year: {dict(sorted(by_year.items()))}")
-        for r in sorted(diff, key=lambda r: (r[4], r[0], r[1], r[2]))[:10]:
-            if r[4] != latest:
-                print("   ", r)
-    older = sum(1 for r in before ^ after if r[4] != latest)
-    print("\nPASS: only the latest season differs" if older == 0 else f"\n{older} difference(s) in older seasons: look at the rows above")
-    return older == 0
+def code_main():
+    folder = os.path.dirname(os.path.abspath(__file__))
+    problems = find_code_problems(folder)
+    count = len([f for f in os.listdir(folder) if f.endswith(".py")])
+    print("\n".join(problems) if problems else f"No problems found in the {count} scripts.")
+    sys.exit(1 if problems else 0)
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Read-only diagnostics: audit the roster files, probe one team's URL forms, or compare two data.json files.")
+    parser = argparse.ArgumentParser(description="Read-only diagnostics: audit the roster files, probe one team's URL forms, or check where the dots are.")
     sub = parser.add_subparsers(dest="command", required=True)
     sub.add_parser("audit", help="Check the roster files; the report is also saved to data/audit/audit_report.txt.")
     p = sub.add_parser("probe", help="Compare roster URL forms across seasons, e.g.: checks.py probe Yale mens-soccer 2016-2020")
@@ -413,16 +434,18 @@ def main():
     p.add_argument("sport_page")
     p.add_argument("years", help="One season (2017), a range (2016-2020) or a list (2016,2018,2020); a season is the year it starts.")
     p.add_argument("--slug", help="Try this URL slug instead of the one discovery found, e.g. --slug womens-volleyball")
-    p = sub.add_parser("compare", help="Compare two data.json files; passes when only the latest season differs.")
-    p.add_argument("before", nargs="?", help="default: pipeline/tmp/data_before.json")
-    p.add_argument("after", nargs="?", help="default: docs/data.json")
+    p = sub.add_parser("places", help="Find hometowns whose dot is not where the hometown says it is (writes data/audit/place_review.csv).")
+    p.add_argument("--forget", action="store_true", help="Also remove the flagged points from hometown_cache.csv so the next geocode run looks them up again.")
+    sub.add_parser("code", help="Check the scripts themselves for mixed-up versions, duplicate definitions and typos.")
     args = parser.parse_args()
-    if args.command == "audit":
+    if args.command == "code":
+        code_main()
+    elif args.command == "audit":
         audit_main()
     elif args.command == "probe":
         probe_main(args)
-    else:
-        sys.exit(0 if compare_main(args.before, args.after) else 1)
+    elif args.command == "places":
+        places_main(args.forget)
 
 
 if __name__ == "__main__":

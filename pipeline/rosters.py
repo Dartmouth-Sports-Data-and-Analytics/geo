@@ -411,10 +411,17 @@ def run_tasks(tasks, file_state, label=None):
 
 def write_files(file_state):
     written = 0
-    tidied = {"names": 0, "files": 0}
+    tidied = {"names": 0, "files": 0, "nameless": 0}
+    name_fixes, name_fixes_used = config.load_name_fixes(), set()
     for entry in file_state.values():
         existing_df = entry["existing_df"]
         new_fetches = entry["new_fetches"]
+
+        # A page that suddenly lists far fewer players than before is usually half loaded, not a team that shrank.
+        for year, fresh in new_fetches.items():
+            before = 0 if existing_df.empty else int((existing_df["year"] == year).sum())
+            if before >= 10 and len(fresh) < before / 2:
+                print(f"[{entry['school']}] {entry['sport']} {year}: the page now lists {len(fresh)} players but {before} were on disk; check it before publishing.")
 
         # Freshly fetched years replace what is on disk for that year.
         combined = existing_df
@@ -428,8 +435,18 @@ def write_files(file_state):
 
         full_df = pd.concat(parts, ignore_index=True)
 
+        # Every text field written one way (spaces, quotes, invisible characters), and rows with no name dropped, before any comparison below.
+        full_df, nameless = scraper.clean_roster_rows(full_df)
+        tidied["nameless"] += nameless
+
         # Names are tidied first: freshly fetched rows still carry jersey numbers, which would hide a stale season from the checks below.
         badges_fixed = scraper.clean_name_badges(full_df)
+
+        # Hand-corrected names (a letter the source page lost); the key is the name as the roster has it, after the clean-up above.
+        for (fix_school, wrong), right in name_fixes.items():
+            if fix_school == entry["school"] and (full_df["name"] == wrong).any():
+                full_df["name"] = full_df["name"].replace(wrong, right)
+                name_fixes_used.add((fix_school, wrong))
 
         # Exact duplicate rows are never real data.
         full_df = full_df.drop_duplicates()
@@ -451,6 +468,10 @@ def write_files(file_state):
         full_df.to_csv(entry["output_file"], index=False)
         config.note(f"[{entry['school']}] {entry['sport']}: saved {entry['output_file']}")
         written += 1
+    unused = sorted(set(name_fixes) - name_fixes_used)
+    if unused:
+        print(f"  {len(unused)} name fixes match no athlete in the rosters (a typo in the name, or the page was corrected): "
+              + ", ".join(f"{s} {n!r}" for s, n in unused[:5]) + (", ..." if len(unused) > 5 else ""))
     return written, tidied
 
 
@@ -462,6 +483,8 @@ def pull_all(max_workers=8, refresh=frozenset(), retry_empty=False):
 
     tasks, file_state = gather_tasks(cache_df, refresh=refresh, retry_empty=retry_empty)
     print(f"{len(tasks)} pages to fetch, {max_workers} schools at a time.")
+    for problem in config.name_fix_problems():
+        print(f"  name_fixes.csv: {problem}")
 
     by_school = defaultdict(list)
     for t in tasks:
@@ -482,7 +505,8 @@ def pull_all(max_workers=8, refresh=frozenset(), retry_empty=False):
 
     state.save_season_status()    # also writes the file on the first run after migrating from the scrape log
     written, tidied = write_files(file_state)
-    print(f"Done: {written} roster files written" + (f"; tidied {tidied['names']:,} names (jersey numbers, extra spaces) in {tidied['files']} of them." if tidied["files"] else "."))
+    print(f"Done: {written} roster files written" + (f"; removed jersey numbers from {tidied['names']:,} names in {tidied['files']} of them" if tidied["files"] else "")
+          + (f"; dropped {tidied['nameless']} rows with no name" if tidied["nameless"] else "") + ".")
 
 
 # ───────────────────────── infer ─────────────────────────
@@ -605,7 +629,7 @@ def infer_all():
             same = (result["school"] == school) & (result["sport"] == sport) & (result["year"] == gap)
             result = pd.concat([result[~same], pd.DataFrame(new, columns=LOG_COLS)], ignore_index=True)
     os.makedirs(os.path.dirname(log_path), exist_ok=True)
-    result.to_csv(log_path, index=False)
+    result.sort_values(["school", "sport", "year", "name"], kind="stable").to_csv(log_path, index=False)
     print(f"Added athletes are listed in {log_path}")
 
 

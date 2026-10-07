@@ -33,7 +33,7 @@ function latestSeasons(items, n) {
 }
 
 // Team seasons whose roster page is blank on the school's site, so the roster was rebuilt from the seasons
-// before and after (pipeline/infer_seasons.py). The list comes from data.json ("inferred": [school, sport, year]
+// before and after (`rosters.py infer`). The list comes from data.json ("inferred": [school, sport, year]
 // triples, sport as labelled in data.json, year the academic start year), so there is nothing to keep in step.
 // Call setInferredSeasons(data.inferred) once, right after the data loads.
 let inferredSeasons = new Set();

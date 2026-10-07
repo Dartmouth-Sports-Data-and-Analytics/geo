@@ -60,6 +60,7 @@ DOCS_DIR = os.path.join(ROOT_DIR, "docs")
 # Hand-edited inputs.
 REFERENCE_PATH = os.path.join(INPUTS_DIR, "sport_page_reference.xlsx")
 FIXES_PATH = os.path.join(INPUTS_DIR, "hometown_fixes.csv")
+NAME_FIXES_PATH = os.path.join(INPUTS_DIR, "name_fixes.csv")
 REGIONS_PATH = os.path.join(INPUTS_DIR, "regions.csv")
 RULES_PATH = os.path.join(INPUTS_DIR, "site_rules.csv")
 
@@ -80,12 +81,76 @@ def sport_refs():
     return pd.read_excel(REFERENCE_PATH)
 
 
-# Hand-made hometown corrections: {original text: corrected text}.
+def _csv_rows(path):
+    """[(line number, [fields])] of a hand-edited CSV, read as real CSV so a quoted comma stays in one field."""
+    if not os.path.exists(path):
+        return []
+    with open(path, newline="", encoding="utf-8-sig") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        return [(reader.line_num, row) for row in reader if any(cell.strip() for cell in row)]
+
+
+def _fix_rows():
+    return _csv_rows(FIXES_PATH)
+
+
+def fix_problems():
+    """What is wrong with data/inputs/hometown_fixes.csv in a way that makes a fix silently do nothing (or do the wrong thing)."""
+    problems, seen = [], {}
+    for line, row in _fix_rows():
+        if len(row) != 2:
+            problems.append(f"line {line}: {len(row)} fields instead of 2, so this fix is ignored (a hometown with a comma in it must be in quotes, like \"Hartford, Conn.\")")
+            continue
+        hometown, corrected = row
+        if not hometown.strip() or not corrected.strip():
+            problems.append(f"line {line}: a blank cell, so this fix is ignored")
+            continue
+        if hometown != " ".join(hometown.split()) or corrected != " ".join(corrected.split()):
+            problems.append(f"line {line}: extra or odd spaces in {hometown!r} -> {corrected!r}; a space that is not in the roster text means it never matches")
+        if hometown == corrected:
+            problems.append(f"line {line}: {hometown!r} is corrected to itself")
+        if hometown in seen and seen[hometown] != corrected:
+            problems.append(f"line {line}: {hometown!r} was already corrected on line {seen[hometown][1]} to a different text (this later row wins)")
+        seen[hometown] = (corrected, line)
+    return problems
+
+
+def name_fix_problems():
+    """What is wrong with data/inputs/name_fixes.csv (columns school, name, corrected) in a way that makes a fix silently do nothing."""
+    problems, seen = [], {}
+    schools = set(bases_df["school"])
+    for line, row in _csv_rows(NAME_FIXES_PATH):
+        if len(row) != 3:
+            problems.append(f"line {line}: {len(row)} fields instead of 3 (school, name, corrected), so this fix is ignored")
+            continue
+        school, name, corrected = row
+        if school not in schools:
+            problems.append(f"line {line}: unknown school {school!r} (one of {', '.join(sorted(schools))}), so this fix is ignored")
+        elif not name.strip() or not corrected.strip():
+            problems.append(f"line {line}: a blank cell, so this fix is ignored")
+        elif name != " ".join(name.split()) or corrected != " ".join(corrected.split()):
+            problems.append(f"line {line}: extra or odd spaces in {name!r} -> {corrected!r}; a space that is not in the roster text means it never matches")
+        elif name == corrected:
+            problems.append(f"line {line}: {name!r} is corrected to itself")
+        if (school, name) in seen and seen[(school, name)] != corrected:
+            problems.append(f"line {line}: {school} {name!r} was already corrected to a different name (this later row wins)")
+        seen[(school, name)] = corrected
+    return problems
+
+
+# Hand-made name corrections: {(school, name as the roster has it): corrected name}, for a name the source page got wrong
+# (a lost accent, a typo). Applied when the roster files are written, so every later file carries the corrected name.
+def load_name_fixes():
+    schools = set(bases_df["school"])
+    return {(row[0], row[1]): row[2] for _, row in _csv_rows(NAME_FIXES_PATH)
+            if len(row) == 3 and row[0] in schools and row[1].strip() and row[2].strip()}
+
+
+# Hand-made hometown corrections: {original text: corrected text}. Rows that are not exactly two non-blank fields are skipped (see fix_problems).
 def load_fixes():
-    if not os.path.exists(FIXES_PATH):
-        return {}
-    df = pd.read_csv(FIXES_PATH).dropna(subset=["hometown", "corrected"])
-    return dict(zip(df["hometown"], df["corrected"]))
+    return {row[0]: row[1] for _, row in _fix_rows() if len(row) == 2 and row[0].strip() and row[1].strip()}
+
 
 
 # ───────────────────────────── site rules (from data/inputs/site_rules.csv) ─────────────────────────────
