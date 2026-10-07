@@ -41,6 +41,39 @@ async function loadData() {
   return res.json();
 }
 
+const STADIA_STYLE = "https://tiles.stadiamaps.com/styles/alidade_smooth.json";
+const STADIA_ATTRIBUTION = '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors';
+
+// Stadia's styles label each place with its local Latin-script name ("Danmark"). This points every place label at the
+// English name instead, falling back to the Latin name and then the local name when no English one exists.
+function englishLabels(style) {
+  for (const layer of style.layers) {
+    const field = layer.layout && layer.layout["text-field"];
+    if (field && JSON.stringify(field).includes("name:latin")) {
+      layer.layout["text-field"] = ["coalesce", ["get", "name:en"], ["get", "name:latin"], ["get", "name"]];
+    }
+  }
+  return style;
+}
+
+// Vector basemap with English labels; if it cannot load, fall back to Stadia's ready-made raster tiles (local names).
+async function addBasemap(map) {
+  try {
+    const res = await fetch(STADIA_STYLE);
+    if (!res.ok) throw new Error(`style request failed (${res.status})`);
+    const style = englishLabels(await res.json());
+    maplibregl.setRTLTextPlugin("https://unpkg.com/@mapbox/mapbox-gl-rtl-text@0.4.0/dist/mapbox-gl-rtl-text.js", true);
+    L.maplibreGL({ style, attribution: STADIA_ATTRIBUTION }).addTo(map);
+  } catch (err) {
+    console.warn("English basemap unavailable, using raster tiles:", err);
+    L.tileLayer("https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png", {
+      attribution: STADIA_ATTRIBUTION,
+      maxZoom: 20,
+      noWrap: true
+    }).addTo(map);
+  }
+}
+
 function buildMap() {
   const map = L.map("map", {
     preferCanvas: true,
@@ -54,11 +87,7 @@ function buildMap() {
 
   L.control.zoom({ position: "bottomleft" }).addTo(map);
 
-  L.tileLayer("https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png", {
-    attribution: '&copy; <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors',
-    maxZoom: 20,
-    noWrap: true
-  }).addTo(map);
+  addBasemap(map);
 
   map.createPane("linesPane").style.zIndex = 380;
   map.getPane("linesPane").style.pointerEvents = "none";
