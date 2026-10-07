@@ -1,14 +1,3 @@
-const CAMPUS = {
-  Brown: [41.8268, -71.4025],
-  Columbia: [40.8075, -73.9626],
-  Cornell: [42.4534, -76.4735],
-  Dartmouth: [43.7044, -72.2887],
-  Harvard: [42.3770, -71.1167],
-  Penn: [39.9522, -75.1932],
-  Princeton: [40.3431, -74.6551],
-  Yale: [41.3163, -72.9223]
-};
-
 // Degrees between neighbors who share a hometown (about 4px at zoom 8). It is fixed on the map, so zooming in spreads them out.
 const SPREAD_DEG = 0.022;
 
@@ -26,8 +15,6 @@ const SCHOOL_GROUPS = { DHYP: ["Dartmouth", "Harvard", "Yale", "Princeton"] };
 const state = {
   map: null,
   markers: [],
-  lines: null,
-  linesRenderer: null,
   activeSchools: new Set(),
   activeYears: new Set(),
   activeSports: new Set(),
@@ -88,11 +75,6 @@ function buildMap() {
   L.control.zoom({ position: "bottomleft" }).addTo(map);
 
   addBasemap(map);
-
-  map.createPane("linesPane").style.zIndex = 380;
-  map.getPane("linesPane").style.pointerEvents = "none";
-  state.linesRenderer = L.canvas({ pane: "linesPane", padding: 0.5 });
-  state.lines = L.layerGroup().addTo(map);
 
   return map;
 }
@@ -202,24 +184,6 @@ function applyFilters() {
 
   byId("count").textContent = shown.length.toLocaleString();
   updateRegionCounts(regionCounts);
-  updateLines(shown);
-}
-
-// Lines from campus to every shown hometown; only drawn when the toggle is on and exactly one school is active.
-function updateLines(shown) {
-  const toggle = byId("linesToggle");
-  state.lines.clearLayers();
-  const single = state.activeSchools.size === 1 ? [...state.activeSchools][0] : null;
-  byId("linesHint").textContent = toggle.checked && !single ? "Select exactly one school to show lines." : "";
-  if (!toggle.checked || !single || !CAMPUS[single]) return;
-
-  const color = SCHOOL_COLORS[single];
-  const style = { renderer: state.linesRenderer, color, weight: 1, opacity: 0.3, interactive: false };
-  for (const m of shown) L.polyline([CAMPUS[single], m.getLatLng()], style).addTo(state.lines);
-  L.circleMarker(CAMPUS[single], {
-    renderer: state.linesRenderer, radius: 6, color: "#fff", weight: 2,
-    fillColor: color, fillOpacity: 1, interactive: false
-  }).addTo(state.lines);
 }
 
 // Each school has a pill in the filter panel and a button in the bottom bar; both toggle the same selection.
@@ -420,7 +384,6 @@ function buildSearch() {
 // The Select all / Clear all buttons are #selectAll<Kind> and #clearAll<Kind>, backed by state.setAll<Kind>.
 function wireActions() {
   byId("filterToggle").addEventListener("click", () => byId("filterPanel").classList.toggle("open"));
-  byId("linesToggle").addEventListener("change", applyFilters);
 
   byId("groupDHYP").addEventListener("click", () => state.setSchoolGroup(SCHOOL_GROUPS.DHYP));
   byId("latest5Years").addEventListener("click", () => state.setLatestYears(5));
