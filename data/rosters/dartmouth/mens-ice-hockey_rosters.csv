@@ -2,7 +2,6 @@ name,position,class,height,weight,hometown,sport,year
 Adrian Clark,G,Fy.,6' 3'',190 lbs,"Toronto, Ontario",mens-ice-hockey,2016
 Alex Jasiek,F,So.,5' 8'',170 lbs,"St. Louis, Mo.",mens-ice-hockey,2016
 Ben DiMaio,D,Fy.,6' 2'',190 lbs,"Pembroke, Mass.",mens-ice-hockey,2016
-Bob Gaudet,,,,,,mens-ice-hockey,2016
 Caleb Nelson,PL,Rs.,5' 10'',,"Ryegate, Vt.",mens-ice-hockey,2016
 Cam Strong,F,Fy.,6' 0'',180 lbs,"Billings, Mont.",mens-ice-hockey,2016
 Cameron Roth,D,So.,6' 1'',180 lbs,"Nepean, Ontario",mens-ice-hockey,2016
@@ -31,7 +30,6 @@ Will Graber,F,Fy.,6' 5'',185 lbs,"Broomfield, Colo.",mens-ice-hockey,2016
 Adrian Clark,G,So.,6' 3'',200 lbs,"Toronto, Ontario",mens-ice-hockey,2017
 Alex Jasiek,F,Jr.,5' 8'',175 lbs,"St. Louis, Mo.",mens-ice-hockey,2017
 Ben DiMaio,D,So.,6' 2'',190 lbs,"Pembroke, Mass.",mens-ice-hockey,2017
-Bob Gaudet,,,,,,mens-ice-hockey,2017
 Brendan Demler,D,Fy.,6' 2'',180 lbs,"Lebanon, Ohio",mens-ice-hockey,2017
 Brendan Less,D,Fy.,5' 11'',170 lbs,"Kinnelon, N.J.",mens-ice-hockey,2017
 Cam Strong,F,So.,6' 0'',185 lbs,"Billings, Mont.",mens-ice-hockey,2017
@@ -60,7 +58,6 @@ Will Graber,F,So.,6' 5'',190 lbs,"Broomfield, Colo.",mens-ice-hockey,2017
 Adrian Clark,G,Jr.,6' 3'',200 lbs,"Toronto, Ontario",mens-ice-hockey,2018
 Alex Jasiek,F,Sr.,5' 8'',175 lbs,"St. Louis, Mo.",mens-ice-hockey,2018
 Ben DiMaio,D,Jr.,6' 2'',190 lbs,"Pembroke, Mass.",mens-ice-hockey,2018
-Bob Gaudet,,,,,,mens-ice-hockey,2018
 Brendan Demler,D,So.,6' 2'',195 lbs,"Lebanon, Ohio",mens-ice-hockey,2018
 Brendan Less,D,So.,5' 11'',170 lbs,"Kinnelon, N.J.",mens-ice-hockey,2018
 Cam Strong,F,Jr.,6' 0'',185 lbs,"Billings, Mont.",mens-ice-hockey,2018
@@ -88,7 +85,6 @@ Shane Sellar,F,Jr.,6' 3'',200 lbs,"Carlisle, Pa.",mens-ice-hockey,2018
 Will Graber,F,Jr.,6' 5'',190 lbs,"Broomfield, Colo.",mens-ice-hockey,2018
 Adrian Clark,G,Sr.,6' 3'',200 lbs,"Toronto, Ontario",mens-ice-hockey,2019
 Ben DiMaio,D,Sr.,6' 2'',190 lbs,"Pembroke, Mass.",mens-ice-hockey,2019
-Bob Gaudet,,,,,,mens-ice-hockey,2019
 Brendan Demler,D,Jr.,6' 2'',195 lbs,"Lebanon, Ohio",mens-ice-hockey,2019
 Brendan Less,D,Jr.,5' 11'',170 lbs,"Kinnelon, N.J.",mens-ice-hockey,2019
 Brock Paul,D,Fy.,6' 3'',205 lbs,"Carmel, Ind.",mens-ice-hockey,2019
@@ -133,7 +129,6 @@ Mark Gallant,F,So.,6' 0'',185 lbs,"Concord, Mass.",mens-ice-hockey,2020
 Matt Baker,F,Sr.,5' 11'',175 lbs,"Barrie, Ontario",mens-ice-hockey,2020
 Nick Unruh,F,Fy.,6' 3'',205 lbs,"Fort McMurray, Alberta",mens-ice-hockey,2020
 Quin Foreman,F,Sr.,6' 3'',200 lbs,"Needham, Mass.",mens-ice-hockey,2020
-Reid Cashman,,,,,,mens-ice-hockey,2020
 Ryan Lovett,F,Fy.,6' 2'',200 lbs,"Franklin, Mass.",mens-ice-hockey,2020
 Ryan Sorkin,F,Fy.,5' 10'',175 lbs,"Chicago, Ill.",mens-ice-hockey,2020
 Sam Hesler,F,Jr.,6' 1'',190 lbs,"Boxborough, Mass.",mens-ice-hockey,2020
@@ -159,7 +154,6 @@ Mark Gallant,F,Jr.,6' 0'',185 lbs,"Concord, Mass.",mens-ice-hockey,2021
 Matt Hubbarde,F,Fy.,6' 1'',190 lbs,"Pickering, Ontario",mens-ice-hockey,2021
 Nate Morgan,F,Fy.,5' 10'',190 lbs,"Calgary, Alta.",mens-ice-hockey,2021
 Nick Unruh,F,So.,6' 3'',205 lbs,"Fort McMurray, Alberta",mens-ice-hockey,2021
-Reid Cashman,,,,,,mens-ice-hockey,2021
 Ryan Lovett,F,So.,6' 2'',200 lbs,"Franklin, Mass.",mens-ice-hockey,2021
 Ryan Sorkin,F,So.,5' 10'',175 lbs,"Chicago, Ill.",mens-ice-hockey,2021
 Sam Hesler,F,Sr.,6' 1'',190 lbs,"Boxborough, Mass.",mens-ice-hockey,2021
@@ -190,7 +184,6 @@ Matt Hubbarde,F,So.,6' 1'',190 lbs,"Pickering, Ontario",mens-ice-hockey,2022
 Mikey Roberts,G,Fy.,6' 0'',175 lbs,"Wilton, Conn.",mens-ice-hockey,2022
 Nate Morgan,F,So.,5' 10'',190 lbs,"Calgary, Alta.",mens-ice-hockey,2022
 Nick Unruh,F,Jr.,6' 3'',205 lbs,"Fort McMurray, Alberta",mens-ice-hockey,2022
-Reid Cashman,,,,,,mens-ice-hockey,2022
 Ryan Lovett,F,Jr.,6' 2'',200 lbs,"Franklin, Mass.",mens-ice-hockey,2022
 Ryan Sorkin,F,Jr.,5' 10'',175 lbs,"Chicago, Ill.",mens-ice-hockey,2022
 Sean Chisholm,F,So.,6' 1'',190 lbs,"Caledonia, Ont.",mens-ice-hockey,2022
@@ -221,7 +214,6 @@ Nate Morgan,F,Jr.,5' 10'',190 lbs,"Calgary, Alta.",mens-ice-hockey,2023
 Nikita Nikora,F,Fy.,5' 10'',170 lbs,"Saint Petersburg, Russia",mens-ice-hockey,2023
 Oskari Vuorio,F,Fy.,5' 9'',175 lbs,"Espoo, Finland",mens-ice-hockey,2023
 Owen Desilets,D,Fy.,6' 1'',175 lbs,"Airdrie, Alta.",mens-ice-hockey,2023
-Reid Cashman,,,,,,mens-ice-hockey,2023
 Roan Clarke,G,Fy.,6' 3'',190 lbs,"Surrey, B.C.",mens-ice-hockey,2023
 Ryan Sorkin,F,Sr.,5' 10'',175 lbs,"Chicago, Ill.",mens-ice-hockey,2023
 Sean Chisholm,F,Jr.,6' 1'',190 lbs,"Caledonia, Ont.",mens-ice-hockey,2023
@@ -250,7 +242,6 @@ Nate Morgan,F,Sr.,5' 10'',195 lbs,"Calgary, Alta.",mens-ice-hockey,2024
 Nikita Nikora,F,So.,5' 10'',175 lbs,"Saint Petersburg, Russia",mens-ice-hockey,2024
 Oskari Vuorio,F,So.,5' 9'',185 lbs,"Espoo, Finland",mens-ice-hockey,2024
 Owen Desilets,D,So.,6' 1'',185 lbs,"Airdrie, Alta.",mens-ice-hockey,2024
-Reid Cashman,,,,,,mens-ice-hockey,2024
 Roan Clarke,G,So.,6' 3'',205 lbs,"Surrey, B.C.",mens-ice-hockey,2024
 Sean Chisholm,F,Sr.,6' 1'',200 lbs,"Caledonia, Ont.",mens-ice-hockey,2024
 Steven Townley,F,Sr.,6' 2'',210 lbs,"Woodstock, Vt.",mens-ice-hockey,2024
@@ -279,7 +270,6 @@ Nathan Morin,F,Fy.,5' 10'',160 lbs,"Saint-Augustin-de-Desmaures, QC",mens-ice-ho
 Nikita Nikora,F,Jr.,5' 10'',175 lbs,"Saint Petersburg, Russia",mens-ice-hockey,2025
 Oskari Vuorio,F,Jr.,5' 9'',185 lbs,"Espoo, Finland",mens-ice-hockey,2025
 Owen Desilets,D,Jr.,6' 1'',190 lbs,"Airdrie, Alta.",mens-ice-hockey,2025
-Reid Cashman,,,,,,mens-ice-hockey,2025
 Roan Clarke,G,Jr.,6' 3'',205 lbs,"Surrey, B.C.",mens-ice-hockey,2025
 Ryan Schelling,F,Fy.,6' 0'',175 lbs,"Suffern, N.Y.",mens-ice-hockey,2025
 Tim Busconi,D,So.,6' 1'',175 lbs,"Milton, Mass.",mens-ice-hockey,2025
@@ -309,7 +299,6 @@ Matt Fusco,D,Sr.,5' 11'',200 lbs,"Westwood, Mass.",mens-ice-hockey,2026
 Nathan Morin,F,So.,5' 10'',160 lbs,"Saint-Augustin-de-Desmaures, QC",mens-ice-hockey,2026
 Nikita Nikora,F,Sr.,5' 10'',175 lbs,"Saint Petersburg, Russia",mens-ice-hockey,2026
 Owen Desilets,D,Sr.,6' 1'',190 lbs,"Airdrie, Alta.",mens-ice-hockey,2026
-Reid Cashman,,,,,,mens-ice-hockey,2026
 Roan Clarke,G,Sr.,6' 3'',205 lbs,"Surrey, B.C.",mens-ice-hockey,2026
 Ryan Harvey,D,Fy.,6' 0'',195 lbs,"Stouffville, Ont.",mens-ice-hockey,2026
 Ryan Schelling,F,So.,6' 0'',175 lbs,"Suffern, N.Y.",mens-ice-hockey,2026

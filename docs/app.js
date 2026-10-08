@@ -23,7 +23,7 @@ const state = {
 };
 
 async function loadData() {
-  const res = await fetch("data.json?v=828954cf");
+  const res = await fetch("data.json?v=040e2e4b");
   if (!res.ok) throw new Error("Failed to load data.json");
   return res.json();
 }

@@ -208,6 +208,17 @@ def scrape_roster(base, sport, slugs, year, is_current=False, verbose=False, sch
     for card in cards:
         player = {}
 
+        # Skip coaches and other staff whose card links to a coaches/staff page.
+        link = card.select_one("a[href]")
+        if link and STAFF_LINK.search(link.get("href", "")):
+            continue
+        # Staff cards list an email or phone number; player cards do not.
+        if card.select_one('a[href^="mailto:"], a[href^="tel:"]'):
+            continue
+        # Coach cards also carry the full title ("Robert L. Blackman Head Football Coach") in the position block.
+        if is_staff_title(extract_clean_text(card.select_one(".s-person-details__position"))):
+            continue
+
         # Layout using .sidearm-roster-player.
         if used_selector == ".sidearm-roster-player":
             player["name"] = extract_clean_text(card.select_one(".sidearm-roster-player-name"))
@@ -238,6 +249,9 @@ def scrape_roster(base, sport, slugs, year, is_current=False, verbose=False, sch
                 card.select_one(".s-person-card__content__location span")
             )
 
+        if is_staff_title(player.get("position"), player.get("class")):
+            continue
+
         player["sport"] = sport
         player["year"] = year
 
@@ -248,6 +262,32 @@ def scrape_roster(base, sport, slugs, year, is_current=False, verbose=False, sch
         results.append(player)
 
     return pd.DataFrame(results), used_slug
+
+
+# ───────────────────────────── keeping staff out of the rosters ─────────────────────────────
+
+# Roster pages can list coaches, managers and strength staff in the same container as the players. A card is staff if its profile
+# link goes to a coaches/staff page, or if its position or class field holds a staff title.
+STAFF_LINK = re.compile(r"/(?:coaches|coach|staff)(?:/|$)", re.I)
+STAFF_TITLE = re.compile(
+    r"coach|manager|strength|conditioning|trainer|athletic training|director|analyst|operations|"
+    r"administrator|assistant|sports medicine|physician|equipment|staff",
+    re.I,
+)
+
+
+def is_staff_title(*fields):
+    """True if any of the text fields reads like a staff title (Head Coach, Student Manager, Strength & Conditioning ...)."""
+    return any(isinstance(f, str) and STAFF_TITLE.search(f) for f in fields)
+
+
+def drop_staff(df):
+    """Rows whose position or class is a staff title removed. Returns (table, number dropped). Safe to repeat."""
+    cols = [c for c in ("position", "class") if c in df.columns]
+    if not cols or df.empty:
+        return df, 0
+    staff = df[cols].apply(lambda row: is_staff_title(*row), axis=1)
+    return df[~staff].reset_index(drop=True), int(staff.sum())
 
 
 # ───────────────────────────── cleaning and sanity checks for roster tables ─────────────────────────────
@@ -295,16 +335,17 @@ def clean_text(value):
 
 
 def clean_roster_rows(df):
-    """Every text column cleaned with clean_text, and rows with no name dropped (a card the page parser could not read).
+    """Every text column cleaned with clean_text, rows with no name dropped (a card the page parser could not read), and staff rows dropped (see drop_staff).
     Returns (clean table, number of rows dropped). Running it again changes nothing, so rewriting a file never causes churn."""
     out = df.copy()
     for col in out.columns:
         if col != "year":
             out[col] = out[col].map(clean_text)
+    out, staff_dropped = drop_staff(out)
     if "name" not in out.columns:
-        return out, 0
+        return out, staff_dropped
     keep = out["name"].notna()
-    return out[keep].reset_index(drop=True), int((~keep).sum())
+    return out[keep].reset_index(drop=True), int((~keep).sum()) + staff_dropped
 
 
 # Fully specified row order (year, then name, then every other column), so rewriting a file never reshuffles it.

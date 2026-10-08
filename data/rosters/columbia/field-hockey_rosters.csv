@@ -1,5 +1,4 @@
 name,position,class,height,weight,hometown,sport,year
-Caroline Nelson-Nichols,,,,,,field-hockey,2016
 Caroline Trimble,MF,Sr.,5' 1'',,"Lower Saucon, Pa.",field-hockey,2016
 Danielle Buttinger,F,So.,5' 6'',,"Waterloo, Ontario",field-hockey,2016
 Emma Wiklund,MF,Gr.,5' 2'',,"Melrose, Mass.",field-hockey,2016
@@ -24,7 +23,6 @@ Rebecca Pope,B,Jr.,5' 4'',,"Eastern Cape, South Africa",field-hockey,2016
 Taylor Mills,MF,Sr.,5' 6'',,"Sayville, N.Y.",field-hockey,2016
 Whitney Hartstone,MF,Jr.,5' 2'',,"Sudbury, Mass.",field-hockey,2016
 Alexa Conomikes,GK,Gr.,5' 6'',,"Pittsburgh, Pa.",field-hockey,2017
-Caroline Nelson-Nichols,,,,,,field-hockey,2017
 Danielle Buttinger,F,Jr.,5' 6'',,"Waterloo, Ontario",field-hockey,2017
 Emily Pedrick,MF,Gr.,5' 2'',,"Houston, Texas",field-hockey,2017
 Emma Wiklund,MF,So.,5' 2'',,"Melrose, Mass.",field-hockey,2017
@@ -49,7 +47,6 @@ Alexa Conomikes,GK,So.,5' 6'',,"Pittsburgh, Pa.",field-hockey,2018
 Allison Smith,M,FY,5' 2'',,"Wilmington, Del.",field-hockey,2018
 Amanda Jordan,GK,FY,5' 5'',,"Rockville, Md.",field-hockey,2018
 Brooke Gasser,M/B,FY,5' 6'',,"Virginia Beach, Va.",field-hockey,2018
-Caroline Nelson-Nichols,,,,,,field-hockey,2018
 Danielle Buttinger,F,Sr.,5' 6'',,"Waterloo, Ontario",field-hockey,2018
 Emily Maclean,M,FY,5' 9'',,"Aukland, New Zealand",field-hockey,2018
 Emma Domich,M,FY,5' 4'',,"Englewood, Colo.",field-hockey,2018
@@ -72,7 +69,6 @@ Alexa Conomikes,GK,Jr.,5' 6'',,"Pittsburgh, Pa.",field-hockey,2019
 Allison Smith,M,So.,5' 2'',,"Wilmington, Del.",field-hockey,2019
 Amanda Jordan,GK,So.,5' 5'',,"Rockville, Md.",field-hockey,2019
 Brooke Gasser,M/B,So.,5' 6'',,"Virginia Beach, Va.",field-hockey,2019
-Caroline Nelson-Nichols,,,,,,field-hockey,2019
 Elizabeth Brissette,M/F,FY,5' 4'',,"Larchmont, N.Y.",field-hockey,2019
 Ellie Decker,F,FY,5' 3'',,"North Caldwell, N.J.",field-hockey,2019
 Emily Maclean,M,So.,5' 9'',,"Aukland, New Zealand",field-hockey,2019
@@ -107,7 +103,6 @@ Grace Payne,M,Sr.,5' 9'',,"Lake Forest, Ill.",field-hockey,2020
 Helen Sayegh,M/B,Sr.,5' 3'',,"Belmont, Mass.",field-hockey,2020
 Isabella Collins,F/M,Jr.,5' 3'',,"Boston, Mass.",field-hockey,2020
 Jaimie McCormick,M,Jr.,5' 6'',,"Haddonfield, N.J.",field-hockey,2020
-Katie DeSandis,,,,,,field-hockey,2020
 Kelsey Farkas,M,Sr.,5' 6'',,"Ardmore, Pa.",field-hockey,2020
 Kennedy Sholeen,F/M,FY,5' 5'',,"Houston, Texas",field-hockey,2020
 Lucy Holzinger,M,So.,5' 5'',,"Westport, Conn.",field-hockey,2020
@@ -134,7 +129,6 @@ Gracie Hecht,M,FY,5' 2'',,"Wauwatosa, Wis.",field-hockey,2021
 Isabella Collins,F/M,Sr.,5' 3'',,"Boston, Mass.",field-hockey,2021
 Jaimie McCormick,M,Sr.,5' 6'',,"Haddonfield, N.J.",field-hockey,2021
 Jeannine Turgeon,M,FY,5' 2'',,"Dover, N.H.",field-hockey,2021
-Katie DeSandis,,,,,,field-hockey,2021
 Katie Wimmer,GK,FY,5' 8'',,"Windham, N.H.",field-hockey,2021
 Kelsey Farkas,M,Sr.,5' 6'',,"Ardmore, Pa.",field-hockey,2021
 Kennedy Sholeen,F/M,So.,5' 5'',,"Houston, Texas",field-hockey,2021
@@ -156,7 +150,6 @@ Frederique Fyhr,M,Sr.,5' 4'',,"Houston, Texas",field-hockey,2022
 Gianna Cilluffo,GK,FY,5' 4'',,"Newtown Square, Penn.",field-hockey,2022
 Gracie Hecht,M,So.,5' 2'',,"Wauwatosa, Wis.",field-hockey,2022
 Jeannine Turgeon,M,So.,5' 2'',,"Dover, N.H.",field-hockey,2022
-Katie DeSandis,,,,,,field-hockey,2022
 Katie Wimmer,GK,So.,5' 8'',,"Windham, N.H.",field-hockey,2022
 Kennedy Sholeen,F/M,Jr.,5' 5'',,"Houston, Texas",field-hockey,2022
 Lily Baker,M/B,So.,5' 8'',,"St. Louis, Mo.",field-hockey,2022
@@ -178,7 +171,6 @@ Emma Reilly,M,FY,5' 6'',,"Andover, Mass.",field-hockey,2023
 Gracie Hecht,M,Jr.,5' 2'',,"Wauwatosa, Wis.",field-hockey,2023
 Jeannine Turgeon,M,Jr.,5' 2'',,"Dover, N.H.",field-hockey,2023
 Kate Consoli,D,FY,5' 2'',,"Houston, Texas",field-hockey,2023
-Katie DeSandis,,,,,,field-hockey,2023
 Katie Wimmer,GK,Jr.,5' 8'',,"Windham, N.H.",field-hockey,2023
 Kennedy Sholeen,F/M,Sr.,5' 5'',,"Houston, Texas",field-hockey,2023
 Lily Baker,M/B,Jr.,5' 8'',,"St. Louis, Mo.",field-hockey,2023
@@ -204,7 +196,6 @@ Madison Kim,M/F,So.,5' 4'',,"Bellaire, Texas",field-hockey,2024
 Margot Houle,GK,FY,5' 8'',,"Potomac, Md.",field-hockey,2024
 Mckenzie Bloom,F,So.,5' 6'',,"West Hartford, Conn.",field-hockey,2024
 Nicole Campolattaro,F,FY,5' 5'',,"North Caldwell, N.J.",field-hockey,2024
-Niki Miller,,,,,,field-hockey,2024
 Sam Petrucco,M,Jr.,5' 5'',,"Short Hills, N.J.",field-hockey,2024
 Sophia Abate,F,Jr.,5' 0'',,"Medford Lakes, N.J.",field-hockey,2024
 Sophie Lawrence,M/F,FY,5' 7'',,"Edinburgh, Scotland",field-hockey,2024
@@ -226,7 +217,6 @@ Maya Raphael,D,FY,5' 6'',,"Bethesda, Md.",field-hockey,2025
 Mckenzie Bloom,F,Jr.,5' 6'',,"West Hartford, Conn.",field-hockey,2025
 Morgan Dwyer,M,FY,5' 7'',,"Basking Ridge, N.J.",field-hockey,2025
 Nicole Campolattaro,F,So.,5' 5'',,"North Caldwell, N.J.",field-hockey,2025
-Niki Miller,,,,,,field-hockey,2025
 Sam Petrucco,M,Sr.,5' 5'',,"Short Hills, N.J.",field-hockey,2025
 Sophia Abate,F,Sr.,5' 0'',,"Medford Lakes, N.J.",field-hockey,2025
 Sophie Green,F/M,FY,5' 2'',,"Bryn Mawr, Pa.",field-hockey,2025
@@ -254,7 +244,6 @@ Mckenzie Bloom,F,Sr.,5' 6'',,"West Hartford, Conn.",field-hockey,2026
 Morgan Dwyer,M,So.,5' 7'',,"Basking Ridge, N.J.",field-hockey,2026
 Nadia Gross,D,FY,5' 9'',,"Blue Bell, Pa.",field-hockey,2026
 Nicole Campolattaro,F,Jr.,5' 5'',,"North Caldwell, N.J.",field-hockey,2026
-Niki Miller,,,,,,field-hockey,2026
 Norah Veldhuizen,M,FY,5' 6'',,"Amersfoort, The Netherlands",field-hockey,2026
 Sophie Green,F/M,So.,5' 2'',,"Bryn Mawr, Pa.",field-hockey,2026
 Sophie Lawrence,M/F,Jr.,5' 7'',,"Edinburgh, Scotland",field-hockey,2026

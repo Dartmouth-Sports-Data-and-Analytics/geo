@@ -21,7 +21,6 @@ Matt Nelson,D,Jr.,6' 0'',200 lbs,"Edina, Minn.",mens-ice-hockey,2016
 Max Becker,F,Jr.,5' 10'',175 lbs,"Orange, Calif.",mens-ice-hockey,2016
 Max Véronneau,F,So.,6' 0'',180 lbs,"Ottawa, Ont.",mens-ice-hockey,2016
 Quin Pompi,D,Sr.,6' 2'',187 lbs,"Springfield, Pa.",mens-ice-hockey,2016
-Ron Fogarty,,,,,,mens-ice-hockey,2016
 Ryan Berlin,F,Jr.,6' 2'',205 lbs,"Edmonton, Alb.",mens-ice-hockey,2016
 Ryan Kuffner,F,So.,6' 1'',195 lbs,"Ottawa, Ont.",mens-ice-hockey,2016
 Ryan Siiro,F,Sr.,6' 2'',220 lbs,"Bloomington, Minn.",mens-ice-hockey,2016
@@ -51,7 +50,6 @@ Max Becker,F,Sr.,5' 10'',175 lbs,"Orange, Calif.",mens-ice-hockey,2017
 Max Véronneau,F,Jr.,6' 0'',180 lbs,"Ottawa, Ont.",mens-ice-hockey,2017
 Neil Doef,F,Fr.,5' 11'',175 lbs,"Smiths Falls, Ont.",mens-ice-hockey,2017
 Reid Yochim,D,Fr.,5' 7'',180 lbs,"Port Robinson, Ont.",mens-ice-hockey,2017
-Ron Fogarty,,,,,,mens-ice-hockey,2017
 Ryan Berlin,F,Sr.,6' 2'',205 lbs,"Edmonton, Alb.",mens-ice-hockey,2017
 Ryan Ferland,G,Fr.,6' 0'',175 lbs,"Franklin, Mass.",mens-ice-hockey,2017
 Ryan Kuffner,F,Jr.,6' 1'',195 lbs,"Ottawa, Ont.",mens-ice-hockey,2017
@@ -80,7 +78,6 @@ Max Véronneau,F,Sr.,6' 0'',180 lbs,"Ottawa, Ont.",mens-ice-hockey,2018
 Mike Ufberg,D,Fr.,5' 9'',180 lbs,"Richboro, Pa.",mens-ice-hockey,2018
 Neil Doef,F,So.,5' 11'',175 lbs,"Smiths Falls, Ont.",mens-ice-hockey,2018
 Reid Yochim,D,So.,5' 7'',180 lbs,"Port Robinson, Ont.",mens-ice-hockey,2018
-Ron Fogarty,,,,,,mens-ice-hockey,2018
 Ryan Ferland,G,So.,6' 0'',175 lbs,"Franklin, Mass.",mens-ice-hockey,2018
 Ryan Kuffner,F,Sr.,6' 1'',195 lbs,"Ottawa, Ont.",mens-ice-hockey,2018
 Sami Pharaon,D,Fr.,5' 10'',175 lbs,"North Vancouver, B.C.",mens-ice-hockey,2018
@@ -110,7 +107,6 @@ Neil Doef,F,Jr.,5' 11'',175 lbs,"Smiths Falls, Ont.",mens-ice-hockey,2019
 Nick Seitz,F,Fr.,6' 1'',190 lbs,"Manhattan, N.Y.",mens-ice-hockey,2019
 Pito Walton,D,Fr.,6' 2'',192 lbs,"Peapack, N.J.",mens-ice-hockey,2019
 Reid Yochim,D,Jr.,5' 7'',180 lbs,"Port Robinson, Ont.",mens-ice-hockey,2019
-Ron Fogarty,,,,,,mens-ice-hockey,2019
 Ryan Ferland,G,Jr.,6' 0'',175 lbs,"Franklin, Mass.",mens-ice-hockey,2019
 Sami Pharaon,D,So.,5' 10'',175 lbs,"North Vancouver, B.C.",mens-ice-hockey,2019
 Spencer Kersten,F,Fr.,5' 10'',185 lbs,"Waterloo, Ont.",mens-ice-hockey,2019
@@ -134,7 +130,6 @@ Neil Doef,F,Sr.,5' 11'',175 lbs,"Smiths Falls, Ont.",mens-ice-hockey,2020
 Nick Carabin,D,Fr.,5' 10'',175 lbs,"Mahwah, N.J.",mens-ice-hockey,2020
 Pito Walton,D,So.,6' 2'',192 lbs,"Peapack, N.J.",mens-ice-hockey,2020
 Reid Yochim,D,Sr.,5' 7'',180 lbs,"Port Robinson, Ont.",mens-ice-hockey,2020
-Ron Fogarty,,,,,,mens-ice-hockey,2020
 Ryan Ferland,G,Sr.,6' 0'',175 lbs,"Franklin, Mass.",mens-ice-hockey,2020
 Sami Pharaon,D,Jr.,5' 10'',190 lbs,"North Vancouver, B.C.",mens-ice-hockey,2020
 Spencer Kersten,F,So.,5' 10'',185 lbs,"Waterloo, Ont.",mens-ice-hockey,2020
@@ -163,7 +158,6 @@ Nick Carabin,D,So.,5' 10'',175 lbs,"Mahwah, N.J.",mens-ice-hockey,2021
 Nick Seitz,F,So.,6' 1'',190 lbs,"Manhattan, N.Y.",mens-ice-hockey,2021
 Noah de la Durantaye,D,Fr.,6' 1'',205 lbs,"Montreal, Que.",mens-ice-hockey,2021
 Pito Walton,D,Jr.,6' 2'',192 lbs,"Peapack, N.J.",mens-ice-hockey,2021
-Ron Fogarty,,,,,,mens-ice-hockey,2021
 Spencer Kersten,F,Jr.,5' 10'',185 lbs,"Waterloo, Ont.",mens-ice-hockey,2021
 Adam Robbins,F,Jr.,5' 8'',155 lbs,"New York, N.Y.",mens-ice-hockey,2022
 Aidan Porter,G,Sr.,6' 2'',180 lbs,"Weston, Mass.",mens-ice-hockey,2022
@@ -190,7 +184,6 @@ Nick Marciano,D,Fr.,6' 1'',205 lbs,"Greenwich, Conn.",mens-ice-hockey,2022
 Nick Seitz,F,Jr.,6' 1'',190 lbs,"Manhattan, N.Y.",mens-ice-hockey,2022
 Noah de la Durantaye,D,So.,6' 1'',205 lbs,"Montreal, Que.",mens-ice-hockey,2022
 Pito Walton,D,Sr.,6' 2'',192 lbs,"Peapack, N.J.",mens-ice-hockey,2022
-Ron Fogarty,,,,,,mens-ice-hockey,2022
 Spencer Kersten,F,Sr.,5' 10'',185 lbs,"Waterloo, Ont.",mens-ice-hockey,2022
 Tyler Rubin,D,Fr.,5' 10'',175 lbs,"Natick, Mass.",mens-ice-hockey,2022
 Adam Robbins,F,Sr.,5' 8'',165 lbs,"New York, N.Y.",mens-ice-hockey,2023
@@ -218,11 +211,9 @@ Nick Carabin,D,Sr.,5' 10'',195 lbs,"Mahwah, N.J.",mens-ice-hockey,2023
 Nick Marciano,D,So.,6' 2'',205 lbs,"Greenwich, Conn.",mens-ice-hockey,2023
 Nick Seitz,F,Sr.,6' 1'',195 lbs,"Manhattan, N.Y.",mens-ice-hockey,2023
 Noah de la Durantaye,D,Jr.,6' 1'',205 lbs,"Montreal, Que.",mens-ice-hockey,2023
-Ron Fogarty,,,,,,mens-ice-hockey,2023
 Tyler Rubin,D,So.,5' 10'',175 lbs,"Natick, Mass.",mens-ice-hockey,2023
 Alex Konovalov,F,Sr.,5' 10'',180 lbs,"Basking Ridge, N.J.",mens-ice-hockey,2024
 Arthur Smith,G,So.,6' 4'',210 lbs,"Farmington, Conn.",mens-ice-hockey,2024
-Ben Syer,,,,,,mens-ice-hockey,2024
 Brendan Gorman,F,Jr.,6' 0'',175 lbs,"Arlington, Mass.",mens-ice-hockey,2024
 Brendan Wang,D,Jr.,5' 11'',185 lbs,"Burnaby, B.C.",mens-ice-hockey,2024
 Carson Buydens,F,So.,6' 3'',200 lbs,"Gladstone, Man.",mens-ice-hockey,2024
@@ -249,7 +240,6 @@ Noah de la Durantaye,D,Sr.,6' 1'',205 lbs,"Montreal, Que.",mens-ice-hockey,2024
 Pat Reilly,D,Fr.,6' 1'',200 lbs,"Avon, N.J.",mens-ice-hockey,2024
 Tyler Rubin,D,Jr.,5' 10'',175 lbs,"Natick, Mass.",mens-ice-hockey,2024
 Arthur Smith,G,Jr.,6' 4'',210 lbs,"Farmington, Conn.",mens-ice-hockey,2025
-Ben Syer,,,,,,mens-ice-hockey,2025
 Brady Morris,G,Fr.,5' 10'',175 lbs,"Rye, N.Y.",mens-ice-hockey,2025
 Brendan Gorman,F,Sr.,6' 0'',175 lbs,"Arlington, Mass.",mens-ice-hockey,2025
 Brendan Wang,D,Sr.,5' 11'',185 lbs,"Burnaby, B.C.",mens-ice-hockey,2025
@@ -281,7 +271,6 @@ Pat Reilly,D,So.,6' 1'',200 lbs,"Avon, N.J.",mens-ice-hockey,2025
 Seamus Latta,F,Fr.,6' 0'',195 lbs,"Bozeman, Mont.",mens-ice-hockey,2025
 Tyler Rubin,D,Sr.,5' 10'',175 lbs,"Natick, Mass.",mens-ice-hockey,2025
 Arthur Smith,G,Sr.,6' 4'',210 lbs,"Farmington, Conn.",mens-ice-hockey,2026
-Ben Syer,,,,,,mens-ice-hockey,2026
 Brady Morris,G,So.,5' 10'',175 lbs,"Rye, N.Y.",mens-ice-hockey,2026
 Carson Buydens,F,Sr.,6' 3'',200 lbs,"Gladstone, Man.",mens-ice-hockey,2026
 Chris Reiniger,D,So.,5' 10'',170 lbs,"Brielle, N.J.",mens-ice-hockey,2026

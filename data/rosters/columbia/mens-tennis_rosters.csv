@@ -1,7 +1,6 @@
 name,position,class,height,weight,hometown,sport,year
 Adam Ambrozy,,FY,,,"St. Petersburg, Fla.",mens-tennis,2016
 Alex Keyser,,FY,,,"Danville, Calif.",mens-tennis,2016
-Bid Goswami,,,,,,mens-tennis,2016
 Christopher Grant,,Sr.,,,"Santa Barbara, Calif.",mens-tennis,2016
 Jack Turchetta,,So.,,,"Pound Ridge, N.Y.",mens-tennis,2016
 Jackie Tang,,FY,,,Hong Kong,mens-tennis,2016
@@ -16,7 +15,6 @@ William Matheson,,So.,,,"Auckland, N.Z.",mens-tennis,2016
 Adam Ambrozy,,So.,6' 2'',,"St. Petersburg, Fla.",mens-tennis,2017
 Alex Keyser,,So.,5' 11'',,"Danville, Calif.",mens-tennis,2017
 Austen Huang,,FY,5' 11'',,"Elk Grove, Calif.",mens-tennis,2017
-Bid Goswami,,,,,,mens-tennis,2017
 Jack Lin,,FY,5' 10'',,"Markham, Ontario, Canada",mens-tennis,2017
 Jack Turchetta,,Jr.,6' 2'',,"Pound Ridge, N.Y.",mens-tennis,2017
 Jackie Tang,,So.,6' 0'',,Hong Kong,mens-tennis,2017
@@ -32,7 +30,6 @@ Adam Ambrozy,,Jr.,6' 2'',,"St. Petersburg, Fla.",mens-tennis,2018
 Alex Keyser,,Jr.,5' 11'',,"Danville, Calif.",mens-tennis,2018
 Austen Huang,,So.,5' 11'',,"Elk Grove, Calif.",mens-tennis,2018
 Ben Gollin,,FY,6' 1'',,"Solana Beach, Calif.",mens-tennis,2018
-Bid Goswami,,,,,,mens-tennis,2018
 Jack Lin,,So.,5' 10'',,"Markham, Ontario, Canada",mens-tennis,2018
 Jack Turchetta,,Sr.,6' 2'',,"Pound Ridge, N.Y.",mens-tennis,2018
 Jackie Tang,,Jr.,6' 0'',,Hong Kong,mens-tennis,2018
@@ -48,7 +45,6 @@ Alex Kotzen,,FY,6' 0'',,"New York, N.Y.",mens-tennis,2019
 Anand Saluja,,FY,6' 0'',,"Brookfield, Wis.",mens-tennis,2019
 Austen Huang,,Jr.,5' 11'',,"Elk Grove, Calif.",mens-tennis,2019
 Ben Gollin,,So.,6' 1'',,"Solana Beach, Calif.",mens-tennis,2019
-Howard Endelman,,,,,,mens-tennis,2019
 Jack Lin,,Jr.,5' 10'',,"Markham, Ontario, Canada",mens-tennis,2019
 Jackie Tang,,Sr.,6' 0'',,Hong Kong,mens-tennis,2019
 Jason Lui,,Jr.,5' 10'',,"Bellevue, Wash.",mens-tennis,2019
@@ -61,7 +57,6 @@ Anand Saluja,,So.,6' 0'',,"Brookfield, Wis.",mens-tennis,2020
 Austen Huang,,Sr.,5' 11'',,"Elk Grove, Calif.",mens-tennis,2020
 Ben Gollin,,Jr.,6' 1'',,"Solana Beach, Calif.",mens-tennis,2020
 Henry Ruger,,FY,5' 9'',,"Philadelphia, Pa.",mens-tennis,2020
-Howard Endelman,,,,,,mens-tennis,2020
 Ishaan Ravichander,,FY,5' 8'',,"Belle Mead, N.J.",mens-tennis,2020
 Jack Lin,,Sr.,5' 10'',,"Markham, Ontario, Canada",mens-tennis,2020
 Jason Lui,,Sr.,5' 10'',,"Bellevue, Wash.",mens-tennis,2020
@@ -75,7 +70,6 @@ Anand Saluja,,Jr.,6' 0'',,"Brookfield, Wis.",mens-tennis,2021
 Austen Huang,,Sr.,5' 11'',,"Elk Grove, Calif.",mens-tennis,2021
 Ben Gollin,,Jr.,6' 1'',,"Solana Beach, Calif.",mens-tennis,2021
 Henry Ruger,,So.,5' 9'',,"Philadelphia, Pa.",mens-tennis,2021
-Howard Endelman,,,,,,mens-tennis,2021
 Hugo Hashimoto,,FY,,,"San Jose, Calif.",mens-tennis,2021
 Ishaan Ravichander,,So.,5' 8'',,"Belle Mead, N.J.",mens-tennis,2021
 Jayden Templeman,,FY,,,"Springville, Utah",mens-tennis,2021
@@ -87,7 +81,6 @@ Theo Winegar,,So.,6' 3'',,"Osprey, Fla.",mens-tennis,2021
 Alex Kotzen,,Jr.,6' 0'',,"New York, N.Y.",mens-tennis,2022
 Anand Saluja,,Sr.,6' 0'',,"Brookfield, Wis.",mens-tennis,2022
 Henry Ruger,,Jr.,5' 11'',,"Philadelphia, Pa.",mens-tennis,2022
-Howard Endelman,,,,,,mens-tennis,2022
 Hugo Hashimoto,,So.,6' 1'',,"San Jose, Calif.",mens-tennis,2022
 Ishaan Ravichander,,Jr.,5' 8'',,"Belle Mead, N.J.",mens-tennis,2022
 Jayden Templeman,,So.,5' 9'',,"Springville, Utah",mens-tennis,2022
@@ -99,7 +92,6 @@ Sachin Palta,,FY,5' 10'',,"Forest Hills, N.Y.",mens-tennis,2022
 Theo Winegar,,Jr.,6' 3'',,"Osprey, Fla.",mens-tennis,2022
 Alex Kotzen,,Sr.,6' 0'',,"New York, N.Y.",mens-tennis,2023
 Henry Ruger,,Sr.,5' 11'',,"Philadelphia, Pa.",mens-tennis,2023
-Howard Endelman,,,,,,mens-tennis,2023
 Hugo Hashimoto,,Jr.,6' 1'',,"San Jose, Calif.",mens-tennis,2023
 Ishaan Ravichander,,Sr.,5' 8'',,"Belle Mead, N.J.",mens-tennis,2023
 Jayden Templeman,,Jr.,5' 9'',,"Springville, Utah",mens-tennis,2023
@@ -111,7 +103,6 @@ Stanly Shukhman,,So.,6' 3'',,"Livingston, N.J.",mens-tennis,2023
 Theo Winegar,,Sr.,6' 3'',,"Osprey, Fla.",mens-tennis,2023
 Tristan Lee,,FY,6' 3'',,Hong Kong,mens-tennis,2023
 Andrew Kotzen,,FY,6' 2'',,"Short Hills, N.J.",mens-tennis,2024
-Howard Endelman,,,,,,mens-tennis,2024
 Hugo Hashimoto,,Sr.,6' 1'',,"San Jose, Calif.",mens-tennis,2024
 Jayden Templeman,,Sr.,5' 9'',,"Springville, Utah",mens-tennis,2024
 Jordan Chang,,FY,6' 0'',,"Oakland Gardens, N.Y.",mens-tennis,2024
@@ -127,7 +118,6 @@ Abhishek Thorat,,FY,6' 0'',,"Wesley Chapel, Fla.",mens-tennis,2025
 Aditya Govila,,FY,5' 10'',,"Singapore, Singapore",mens-tennis,2025
 Andrew Ena,,FY,6' 1'',,"Rego Park, N.Y.",mens-tennis,2025
 Andrew Kotzen,,So.,6' 2'',,"Short Hills, N.J.",mens-tennis,2025
-Howard Endelman,,,,,,mens-tennis,2025
 Jakub Katuch,,So.,6' 0'',,"Kosice, Slovakia",mens-tennis,2025
 Jordan Chang,,So.,6' 0'',,"Oakland Gardens, N.Y.",mens-tennis,2025
 Jung Hee You,,So.,6' 1'',,"Montreal, Canada",mens-tennis,2025
@@ -144,7 +134,6 @@ Andrew Kotzen,,Jr.,6' 2'',,"Short Hills, N.J.",mens-tennis,2026
 Charlie Valentine,,So.,6' 3'',,"Amsterdam, Netherlands",mens-tennis,2026
 Damir Zhalgasbay,,FY,6' 5'',,"Almaty, Kazakhstan",mens-tennis,2026
 Gray Kelley,,FY,,,"Los Angeles, Calif.",mens-tennis,2026
-Howard Endelman,,,,,,mens-tennis,2026
 Jakub Katuch,,Jr.,6' 0'',,"Kosice, Slovakia",mens-tennis,2026
 Jordan Chang,,Jr.,6' 0'',,"Oakland Gardens, N.Y.",mens-tennis,2026
 Jung Hee You,,Jr.,6' 1'',,"Montreal, Canada",mens-tennis,2026

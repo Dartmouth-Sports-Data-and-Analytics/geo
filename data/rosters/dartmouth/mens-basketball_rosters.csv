@@ -2,7 +2,6 @@ name,position,class,height,weight,hometown,sport,year
 Brendan Barry,G,Fy.,6' 2'',170 lbs,"Fair Haven, N.J.",mens-basketball,2016
 Cameron Smith,G,Jr.,6' 1'',180 lbs,"Bristow, Va.",mens-basketball,2016
 Cole Harrison,C,Sr.,6' 11'',245 lbs,"Brentwood, Tenn.",mens-basketball,2016
-David McLaughlin,,,,,,mens-basketball,2016
 Evan Boudreaux,F,So.,6' 8'',220 lbs,"Lake Forest, Ill.",mens-basketball,2016
 Guilien Smith,G,So.,6' 2'',200 lbs,"Boston, Mass.",mens-basketball,2016
 Ian Carter,F,Fy.,6' 7'',205 lbs,"Los Angeles, Calif.",mens-basketball,2016
@@ -22,7 +21,6 @@ Ben Swett,G,Fy.,6' 1'',175 lbs,"Exeter, N.H.",mens-basketball,2017
 Brendan Barry,G,So.,6' 2'',175 lbs,"Fair Haven, N.J.",mens-basketball,2017
 Cameron Smith,G,Sr.,6' 1'',180 lbs,"Bristow, Va.",mens-basketball,2017
 Chris Knight,F,Fy.,6' 7'',220 lbs,"Madison, Wis.",mens-basketball,2017
-David McLaughlin,,,,,,mens-basketball,2017
 Guilien Smith,G,Jr.,6' 2'',205 lbs,"Boston, Mass.",mens-basketball,2017
 Ian Carter,F,So.,6' 7'',205 lbs,"Los Angeles, Calif.",mens-basketball,2017
 Ian Sistare,G,So.,6' 3'',200 lbs,"Dublin, N.H.",mens-basketball,2017
@@ -37,7 +35,6 @@ Adrease Jackson,F,So.,6' 8'',225 lbs,"Santa Margarita, Calif.",mens-basketball,2
 Ben Swett,G,So.,6' 1'',175 lbs,"Exeter, N.H.",mens-basketball,2018
 Brendan Barry,G,Jr.,6' 2'',180 lbs,"Fair Haven, N.J.",mens-basketball,2018
 Chris Knight,F,So.,6' 7'',225 lbs,"Madison, Wis.",mens-basketball,2018
-David McLaughlin,,,,,,mens-basketball,2018
 Garrison Wade,F,Fy.,6' 6'',200 lbs,"Madison, Miss.",mens-basketball,2018
 Guilien Smith,G,Sr.,6' 2'',205 lbs,"Boston, Mass.",mens-basketball,2018
 Ian Carter,F,Jr.,6' 7'',220 lbs,"Los Angeles, Calif.",mens-basketball,2018
@@ -54,7 +51,6 @@ Brendan Barry,G,Sr.,6' 2'',180 lbs,"Fair Haven, N.J.",mens-basketball,2019
 Cam Krystkowiak,F,Fy.,6' 9'',215 lbs,"San Diego, Calif.",mens-basketball,2019
 Chris Knight,F,Jr.,6' 7'',225 lbs,"Madison, Wis.",mens-basketball,2019
 Dame Adelekun,F,Fy.,6' 8'',230 lbs,"Gastonia, N.C.",mens-basketball,2019
-David McLaughlin,,,,,,mens-basketball,2019
 Garrison Wade,F,So.,6' 6'',200 lbs,"Madison, Miss.",mens-basketball,2019
 Ian Carter,F,Sr.,6' 7'',220 lbs,"Los Angeles, Calif.",mens-basketball,2019
 Ian Sistare,G,Sr.,6' 3'',200 lbs,"Dublin, N.H.",mens-basketball,2019
@@ -72,7 +68,6 @@ Ben Swett,G,Sr.,6' 1'',175 lbs,"Exeter, N.H.",mens-basketball,2020
 Cam Krystkowiak,F,So.,6' 9'',215 lbs,"San Diego, Calif.",mens-basketball,2020
 Chris Knight,F,Sr.,6' 7'',225 lbs,"Madison, Wis.",mens-basketball,2020
 Dame Adelekun,F,So.,6' 8'',230 lbs,"Gastonia, N.C.",mens-basketball,2020
-David McLaughlin,,,,,,mens-basketball,2020
 Dusan Neskovic,F,Fy.,6' 7'',205 lbs,"Banja Luka, Bosnia and Herzegovina",mens-basketball,2020
 Garrison Wade,F,Jr.,6' 6'',200 lbs,"Madison, Miss.",mens-basketball,2020
 Izaiah Robinson,G,Fy.,6' 3'',190 lbs,"Montclair, N.J.",mens-basketball,2020
@@ -90,7 +85,6 @@ Cade Haskins,F,Fy.,6' 6'',200 lbs,"Minneapolis, Minn.",mens-basketball,2021
 Cam Krystkowiak,F,Jr.,6' 9'',210 lbs,"San Diego, Calif.",mens-basketball,2021
 Connor Christensen,F,Fy.,6' 6'',195 lbs,"Eden Prairie, Minn.",mens-basketball,2021
 Dame Adelekun,F,Jr.,6' 8'',220 lbs,"Gastonia, N.C.",mens-basketball,2021
-David McLaughlin,,,,,,mens-basketball,2021
 Dusan Neskovic,F,So.,6' 7'',205 lbs,"Banja Luka, Bosnia and Herzegovina",mens-basketball,2021
 Garrison Wade,F,Sr.,6' 6'',210 lbs,"Madison, Miss.",mens-basketball,2021
 Izaiah Robinson,G,So.,6' 3'',200 lbs,"Montclair, N.J.",mens-basketball,2021
@@ -110,7 +104,6 @@ Cade Haskins,F,So.,6' 6'',200 lbs,"Minneapolis, Minn.",mens-basketball,2022
 Cam Krystkowiak,F(C),Sr.,6' 9'',210 lbs,"San Diego, Calif.",mens-basketball,2022
 Connor Christensen,F,So.,6' 6'',195 lbs,"Eden Prairie, Minn.",mens-basketball,2022
 Dame Adelekun,F(C),Sr.,6' 8'',220 lbs,"Gastonia, N.C.",mens-basketball,2022
-David McLaughlin,,,,,,mens-basketball,2022
 Dusan Neskovic,F,Jr.,6' 7'',205 lbs,"Banja Luka, Bosnia and Herzegovina",mens-basketball,2022
 Izaiah Robinson,G,Jr.,6' 3'',200 lbs,"Montclair, N.J.",mens-basketball,2022
 Jackson Blaufeld,G(C),Sr.,6' 4'',195 lbs,"Pittsburgh, Pa.",mens-basketball,2022
@@ -127,7 +120,6 @@ Ben Brown,G,Fy.,6' 2'',198 lbs,"Manchester, England",mens-basketball,2023
 Brandon Mitchell-Day,F,So.,6' 8'',205 lbs,"St. Louis, Mo.",mens-basketball,2023
 Cade Haskins,F,Jr.,6' 6'',200 lbs,"Minneapolis, Minn.",mens-basketball,2023
 Connor Christensen,F,Jr.,6' 6'',215 lbs,"Eden Prairie, Minn.",mens-basketball,2023
-David McLaughlin,,,,,,mens-basketball,2023
 Dusan Neskovic,F,Sr.,6' 8'',205 lbs,"Banja Luka, Bosnia and Herzegovina",mens-basketball,2023
 Izaiah Robinson,G,Sr.,6' 3'',200 lbs,"Montclair, N.J.",mens-basketball,2023
 Jackson Munro,F,So.,6' 8'',220 lbs,"Wilmette, Ill.",mens-basketball,2023
@@ -145,7 +137,6 @@ Cade Haskins,F,Sr.,6' 6'',220 lbs,"Minneapolis, Minn.",mens-basketball,2024
 Cameron McNamee,G,Fy.,6' 6'',,"Mission Viejo, Calif.",mens-basketball,2024
 Connor Amundsen,PG,Fy.,5' 11'',,"Fresno, Calif.",mens-basketball,2024
 Connor Christensen,F,Sr.,6' 6'',215 lbs,"Eden Prairie, Minn.",mens-basketball,2024
-David McLaughlin,,,,,,mens-basketball,2024
 Jackson Munro,F,Jr.,6' 8'',220 lbs,"Wilmette, Ill.",mens-basketball,2024
 Jayden Williams,F,Jr.,6' 6'',185 lbs,"Windermere, Fla.",mens-basketball,2024
 Kareem Thomas,G,Fy.,6' 5'',,"Wilmington, Del.",mens-basketball,2024
@@ -158,7 +149,6 @@ Shanon Simango,F,Fy.,6' 8'',,"Maputo, Mozambique",mens-basketball,2024
 Anton Strelnikov,C,Fy.,6' 8'',225 lbs,"Lake Zurich, Ill.",mens-basketball,2025
 Ben Brown,G,Jr.,6' 2'',198 lbs,"Manchester, England",mens-basketball,2025
 Brandon Mitchell-Day,F,Sr.,6' 8'',205 lbs,"St. Louis, Mo.",mens-basketball,2025
-Brett MacConnell,,,,,,mens-basketball,2025
 Cam Hiatt,G,Fy.,6' 4'',195 lbs,"Edmonds, Wash.",mens-basketball,2025
 Cameron McNamee,G,So.,6' 6'',195 lbs,"Mission Viejo, Calif.",mens-basketball,2025
 Connor Amundsen,PG,So.,5' 11'',165 lbs,"Fresno, Calif.",mens-basketball,2025
@@ -173,7 +163,6 @@ Tyler Garrett,F,Fy.,6' 10'',235 lbs,"Potomac, Md.",mens-basketball,2025
 Acen Jimenez,G,Fy.,6' 2'',,"Whittier, Calif.",mens-basketball,2026
 Anton Strelnikov,C,So.,6' 8'',225 lbs,"Lake Zurich, Ill.",mens-basketball,2026
 Ben Brown,G,Sr.,6' 2'',198 lbs,"Manchester, England",mens-basketball,2026
-Brett MacConnell,,,,,,mens-basketball,2026
 CJ Aldrich III,G,Fy.,6' 2'',170 lbs,"San Diego, Calif.",mens-basketball,2026
 Cam Hiatt,G,So.,6' 4'',195 lbs,"Edmonds, Wash.",mens-basketball,2026
 Cameron McNamee,G,Jr.,6' 6'',195 lbs,"Mission Viejo, Calif.",mens-basketball,2026

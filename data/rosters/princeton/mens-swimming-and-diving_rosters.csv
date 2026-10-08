@@ -1,5 +1,4 @@
 name,position,class,height,weight,hometown,sport,year
-Rob Orr,,,,,,mens-swimming-and-diving,2016
 Aaron Ach,,Jr.,,,"Glenview, Ill.",mens-swimming-and-diving,2017
 Aaron Glas,,So.,,,"New York, N.Y.",mens-swimming-and-diving,2017
 Alex Lewis,,Sr.,,,"Greenwich, Conn.",mens-swimming-and-diving,2017
@@ -29,7 +28,6 @@ Matthew Drengler,,Jr.,,,"San Antonio, Texas",mens-swimming-and-diving,2017
 Matthew Marquardt,,So.,,,"Cincinnati, Ohio",mens-swimming-and-diving,2017
 Murphy McQuet,,Jr.,,,"Winnetka, Ill.",mens-swimming-and-diving,2017
 Raoul Rodriguez,,Sr.,,,"Rye, N.Y.",mens-swimming-and-diving,2017
-Rob Orr,,,,,,mens-swimming-and-diving,2017
 Roman Horoszewski,,So.,,,"Princeton Jct., N.J.",mens-swimming-and-diving,2017
 Sam Chiacchia,,Sr.,,,"Colorado Springs, Colo.",mens-swimming-and-diving,2017
 Sam Cuthbert,,So.,,,"Richmond, Va.",mens-swimming-and-diving,2017
@@ -70,7 +68,6 @@ Murphy McQuet,,Sr.,,,"Winnetka, Ill.",mens-swimming-and-diving,2018
 Nathan Yates,,Fr.,,,"San Jose, Calif.",mens-swimming-and-diving,2018
 Quinn Rademaker,,Fr.,,,"Medford, N.J.",mens-swimming-and-diving,2018
 Raunak Khosla,,Fr.,,,"Roswell, Ga.",mens-swimming-and-diving,2018
-Rob Orr,,,,,,mens-swimming-and-diving,2018
 Roman Horoszewski,,Jr.,,,"Princeton Jct., N.J.",mens-swimming-and-diving,2018
 Sam Cuthbert,,Jr.,,,"Richmond, Va.",mens-swimming-and-diving,2018
 Sam Tarter,,So.,,,"Gaithersburg, Md.",mens-swimming-and-diving,2018
@@ -101,7 +98,6 @@ Jonathan Pollock,,So.,,,"Fairfax, Va.",mens-swimming-and-diving,2019
 Jonathan Spires,,Sr.,,,"Yorktown, Va.",mens-swimming-and-diving,2019
 Joshua Kim,,Sr.,,,"Los Angeles, Calif.",mens-swimming-and-diving,2019
 Levy Nathan,,Jr.,,,"Highland Park, Ill.",mens-swimming-and-diving,2019
-Matt Crispino,,,,,,mens-swimming-and-diving,2019
 Matthew Chao,,Fr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2019
 Matthew Marquardt,,Jr.,,,"Cincinnati, Ohio",mens-swimming-and-diving,2019
 Max Walther,,So.,,,"Neustadt, Germany",mens-swimming-and-diving,2019
@@ -138,7 +134,6 @@ John Ehling,,So.,,,"Wexford, Pa.",mens-swimming-and-diving,2021
 Jonathan Geraghty,Diving,Fr.,,,"Fort Pierce, Fla.",mens-swimming-and-diving,2021
 Jonathan Pollock,,Jr.,,,"Fairfax, Va.",mens-swimming-and-diving,2021
 Joshua Brown,,Jr.,,,"Kobe, Japan",mens-swimming-and-diving,2021
-Matt Crispino,,,,,,mens-swimming-and-diving,2021
 Matthew Chao,,Jr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2021
 Max Hunger,Free,Fr.,,,"Montreal, Quebec",mens-swimming-and-diving,2021
 Max Kreidl,Fly/Back,So.,,,"Boulder, Colo.",mens-swimming-and-diving,2021
@@ -177,7 +172,6 @@ Joshua Brown,Breast/Free,Sr.,,,"Kobe, Japan",mens-swimming-and-diving,2022
 Kael Mlinek,Breast/Free,Fr.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2022
 Lucas Strøbek,IM/Free,Fr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2022
 Lucas Tudoras,Free,Fr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2022
-Matt Crispino,,,,,,mens-swimming-and-diving,2022
 Matthew Chao,,Sr.,,,"Schenectady, N.Y.",mens-swimming-and-diving,2022
 Max Hunger,Free,So.,,,"Montreal, Quebec",mens-swimming-and-diving,2022
 Max Kreidl,Fly/Back,Jr.,,,"Boulder, Colo.",mens-swimming-and-diving,2022
@@ -212,7 +206,6 @@ Kael Mlinek,Breast/Free,So.,,,"Lincoln, Nebraska",mens-swimming-and-diving,2023
 Luca Fassi,Diving,Fr.,,,"Altadena, Calif.",mens-swimming-and-diving,2023
 Lucas Strøbek,IM/Free,So.,,,"Hellerup, Denmark",mens-swimming-and-diving,2023
 Lucas Tudoras,Free,So.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2023
-Matt Crispino,,,,,,mens-swimming-and-diving,2023
 Max Hunger,Free,Jr.,,,"Montreal, Quebec",mens-swimming-and-diving,2023
 Max Kreidl,Fly/Back,Sr.,,,"Boulder, Colo.",mens-swimming-and-diving,2023
 Max Seidel,Breast/IM,Jr.,,,"Lexington, Mass.",mens-swimming-and-diving,2023
@@ -249,7 +242,6 @@ Logan Noguchi,IM/Fly/Back/Free,Fr.,,,"Encinitas, Calif.",mens-swimming-and-divin
 Luca Fassi,Diving,So.,,,"Altadena, Calif.",mens-swimming-and-diving,2024
 Lucas Strøbek,IM/Free,Jr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2024
 Lucas Tudoras,Free,Jr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2024
-Matt Crispino,,,,,,mens-swimming-and-diving,2024
 Max Hunger,Free,Sr.,,,"Montreal, Quebec",mens-swimming-and-diving,2024
 Max Marcus,Free,Fr.,,,"St. Louis, Missouri",mens-swimming-and-diving,2024
 Max Seidel,Breast/IM,Sr.,,,"Lexington, Mass.",mens-swimming-and-diving,2024
@@ -289,7 +281,6 @@ Luca Fassi,Diving,Jr.,,,"Altadena, Calif.",mens-swimming-and-diving,2025
 Lucas Strøbek,IM/Free,Sr.,,,"Hellerup, Denmark",mens-swimming-and-diving,2025
 Lucas Tudoras,Free,Sr.,,,"Sao Paulo, Brazil",mens-swimming-and-diving,2025
 Luka Martinovic,Diving,Fr.,,,"Zagreb, Croatia",mens-swimming-and-diving,2025
-Matt Crispino,,,,,,mens-swimming-and-diving,2025
 Max Marcus,Free,So.,,,"St. Louis, Missouri",mens-swimming-and-diving,2025
 Mitchell Schott,Free/Fly/IM,Sr.,,,"Newport Beach, Calif.",mens-swimming-and-diving,2025
 Oliver Rowe,Free/Fly,Fr.,,,"Round Rock, Texas",mens-swimming-and-diving,2025
@@ -326,7 +317,6 @@ Keian Lam,Breast/IM,So.,,,"Naperville, Ill.",mens-swimming-and-diving,2026
 Logan Noguchi,IM/Fly/Back/Free,Jr.,,,"Encinitas, Calif.",mens-swimming-and-diving,2026
 Luca Fassi,Diving,Sr.,,,"Altadena, Calif.",mens-swimming-and-diving,2026
 Luka Martinovic,Diving,So.,,,"Zagreb, Croatia",mens-swimming-and-diving,2026
-Matt Crispino,,,,,,mens-swimming-and-diving,2026
 Max Marcus,Free,Jr.,,,"St. Louis, Missouri",mens-swimming-and-diving,2026
 Michael Geh,Back/Free,Fr.,,,"New York, N.Y.",mens-swimming-and-diving,2026
 Noah Sech,IM/Breast,Sr.,,,"San Clemente, Calif",mens-swimming-and-diving,2026

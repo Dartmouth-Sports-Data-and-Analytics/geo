@@ -2,7 +2,6 @@ name,position,class,height,weight,hometown,sport,year
 Bella Alarie,G/F,Fr.,6' 4'',,"Bethesda, Md.",womens-basketball,2016
 Caroline Davis,G/F,So.,6' 0'',,"Newark, Del.",womens-basketball,2016
 Claudia Reid,G,So.,5' 7'',,"DeWitt, Mich.",womens-basketball,2016
-Courtney Banghart,,,,,,womens-basketball,2016
 Gabrielle Rush,G,So.,5' 10'',,"Hinsdale, Ill.",womens-basketball,2016
 Jackie Reyneke,F,Sr.,6' 4'',,"Upper Saddle River, N.J.",womens-basketball,2016
 Jordan Muhammad,G,So.,5' 8'',,"Charlotte, N.C.",womens-basketball,2016
@@ -20,7 +19,6 @@ Abby Meyers,G,Fr.,6' 0'',,"Potomac, Md.",womens-basketball,2017
 Bella Alarie,G/F,So.,6' 4'',,"Bethesda, Md.",womens-basketball,2017
 Carlie Littlefield,G,Fr.,5' 9'',,"Waukee, Iowa",womens-basketball,2017
 Caroline Davis,G/F,Jr.,6' 0'',,"Newark, Del.",womens-basketball,2017
-Courtney Banghart,,,,,,womens-basketball,2017
 Gabrielle Rush,G,Jr.,5' 10'',,"Hinsdale, Ill.",womens-basketball,2017
 Kenya Holland,G,Sr.,5' 8'',,"Stafford, Va.",womens-basketball,2017
 Leslie Robinson,F,Sr.,6' 0'',,"Corvallis, Ore.",womens-basketball,2017
@@ -32,7 +30,6 @@ Taylor Baur,F,So.,6' 2'',,"St. Louis, Mo.",womens-basketball,2017
 Tia Weledji,G,Sr.,5' 10'',,"Overland Park, Kan.",womens-basketball,2017
 Bella Alarie,G/F,Jr.,6' 4'',,"Bethesda, Md.",womens-basketball,2018
 Carlie Littlefield,G,So.,5' 9'',,"Waukee, Iowa",womens-basketball,2018
-Courtney Banghart,,,,,,womens-basketball,2018
 Gabrielle Rush,G,Sr.,5' 10'',,"Hinsdale, Ill.",womens-basketball,2018
 Grace Stone,G,Fr.,5' 11'',,"Glen Cove, N.Y.",womens-basketball,2018
 Julia Cunningham,G,Fr.,5' 11'',,"Watchung, N.J.",womens-basketball,2018
@@ -47,7 +44,6 @@ Sydney Jordan,G/F,Sr.,6' 0'',,"Manassas, Va.",womens-basketball,2018
 Taylor Baur,F,Jr.,6' 2'',,"St. Louis, Mo.",womens-basketball,2018
 Abby Meyers,G,So.,6' 0'',,"Potomac, Md.",womens-basketball,2019
 Bella Alarie,G/F,Sr.,6' 4'',,"Bethesda, Md.",womens-basketball,2019
-Carla Berube,,,,,,womens-basketball,2019
 Carlie Littlefield,G,Jr.,5' 9'',,"Waukee, Iowa",womens-basketball,2019
 Ellie Mitchell,F,Fr.,6' 0'',,"Chevy Chase, Md.",womens-basketball,2019
 Grace Stone,G,So.,5' 11'',,"Glen Cove, N.Y.",womens-basketball,2019
@@ -65,7 +61,6 @@ Taylor Baur,F,Sr.,6' 2'',,"St. Louis, Mo.",womens-basketball,2019
 Abby Meyers,G,Sr.,6' 0'',,"Potomac, Md.",womens-basketball,2021
 Adaora Nwokeji,G,Fr.,5' 8'',,"Houston, Texas",womens-basketball,2021
 Amelia Osgood,G,Fr.,5' 9'',,"Brentwood, Tenn.",womens-basketball,2021
-Carla Berube,,,,,,womens-basketball,2021
 Chet Nweke,G,So.,6' 0'',,"Woodbine, Md.",womens-basketball,2021
 Ellie Mitchell,F,So.,6' 1'',,"Chevy Chase, Md.",womens-basketball,2021
 Grace Stone,G,Jr.,5' 11'',,"Glen Cove, N.Y.",womens-basketball,2021
@@ -81,7 +76,6 @@ Paige Morton,F,Fr.,6' 3'',,"Summit, N.J.",womens-basketball,2021
 Parker Hill,F,Fr.,6' 4'',,"Bethesda, Md.",womens-basketball,2021
 Adaora Nwokeji,G,So.,5' 8'',,"Houston, Texas",womens-basketball,2022
 Amelia Osgood,G,So.,5' 9'',,"Brentwood, Tenn.",womens-basketball,2022
-Carla Berube,,,,,,womens-basketball,2022
 Chet Nweke,G,Jr.,6' 0'',,"Woodbine, Md.",womens-basketball,2022
 Ellie Mitchell,F,Jr.,6' 1'',,"Chevy Chase, Md.",womens-basketball,2022
 Grace Stone,G,Sr.,5' 11'',,"Glen Cove, N.Y.",womens-basketball,2022
@@ -99,7 +93,6 @@ Taylor Charles,F,Fr.,6' 2'',,"Elgin, Ill.",womens-basketball,2022
 Adaora Nwokeji,G,Jr.,5' 8'',,"Houston, Texas",womens-basketball,2023
 Amelia Osgood,G,Jr.,5' 9'',,"Brentwood, Tenn.",womens-basketball,2023
 Ashley Chea,G,Fr.,5' 8'',,"Los Angeles, Calif.",womens-basketball,2023
-Carla Berube,,,,,,womens-basketball,2023
 Chet Nweke,G,Sr.,6' 0'',,"Woodbine, Md.",womens-basketball,2023
 Ellie Mitchell,F,Sr.,6' 1'',,"Chevy Chase, Md.",womens-basketball,2023
 Fadima Tall,G/F,Fr.,6' 0'',,"Silver Spring, Md.",womens-basketball,2023
@@ -117,7 +110,6 @@ Taylor Charles,F,So.,6' 2'',,"Elgin, Ill.",womens-basketball,2023
 Adaora Nwokeji,G,Sr.,5' 8'',,"Houston, Texas",womens-basketball,2024
 Amelia Osgood,G,Sr.,5' 9'',,"Brentwood, Tenn.",womens-basketball,2024
 Ashley Chea,G,So.,5' 8'',,"Los Angeles, Calif.",womens-basketball,2024
-Carla Berube,,,,,,womens-basketball,2024
 Cristina Parrella,G,Fr.,5' 10'',,"Closter, N.J.",womens-basketball,2024
 Emily Eadie,F,Fr.,6' 0'',,"Newport Beach, Calif.",womens-basketball,2024
 Fadima Tall,G/F,So.,6' 0'',,"Silver Spring, Md.",womens-basketball,2024
@@ -131,7 +123,6 @@ Tabitha Amanze,F,Jr.,6' 4'',,"Ogun, Nigeria",womens-basketball,2024
 Taylor Charles,F,Jr.,6' 2'',,"Elgin, Ill.",womens-basketball,2024
 Toby Nweke,G,Fr.,5' 9'',,"Woodbine, Md.",womens-basketball,2024
 Ashley Chea,G,Jr.,5' 8'',,"Los Angeles, Calif.",womens-basketball,2025
-Carla Berube,,,,,,womens-basketball,2025
 Cristina Parrella,G,So.,5' 11'',,"Closter, N.J.",womens-basketball,2025
 Emily Eadie,F,So.,6' 1'',,"Newport Beach, Calif.",womens-basketball,2025
 Fadima Tall,G/F,Jr.,6' 1'',,"Silver Spring, Md.",womens-basketball,2025
@@ -149,7 +140,6 @@ Emily Eadie,F,Jr.,6' 1'',,"Newport Beach, Calif.",womens-basketball,2026
 Eva Smith,G/F,Fr.,6' 1'',,"Cottesloe, Western Australia",womens-basketball,2026
 Fadima Tall,G/F,Sr.,6' 1'',,"Silver Spring, Md.",womens-basketball,2026
 Grace O'Sullivan,G,So.,6' 0'',,"Acton, Mass.",womens-basketball,2026
-Lauren Gosselin,,,,,,womens-basketball,2026
 Mari Bickley,G,Sr.,5' 10'',,"Akron, Ohio",womens-basketball,2026
 Mei-Ling Perry,G,Fr.,5' 10'',,"Irvine, Calif.",womens-basketball,2026
 Olivia Hutcherson,G/F,Sr.,6' 0'',,"Johns Creek, Ga.",womens-basketball,2026

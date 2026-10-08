@@ -2,7 +2,6 @@ name,position,class,height,weight,hometown,sport,year
 Annie Blasberg,PL,Fy.,,,"Boston, Mass.",womens-squash,2016
 Charis Freiman-Mendel,PL,So.,,,"Santa Fe, N.M.",womens-squash,2016
 Emma Roberts,PL,So.,,,"Wellesley, Mass.",womens-squash,2016
-Hansi Wiens,,,,,,womens-squash,2016
 Jacqueline Barnes,PL,Sr.,,,"Chevy Chase, Md.",womens-squash,2016
 Janel Gaube,PL,Jr.,,,"Victoria, Canada",womens-squash,2016
 Julia Herman,PL,Fy.,,,"Berwyn, Pa.",womens-squash,2016
@@ -17,7 +16,6 @@ Brynn Bank,PL,Fy.,,,"Princeton, N.J.",womens-squash,2017
 Charis Freiman-Mendel,PL,Jr.,,,"Santa Fe, N.M.",womens-squash,2017
 Ellie Gozigian,PL,Fy.,,,"Boston, Mass.",womens-squash,2017
 Emma Roberts,PL,Jr.,,,"Wellesley, Mass.",womens-squash,2017
-Hansi Wiens,,,,,,womens-squash,2017
 Janel Gaube,PL,Sr.,,,"Victoria, Canada",womens-squash,2017
 Julia Herman,PL,So.,,,"Berwyn, Pa.",womens-squash,2017
 Julia Potter,PL,So.,,,"Baltimore, Md.",womens-squash,2017
@@ -33,7 +31,6 @@ Darden Gildea,PL,Fy.,,,"Stevenson, Md.",womens-squash,2018
 Ellie Gozigian,PL,So.,,,"Boston, Mass.",womens-squash,2018
 Emma MacTaggart,PL,Fy.,,,"Greenwich, Conn.",womens-squash,2018
 Emma Roberts,PL,Sr.,,,"Wellesley, Mass.",womens-squash,2018
-Hansi Wiens,,,,,,womens-squash,2018
 Jennifer Lee,PL,Fy.,,,"San Francisco, Calif.",womens-squash,2018
 Julia Herman,PL,Jr.,,,"Berwyn, Pa.",womens-squash,2018
 Julia Potter,PL,Jr.,,,"Baltimore, Md.",womens-squash,2018
@@ -48,7 +45,6 @@ Darden Gildea,PL,So.,,,"Stevenson, Md.",womens-squash,2019
 Ellie Gozigian,PL,Jr.,,,"Boston, Mass.",womens-squash,2019
 Emma MacTaggart,PL,So.,,,"Greenwich, Conn.",womens-squash,2019
 Emma Supattapone,PL,Fy.,,,"Hanover, N.H.",womens-squash,2019
-Hansi Wiens,,,,,,womens-squash,2019
 Jesse Brownell,PL,Fy.,,,"Belmont, Mass.",womens-squash,2019
 Julia Potter,PL,Sr.,,,"Baltimore, Md.",womens-squash,2019
 Junnat Anwar,PL,Sr.,,,"Boston, Mass.",womens-squash,2019
@@ -64,7 +60,6 @@ Ellie Burke,PL,Fy.,,,"Rye, N.Y.",womens-squash,2020
 Ellie Gozigian,PL,Sr.,,,"Boston, Mass.",womens-squash,2020
 Emily Schuster,PL,Fy.,,,"New Freedom, Pa.",womens-squash,2020
 Emma MacTaggart,PL,Jr.,,,"Greenwich, Conn.",womens-squash,2020
-Hansi Wiens,,,,,,womens-squash,2020
 Jesse Brownell,PL,So.,,,"Belmont, Mass.",womens-squash,2020
 Neeya Patel,PL,So.,,,"Atlanta, Ga.",womens-squash,2020
 Priya Verma,PL,Fy.,,,"Valencia, Spain",womens-squash,2020
@@ -82,7 +77,6 @@ Isabella Rolfe,PL,Fy.,,,"Greenwich, Conn.",womens-squash,2021
 Jesse Brownell,PL,Jr.,,,"Belmont, Mass.",womens-squash,2021
 Neeya Patel,PL,Jr.,,,"Atlanta, Ga.",womens-squash,2021
 Priya Verma,PL,So.,,,"Valencia, Spain",womens-squash,2021
-Vikram Malhotra,,,,,,womens-squash,2021
 Aubrey Lennon,PL,So.,,,"Hunting Valley, Ohio",womens-squash,2022
 Callie Worth,PL,Fy.,,,"Mill Neck, N.Y.",womens-squash,2022
 Chelsea Cho,PL,So.,,,"Andover, Mass.",womens-squash,2022
@@ -95,7 +89,6 @@ Jesse Brownell,PL,Sr.,,,"Belmont, Mass.",womens-squash,2022
 Naaz Valvani,PL,Fy.,,,"New York, N.Y.",womens-squash,2022
 Neeya Patel,PL,Sr.,,,"Atlanta, Ga.",womens-squash,2022
 Priya Verma,PL,Jr.,,,"Valencia, Spain",womens-squash,2022
-Vikram Malhotra,,,,,,womens-squash,2022
 Aubrey Lennon,PL,Jr.,,,"Hunting Valley, Ohio",womens-squash,2023
 Callie Worth,PL,So.,,,"Mill Neck, N.Y.",womens-squash,2023
 Chelsea Cho,PL,Jr.,,,"Andover, Mass.",womens-squash,2023
@@ -107,7 +100,6 @@ Maria Clara Ramírez,PL,So.,,,"Medellín, Colombia",womens-squash,2023
 Mary Wood,PL,Fy.,,,"New York, N.Y.",womens-squash,2023
 Nathalie Taylor,PL,Fy.,,,"Philadelphia, Pa.",womens-squash,2023
 Priya Verma,PL,Sr.,,,"Valencia, Spain",womens-squash,2023
-Vikram Malhotra,,,,,,womens-squash,2023
 Zayna Usman,PL,Fy.,,,"Dayton, Ohio",womens-squash,2023
 Aubrey Lennon,PL,Sr.,,,"Hunting Valley, Ohio",womens-squash,2024
 Callie Worth,PL,Jr.,,,"Mill Neck, N.Y.",womens-squash,2024
@@ -120,7 +112,6 @@ Mary Wood,PL,So.,,,"New York, N.Y.",womens-squash,2024
 Maya Mansoor,PL,Fy.,,,"Richmond Hill, Ontario",womens-squash,2024
 Maya Shroff,PL,Fy.,,,"Long Hill, N.J.",womens-squash,2024
 Nathalie Taylor,PL,So.,,,"Philadelphia, Pa.",womens-squash,2024
-Vikram Malhotra,,,,,,womens-squash,2024
 Zayna Usman,PL,So.,,,"Dayton, Ohio",womens-squash,2024
 Callie Worth,PL,Sr.,,,"Mill Neck, N.Y.",womens-squash,2025
 Ellie Clifford,PL,Jr.,,,"Bronxville, N.Y.",womens-squash,2025
@@ -131,7 +122,6 @@ Maya Shroff,PL,So.,,,"Long Hill, N.J.",womens-squash,2025
 Nathalie Taylor,PL,Jr.,,,"Philadelphia, Pa.",womens-squash,2025
 Sophia Calkins,PL,So.,,,,womens-squash,2025
 Uma Patnaik,PL,Fy.,5' 6'',,"Bethesda, Md.",womens-squash,2025
-Vikram Malhotra,,,,,,womens-squash,2025
 Xiang Xiang Liu,PL,Fy.,5' 7'',,"Shanghai, China",womens-squash,2025
 Zayna Usman,PL,Jr.,,,"Dayton, Ohio",womens-squash,2025
 Denali Pannu,PL,Fy.,5' 5'',,"San Mateo, Calif.",womens-squash,2026
@@ -144,6 +134,5 @@ Nathalie Taylor,PL,Sr.,,,"Philadelphia, Pa.",womens-squash,2026
 Rudra Singh,PL,Fy.,,,,womens-squash,2026
 Sophia Calkins,PL,Jr.,,,,womens-squash,2026
 Uma Patnaik,PL,So.,5' 6'',,"Bethesda, Md.",womens-squash,2026
-Vikram Malhotra,,,,,,womens-squash,2026
 Xiang Xiang Liu,PL,So.,5' 7'',,"Shanghai, China",womens-squash,2026
 Zayna Usman,PL,Sr.,,,"Dayton, Ohio",womens-squash,2026

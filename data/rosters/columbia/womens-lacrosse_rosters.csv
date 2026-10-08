@@ -1,7 +1,6 @@
 name,position,class,height,weight,hometown,sport,year
 Abby Roberts,GK,Gr.,5' 2'',,"North Attleboro, Mass.",womens-lacrosse,2016
 Alyssa Adamo,D,Gr.,5' 4'',,"Bohemia, N.Y.",womens-lacrosse,2016
-Andrea Cofrin,,,,,,womens-lacrosse,2016
 Brailey Faris,M,Gr.,5' 3'',,"Orlando, Fla.",womens-lacrosse,2016
 Caroline Joy,M/A,Sr.,5' 9'',,"Baltimore, Md.",womens-lacrosse,2016
 Caroline Thompson,D,Gr.,5' 5'',,"Winnetka, Ill.",womens-lacrosse,2016
@@ -31,7 +30,6 @@ Abby Roberts,GK,So.,5' 2'',,"North Attleboro, Mass.",womens-lacrosse,2017
 Alexandria Absey,A,Gr.,5' 2'',,"Ridgewood, N.J.",womens-lacrosse,2017
 Alison Schwasnick,M,Gr.,5' 5'',,"Baldwin, N.Y.",womens-lacrosse,2017
 Alyssa Adamo,D,So.,5' 4'',,"Bohemia, N.Y.",womens-lacrosse,2017
-Andrea Cofrin,,,,,,womens-lacrosse,2017
 Brailey Faris,M,So.,5' 3'',,"Orlando, Fla.",womens-lacrosse,2017
 Cara Jones,D,Gr.,5' 8'',,"Wayland, Mass.",womens-lacrosse,2017
 Caroline Thompson,D,So.,5' 5'',,"Winnetka, Ill.",womens-lacrosse,2017
@@ -62,7 +60,6 @@ Abby Roberts,GK,Jr.,5' 2'',,"North Attleboro, Mass.",womens-lacrosse,2018
 Alexandria Absey,A,So.,5' 2'',,"Ridgewood, N.J.",womens-lacrosse,2018
 Alison Schwasnick,M,So.,5' 5'',,"Baldwin, N.Y.",womens-lacrosse,2018
 Alyssa Adamo,D,Jr.,5' 4'',,"Bohemia, N.Y.",womens-lacrosse,2018
-Andrea Cofrin,,,,,,womens-lacrosse,2018
 Ava Spotts,A,FY,5' 7'',,"Summit, N.J.",womens-lacrosse,2018
 Brailey Faris,M,Jr.,5' 3'',,"Orlando, Fla.",womens-lacrosse,2018
 Cara Jones,D,So.,5' 8'',,"Wayland, Mass.",womens-lacrosse,2018
@@ -116,7 +113,6 @@ Rachel Graff,A,So.,6' 0'',,"Bloomington, Minn.",womens-lacrosse,2019
 Regan Steed,M,Sr.,5' 6'',,"Fairfield, Conn.",womens-lacrosse,2019
 Ryan Schlageter,GK,So.,6' 1'',,"Maplewood, N.J.",womens-lacrosse,2019
 Sydney Paoletti,A,So.,5' 3'',,"Westfield, N.J.",womens-lacrosse,2019
-Taylor Pennell,,,,,,womens-lacrosse,2019
 Adèle Swanson,D,So.,5' 7'',,"Toronto, Ontario",womens-lacrosse,2020
 Alexandria Absey,A,Sr.,5' 2'',,"Ridgewood, N.J.",womens-lacrosse,2020
 Alison Schwasnick,M,Sr.,5' 5'',,"Baldwin, N.Y.",womens-lacrosse,2020
@@ -145,9 +141,7 @@ Ryan Schlageter,GK,Jr.,6' 1'',,"Maplewood, N.J.",womens-lacrosse,2020
 Sophia McHugh,A,FY,5' 10'',,"Moorestown, N.J.",womens-lacrosse,2020
 Sophie Zachara,M,FY,5' 7'',,"Summit, N.J.",womens-lacrosse,2020
 Sydney Paoletti,A,Jr.,5' 3'',,"Westfield, N.J.",womens-lacrosse,2020
-Taylor Pennell,,,,,,womens-lacrosse,2020
 Adèle Swanson,D,Jr.,5' 7'',,"Toronto, Ontario",womens-lacrosse,2021
-Anne Murray,,,,,,womens-lacrosse,2021
 Claire Briglio,D,Jr.,5' 9'',,"Baltimore, Md.",womens-lacrosse,2021
 Dani Falcone,M,FY,5' 7'',,"Newtown Square, Penn.",womens-lacrosse,2021
 Dylan Silar,M,FY,5' 10'',,"Moorestown, N.J.",womens-lacrosse,2021
@@ -182,7 +176,6 @@ Victoria Ruffo,A,FY,5' 4'',,"Bronxville, N.Y.",womens-lacrosse,2021
 Adèle Swanson,D,Sr.,5' 7'',,"Toronto, Ontario",womens-lacrosse,2022
 Ali Surace,M,FY,5' 8'',,"Princeton, N.J.",womens-lacrosse,2022
 Annalisa Massaro,A,FY,5' 7'',,"Manhasset, N.Y.",womens-lacrosse,2022
-Anne Murray,,,,,,womens-lacrosse,2022
 Cecelia Messner,M,FY,5' 8'',,"Pittsburgh, Pa.",womens-lacrosse,2022
 Claire Briglio,D,Sr.,5' 9'',,"Baltimore, Md.",womens-lacrosse,2022
 Cordelia Flemming,M,FY,5' 10'',,"Edina, Minn.",womens-lacrosse,2022
@@ -215,7 +208,6 @@ Sophie Zachara,M,Jr.,5' 7'',,"Summit, N.J.",womens-lacrosse,2022
 Victoria Ruffo,A,So.,5' 4'',,"Bronxville, N.Y.",womens-lacrosse,2022
 Ali Surace,M,So.,5' 8'',,"Princeton, N.J.",womens-lacrosse,2023
 Anna Becker,M,FY,5' 7'',,"Bronxville, NY",womens-lacrosse,2023
-Anne Murray,,,,,,womens-lacrosse,2023
 Ava Kimche,GK,FY,5' 10'',,"Park City, Utah",womens-lacrosse,2023
 Cecelia Messner,M,So.,5' 8'',,"Pittsburgh, Pa.",womens-lacrosse,2023
 Cordelia Flemming,M,So.,5' 10'',,"Edina, Minn.",womens-lacrosse,2023
@@ -243,7 +235,6 @@ Sophie Zachara,M(C),Sr.,5' 7'',,"Summit, N.J.",womens-lacrosse,2023
 Victoria Ruffo,A,Jr.,5' 4'',,"Bronxville, N.Y.",womens-lacrosse,2023
 Ali Surace,M,Jr.,5' 8'',,"Princeton, N.J.",womens-lacrosse,2024
 Anna Becker,M,So.,5' 7'',,"Bronxville, NY",womens-lacrosse,2024
-Anne Murray,,,,,,womens-lacrosse,2024
 Ava Kimche,GK,So.,5' 10'',,"Park City, Utah",womens-lacrosse,2024
 Cecelia Messner,M,Jr.,5' 8'',,"Pittsburgh, Pa.",womens-lacrosse,2024
 Cordelia Flemming,M,Jr.,5' 10'',,"Edina, Minn.",womens-lacrosse,2024
@@ -271,7 +262,6 @@ Sophie Kruse,M,Sr.,5' 9'',,"Portland, Ore.",womens-lacrosse,2024
 Tierney Smink,GK,FY,5' 6'',,"Dedham, Mass.",womens-lacrosse,2024
 Ali Surace,D,Sr.,5' 8'',,"Princeton, N.J.",womens-lacrosse,2025
 Anna Becker,M,Jr.,5' 7'',,"Bronxville, NY",womens-lacrosse,2025
-Anne Murray,,,,,,womens-lacrosse,2025
 Audrey Spaly,M,FY,5' 3'',,"Ross, Calif.",womens-lacrosse,2025
 Ava Kimche,GK,Jr.,5' 10'',,"Park City, Utah",womens-lacrosse,2025
 Cecelia Messner,M(C),Sr.,5' 8'',,"Pittsburgh, Pa.",womens-lacrosse,2025
@@ -299,7 +289,6 @@ Serena Hong,M,Sr.,5' 4'',,"Bethesda, Md.",womens-lacrosse,2025
 Tierney Smink,GK,So.,5' 6'',,"Dedham, Mass.",womens-lacrosse,2025
 Zara Allen,M,FY,5' 9'',,"Towson, Md.",womens-lacrosse,2025
 Anna Becker,M,Sr.,5' 7'',,"Bronxville, NY",womens-lacrosse,2026
-Anne Murray,,,,,,womens-lacrosse,2026
 Audrey Spaly,M,So.,5' 3'',,"Ross, Calif.",womens-lacrosse,2026
 Ava Kimche,GK,Sr.,5' 10'',,"Park City, Utah",womens-lacrosse,2026
 Eliza Ekstrand,A,Jr.,5' 7'',,"Durham, N.C.",womens-lacrosse,2026
